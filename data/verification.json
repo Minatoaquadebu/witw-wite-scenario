@@ -1,0 +1,300 @@
+{
+  "version": "v0.9.35-test36",
+  "development_game_version": "WiTE2 v1.05.02",
+  "scenario_sha256": "576011262cd7cb5c6a528953b71dc6aa3a82287c33d21bfc97a6729078b67368",
+  "static_checks": {
+    "original87_victory_records_unchanged": true,
+    "all48_existing_historical_appointments_unchanged": true,
+    "all62_assigned_historical_people_unique": true,
+    "all_troop_data_except14_leader_ids_identical": true,
+    "all_city_industry_data_identical": true,
+    "all_equipment_and_toe_definitions_identical": true,
+    "generic_data_locked": true,
+    "native_no_early_end2_retained": true
+  },
+  "scoring_checks": {
+    "initial_unchanged": true,
+    "all52_capture_delta": 468,
+    "cases": [
+      {
+        "city": "Essen",
+        "capture_delta": 20,
+        "recapture_delta": -20
+      },
+      {
+        "city": "Dortmund",
+        "capture_delta": 16,
+        "recapture_delta": -16
+      },
+      {
+        "city": "Duisburg",
+        "capture_delta": 16,
+        "recapture_delta": -16
+      },
+      {
+        "city": "Bochum",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Gelsenkirchen",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Duesseldorf",
+        "capture_delta": 14,
+        "recapture_delta": -14
+      },
+      {
+        "city": "Wuppertal",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Cologne",
+        "capture_delta": 16,
+        "recapture_delta": -16
+      },
+      {
+        "city": "Frankfurt",
+        "capture_delta": 16,
+        "recapture_delta": -16
+      },
+      {
+        "city": "Stuttgart",
+        "capture_delta": 16,
+        "recapture_delta": -16
+      },
+      {
+        "city": "Mannheim",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Ludwigshafen",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Hannover",
+        "capture_delta": 12,
+        "recapture_delta": -12
+      },
+      {
+        "city": "Bremen",
+        "capture_delta": 12,
+        "recapture_delta": -12
+      },
+      {
+        "city": "Kiel",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Braunschweig",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Kassel",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Chemnitz",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Magdeburg",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Dessau",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Halle",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Karlsruhe",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Augsburg",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Saarbruecken",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Bremerhaven",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Lille",
+        "capture_delta": 12,
+        "recapture_delta": -12
+      },
+      {
+        "city": "Le Havre",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Rouen",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Nantes",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "St Nazaire",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Bordeaux",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Toulouse",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "St Etienne",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Mulhouse",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Metz",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Nancy",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Valenciennes",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Dunkerque",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Bethune",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Lorient",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Grenoble",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Clermont-Ferrand",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Liege",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Charleroi",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Ghent",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Mons",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Eindhoven",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Enschede",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Maastricht",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "The Hague",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Haarlem",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Groningen",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      }
+    ]
+  },
+  "rail_test": {
+    "checks": {
+      "all_six_repaired_100_to_1": true,
+      "all_six_finalized_to_zero": true,
+      "mp_cost_matches_native_preflight": true,
+      "all_six_control_hq_and_position_retained": true,
+      "aug14_reached": true,
+      "native_noearlyend_and87_cities_retained": true,
+      "all48_preassigned_historical_leaders_retained": true,
+      "soviet_hq_appointments_already_present_before_this_test": true
+    },
+    "start_date": "1943-08-07",
+    "end_date": "1943-08-14",
+    "scope": "Six groups repair100->1, then next week1->0. A/B/C diagnostic activation is not proof of historical arrival schedules."
+  },
+  "new_commanders_runtime_tested": false,
+  "full_campaign_or_balance_tested": false,
+  "western_strategic_ai_solved": false,
+  "independent_western_national_pools": false
+}

@@ -1,0 +1,339 @@
+{
+  "version": "v0.9.35-test36",
+  "appointments": [
+    {
+      "hq": 11424,
+      "hq_name": "6th US Army Group",
+      "source_leader": 1369,
+      "alias": 3554,
+      "first_name": "Jacob L.",
+      "name": "Devers",
+      "source": "https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/shaef-6th-army-group.pdf",
+      "historical_note": "Sixth Army Group activated under Devers in August1944; future command preassignment.",
+      "availability_adjustments": [],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 56
+    },
+    {
+      "hq": 11439,
+      "hq_name": "1st US Army",
+      "source_leader": 1513,
+      "alias": 3514,
+      "first_name": "George",
+      "name": "Grunert",
+      "source": "https://history.army.mil/portals/143/Images/Publications/catalog/1-2.pdf",
+      "historical_note": "Grunert succeeded Drum in First Army/Eastern Defense Command in1943; October1943 interim appointment, not the later Bradley European command.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1943,
+            9
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 13
+    },
+    {
+      "hq": 11440,
+      "hq_name": "3rd US Army",
+      "source_leader": 1410,
+      "alias": 3555,
+      "first_name": "Courtney H.",
+      "name": "Hodges",
+      "source": "https://www.usarcent.army.mil/About/History/Extended/",
+      "historical_note": "Third Army training commander during1943, preceding Patton. Patton remains in the Seventh Army in the1943 opening.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1944,
+            1
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 29
+    },
+    {
+      "hq": 11443,
+      "hq_name": "9th US Army",
+      "source_leader": 1481,
+      "alias": 3516,
+      "first_name": "William H.",
+      "name": "Simpson",
+      "source": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/S%20PDF/CMH_Pub_7-1.pdf",
+      "historical_note": "Ninth Army commander in1944-45; future command preassignment.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1944,
+            5
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 62
+    },
+    {
+      "hq": 11444,
+      "hq_name": "15th US Army",
+      "source_leader": 1493,
+      "alias": 3556,
+      "first_name": "Lucian K.",
+      "name": "Truscott",
+      "source": "https://home.army.mil/stewart/index.php/about/history/MHOF",
+      "historical_note": "Truscott was appointed to the newly formed Fifteenth Army before moving to Fifth Army; future temporary command preassignment, not Gerow duplicated from V Corps.",
+      "availability_adjustments": [],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 71
+    },
+    {
+      "hq": 11459,
+      "hq_name": "IX Troop Carrier Command",
+      "source_leader": 1394,
+      "alias": 3557,
+      "first_name": "Benjamin F.",
+      "name": "Giles",
+      "source": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090529-056.pdf",
+      "historical_note": "IX Troop Carrier Command activated16October1943 under Benjamin F. Giles. The imported HQ already exists in July; this is a future preassignment.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1943,
+            10
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 0
+    },
+    {
+      "hq": 11460,
+      "hq_name": "XII Troop Carrier Command",
+      "source_leader": 1506,
+      "alias": 3558,
+      "first_name": "Paul L.",
+      "name": "Williams",
+      "source": "https://media.defense.gov/2017/Apr/07/2001728568/-1/-1/0/B_0021_MILLER_AIRLIFT_DOCTRINE.PDF",
+      "historical_note": "Paul L. Williams commanded the Mediterranean troop-carrier organization represented by the imported XII Troop Carrier Command.",
+      "availability_adjustments": [],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 0
+    },
+    {
+      "hq": 11506,
+      "hq_name": "III US Corps",
+      "source_leader": 1451,
+      "alias": 3527,
+      "first_name": "John",
+      "name": "Millikin",
+      "source": "https://history.army.mil/portals/143/Images/Publications/catalog/70-41-1.pdf",
+      "historical_note": "III Corps European commander1944-45; future command preassignment.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1943,
+            10
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 62
+    },
+    {
+      "hq": 11511,
+      "hq_name": "VIII US Corps",
+      "source_leader": 1469,
+      "alias": 3531,
+      "first_name": "Emil F.",
+      "name": "Reinhardt",
+      "source": "https://en.wikipedia.org/wiki/VIII_Corps_(United_States)",
+      "historical_note": "VIII Corps commander December1943-March1944, consistent with this frozen HQ becoming available around January1944; Middleton is the subsequent European combat commander.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1944,
+            9
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 26
+    },
+    {
+      "hq": 11517,
+      "hq_name": "XIX US Corps",
+      "source_leader": 1352,
+      "alias": 3537,
+      "first_name": "Charles H.",
+      "name": "Corlett",
+      "source": "https://history.army.mil/portals/143/Images/Publications/catalog/7-4.pdf",
+      "historical_note": "Charles H. Corlett led XIX Corps in Normandy in1944; future command preassignment.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1944,
+            3
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 29
+    },
+    {
+      "hq": 11518,
+      "hq_name": "XX US Corps",
+      "source_leader": 1501,
+      "alias": 3538,
+      "first_name": "Walton H.",
+      "name": "Walker",
+      "source": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/L%20Pdf/CMH_Pub_7-6-1.pdf",
+      "historical_note": "Walton H. Walker commanded XX Corps, formerly IV Armored Corps; distinguish from Fred L. Walker.",
+      "availability_adjustments": [
+        {
+          "field": "availability_start",
+          "source": [
+            1943,
+            10
+          ],
+          "scenario": [
+            1943,
+            7
+          ],
+          "reason": "Allow preassignment to an already-preplaced HQ, preventing a guaranteed empty opening slot. This is not a historical appointment date."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 33
+    },
+    {
+      "hq": 11523,
+      "hq_name": "I Airborne BR Corps",
+      "source_leader": 1569,
+      "alias": 3559,
+      "first_name": "Frederick",
+      "name": "Browning",
+      "source": "https://collection.nam.ac.uk/detail.php?acc=1994-06-201-2",
+      "historical_note": "Frederick Browning commanded I British Airborne Corps; documented September1944 command correspondence.",
+      "availability_adjustments": [],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 41
+    },
+    {
+      "hq": 11537,
+      "hq_name": "II FF Corps",
+      "source_leader": 1878,
+      "alias": 3560,
+      "first_name": "Edgard",
+      "name": "de Larminat",
+      "source": "https://www.cheminsdememoire.gouv.fr/fr/edgard-de-larminat",
+      "historical_note": "Edgard de Larminat commanded the French II Corps from August1943 before Monsabert; future preassignment.",
+      "availability_adjustments": [],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 48
+    },
+    {
+      "hq": 11538,
+      "hq_name": "Alps Mountain FF Corps",
+      "source_leader": 1907,
+      "alias": 3561,
+      "first_name": "Francois",
+      "name": "Sevez",
+      "source": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1468842",
+      "historical_note": "French Alps Sector commanded by Francois Sevez30September-23November1944; this identifies the historical predecessor of the imported Alps Mountain Corps. Doyen belongs to March1945, not the September1944 opening.",
+      "availability_adjustments": [
+        {
+          "field": "availability_end_month",
+          "source": [
+            1944,
+            6
+          ],
+          "scenario": [
+            1944,
+            11
+          ],
+          "reason": "Keep Sevez available through his documented Alps command inNovember1944."
+        }
+      ],
+      "ratings_rank_special_and_max_command_preserved": true,
+      "frozen_weeks": 64
+    }
+  ],
+  "appointed_count": 14,
+  "deferred": [
+    {
+      "hq": 11425,
+      "name": "12th US Army Group",
+      "historical_commander": "Omar N. Bradley",
+      "already_assigned_hq": 11505
+    },
+    {
+      "hq": 11438,
+      "name": "1st Allied Airborne Army",
+      "historical_commander": "Lewis H. Brereton",
+      "already_assigned_hq": 11453
+    }
+  ],
+  "all62_assigned_people_unique": true,
+  "source_records_and_existing48_appointments_preserved": true,
+  "sources": {
+    "devers": "https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/shaef-6th-army-group.pdf",
+    "grunert": "https://history.army.mil/portals/143/Images/Publications/catalog/1-2.pdf",
+    "hodges": "https://www.usarcent.army.mil/About/History/Extended/",
+    "truscott": "https://home.army.mil/stewart/index.php/about/history/MHOF",
+    "us_commanders": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/S%20PDF/CMH_Pub_7-1.pdf",
+    "air": "https://www.dafhistory.af.mil/Portals/16/documents/Studies/101-150/AFD-090529-056.pdf",
+    "williams": "https://media.defense.gov/2017/Apr/07/2001728568/-1/-1/0/B_0021_MILLER_AIRLIFT_DOCTRINE.PDF",
+    "millikin": "https://history.army.mil/portals/143/Images/Publications/catalog/70-41-1.pdf",
+    "reinhardt": "https://en.wikipedia.org/wiki/VIII_Corps_(United_States)",
+    "corlett": "https://history.army.mil/portals/143/Images/Publications/catalog/7-4.pdf",
+    "walker": "https://history.army.mil/Portals/143/Images/Publications/Publication%20By%20Title%20Images/L%20Pdf/CMH_Pub_7-6-1.pdf",
+    "browning": "https://collection.nam.ac.uk/detail.php?acc=1994-06-201-2",
+    "larminat": "https://www.cheminsdememoire.gouv.fr/fr/edgard-de-larminat",
+    "sevez": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1468842"
+  },
+  "policy": "Static initial appointments. Future HQ preassignments are explicitly ahistorical in timing because HQs are already preplaced; only local aliases have availability advanced. Later historical handovers are not scripted. Shared Nation12 pool can still choose Soviet successors after retirement, death, dismissal or manual replacement.",
+  "validation": "Static data only; no additional game test requested by user."
+}

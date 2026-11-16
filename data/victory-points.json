@@ -1,0 +1,820 @@
+{
+  "version": "v0.9.35-test36",
+  "original_city_records_retained": 59,
+  "city_count": 139,
+  "original_base_vp": 930,
+  "previous28_added_base_vp": 260,
+  "new52_added_base_vp": 468,
+  "all_base_vp_total": 1658,
+  "new_regional_totals": {
+    "Germany": 274,
+    "France": 130,
+    "Belgium": 32,
+    "Netherlands": 32
+  },
+  "previous28_added_objectives": [
+    {
+      "region": "Western Europe",
+      "id": 3734,
+      "city": "Paris",
+      "base_vp": 30,
+      "xy": [
+        90,
+        198
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 1194,
+      "city": "Brussels",
+      "base_vp": 10,
+      "xy": [
+        100,
+        183
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 1266,
+      "city": "Amsterdam",
+      "base_vp": 10,
+      "xy": [
+        103,
+        172
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 1196,
+      "city": "Antwerp",
+      "base_vp": 10,
+      "xy": [
+        100,
+        181
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 1262,
+      "city": "Rotterdam",
+      "base_vp": 10,
+      "xy": [
+        101,
+        175
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 3598,
+      "city": "Marseille",
+      "base_vp": 10,
+      "xy": [
+        101,
+        243
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 3630,
+      "city": "Lyon",
+      "base_vp": 6,
+      "xy": [
+        100,
+        224
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 3674,
+      "city": "Strasbourg",
+      "base_vp": 6,
+      "xy": [
+        114,
+        202
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 3794,
+      "city": "Cherbourg",
+      "base_vp": 4,
+      "xy": [
+        73,
+        189
+      ]
+    },
+    {
+      "region": "Western Europe",
+      "id": 3796,
+      "city": "Brest",
+      "base_vp": 4,
+      "xy": [
+        59,
+        196
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 545,
+      "city": "Rome",
+      "base_vp": 30,
+      "xy": [
+        137,
+        255
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 541,
+      "city": "Milan",
+      "base_vp": 16,
+      "xy": [
+        120,
+        227
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 533,
+      "city": "Naples",
+      "base_vp": 16,
+      "xy": [
+        147,
+        263
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 540,
+      "city": "Turin",
+      "base_vp": 6,
+      "xy": [
+        113,
+        230
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 542,
+      "city": "Genoa",
+      "base_vp": 6,
+      "xy": [
+        119,
+        235
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 678,
+      "city": "Venice",
+      "base_vp": 6,
+      "xy": [
+        136,
+        227
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 613,
+      "city": "Bologna",
+      "base_vp": 6,
+      "xy": [
+        131,
+        235
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 544,
+      "city": "Florence",
+      "base_vp": 6,
+      "xy": [
+        131,
+        240
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 566,
+      "city": "Palermo",
+      "base_vp": 4,
+      "xy": [
+        143,
+        286
+      ]
+    },
+    {
+      "region": "Italy",
+      "id": 558,
+      "city": "Messina",
+      "base_vp": 4,
+      "xy": [
+        155,
+        284
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 3328,
+      "city": "Athens",
+      "base_vp": 20,
+      "xy": [
+        201,
+        278
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 1051,
+      "city": "Sofia",
+      "base_vp": 10,
+      "xy": [
+        192,
+        242
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 3350,
+      "city": "Thessaloniki",
+      "base_vp": 10,
+      "xy": [
+        193,
+        258
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 3467,
+      "city": "Zagreb",
+      "base_vp": 6,
+      "xy": [
+        153,
+        223
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 3466,
+      "city": "Ljubljana",
+      "base_vp": 4,
+      "xy": [
+        146,
+        222
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 3469,
+      "city": "Sarajevo",
+      "base_vp": 4,
+      "xy": [
+        166,
+        237
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 3471,
+      "city": "Split",
+      "base_vp": 4,
+      "xy": [
+        157,
+        241
+      ]
+    },
+    {
+      "region": "Balkans",
+      "id": 3470,
+      "city": "Skopje",
+      "base_vp": 2,
+      "xy": [
+        183,
+        249
+      ]
+    }
+  ],
+  "new52_added_objectives": [
+    {
+      "id": 49,
+      "city": "Essen",
+      "region": "Germany",
+      "xy": [
+        112,
+        179
+      ],
+      "base_vp": 20
+    },
+    {
+      "id": 272,
+      "city": "Dortmund",
+      "region": "Germany",
+      "xy": [
+        114,
+        179
+      ],
+      "base_vp": 16
+    },
+    {
+      "id": 312,
+      "city": "Duisburg",
+      "region": "Germany",
+      "xy": [
+        111,
+        179
+      ],
+      "base_vp": 16
+    },
+    {
+      "id": 313,
+      "city": "Bochum",
+      "region": "Germany",
+      "xy": [
+        113,
+        179
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 292,
+      "city": "Gelsenkirchen",
+      "region": "Germany",
+      "xy": [
+        113,
+        178
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 271,
+      "city": "Duesseldorf",
+      "region": "Germany",
+      "xy": [
+        111,
+        181
+      ],
+      "base_vp": 14
+    },
+    {
+      "id": 51,
+      "city": "Wuppertal",
+      "region": "Germany",
+      "xy": [
+        112,
+        181
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 50,
+      "city": "Cologne",
+      "region": "Germany",
+      "xy": [
+        111,
+        184
+      ],
+      "base_vp": 16
+    },
+    {
+      "id": 53,
+      "city": "Frankfurt",
+      "region": "Germany",
+      "xy": [
+        119,
+        190
+      ],
+      "base_vp": 16
+    },
+    {
+      "id": 56,
+      "city": "Stuttgart",
+      "region": "Germany",
+      "xy": [
+        121,
+        201
+      ],
+      "base_vp": 16
+    },
+    {
+      "id": 54,
+      "city": "Mannheim",
+      "region": "Germany",
+      "xy": [
+        118,
+        195
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 224,
+      "city": "Ludwigshafen",
+      "region": "Germany",
+      "xy": [
+        117,
+        195
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 7,
+      "city": "Hannover",
+      "region": "Germany",
+      "xy": [
+        123,
+        173
+      ],
+      "base_vp": 12
+    },
+    {
+      "id": 48,
+      "city": "Bremen",
+      "region": "Germany",
+      "xy": [
+        120,
+        167
+      ],
+      "base_vp": 12
+    },
+    {
+      "id": 57,
+      "city": "Kiel",
+      "region": "Germany",
+      "xy": [
+        125,
+        157
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 58,
+      "city": "Braunschweig",
+      "region": "Germany",
+      "xy": [
+        126,
+        173
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 52,
+      "city": "Kassel",
+      "region": "Germany",
+      "xy": [
+        122,
+        181
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 10,
+      "city": "Chemnitz",
+      "region": "Germany",
+      "xy": [
+        137,
+        184
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 8,
+      "city": "Magdeburg",
+      "region": "Germany",
+      "xy": [
+        131,
+        175
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 101,
+      "city": "Dessau",
+      "region": "Germany",
+      "xy": [
+        134,
+        177
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 106,
+      "city": "Halle",
+      "region": "Germany",
+      "xy": [
+        133,
+        179
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 55,
+      "city": "Karlsruhe",
+      "region": "Germany",
+      "xy": [
+        117,
+        199
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 195,
+      "city": "Augsburg",
+      "region": "Germany",
+      "xy": [
+        128,
+        204
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 228,
+      "city": "Saarbruecken",
+      "region": "Germany",
+      "xy": [
+        111,
+        197
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 47,
+      "city": "Bremerhaven",
+      "region": "Germany",
+      "xy": [
+        119,
+        163
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 3763,
+      "city": "Lille",
+      "region": "France",
+      "xy": [
+        94,
+        185
+      ],
+      "base_vp": 12
+    },
+    {
+      "id": 3774,
+      "city": "Le Havre",
+      "region": "France",
+      "xy": [
+        81,
+        192
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 3757,
+      "city": "Rouen",
+      "region": "France",
+      "xy": [
+        85,
+        193
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 3742,
+      "city": "Nantes",
+      "region": "France",
+      "xy": [
+        71,
+        208
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 3750,
+      "city": "St Nazaire",
+      "region": "France",
+      "xy": [
+        67,
+        207
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 3677,
+      "city": "Bordeaux",
+      "region": "France",
+      "xy": [
+        73,
+        228
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 3623,
+      "city": "Toulouse",
+      "region": "France",
+      "xy": [
+        81,
+        239
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 3627,
+      "city": "St Etienne",
+      "region": "France",
+      "xy": [
+        98,
+        226
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 3649,
+      "city": "Mulhouse",
+      "region": "France",
+      "xy": [
+        112,
+        209
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 3700,
+      "city": "Metz",
+      "region": "France",
+      "xy": [
+        108,
+        198
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 3692,
+      "city": "Nancy",
+      "region": "France",
+      "xy": [
+        107,
+        201
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 3753,
+      "city": "Valenciennes",
+      "region": "France",
+      "xy": [
+        96,
+        187
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 3784,
+      "city": "Dunkerque",
+      "region": "France",
+      "xy": [
+        92,
+        182
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 3772,
+      "city": "Bethune",
+      "region": "France",
+      "xy": [
+        92,
+        185
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 3778,
+      "city": "Lorient",
+      "region": "France",
+      "xy": [
+        63,
+        202
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 3613,
+      "city": "Grenoble",
+      "region": "France",
+      "xy": [
+        104,
+        229
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 3648,
+      "city": "Clermont-Ferrand",
+      "region": "France",
+      "xy": [
+        91,
+        223
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 1189,
+      "city": "Liege",
+      "region": "Belgium",
+      "xy": [
+        105,
+        186
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 1200,
+      "city": "Charleroi",
+      "region": "Belgium",
+      "xy": [
+        100,
+        187
+      ],
+      "base_vp": 10
+    },
+    {
+      "id": 1197,
+      "city": "Ghent",
+      "region": "Belgium",
+      "xy": [
+        98,
+        182
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 1192,
+      "city": "Mons",
+      "region": "Belgium",
+      "xy": [
+        98,
+        187
+      ],
+      "base_vp": 4
+    },
+    {
+      "id": 1249,
+      "city": "Eindhoven",
+      "region": "Netherlands",
+      "xy": [
+        105,
+        179
+      ],
+      "base_vp": 8
+    },
+    {
+      "id": 1302,
+      "city": "Enschede",
+      "region": "Netherlands",
+      "xy": [
+        111,
+        173
+      ],
+      "base_vp": 4
+    },
+    {
+      "id": 1248,
+      "city": "Maastricht",
+      "region": "Netherlands",
+      "xy": [
+        106,
+        184
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 1264,
+      "city": "The Hague",
+      "region": "Netherlands",
+      "xy": [
+        101,
+        174
+      ],
+      "base_vp": 6
+    },
+    {
+      "id": 1267,
+      "city": "Haarlem",
+      "region": "Netherlands",
+      "xy": [
+        102,
+        172
+      ],
+      "base_vp": 4
+    },
+    {
+      "id": 1268,
+      "city": "Groningen",
+      "region": "Netherlands",
+      "xy": [
+        111,
+        166
+      ],
+      "base_vp": 4
+    }
+  ],
+  "note": "Occupation base VP, not per-turn income or historical statistics; original native victory-level thresholds and Berlin/date endings remain."
+}
