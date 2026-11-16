@@ -1,23 +1,20 @@
 {
-  "version": "v0.9.36",
+  "version": "v0.9.37",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "3ffdc984c232dc2b1dd514cd230363cd21df843a733fd4fc24c3cac2200dd8f1",
+  "scenario_sha256": "f66bed688e96768b84c163dc300ad47a390f09952734b08e3a357a87a31870b0",
   "static_checks": {
-    "original87_records_unchanged": true,
-    "all_unit_and_leader_assignments_unchanged": true,
-    "all_factory_and_city_data_unchanged": true,
-    "all_ground_and_toe_definitions_unchanged": true,
-    "native_noearlyend2_and_generic_lock_retained": true
+    "all_units_equipment_morale_experience_and_leaders_identical": true,
+    "all163_victory_records_identical": true,
+    "national_multipliers_and_original_soviet_factories_unchanged": true,
+    "opening_stocks_ports_and_shipping_unchanged": true,
+    "all_factory_scalar_and_registry_capacities_match": true,
+    "new_factory_objects_reverse_exactly": true,
+    "all_five_country_gates_eligible": true,
+    "added_input_budget_covers_nominal_output_1943_1945": true
   },
-  "previous_appointment_checks": {
-    "original87_victory_records_unchanged": true,
+  "preserved_appointment_checks": {
     "all48_existing_historical_appointments_unchanged": true,
-    "all62_assigned_historical_people_unique": true,
-    "all_troop_data_except14_leader_ids_identical": true,
-    "all_city_industry_data_identical": true,
-    "all_equipment_and_toe_definitions_identical": true,
-    "generic_data_locked": true,
-    "native_no_early_end2_retained": true
+    "all62_assigned_historical_people_unique": true
   },
   "scoring_checks": {
     "initial_score_unchanged": true,
@@ -384,6 +381,18 @@
       }
     ]
   },
+  "scoring_check_scope": "Previous native score cases remain applicable because all163 victory records are byte-identical to the previous release; no new score values in this revision.",
+  "logistics_country_and_structure_checks": {
+    "all_units_equipment_morale_experience_and_leaders_identical": true,
+    "all163_victory_records_identical": true,
+    "national_multipliers_and_original_soviet_factories_unchanged": true,
+    "opening_stocks_ports_and_shipping_unchanged": true,
+    "all_factory_scalar_and_registry_capacities_match": true,
+    "new_factory_objects_reverse_exactly": true,
+    "all_five_country_gates_eligible": true,
+    "added_input_budget_covers_nominal_output_1943_1945": true
+  },
+  "logistics_full_runtime_turn_verified": false,
   "final_grade_function": {
     "scope": "Cached native final-grade function only; no actual Berlin capture simulated",
     "grade_names": {
@@ -427,7 +436,7 @@
     ]
   },
   "public_title_only_change": {
-    "changed_bytes": 7,
+    "changed_bytes": 0,
     "all_other_bytes_identical": true
   },
   "rail_test": {

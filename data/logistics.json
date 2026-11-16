@@ -1,0 +1,165 @@
+{
+  "version": "v0.9.37",
+  "factory_capacity_edits": [
+    {
+      "city_id": 3057,
+      "slot": 19,
+      "model": 1484,
+      "label": "Heavy Industry / supply and ammunition",
+      "before": 10,
+      "after": 190,
+      "increase": 180
+    },
+    {
+      "city_id": 3057,
+      "slot": 17,
+      "model": 1486,
+      "label": "Fuel refining",
+      "before": 12,
+      "after": 132,
+      "increase": 120
+    },
+    {
+      "city_id": 3024,
+      "slot": 0,
+      "model": 1483,
+      "label": "Generic vehicles / trucks",
+      "before": 10,
+      "after": 90,
+      "increase": 80
+    },
+    {
+      "city_id": 3057,
+      "slot": 4,
+      "model": 1485,
+      "label": "Allied overseas oil allocation",
+      "before": 0,
+      "after": 60,
+      "increase": 60
+    },
+    {
+      "city_id": 3057,
+      "slot": 5,
+      "model": 1488,
+      "label": "Allied overseas resource allocation",
+      "before": 0,
+      "after": 220,
+      "increase": 220
+    }
+  ],
+  "owned_nation12_capacity_before": {
+    "1483": 152,
+    "1484": 606,
+    "1485": 181,
+    "1486": 490,
+    "1488": 654,
+    "1489": 299
+  },
+  "owned_nation12_capacity_after": {
+    "1483": 232,
+    "1484": 786,
+    "1485": 241,
+    "1486": 610,
+    "1488": 874,
+    "1489": 299
+  },
+  "national_multipliers_unchanged": {
+    "1943": {
+      "vehicle": 0.55,
+      "hi": 2.5,
+      "resources": 1.75,
+      "oil": 2.0,
+      "fuel": 2.0
+    },
+    "1944": {
+      "vehicle": 0.55,
+      "hi": 2.7,
+      "resources": 1.75,
+      "oil": 2.0,
+      "fuel": 2.0
+    },
+    "1945": {
+      "vehicle": 0.55,
+      "hi": 2.9,
+      "resources": 1.75,
+      "oil": 2.0,
+      "fuel": 2.0
+    }
+  },
+  "nominal_weekly_increment_with_full_inputs": {
+    "1943": {
+      "extra_supply_tons": 112500.0,
+      "extra_resource_required_by_hi": 787500.0,
+      "extra_resources_tons": 962500.0,
+      "extra_oil_tons": 120000.0,
+      "extra_oil_required_by_refining": 120000.0,
+      "extra_fuel_tons": 60000.0,
+      "extra_trucks": 440.00000000000006,
+      "extra_supply_required_by_vehicles": 2200.0
+    },
+    "1944": {
+      "extra_supply_tons": 121500.00000000001,
+      "extra_resource_required_by_hi": 850500.0,
+      "extra_resources_tons": 962500.0,
+      "extra_oil_tons": 120000.0,
+      "extra_oil_required_by_refining": 120000.0,
+      "extra_fuel_tons": 60000.0,
+      "extra_trucks": 440.00000000000006,
+      "extra_supply_required_by_vehicles": 2200.0
+    },
+    "1945": {
+      "extra_supply_tons": 130500.0,
+      "extra_resource_required_by_hi": 913500.0,
+      "extra_resources_tons": 962500.0,
+      "extra_oil_tons": 120000.0,
+      "extra_oil_required_by_refining": 120000.0,
+      "extra_fuel_tons": 60000.0,
+      "extra_trucks": 440.00000000000006,
+      "extra_supply_required_by_vehicles": 2200.0
+    }
+  },
+  "native_country_gate_cases": [
+    {
+      "city": 3057,
+      "model": 1484,
+      "foreign_flag": 0
+    },
+    {
+      "city": 3057,
+      "model": 1486,
+      "foreign_flag": 0
+    },
+    {
+      "city": 3024,
+      "model": 1483,
+      "foreign_flag": 0
+    },
+    {
+      "city": 3057,
+      "model": 1485,
+      "foreign_flag": 0
+    },
+    {
+      "city": 3057,
+      "model": 1488,
+      "foreign_flag": 0
+    }
+  ],
+  "interpretation": "Finite abstract Allied overseas support allocated at existing Nation12-compatible UK cities; not literal British oil fields or a reconstruction of US/UK industry. HI supplies cover ammunition and general supply; armaments capacity is not an ammunition factory and stays unchanged.",
+  "limits": [
+    "Country eligibility helper and structural data checks only; not a full production/logistics turn",
+    "Actual output and delivery depend on resources, damage, transport and engine allocation",
+    "Nominal1943 supply/fuel/truck increments are112500 tons,60000 tons and440 trucks per week; not guaranteed observed output",
+    "No whole-campaign balance or sufficiency guarantee"
+  ],
+  "checks": {
+    "all_units_equipment_morale_experience_and_leaders_identical": true,
+    "all163_victory_records_identical": true,
+    "national_multipliers_and_original_soviet_factories_unchanged": true,
+    "opening_stocks_ports_and_shipping_unchanged": true,
+    "all_factory_scalar_and_registry_capacities_match": true,
+    "new_factory_objects_reverse_exactly": true,
+    "all_five_country_gates_eligible": true,
+    "added_input_budget_covers_nominal_output_1943_1945": true
+  }
+}
