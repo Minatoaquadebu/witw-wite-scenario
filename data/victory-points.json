@@ -1,17 +1,12 @@
 {
-  "version": "v0.9.35-test36",
+  "version": "v0.9.36-test37",
   "original_city_records_retained": 59,
-  "city_count": 139,
+  "city_count": 163,
   "original_base_vp": 930,
   "previous28_added_base_vp": 260,
-  "new52_added_base_vp": 468,
-  "all_base_vp_total": 1658,
-  "new_regional_totals": {
-    "Germany": 274,
-    "France": 130,
-    "Belgium": 32,
-    "Netherlands": 32
-  },
+  "revised52_industrial_base_vp": 250,
+  "new24_eastern_base_vp": 166,
+  "all_base_vp_total": 1606,
   "previous28_added_objectives": [
     {
       "region": "Western Europe",
@@ -294,7 +289,7 @@
       ]
     }
   ],
-  "new52_added_objectives": [
+  "revised52_industrial_objectives": [
     {
       "id": 49,
       "city": "Essen",
@@ -303,7 +298,7 @@
         112,
         179
       ],
-      "base_vp": 20
+      "base_vp": 10
     },
     {
       "id": 272,
@@ -313,7 +308,7 @@
         114,
         179
       ],
-      "base_vp": 16
+      "base_vp": 8
     },
     {
       "id": 312,
@@ -323,7 +318,7 @@
         111,
         179
       ],
-      "base_vp": 16
+      "base_vp": 8
     },
     {
       "id": 313,
@@ -333,7 +328,7 @@
         113,
         179
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 292,
@@ -343,7 +338,7 @@
         113,
         178
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 271,
@@ -353,7 +348,7 @@
         111,
         181
       ],
-      "base_vp": 14
+      "base_vp": 7
     },
     {
       "id": 51,
@@ -363,7 +358,7 @@
         112,
         181
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 50,
@@ -373,7 +368,7 @@
         111,
         184
       ],
-      "base_vp": 16
+      "base_vp": 8
     },
     {
       "id": 53,
@@ -383,7 +378,7 @@
         119,
         190
       ],
-      "base_vp": 16
+      "base_vp": 8
     },
     {
       "id": 56,
@@ -393,7 +388,7 @@
         121,
         201
       ],
-      "base_vp": 16
+      "base_vp": 8
     },
     {
       "id": 54,
@@ -403,7 +398,7 @@
         118,
         195
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 224,
@@ -413,7 +408,7 @@
         117,
         195
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 7,
@@ -423,7 +418,7 @@
         123,
         173
       ],
-      "base_vp": 12
+      "base_vp": 6
     },
     {
       "id": 48,
@@ -433,7 +428,7 @@
         120,
         167
       ],
-      "base_vp": 12
+      "base_vp": 6
     },
     {
       "id": 57,
@@ -443,7 +438,7 @@
         125,
         157
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 58,
@@ -453,7 +448,7 @@
         126,
         173
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 52,
@@ -463,7 +458,7 @@
         122,
         181
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 10,
@@ -513,7 +508,7 @@
         117,
         199
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 195,
@@ -523,7 +518,7 @@
         128,
         204
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 228,
@@ -533,7 +528,7 @@
         111,
         197
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 47,
@@ -543,7 +538,7 @@
         119,
         163
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 3763,
@@ -553,7 +548,7 @@
         94,
         185
       ],
-      "base_vp": 12
+      "base_vp": 6
     },
     {
       "id": 3774,
@@ -563,7 +558,7 @@
         81,
         192
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 3757,
@@ -573,7 +568,7 @@
         85,
         193
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 3742,
@@ -583,7 +578,7 @@
         71,
         208
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 3750,
@@ -593,7 +588,7 @@
         67,
         207
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 3677,
@@ -603,7 +598,7 @@
         73,
         228
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 3623,
@@ -613,7 +608,7 @@
         81,
         239
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 3627,
@@ -623,7 +618,7 @@
         98,
         226
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 3649,
@@ -633,7 +628,7 @@
         112,
         209
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 3700,
@@ -643,7 +638,7 @@
         108,
         198
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 3692,
@@ -653,7 +648,7 @@
         107,
         201
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 3753,
@@ -663,7 +658,7 @@
         96,
         187
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 3784,
@@ -673,7 +668,7 @@
         92,
         182
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 3772,
@@ -683,7 +678,7 @@
         92,
         185
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 3778,
@@ -693,7 +688,7 @@
         63,
         202
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 3613,
@@ -703,7 +698,7 @@
         104,
         229
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 3648,
@@ -713,7 +708,7 @@
         91,
         223
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 1189,
@@ -723,7 +718,7 @@
         105,
         186
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 1200,
@@ -733,7 +728,7 @@
         100,
         187
       ],
-      "base_vp": 10
+      "base_vp": 5
     },
     {
       "id": 1197,
@@ -743,7 +738,7 @@
         98,
         182
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 1192,
@@ -753,7 +748,7 @@
         98,
         187
       ],
-      "base_vp": 4
+      "base_vp": 2
     },
     {
       "id": 1249,
@@ -763,7 +758,7 @@
         105,
         179
       ],
-      "base_vp": 8
+      "base_vp": 4
     },
     {
       "id": 1302,
@@ -773,7 +768,7 @@
         111,
         173
       ],
-      "base_vp": 4
+      "base_vp": 2
     },
     {
       "id": 1248,
@@ -783,7 +778,7 @@
         106,
         184
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 1264,
@@ -793,7 +788,7 @@
         101,
         174
       ],
-      "base_vp": 6
+      "base_vp": 3
     },
     {
       "id": 1267,
@@ -803,7 +798,7 @@
         102,
         172
       ],
-      "base_vp": 4
+      "base_vp": 2
     },
     {
       "id": 1268,
@@ -813,7 +808,249 @@
         111,
         166
       ],
-      "base_vp": 4
+      "base_vp": 2
+    }
+  ],
+  "new24_eastern_objectives": [
+    {
+      "id": 1328,
+      "city": "Katowice",
+      "base_vp": 12,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        165,
+        186
+      ]
+    },
+    {
+      "id": 165,
+      "city": "Beuthen",
+      "base_vp": 8,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        164,
+        186
+      ]
+    },
+    {
+      "id": 324,
+      "city": "Gleiwitz",
+      "base_vp": 8,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        163,
+        186
+      ]
+    },
+    {
+      "id": 25,
+      "city": "Oppeln",
+      "base_vp": 6,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        159,
+        184
+      ]
+    },
+    {
+      "id": 161,
+      "city": "Waldenburg",
+      "base_vp": 6,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        152,
+        184
+      ]
+    },
+    {
+      "id": 21,
+      "city": "Liegnitz",
+      "base_vp": 4,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        151,
+        180
+      ]
+    },
+    {
+      "id": 156,
+      "city": "Glogau",
+      "base_vp": 4,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        151,
+        178
+      ]
+    },
+    {
+      "id": 1367,
+      "city": "Neisse",
+      "base_vp": 4,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        157,
+        186
+      ]
+    },
+    {
+      "id": 1119,
+      "city": "Ostrava",
+      "base_vp": 8,
+      "region": "Silesia and Ostrava",
+      "xy": [
+        161,
+        191
+      ]
+    },
+    {
+      "id": 6,
+      "city": "Stettin",
+      "base_vp": 12,
+      "region": "Pomerania and Poland",
+      "xy": [
+        143,
+        164
+      ]
+    },
+    {
+      "id": 5,
+      "city": "Danzig",
+      "base_vp": 10,
+      "region": "Pomerania and Poland",
+      "xy": [
+        159,
+        155
+      ]
+    },
+    {
+      "id": 1327,
+      "city": "Lodz",
+      "base_vp": 10,
+      "region": "Pomerania and Poland",
+      "xy": [
+        165,
+        174
+      ]
+    },
+    {
+      "id": 1531,
+      "city": "Krivoi Rog",
+      "base_vp": 10,
+      "region": "Eastern industrial objectives",
+      "xy": [
+        229,
+        188
+      ]
+    },
+    {
+      "id": 1728,
+      "city": "Gorlovka",
+      "base_vp": 8,
+      "region": "Eastern industrial objectives",
+      "xy": [
+        249,
+        177
+      ]
+    },
+    {
+      "id": 2787,
+      "city": "Nikopol (e)",
+      "base_vp": 6,
+      "region": "Eastern industrial objectives",
+      "xy": [
+        235,
+        188
+      ]
+    },
+    {
+      "id": 1535,
+      "city": "Mariupol",
+      "base_vp": 6,
+      "region": "Eastern industrial objectives",
+      "xy": [
+        250,
+        187
+      ]
+    },
+    {
+      "id": 2587,
+      "city": "Kramatorskaya",
+      "base_vp": 4,
+      "region": "Eastern industrial objectives",
+      "xy": [
+        246,
+        174
+      ]
+    },
+    {
+      "id": 2651,
+      "city": "Lisichansk",
+      "base_vp": 4,
+      "region": "Eastern industrial objectives",
+      "xy": [
+        250,
+        172
+      ]
+    },
+    {
+      "id": 1502,
+      "city": "Bryansk",
+      "base_vp": 8,
+      "region": "Eastern transport objectives",
+      "xy": [
+        222,
+        147
+      ]
+    },
+    {
+      "id": 1489,
+      "city": "Gomel",
+      "base_vp": 6,
+      "region": "Eastern transport objectives",
+      "xy": [
+        211,
+        158
+      ]
+    },
+    {
+      "id": 1486,
+      "city": "Vitebsk",
+      "base_vp": 6,
+      "region": "Eastern transport objectives",
+      "xy": [
+        203,
+        138
+      ]
+    },
+    {
+      "id": 1500,
+      "city": "Mogilev",
+      "base_vp": 4,
+      "region": "Eastern transport objectives",
+      "xy": [
+        205,
+        147
+      ]
+    },
+    {
+      "id": 1518,
+      "city": "Poltava",
+      "base_vp": 6,
+      "region": "Eastern transport objectives",
+      "xy": [
+        231,
+        173
+      ]
+    },
+    {
+      "id": 1671,
+      "city": "Chernigov",
+      "base_vp": 6,
+      "region": "Eastern transport objectives",
+      "xy": [
+        214,
+        164
+      ]
     }
   ],
   "note": "Occupation base VP, not per-turn income or historical statistics; original native victory-level thresholds and Berlin/date endings remain."

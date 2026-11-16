@@ -1,8 +1,15 @@
 {
-  "version": "v0.9.35-test36",
+  "version": "v0.9.36-test37",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "576011262cd7cb5c6a528953b71dc6aa3a82287c33d21bfc97a6729078b67368",
+  "scenario_sha256": "1d59737671ce7eb20cc5d0a366aea5109374e8ba8621c31178d10910634ce202",
   "static_checks": {
+    "original87_records_unchanged": true,
+    "all_unit_and_leader_assignments_unchanged": true,
+    "all_factory_and_city_data_unchanged": true,
+    "all_ground_and_toe_definitions_unchanged": true,
+    "native_noearlyend2_and_generic_lock_retained": true
+  },
+  "preserved_test36_checks": {
     "original87_victory_records_unchanged": true,
     "all48_existing_historical_appointments_unchanged": true,
     "all62_assigned_historical_people_unique": true,
@@ -13,268 +20,367 @@
     "native_no_early_end2_retained": true
   },
   "scoring_checks": {
-    "initial_unchanged": true,
-    "all52_capture_delta": 468,
-    "cases": [
+    "initial_score_unchanged": true,
+    "individual_capture_recapture_cases": [
       {
         "city": "Essen",
-        "capture_delta": 20,
-        "recapture_delta": -20
+        "capture_delta": 10,
+        "recapture_delta": -10
       },
       {
         "city": "Dortmund",
-        "capture_delta": 16,
-        "recapture_delta": -16
+        "capture_delta": 8,
+        "recapture_delta": -8
       },
       {
         "city": "Duisburg",
-        "capture_delta": 16,
-        "recapture_delta": -16
+        "capture_delta": 8,
+        "recapture_delta": -8
       },
       {
         "city": "Bochum",
-        "capture_delta": 10,
-        "recapture_delta": -10
+        "capture_delta": 5,
+        "recapture_delta": -5
       },
       {
         "city": "Gelsenkirchen",
-        "capture_delta": 10,
-        "recapture_delta": -10
+        "capture_delta": 5,
+        "recapture_delta": -5
       },
       {
         "city": "Duesseldorf",
-        "capture_delta": 14,
-        "recapture_delta": -14
+        "capture_delta": 7,
+        "recapture_delta": -7
       },
       {
         "city": "Wuppertal",
-        "capture_delta": 8,
-        "recapture_delta": -8
+        "capture_delta": 4,
+        "recapture_delta": -4
       },
       {
         "city": "Cologne",
-        "capture_delta": 16,
-        "recapture_delta": -16
+        "capture_delta": 8,
+        "recapture_delta": -8
       },
       {
         "city": "Frankfurt",
-        "capture_delta": 16,
-        "recapture_delta": -16
+        "capture_delta": 8,
+        "recapture_delta": -8
       },
       {
         "city": "Stuttgart",
-        "capture_delta": 16,
-        "recapture_delta": -16
+        "capture_delta": 8,
+        "recapture_delta": -8
       },
       {
         "city": "Mannheim",
-        "capture_delta": 10,
-        "recapture_delta": -10
+        "capture_delta": 5,
+        "recapture_delta": -5
       },
       {
         "city": "Ludwigshafen",
-        "capture_delta": 8,
-        "recapture_delta": -8
+        "capture_delta": 4,
+        "recapture_delta": -4
       },
       {
         "city": "Hannover",
-        "capture_delta": 12,
-        "recapture_delta": -12
+        "capture_delta": 6,
+        "recapture_delta": -6
       },
       {
         "city": "Bremen",
-        "capture_delta": 12,
-        "recapture_delta": -12
+        "capture_delta": 6,
+        "recapture_delta": -6
       },
       {
         "city": "Kiel",
-        "capture_delta": 10,
-        "recapture_delta": -10
+        "capture_delta": 5,
+        "recapture_delta": -5
       },
       {
         "city": "Braunschweig",
-        "capture_delta": 10,
-        "recapture_delta": -10
+        "capture_delta": 5,
+        "recapture_delta": -5
       },
       {
         "city": "Kassel",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Chemnitz",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Magdeburg",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Dessau",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Halle",
-        "capture_delta": 8,
-        "recapture_delta": -8
+        "capture_delta": 5,
+        "recapture_delta": -5
       },
       {
         "city": "Karlsruhe",
-        "capture_delta": 6,
-        "recapture_delta": -6
+        "capture_delta": 3,
+        "recapture_delta": -3
       },
       {
         "city": "Augsburg",
-        "capture_delta": 6,
-        "recapture_delta": -6
+        "capture_delta": 3,
+        "recapture_delta": -3
       },
       {
         "city": "Saarbruecken",
-        "capture_delta": 10,
-        "recapture_delta": -10
+        "capture_delta": 5,
+        "recapture_delta": -5
       },
       {
         "city": "Bremerhaven",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Lille",
         "capture_delta": 6,
         "recapture_delta": -6
       },
       {
-        "city": "Lille",
+        "city": "Le Havre",
+        "capture_delta": 5,
+        "recapture_delta": -5
+      },
+      {
+        "city": "Rouen",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Nantes",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "St Nazaire",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Bordeaux",
+        "capture_delta": 5,
+        "recapture_delta": -5
+      },
+      {
+        "city": "Toulouse",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "St Etienne",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Mulhouse",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Metz",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Nancy",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Valenciennes",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Dunkerque",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Bethune",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Lorient",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Grenoble",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Clermont-Ferrand",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Liege",
+        "capture_delta": 5,
+        "recapture_delta": -5
+      },
+      {
+        "city": "Charleroi",
+        "capture_delta": 5,
+        "recapture_delta": -5
+      },
+      {
+        "city": "Ghent",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Mons",
+        "capture_delta": 2,
+        "recapture_delta": -2
+      },
+      {
+        "city": "Eindhoven",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Enschede",
+        "capture_delta": 2,
+        "recapture_delta": -2
+      },
+      {
+        "city": "Maastricht",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "The Hague",
+        "capture_delta": 3,
+        "recapture_delta": -3
+      },
+      {
+        "city": "Haarlem",
+        "capture_delta": 2,
+        "recapture_delta": -2
+      },
+      {
+        "city": "Groningen",
+        "capture_delta": 2,
+        "recapture_delta": -2
+      },
+      {
+        "city": "Katowice",
         "capture_delta": 12,
         "recapture_delta": -12
       },
       {
-        "city": "Le Havre",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Rouen",
+        "city": "Beuthen",
         "capture_delta": 8,
         "recapture_delta": -8
       },
       {
-        "city": "Nantes",
+        "city": "Gleiwitz",
         "capture_delta": 8,
         "recapture_delta": -8
       },
       {
-        "city": "St Nazaire",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Bordeaux",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Toulouse",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "St Etienne",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Mulhouse",
+        "city": "Oppeln",
         "capture_delta": 6,
         "recapture_delta": -6
       },
       {
-        "city": "Metz",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Nancy",
+        "city": "Waldenburg",
         "capture_delta": 6,
         "recapture_delta": -6
       },
       {
-        "city": "Valenciennes",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Dunkerque",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Bethune",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Lorient",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Grenoble",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Clermont-Ferrand",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Liege",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Charleroi",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Ghent",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Mons",
+        "city": "Liegnitz",
         "capture_delta": 4,
         "recapture_delta": -4
       },
       {
-        "city": "Eindhoven",
+        "city": "Glogau",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Neisse",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Ostrava",
         "capture_delta": 8,
         "recapture_delta": -8
       },
       {
-        "city": "Enschede",
-        "capture_delta": 4,
-        "recapture_delta": -4
+        "city": "Stettin",
+        "capture_delta": 12,
+        "recapture_delta": -12
       },
       {
-        "city": "Maastricht",
+        "city": "Danzig",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Lodz",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Krivoi Rog",
+        "capture_delta": 10,
+        "recapture_delta": -10
+      },
+      {
+        "city": "Gorlovka",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Nikopol (e)",
         "capture_delta": 6,
         "recapture_delta": -6
       },
       {
-        "city": "The Hague",
+        "city": "Mariupol",
         "capture_delta": 6,
         "recapture_delta": -6
       },
       {
-        "city": "Haarlem",
+        "city": "Kramatorskaya",
         "capture_delta": 4,
         "recapture_delta": -4
       },
       {
-        "city": "Groningen",
+        "city": "Lisichansk",
         "capture_delta": 4,
         "recapture_delta": -4
+      },
+      {
+        "city": "Bryansk",
+        "capture_delta": 8,
+        "recapture_delta": -8
+      },
+      {
+        "city": "Gomel",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Vitebsk",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Mogilev",
+        "capture_delta": 4,
+        "recapture_delta": -4
+      },
+      {
+        "city": "Poltava",
+        "capture_delta": 6,
+        "recapture_delta": -6
+      },
+      {
+        "city": "Chernigov",
+        "capture_delta": 6,
+        "recapture_delta": -6
       }
     ]
   },
