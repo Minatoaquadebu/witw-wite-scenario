@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.38",
+  "version": "v0.9.39",
   "initial_allowance": 100000,
   "monthly_allowances": [
     {
@@ -301,5 +301,25 @@
     "The allowance is a mod design choice informed by historical replacement constraints, not an archival monthly manpower series.",
     "A shared coalition pool does not reserve these men exclusively for Western units.",
     "Scheduled event dates execute at the next applicable weekly event check; runtime receipt has not yet been verified."
-  ]
+  ],
+  "german": {
+    "recruitment_capacity": 1650,
+    "annual_base_factors": {
+      "1943": 1200,
+      "1944": 1400,
+      "1945": 800
+    },
+    "national_capacity_matches_official_east1943": true,
+    "initial_extra": 0,
+    "monthly_extra": 0,
+    "mobilization_pool": 200000,
+    "mobilization_modifier_add_before": 400,
+    "mobilization_modifier_add_after": 200,
+    "rationale": "The eastern campaign already includes the German national recruitment base. No second population pool or complete Replacement Army is added. A smaller continuing mobilisation increment moderates unlimited recruitment while retaining the existing finite stock grant.",
+    "historical_reference": "https://www.ibiblio.org/hyperwar/Germany/HB/HB-1.html",
+    "limits": [
+      "A mod design choice, not a measured monthly historical recruitment series.",
+      "Base factors are game settings; actual recruiting depends on ownership, damage and allocation."
+    ]
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.38",
+  "version": "v0.9.39",
   "appointments": [
     {
       "hq": 11424,
@@ -335,5 +335,6 @@
     "sevez": "https://www.servicehistorique.sga.defense.gouv.fr/ark/1468842"
   },
   "policy": "Static initial appointments. Future HQ preassignments are explicitly ahistorical in timing because HQs are already preplaced; only local aliases have availability advanced. Later historical handovers are not scripted. Shared Nation12 pool can still choose Soviet successors after retirement, death, dismissal or manual replacement.",
-  "validation": "Static data only; no additional game test requested by user."
+  "validation": "Static data only; no additional game test requested by user.",
+  "revision_note": "Settings retained from the preceding release; historical runtime evidence is not a new full-campaign test."
 }

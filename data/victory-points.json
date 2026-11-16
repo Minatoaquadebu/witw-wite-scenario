@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.38",
+  "version": "v0.9.39",
   "original_city_records_retained": 59,
   "city_count": 163,
   "original_base_vp": 930,
@@ -1053,5 +1053,6 @@
       ]
     }
   ],
-  "note": "Occupation base VP, not per-turn income or historical statistics; original native victory-level thresholds and Berlin/date endings remain."
+  "note": "Occupation base VP, not per-turn income or historical statistics; original native victory-level thresholds and Berlin/date endings remain.",
+  "revision_note": "Settings retained from the preceding release; historical runtime evidence is not a new full-campaign test."
 }

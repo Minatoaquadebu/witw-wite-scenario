@@ -1,4 +1,4 @@
-WITW+WITE v0.9.38 Allied Symbols
+WITW+WITE v0.9.39 Allied Symbols
 July 3, 1943 - July 6, 1945 (maximum106 turns)
 
 Optional Visual Variant
@@ -6,15 +6,15 @@ Install the accompanying Dat/Art/Units files before choosing this scenario.
 Green panels distinguish common Western Allied unit symbols from Soviet
 symbols. Nationality backgrounds are unchanged. Air and amphibious HQs,
 some specialized types and the smallest zoom retain their original display.
-All gameplay data is identical to the standard v0.9.38 scenario.
+All gameplay data is identical to the standard v0.9.39 scenario.
 
 The campaign combines Eastern Front, Western Europe and Mediterranean map
 operations. Player2 commands Soviet and Western Allied forces. Both sides
 set to Human is recommended; Western strategic AI remains unresolved.
 
-Selected reinforcement fixes and finite extra manpower allocations are
-included, but the full Allied historical roster is NOT restored. Some future
-units are preplaced and frozen. Western units use nation12 for control and
+The official dated roster covers1010 ground and198 air arrivals. This is
+not a claim to every historical formation. Some future units are preplaced
+and frozen; new arrivals still need a runtime check. Western units use nation12 for control and
 share Soviet manpower, production and leader pools. Soviet replacement
 commanders can appear. Newly scheduled arrivals and manpower delivery have
 had structural checks only; they are not fully runtime verified.

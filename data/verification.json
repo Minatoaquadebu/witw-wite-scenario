@@ -1,481 +1,65 @@
 {
-  "version": "v0.9.38",
+  "version": "v0.9.39",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "75089786a8406d003ba3f5b0437c212642871f75b7263713383dd3edb6f9bf9e",
-  "static_checks": {
-    "all_units_equipment_morale_experience_and_leaders_identical": true,
+  "scenario_sha256": "9c6107cebabc3b7bf8f75e6adab194867334117e4175b72a2c75f83bba59b85b",
+  "final_static_checks": {
+    "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
-    "national_multipliers_and_original_soviet_factories_unchanged": true,
-    "opening_stocks_ports_and_shipping_unchanged": true,
-    "all_factory_scalar_and_registry_capacities_match": true,
-    "new_factory_objects_reverse_exactly": true,
-    "all_five_country_gates_eligible": true,
-    "added_input_budget_covers_nominal_output_1943_1945": true
+    "all_existing_western_HQ_leaders_identical": true,
+    "all_axis_and_soviet_ground_records_identical": true,
+    "national_recruitment_unchanged": true,
+    "all_city_nationalities_unchanged": true,
+    "all_ground_coverage_still_valid_after_air_table_rebuild": true,
+    "factory_registry_and_city_slots_match": true,
+    "equipment_capacity_by_canonical_model_conserved": true,
+    "all224_model_alias_physical_definitions_preserved": true,
+    "all_restored_ready_equipment_has_valid_model": true
   },
-  "preserved_appointment_checks": {
-    "all48_existing_historical_appointments_unchanged": true,
-    "all62_assigned_historical_people_unique": true
-  },
-  "scoring_checks": {
-    "initial_score_unchanged": true,
-    "individual_capture_recapture_cases": [
-      {
-        "city": "Essen",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Dortmund",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Duisburg",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Bochum",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Gelsenkirchen",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Duesseldorf",
-        "capture_delta": 7,
-        "recapture_delta": -7
-      },
-      {
-        "city": "Wuppertal",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Cologne",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Frankfurt",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Stuttgart",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Mannheim",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Ludwigshafen",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Hannover",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Bremen",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Kiel",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Braunschweig",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Kassel",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Karlsruhe",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Augsburg",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Saarbruecken",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Bremerhaven",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Lille",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Le Havre",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Rouen",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Nantes",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "St Nazaire",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Bordeaux",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Toulouse",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "St Etienne",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Mulhouse",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Metz",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Nancy",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Valenciennes",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Dunkerque",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Bethune",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Lorient",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Grenoble",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Clermont-Ferrand",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Liege",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Charleroi",
-        "capture_delta": 5,
-        "recapture_delta": -5
-      },
-      {
-        "city": "Ghent",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Mons",
-        "capture_delta": 2,
-        "recapture_delta": -2
-      },
-      {
-        "city": "Eindhoven",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Enschede",
-        "capture_delta": 2,
-        "recapture_delta": -2
-      },
-      {
-        "city": "Maastricht",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "The Hague",
-        "capture_delta": 3,
-        "recapture_delta": -3
-      },
-      {
-        "city": "Haarlem",
-        "capture_delta": 2,
-        "recapture_delta": -2
-      },
-      {
-        "city": "Groningen",
-        "capture_delta": 2,
-        "recapture_delta": -2
-      },
-      {
-        "city": "Katowice",
-        "capture_delta": 12,
-        "recapture_delta": -12
-      },
-      {
-        "city": "Beuthen",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Gleiwitz",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Oppeln",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Waldenburg",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Liegnitz",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Glogau",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Neisse",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Ostrava",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Stettin",
-        "capture_delta": 12,
-        "recapture_delta": -12
-      },
-      {
-        "city": "Danzig",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Lodz",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Krivoi Rog",
-        "capture_delta": 10,
-        "recapture_delta": -10
-      },
-      {
-        "city": "Gorlovka",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Nikopol (e)",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Mariupol",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Kramatorskaya",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Lisichansk",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Bryansk",
-        "capture_delta": 8,
-        "recapture_delta": -8
-      },
-      {
-        "city": "Gomel",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Vitebsk",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Mogilev",
-        "capture_delta": 4,
-        "recapture_delta": -4
-      },
-      {
-        "city": "Poltava",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      },
-      {
-        "city": "Chernigov",
-        "capture_delta": 6,
-        "recapture_delta": -6
-      }
-    ]
-  },
-  "scoring_check_scope": "Previous native score cases remain applicable because all163 victory records are byte-identical to the previous release; no new score values in this revision.",
-  "logistics_country_and_structure_checks": {
-    "all_units_equipment_morale_experience_and_leaders_identical": true,
+  "ground_compiler_checks": {
+    "byte_proof": {
+      "changed_bytes": 39469,
+      "all_other_bytes_identical": true,
+      "source_sha256": "0cfb0bc806c371cce892a7baab4bb75456fa2480c72a85e66c8c3ea214f82210",
+      "result_sha256": "4d14832b7a2fae947ec2fa0b2fb1b0909e27d61280b1f05e0af6d666493fb963"
+    },
+    "all1010_ground_arrival_identities_schedules_and_control": true,
     "all163_victory_records_identical": true,
-    "national_multipliers_and_original_soviet_factories_unchanged": true,
-    "opening_stocks_ports_and_shipping_unchanged": true,
-    "all_factory_scalar_and_registry_capacities_match": true,
-    "new_factory_objects_reverse_exactly": true,
-    "all_five_country_gates_eligible": true,
-    "added_input_budget_covers_nominal_output_1943_1945": true
+    "all_preexisting_active_quantities_experience_morale_and_leaders_retained": true,
+    "allied_equipment_total_capacity_preserved": true,
+    "all_city_nations_and_national_multipliers_preserved": true
   },
-  "logistics_full_runtime_turn_verified": false,
-  "final_grade_function": {
-    "scope": "Cached native final-grade function only; no actual Berlin capture simulated",
-    "grade_names": {
-      "3": "Axis marginal victory",
-      "4": "Draw",
-      "5": "Soviet marginal victory",
-      "6": "Soviet major victory",
-      "7": "Soviet decisive victory"
+  "air_compiler_checks": {
+    "all_dates_control_hq_profiles_bases_and_unique_aog_membership": true,
+    "all_existing_group_morale_and_experience_retained": true,
+    "all_unselected_airgroups_unchanged": true,
+    "source_and_native_player_type_offsets_verified_against_editor_csv": true
+  },
+  "official_dated_ground_coverage": 1010,
+  "official_dated_air_coverage": 198,
+  "rail_capacity_offline_native_helper": {
+    "before": {
+      "11978": 1593,
+      "11979": 1674,
+      "11990": 2916,
+      "11991": 2916,
+      "11992": 2916,
+      "11993": 2754
     },
-    "cases": [
-      {
-        "ending_code": 4,
-        "date": "1944-12-31",
-        "grade": 7
-      },
-      {
-        "ending_code": 4,
-        "date": "1945-03-31",
-        "grade": 6
-      },
-      {
-        "ending_code": 4,
-        "date": "1945-04-01",
-        "grade": 5
-      },
-      {
-        "ending_code": 4,
-        "date": "1945-05-31",
-        "grade": 5
-      },
-      {
-        "ending_code": 4,
-        "date": "1945-06-01",
-        "grade": 4
-      },
-      {
-        "ending_code": 6,
-        "date": "1945-07-06",
-        "grade": 3
-      }
-    ]
-  },
-  "rail_test": {
-    "checks": {
-      "all_six_repaired_100_to_1": true,
-      "all_six_finalized_to_zero": true,
-      "mp_cost_matches_native_preflight": true,
-      "all_six_control_hq_and_position_retained": true,
-      "aug14_reached": true,
-      "native_noearlyend_and87_cities_retained": true,
-      "all48_preassigned_historical_leaders_retained": true,
-      "soviet_hq_appointments_already_present_before_this_test": true
+    "after": {
+      "11978": 1629,
+      "11979": 1665,
+      "11990": 2916,
+      "11991": 2916,
+      "11992": 2916,
+      "11993": 2763
     },
-    "start_date": "1943-08-07",
-    "end_date": "1943-08-14",
-    "scope": "Six groups repair100->1, then next week1->0. A/B/C diagnostic activation is not proof of historical arrival schedules."
+    "all_six_above_native_minimum": true,
+    "unchanged": false
   },
-  "new_commanders_runtime_tested": false,
-  "full_campaign_or_balance_tested": false,
-  "western_strategic_ai_solved": false,
-  "independent_western_national_pools": false,
-  "reinforcement_revision_static_checks": {
-    "all_other_units_byte_identical": true,
-    "all_unit_amounts_morale_experience_stocks_and_leaders_preserved": true,
-    "all163_victory_records_byte_identical": true,
-    "all_original_industry_and_national_multipliers_unchanged": true,
-    "existing_99_frozen_units_unchanged": true,
-    "original_toes_unchanged": true
-  },
-  "new_reinforcement_and_manpower_runtime_verified": false,
-  "reinforcement_roster_complete": false,
-  "reinforcement_revision_native_structure_checks": {
-    "all24_one_shot_manpower_actions_target_shared_pool": true,
-    "manpower_allowance_total": 625000,
-    "all12_unit_control_schedule_and_counts_checked": true,
-    "event_count": 328,
-    "runtime_verified": false
-  },
-  "optional_allied_symbols": {
-    "gameplay_identical_to_main": true,
-    "original_pixels_preserved": true,
-    "sprites": 12,
-    "modified_ob_art_indices": 551,
-    "in_game_visual_verified": false
-  }
+  "prior_runtime_evidence": "Before this revision, the user verified six railway groups repairing track and next-week repair settlement, selected reinforcements/replacements, amphibious landings and supply. These do not certify every newly restored formation.",
+  "newly_restored_arrivals_runtime_verified": false,
+  "manpower_event_delivery_runtime_verified": false,
+  "optional_symbols_in_game_visual_verified": false,
+  "western_strategic_ai_complete": false,
+  "full_campaign_balance_or_long_stability_verified": false
 }
