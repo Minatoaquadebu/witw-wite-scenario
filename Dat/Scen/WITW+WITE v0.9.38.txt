@@ -1,4 +1,4 @@
-WITW+WITE v0.9.37
+WITW+WITE v0.9.38
 July 3, 1943 - July 6, 1945 (maximum106 turns)
 
 Historical Overview
@@ -7,7 +7,7 @@ The battle for Kursk is about to begin while the Western Allies prepare to advan
 Scenario Overview
 This community scenario combines Eastern Front, Western European and Mediterranean operations on the WiTE2 map. Player2 commands both Soviet and Western Allied forces. Two human-controlled sides are recommended; Western strategic AI remains incomplete.
 
-The revision repairs selected HQ, reinforcement, replacement, air and amphibious data. There are163 victory cities, including the Ruhr and Silesia. Some future units and commanders are preplaced before historical arrival, with units frozen until release. Extra Allied supply, fuel and truck capacity is represented at compatible UK cities; actual production and delivery still depend on logistics.
+Selected HQ, reinforcement, replacement, air and amphibious data are repaired. Allied roster coverage remains incomplete. Finite extra replacement manpower is scheduled. There are163 victory cities, including the Ruhr and Silesia. Some future units and commanders are preplaced before historical arrival, with units frozen until release. Extra Allied supply, fuel and truck capacity is represented at compatible UK cities; actual production and delivery still depend on logistics.
 
 Victory
 Native campaign rules apply. NO EARLY END disables sudden victory/loss and the1944 HWM check; Berlin falling or the scenario end can still end play. City VP do not define custom final victory bands.

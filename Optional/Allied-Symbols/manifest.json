@@ -1,0 +1,4501 @@
+{
+  "version": "v0.9.38",
+  "scenario": "WITW+WITE v0.9.38 Allied Symbols",
+  "color": [
+    139,
+    196,
+    168
+  ],
+  "slot_map": {
+    "103": 123,
+    "100": 124,
+    "104": 125,
+    "106": 126,
+    "110": 127,
+    "108": 225,
+    "107": 226,
+    "113": 227
+  },
+  "ob_count": 551,
+  "referencing_unit_records": 1157,
+  "sprite_files": [
+    {
+      "file": "Counter9x9.tga",
+      "width": 360,
+      "height": 150,
+      "source_sha256": "cd2a685b138ebf25e25d5a18654d31d0acf7ca1c6ed8292f378c0c6522d4cdb1",
+      "output_sha256": "f5adadda12eb71f9169d30e811d0fb914ede6dc281eea2fb01aa1917253820b1",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": false
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": false
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": false
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": false
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": false
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": false
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": false
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": false
+        }
+      ]
+    },
+    {
+      "file": "Counter18x18.tga",
+      "width": 640,
+      "height": 150,
+      "source_sha256": "61c02a3369ff10c8c22e6d5a844e9396011e7cddad3aaf3d9481594cd22961b9",
+      "output_sha256": "eb6d5b0ce72c7b1306eac0b09b06f7b5d1f866d08b10a922005950bb506045dc",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "Counter28x28.tga",
+      "width": 892,
+      "height": 213,
+      "source_sha256": "049dcf423bb96a31f3b3c0c671dd2efd62da2cf798b8450e8ef49b8f8aef3143",
+      "output_sha256": "8a1955e015490b536eaf87eb3e2a6e4cb9f0de620d027ae7fa75dc0a0bbbcf83",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "Counter36x36.tga",
+      "width": 1116,
+      "height": 269,
+      "source_sha256": "6395a7d34958173e05030a2d060b76e52e4083e840a6b8e6bd8fee21fee8d01f",
+      "output_sha256": "8d79eeb332658542006e9f3037e22f57b091fb5a9ba4c05f5b8ba72598c936e5",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "Counter44x44.tga",
+      "width": 1340,
+      "height": 325,
+      "source_sha256": "f771ce4d659bcb5e26c66f32abeb90c0a5f427de5e503e33573ef9a4cc0e50a7",
+      "output_sha256": "c5d0c83edfe1b9e86751378672de506f8f44d1240cff02d80a6d024306e1ac7f",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "Counter76x76.tga",
+      "width": 2344,
+      "height": 580,
+      "source_sha256": "db9bf5bcdb7873536fd914bff5d47321f824c58cc16aaddca0883cb29a593b2e",
+      "output_sha256": "35ced6d69e9b4864e16a1d76bd5a3cdf7d18fcce27c9bf6487f4ee5de4fb6a36",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "NN_Counter9x9.tga",
+      "width": 360,
+      "height": 150,
+      "source_sha256": "bd9949f275f625291533632e335d8a04c9883b1f55c1c76a39a7db2a46410b5d",
+      "output_sha256": "872791342b63480ad14ef3953d3e46721bc595d011ad77b63161b27bad11cfdb",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": false
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": false
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": false
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": false
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": false
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": false
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": false
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": false
+        }
+      ]
+    },
+    {
+      "file": "NN_Counter18x18.tga",
+      "width": 640,
+      "height": 150,
+      "source_sha256": "9878faf90b75d773a0ef8b65b6021cd528e88a5684a09dd6f8f4521ddc70e28a",
+      "output_sha256": "be4f98e0207548080b9f9a6e819079da37ba93ce7a8d76c48fa41fd504ac2307",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "NN_Counter28x28.tga",
+      "width": 892,
+      "height": 213,
+      "source_sha256": "92ff193ff997a6c13a00f17387ede68a8edf5547cb77bd6da95eb255a8492563",
+      "output_sha256": "5bcd5b5e374241ec102e0752829eb1477023d453e0997f80ae2e225e9a9628dc",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "NN_Counter36x36.tga",
+      "width": 1116,
+      "height": 269,
+      "source_sha256": "d60158f7a6ab3a200786e8c50122074cc41b5042ae8c18d37fa1ada529b30c6e",
+      "output_sha256": "116cd8a1905149c3223dfce248e483ce86e9aee7138db9a3491e9f2bcf4b5f73",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "NN_Counter44x44.tga",
+      "width": 1340,
+      "height": 325,
+      "source_sha256": "9eea736daf9c15529f8c8cfd5cd2d98bd21b71570896221f32e92d433d1338eb",
+      "output_sha256": "92b80b569c3490954893ca949b1e9c8fa08597e698fb4e6a327524d115a68877",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    },
+    {
+      "file": "NN_Counter76x76.tga",
+      "width": 2344,
+      "height": 580,
+      "source_sha256": "c4cad334fdccef3e60c7f9b63a061cb252d09235c7f223546c7914394870d3ba",
+      "output_sha256": "aebcb2cccc39bf252d463d08b818d9fa1614843022b7e0482102646237116cf7",
+      "all_original_pixels_unchanged": true,
+      "slots": [
+        {
+          "source": 103,
+          "destination": 123,
+          "has_symbol": true
+        },
+        {
+          "source": 100,
+          "destination": 124,
+          "has_symbol": true
+        },
+        {
+          "source": 104,
+          "destination": 125,
+          "has_symbol": true
+        },
+        {
+          "source": 106,
+          "destination": 126,
+          "has_symbol": true
+        },
+        {
+          "source": 110,
+          "destination": 127,
+          "has_symbol": true
+        },
+        {
+          "source": 108,
+          "destination": 225,
+          "has_symbol": true
+        },
+        {
+          "source": 107,
+          "destination": 226,
+          "has_symbol": true
+        },
+        {
+          "source": 113,
+          "destination": 227,
+          "has_symbol": true
+        }
+      ]
+    }
+  ],
+  "art_indices": [
+    {
+      "ob": 2599,
+      "nation": 15,
+      "type": 11,
+      "old_art_index": 0,
+      "new_art_index": 127
+    },
+    {
+      "ob": 2600,
+      "nation": 15,
+      "type": 11,
+      "old_art_index": 0,
+      "new_art_index": 127
+    },
+    {
+      "ob": 2603,
+      "nation": 15,
+      "type": 11,
+      "old_art_index": 0,
+      "new_art_index": 127
+    },
+    {
+      "ob": 2612,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2613,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2614,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2615,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2616,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2617,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2618,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2619,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2620,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2621,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2622,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2623,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2624,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2625,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2626,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2627,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2628,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2629,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2631,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2632,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2633,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2635,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2636,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2637,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2638,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2639,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2640,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2641,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2642,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2643,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2644,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2645,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2646,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2647,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2648,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2650,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2651,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2652,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2654,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2655,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2656,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2657,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2658,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2659,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2660,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2661,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2662,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2663,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2665,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2667,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2669,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2670,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2671,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2672,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2673,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2674,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2675,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2676,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2677,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2678,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2679,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2680,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2681,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2683,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2688,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2689,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2690,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2691,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2692,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2694,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2695,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2696,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2698,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2705,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2706,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2707,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2708,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2709,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2710,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2711,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2713,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2714,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2715,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2716,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2717,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2718,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2719,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2721,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2723,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2724,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2725,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2726,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2727,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2728,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2733,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2734,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2768,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2769,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2770,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2771,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2772,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2775,
+      "nation": 15,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 2777,
+      "nation": 15,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 2778,
+      "nation": 15,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 2783,
+      "nation": 15,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 2784,
+      "nation": 15,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 2786,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2787,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2789,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2790,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2796,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2797,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2798,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2799,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2801,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2802,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2804,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2805,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2806,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2808,
+      "nation": 15,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2813,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2815,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2816,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2818,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2820,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2822,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2823,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2841,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2842,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2843,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2844,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2845,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2846,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2847,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2848,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2849,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2850,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2851,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2853,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2854,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2855,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2856,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2857,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2858,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2859,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2860,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2861,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2862,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2863,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2868,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2869,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2870,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2871,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2872,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2873,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2874,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2876,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2877,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2878,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2879,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2880,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2881,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2882,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2895,
+      "nation": 19,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 2896,
+      "nation": 19,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 2898,
+      "nation": 19,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2899,
+      "nation": 19,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2901,
+      "nation": 19,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2902,
+      "nation": 19,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2903,
+      "nation": 19,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2909,
+      "nation": 19,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2910,
+      "nation": 19,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2912,
+      "nation": 19,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2913,
+      "nation": 19,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 2919,
+      "nation": 19,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 2924,
+      "nation": 21,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2925,
+      "nation": 21,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2926,
+      "nation": 21,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2927,
+      "nation": 21,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2929,
+      "nation": 21,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2936,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2937,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2938,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2939,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2941,
+      "nation": 23,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2942,
+      "nation": 23,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2943,
+      "nation": 23,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2944,
+      "nation": 23,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2945,
+      "nation": 23,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2946,
+      "nation": 23,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2948,
+      "nation": 23,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2957,
+      "nation": 23,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 2964,
+      "nation": 28,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2965,
+      "nation": 28,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 2967,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2968,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2969,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2970,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2988,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2989,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2990,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2991,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2992,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2993,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 2995,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3007,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3008,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3009,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3011,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3012,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3014,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3015,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3016,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3017,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3019,
+      "nation": 11,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3025,
+      "nation": 11,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3026,
+      "nation": 11,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3028,
+      "nation": 11,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3030,
+      "nation": 11,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3031,
+      "nation": 11,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3039,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3040,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3042,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3043,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3045,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3046,
+      "nation": 22,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3047,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3056,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3069,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3070,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3072,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3073,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3074,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3075,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3077,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3079,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3084,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3096,
+      "nation": 22,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3100,
+      "nation": 22,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3101,
+      "nation": 22,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3103,
+      "nation": 22,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3105,
+      "nation": 22,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3112,
+      "nation": 13,
+      "type": 11,
+      "old_art_index": 0,
+      "new_art_index": 127
+    },
+    {
+      "ob": 3113,
+      "nation": 13,
+      "type": 11,
+      "old_art_index": 0,
+      "new_art_index": 127
+    },
+    {
+      "ob": 3116,
+      "nation": 13,
+      "type": 11,
+      "old_art_index": 0,
+      "new_art_index": 127
+    },
+    {
+      "ob": 3117,
+      "nation": 13,
+      "type": 11,
+      "old_art_index": 0,
+      "new_art_index": 127
+    },
+    {
+      "ob": 3126,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3127,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3128,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3129,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3130,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3131,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3132,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3133,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3134,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3135,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3136,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3137,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3138,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3139,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3140,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3141,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3142,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3143,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3144,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3145,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3146,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3147,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3148,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3149,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3150,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3151,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3152,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3153,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3154,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3155,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3157,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3158,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3159,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3160,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3162,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3163,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3165,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3166,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3167,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3168,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3169,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3170,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3171,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3172,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3173,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3174,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3175,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3176,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3177,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3178,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3179,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3181,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3182,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3183,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3185,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3187,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3188,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3193,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3194,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3195,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3196,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3197,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3198,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3199,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3200,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3201,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3202,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3203,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3205,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3206,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3207,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3208,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3210,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3211,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3212,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3216,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3217,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3218,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3219,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3221,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3222,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3223,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3227,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3228,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3229,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3230,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3236,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3240,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3256,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3257,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3258,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3259,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3260,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3261,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3262,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3263,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3264,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3265,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3266,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3267,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3268,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3270,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3271,
+      "nation": 13,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3276,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3278,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3279,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3284,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3285,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3286,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3288,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3289,
+      "nation": 13,
+      "type": 16,
+      "old_art_index": 0,
+      "new_art_index": 227
+    },
+    {
+      "ob": 3294,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3299,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3300,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3301,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3302,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3303,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3304,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3305,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3307,
+      "nation": 13,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3312,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3313,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3314,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3315,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3316,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3318,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3319,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3321,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3322,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3350,
+      "nation": 8,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3351,
+      "nation": 8,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3363,
+      "nation": 25,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3364,
+      "nation": 25,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3372,
+      "nation": 24,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3374,
+      "nation": 24,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3376,
+      "nation": 24,
+      "type": 8,
+      "old_art_index": 0,
+      "new_art_index": 225
+    },
+    {
+      "ob": 3378,
+      "nation": 24,
+      "type": 7,
+      "old_art_index": 0,
+      "new_art_index": 126
+    },
+    {
+      "ob": 3500,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3501,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3502,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3503,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3504,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3505,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3506,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3507,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3508,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3509,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3510,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3511,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3512,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3513,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3514,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3515,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3516,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3517,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3518,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3519,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3520,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3521,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3522,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3523,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3524,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3525,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3526,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3527,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3528,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3529,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3530,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3531,
+      "nation": 15,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3532,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3533,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3534,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3535,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3536,
+      "nation": 15,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3538,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3539,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3540,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3541,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3542,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3543,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3544,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3545,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3546,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3547,
+      "nation": 15,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3555,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3556,
+      "nation": 15,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3557,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3558,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3559,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3560,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3561,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3562,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3563,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3564,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3565,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3566,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3567,
+      "nation": 19,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3568,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3569,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3570,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3571,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3572,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3573,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3574,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3575,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3576,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3577,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3578,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3579,
+      "nation": 19,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3580,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3581,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3582,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3583,
+      "nation": 28,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3588,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3589,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3590,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3591,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3592,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3593,
+      "nation": 20,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3594,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3595,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3596,
+      "nation": 11,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3597,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3598,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3599,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3600,
+      "nation": 11,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3601,
+      "nation": 11,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3602,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3603,
+      "nation": 22,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3609,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3610,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3611,
+      "nation": 22,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3612,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3613,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3614,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3615,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3616,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3617,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3618,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3619,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3620,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3621,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3622,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3623,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3624,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3625,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3626,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3627,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3628,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3629,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3630,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3631,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3632,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3633,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3634,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3635,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3636,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3637,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3638,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3639,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3640,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3641,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3642,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3643,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3644,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3645,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3646,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3647,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3648,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3649,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3650,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3651,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3652,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3653,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3654,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3655,
+      "nation": 13,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3656,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3657,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3658,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3659,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3660,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3661,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3662,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3663,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3664,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3665,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3666,
+      "nation": 13,
+      "type": 5,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3668,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3669,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3670,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3671,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3672,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3673,
+      "nation": 13,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3676,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3677,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3678,
+      "nation": 13,
+      "type": 12,
+      "old_art_index": 0,
+      "new_art_index": 226
+    },
+    {
+      "ob": 3681,
+      "nation": 25,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3682,
+      "nation": 25,
+      "type": 4,
+      "old_art_index": 0,
+      "new_art_index": 123
+    },
+    {
+      "ob": 3683,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3684,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3685,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    },
+    {
+      "ob": 3686,
+      "nation": 23,
+      "type": 1,
+      "old_art_index": 0,
+      "new_art_index": 124
+    }
+  ],
+  "byte_proof": {
+    "changed_bytes": 566,
+    "all_other_bytes_identical": true,
+    "source_sha256": "0cfb0bc806c371cce892a7baab4bb75456fa2480c72a85e66c8c3ea214f82210",
+    "result_sha256": "3058ef64409b5c89f79f7788f9ecc93f49ad47bdb1ce3f03c6b077e21e13d363"
+  },
+  "checks": {
+    "original_pixels_unchanged": true,
+    "only_art_indices_and_title_changed": true,
+    "all_units_and_gameplay_records_identical": true,
+    "global_game_art_not_modified": true
+  },
+  "limits": [
+    "Green symbol panels distinguish covered Western unit types from normal Soviet panels; nationality backgrounds are unchanged.",
+    "Eight common symbol types are covered: infantry, armor, airborne, artillery, anti-tank, anti-aircraft, engineers and railway units.",
+    "Other specialized types, preassigned custom symbols, amphibious HQs and air HQs retain their original symbols.",
+    "At the smallest9x9 zoom the game atlas has no symbol artwork; no distinction is promised at that zoom.",
+    "Offline sprite and scenario verification only; visual in-game display not yet verified."
+  ]
+}

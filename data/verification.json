@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.37",
+  "version": "v0.9.38",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "f66bed688e96768b84c163dc300ad47a390f09952734b08e3a357a87a31870b0",
+  "scenario_sha256": "75089786a8406d003ba3f5b0437c212642871f75b7263713383dd3edb6f9bf9e",
   "static_checks": {
     "all_units_equipment_morale_experience_and_leaders_identical": true,
     "all163_victory_records_identical": true,
@@ -435,10 +435,6 @@
       }
     ]
   },
-  "public_title_only_change": {
-    "changed_bytes": 0,
-    "all_other_bytes_identical": true
-  },
   "rail_test": {
     "checks": {
       "all_six_repaired_100_to_1": true,
@@ -457,5 +453,29 @@
   "new_commanders_runtime_tested": false,
   "full_campaign_or_balance_tested": false,
   "western_strategic_ai_solved": false,
-  "independent_western_national_pools": false
+  "independent_western_national_pools": false,
+  "reinforcement_revision_static_checks": {
+    "all_other_units_byte_identical": true,
+    "all_unit_amounts_morale_experience_stocks_and_leaders_preserved": true,
+    "all163_victory_records_byte_identical": true,
+    "all_original_industry_and_national_multipliers_unchanged": true,
+    "existing_99_frozen_units_unchanged": true,
+    "original_toes_unchanged": true
+  },
+  "new_reinforcement_and_manpower_runtime_verified": false,
+  "reinforcement_roster_complete": false,
+  "reinforcement_revision_native_structure_checks": {
+    "all24_one_shot_manpower_actions_target_shared_pool": true,
+    "manpower_allowance_total": 625000,
+    "all12_unit_control_schedule_and_counts_checked": true,
+    "event_count": 328,
+    "runtime_verified": false
+  },
+  "optional_allied_symbols": {
+    "gameplay_identical_to_main": true,
+    "original_pixels_preserved": true,
+    "sprites": 12,
+    "modified_ob_art_indices": 551,
+    "in_game_visual_verified": false
+  }
 }
