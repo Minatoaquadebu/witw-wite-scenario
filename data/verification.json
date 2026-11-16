@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.36-test37",
+  "version": "v0.9.36",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "1d59737671ce7eb20cc5d0a366aea5109374e8ba8621c31178d10910634ce202",
+  "scenario_sha256": "3ffdc984c232dc2b1dd514cd230363cd21df843a733fd4fc24c3cac2200dd8f1",
   "static_checks": {
     "original87_records_unchanged": true,
     "all_unit_and_leader_assignments_unchanged": true,
@@ -9,7 +9,7 @@
     "all_ground_and_toe_definitions_unchanged": true,
     "native_noearlyend2_and_generic_lock_retained": true
   },
-  "preserved_test36_checks": {
+  "previous_appointment_checks": {
     "original87_victory_records_unchanged": true,
     "all48_existing_historical_appointments_unchanged": true,
     "all62_assigned_historical_people_unique": true,
@@ -383,6 +383,52 @@
         "recapture_delta": -6
       }
     ]
+  },
+  "final_grade_function": {
+    "scope": "Cached native final-grade function only; no actual Berlin capture simulated",
+    "grade_names": {
+      "3": "Axis marginal victory",
+      "4": "Draw",
+      "5": "Soviet marginal victory",
+      "6": "Soviet major victory",
+      "7": "Soviet decisive victory"
+    },
+    "cases": [
+      {
+        "ending_code": 4,
+        "date": "1944-12-31",
+        "grade": 7
+      },
+      {
+        "ending_code": 4,
+        "date": "1945-03-31",
+        "grade": 6
+      },
+      {
+        "ending_code": 4,
+        "date": "1945-04-01",
+        "grade": 5
+      },
+      {
+        "ending_code": 4,
+        "date": "1945-05-31",
+        "grade": 5
+      },
+      {
+        "ending_code": 4,
+        "date": "1945-06-01",
+        "grade": 4
+      },
+      {
+        "ending_code": 6,
+        "date": "1945-07-06",
+        "grade": 3
+      }
+    ]
+  },
+  "public_title_only_change": {
+    "changed_bytes": 7,
+    "all_other_bytes_identical": true
   },
   "rail_test": {
     "checks": {
