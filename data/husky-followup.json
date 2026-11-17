@@ -1,0 +1,365 @@
+{
+  "version": "v0.9.45",
+  "native_naval_area_evidence": [
+    {
+      "xy": [
+        149,
+        293
+      ],
+      "clear_cache": false,
+      "result": -1,
+      "cache_after": -1
+    },
+    {
+      "xy": [
+        149,
+        293
+      ],
+      "clear_cache": true,
+      "result": 11,
+      "cache_after": 11
+    },
+    {
+      "xy": [
+        148,
+        293
+      ],
+      "clear_cache": false,
+      "result": 11,
+      "cache_after": 11
+    },
+    {
+      "xy": [
+        147,
+        293
+      ],
+      "clear_cache": false,
+      "result": 11,
+      "cache_after": 11
+    },
+    {
+      "xy": [
+        149,
+        294
+      ],
+      "clear_cache": false,
+      "result": 11,
+      "cache_after": 11
+    }
+  ],
+  "air_focus": [
+    {
+      "slot": 21,
+      "target": [
+        149,
+        292
+      ],
+      "radius": 0,
+      "role": "Hermann Goering main concentration",
+      "german_unit_ids": [
+        3075,
+        3164
+      ],
+      "assigned_air_groups": [
+        3178,
+        3182,
+        3195,
+        3205,
+        3213,
+        3251,
+        3534,
+        3184,
+        3571,
+        3346,
+        3353,
+        3387,
+        3582,
+        3600
+      ],
+      "day_mask": 21,
+      "runtime_verified": false
+    },
+    {
+      "slot": 23,
+      "target": [
+        146,
+        291
+      ],
+      "radius": 0,
+      "role": "15th Panzergrenadier southern group",
+      "german_unit_ids": [
+        3434
+      ],
+      "assigned_air_groups": [
+        3180,
+        3183,
+        3201,
+        3210,
+        3219,
+        3257,
+        3537,
+        3570,
+        3350,
+        3365,
+        3578,
+        3595
+      ],
+      "day_mask": 21,
+      "runtime_verified": false
+    },
+    {
+      "slot": 22,
+      "target": [
+        148,
+        290
+      ],
+      "radius": 1,
+      "role": "Approaches south of Enna",
+      "german_unit_ids": [
+        3435
+      ],
+      "assigned_air_groups": [
+        3178,
+        3180,
+        3182,
+        3183,
+        3184,
+        3195,
+        3201,
+        3205,
+        3210,
+        3213,
+        3219,
+        3251,
+        3257,
+        3346,
+        3350,
+        3353,
+        3365,
+        3387,
+        3534,
+        3537,
+        3570,
+        3571,
+        3578,
+        3582,
+        3595,
+        3600
+      ],
+      "day_mask": 42,
+      "runtime_verified": false
+    }
+  ],
+  "airborne_plans": [
+    {
+      "id": 11542,
+      "name": "1/82nd",
+      "target": [
+        147,
+        293
+      ],
+      "prep": 50,
+      "supporting_tf": 13055,
+      "supporting_landing": [
+        146,
+        293
+      ],
+      "role": "Optional reserve plan",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11543,
+      "name": "2/82nd",
+      "target": [
+        148,
+        293
+      ],
+      "prep": 50,
+      "supporting_tf": 13058,
+      "supporting_landing": [
+        149,
+        293
+      ],
+      "role": "Optional reserve plan",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11544,
+      "name": "3/82nd",
+      "target": [
+        150,
+        294
+      ],
+      "prep": 50,
+      "supporting_tf": 13061,
+      "supporting_landing": [
+        149,
+        294
+      ],
+      "role": "Initial US airborne assault abstraction; moved off the invasion beach",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11546,
+      "name": "1/1st",
+      "target": [
+        153,
+        294
+      ],
+      "prep": 50,
+      "supporting_tf": 13070,
+      "supporting_landing": [
+        153,
+        295
+      ],
+      "role": "Optional reserve plan",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11547,
+      "name": "2/1st",
+      "target": [
+        152,
+        295
+      ],
+      "prep": 50,
+      "supporting_tf": 13070,
+      "supporting_landing": [
+        153,
+        295
+      ],
+      "role": "Optional reserve plan; avoids Canadian commando landing space",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11548,
+      "name": "3/1st",
+      "target": [
+        154,
+        294
+      ],
+      "prep": 50,
+      "supporting_tf": 13067,
+      "supporting_landing": [
+        154,
+        293
+      ],
+      "role": "Ladbroke glider-assault abstraction",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11774,
+      "name": "509th",
+      "target": [
+        147,
+        292
+      ],
+      "prep": 50,
+      "supporting_tf": 13055,
+      "supporting_landing": [
+        146,
+        293
+      ],
+      "role": "Optional509th reserve plan; not a historical Husky drop",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    }
+  ],
+  "hq_destination": [
+    123,
+    294
+  ],
+  "ranger_detachment_reassigned": {
+    "id": 11772,
+    "old_parent": 13058,
+    "new_parent": 13055
+  },
+  "special_service_reserves": {
+    "ids": [
+      11805,
+      11806,
+      11807
+    ],
+    "old_parent": 13064,
+    "new_parent": 11419
+  },
+  "western_active_overstacks_before": {
+    "(2, 123, 293)": [
+      11427,
+      11536,
+      11677,
+      11685
+    ]
+  },
+  "western_active_overstacks_after": {},
+  "checks": {
+    "western_active_onmap_overstacks_zero": true,
+    "seven_unique_optional_airborne_targets": true,
+    "airborne_not_on_invasion_beaches": true,
+    "all_targets_adjacent_to_supporting_assault": true,
+    "no_airborne_target_initially_occupied_by_enemy_combat_unit": true,
+    "native_naval_area_gate_returns11": true,
+    "unit_attack_areas_focus_on_german_units": true,
+    "split_unit_attack_groups_disjoint": true,
+    "all_other_bytes_identical": true
+  },
+  "byte_proof": {
+    "changed_bytes": 951,
+    "all_other_bytes_identical": true
+  },
+  "native_airborne_unit_checks": [
+    {
+      "id": 11542,
+      "native_size": 3,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11543,
+      "native_size": 3,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11544,
+      "native_size": 3,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11546,
+      "native_size": 5,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11547,
+      "native_size": 5,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11548,
+      "native_size": 5,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11774,
+      "native_size": 3,
+      "native_eligibility": 1
+    }
+  ],
+  "new_runtime_execution_verified": false,
+  "previous_v44_air_phase": {
+    "sorties": 792,
+    "ground_attack_and_interdiction_observed": true
+  },
+  "limitations": [
+    "The native cached naval-area gate is verified offline; successful launch and landing after the repair remain pending native UI execution.",
+    "All seven airdrop targets are optional plans. They do not represent seven historically simultaneous first-wave drops.",
+    "Native unit eligibility is verified offline, not a full transport-capacity/mission-launch simulation.",
+    "Seven unique planned targets and at most two planned divisions per invasion beach avoid planned overstacking. Native scatter and commando placement can alter final positions.",
+    "HQs still require onward transport for attached support units to participate within five hexes."
+  ]
+}

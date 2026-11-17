@@ -1,70 +1,171 @@
 {
+  "version": "v0.9.45",
   "plans": [
     {
-      "unit": 11544,
+      "id": 11542,
+      "name": "1/82nd",
       "target": [
-        149,
+        147,
         293
       ],
-      "supporting_tf": 13061,
-      "historical_role": "HUSKY I: 505th PIR combat team, Piano Lupo / east of Gela, night9-10 July1943",
-      "abstraction": "Existing3/82nd division-third represents the initial US airborne assault, not a newly reconstructed505th RCT.",
-      "before_target": [
-        149,
+      "prep": 50,
+      "supporting_tf": 13055,
+      "supporting_landing": [
+        146,
         293
       ],
-      "supporting_invasion_target": [
-        149,
-        294
-      ],
-      "native_terrain_code": 1,
-      "airborne_prep": 50,
-      "adjacent_to_current_tf_target": true
+      "role": "Optional reserve plan",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
     },
     {
-      "unit": 11548,
+      "id": 11543,
+      "name": "2/82nd",
+      "target": [
+        148,
+        293
+      ],
+      "prep": 50,
+      "supporting_tf": 13058,
+      "supporting_landing": [
+        149,
+        293
+      ],
+      "role": "Optional reserve plan",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11544,
+      "name": "3/82nd",
+      "target": [
+        150,
+        294
+      ],
+      "prep": 50,
+      "supporting_tf": 13061,
+      "supporting_landing": [
+        149,
+        294
+      ],
+      "role": "Initial US airborne assault abstraction; moved off the invasion beach",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11546,
+      "name": "1/1st",
+      "target": [
+        153,
+        294
+      ],
+      "prep": 50,
+      "supporting_tf": 13070,
+      "supporting_landing": [
+        153,
+        295
+      ],
+      "role": "Optional reserve plan",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11547,
+      "name": "2/1st",
+      "target": [
+        152,
+        295
+      ],
+      "prep": 50,
+      "supporting_tf": 13070,
+      "supporting_landing": [
+        153,
+        295
+      ],
+      "role": "Optional reserve plan; avoids Canadian commando landing space",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11548,
+      "name": "3/1st",
       "target": [
         154,
         294
       ],
+      "prep": 50,
       "supporting_tf": 13067,
-      "historical_role": "LADBROKE: 1st Airlanding Brigade, Ponte Grande / south of Syracuse, night9-10 July1943",
-      "abstraction": "Existing3/1st brigade-sized division-third uses native airborne rules to abstract a historical glider assault; no new glider simulation is created.",
-      "before_target": [
-        154,
-        294
-      ],
-      "supporting_invasion_target": [
+      "supporting_landing": [
         154,
         293
       ],
-      "native_terrain_code": 3,
-      "airborne_prep": 50,
-      "adjacent_to_current_tf_target": true
+      "role": "Ladbroke glider-assault abstraction",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
+    },
+    {
+      "id": 11774,
+      "name": "509th",
+      "target": [
+        147,
+        292
+      ],
+      "prep": 50,
+      "supporting_tf": 13055,
+      "supporting_landing": [
+        146,
+        293
+      ],
+      "role": "Optional509th reserve plan; not a historical Husky drop",
+      "not_on_invasion_beach": true,
+      "enemy_combat_unit_initially_present": false
     }
   ],
-  "checks": {
-    "only_airborne_target_coordinates_changed": true,
-    "existing_invasion_targets_preserved": true,
-    "opening_invasion_adjacency_enforced": true,
-    "both_targets_on_clear_or_rough_land": true,
-    "no_launch_flags_or_preparation_points_changed": true
-  },
-  "byte_proof": {
-    "changed_bytes": 0,
-    "all_other_bytes_identical": true,
-    "source_sha256": "357c589b3c1fafecdd5c5dfb63f3a6d7c1161ca68cdbeb0a0d982ab72858aa77",
-    "result_sha256": "357c589b3c1fafecdd5c5dfb63f3a6d7c1161ca68cdbeb0a0d982ab72858aa77"
-  },
+  "native_eligibility": [
+    {
+      "id": 11542,
+      "native_size": 3,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11543,
+      "native_size": 3,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11544,
+      "native_size": 3,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11546,
+      "native_size": 5,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11547,
+      "native_size": 5,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11548,
+      "native_size": 5,
+      "native_eligibility": 1
+    },
+    {
+      "id": 11774,
+      "native_size": 3,
+      "native_eligibility": 1
+    }
+  ],
+  "policy": "All seven deployed detachments receive optional T1 plans at user request; not all are historical9-10July assault formations.",
+  "limits": [
+    "All seven airdrop targets are optional plans. They do not represent seven historically simultaneous first-wave drops.",
+    "Native unit eligibility is verified offline, not a full transport-capacity/mission-launch simulation.",
+    "Seven unique planned targets and at most two planned divisions per invasion beach avoid planned overstacking. Native scatter and commando placement can alter final positions."
+  ],
   "sources": [
     "https://history.army.mil/portals/143/Images/Publications/catalog/6-2.pdf",
-    "https://www.army.mod.uk/media/10745/bar-special-report-italian-campaign.pdf"
-  ],
-  "limits": [
-    "Hexes are approximations at game-map scale, not precise historical drop-zone coordinates.",
-    "The British glider operation is abstracted through the existing airborne system.",
-    "Player must order the supporting amphibious invasion and launch the airdrop; target presets do not validate aircraft capacity or trigger a launch.",
-    "The13 July Primosole operation and later airborne campaigns are not automatically scheduled."
-  ],
-  "version": "v0.9.44"
+    "https://publications.gc.ca/collections/collection_2024/mdn-dnd/d12/D12-11-5-8-eng.pdf"
+  ]
 }

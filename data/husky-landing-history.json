@@ -1,0 +1,164 @@
+{
+  "version": "v0.9.45",
+  "assault_divisions": 7,
+  "independent_brigades": 1,
+  "main_bodies": [
+    {
+      "id": 11585,
+      "name": "3rd US Infantry Division",
+      "target": [
+        146,
+        293
+      ],
+      "tf": 13055,
+      "prep": 49,
+      "main_body_stored_men": 15430
+    },
+    {
+      "id": 11583,
+      "name": "1st US Infantry Division",
+      "target": [
+        149,
+        293
+      ],
+      "tf": 13058,
+      "prep": 49,
+      "main_body_stored_men": 15430
+    },
+    {
+      "id": 11599,
+      "name": "45th US Infantry Division",
+      "target": [
+        149,
+        294
+      ],
+      "tf": 13061,
+      "prep": 49,
+      "main_body_stored_men": 15430
+    },
+    {
+      "id": 11642,
+      "name": "51st BR Infantry Division",
+      "target": [
+        154,
+        296
+      ],
+      "tf": 13064,
+      "prep": 49,
+      "main_body_stored_men": 17398
+    },
+    {
+      "id": 11650,
+      "name": "1st CA Infantry Division",
+      "target": [
+        154,
+        296
+      ],
+      "tf": 13064,
+      "prep": 49,
+      "main_body_stored_men": 17398
+    },
+    {
+      "id": 11636,
+      "name": "5th BR Infantry Division",
+      "target": [
+        154,
+        293
+      ],
+      "tf": 13067,
+      "prep": 49,
+      "main_body_stored_men": 17398
+    },
+    {
+      "id": 11641,
+      "name": "50th BR Infantry Division",
+      "target": [
+        153,
+        295
+      ],
+      "tf": 13070,
+      "prep": 49,
+      "main_body_stored_men": 17398
+    },
+    {
+      "id": 11784,
+      "name": "231st BR Infantry Brigade",
+      "target": [
+        153,
+        295
+      ],
+      "tf": 13070,
+      "prep": 49,
+      "main_body_stored_men": 3788
+    }
+  ],
+  "attachments": [
+    {
+      "id": 11771,
+      "name": "1/6615 US Ranger Force Regiment",
+      "parent": 13058,
+      "stored_men": 1055
+    },
+    {
+      "id": 11772,
+      "name": "2/6615 US Ranger Force Regiment",
+      "parent": 13055,
+      "stored_men": 995
+    },
+    {
+      "id": 11773,
+      "name": "3/6615 US Ranger Force Regiment",
+      "parent": 13058,
+      "stored_men": 995
+    },
+    {
+      "id": 11811,
+      "name": "No. 3 BR Army Commando",
+      "parent": 13067,
+      "stored_men": 590
+    },
+    {
+      "id": 11812,
+      "name": "No. 40 BR Royal Marine Commando",
+      "parent": 13064,
+      "stored_men": 530
+    },
+    {
+      "id": 11813,
+      "name": "No. 41 BR Royal Marine Commando",
+      "parent": 13064,
+      "stored_men": 530
+    },
+    {
+      "id": 11833,
+      "name": "70th US Tank Battalion",
+      "parent": 11583,
+      "stored_men": 720
+    },
+    {
+      "id": 11856,
+      "name": "753rd US Tank Battalion",
+      "parent": 11599,
+      "stored_men": 720
+    },
+    {
+      "id": 12168,
+      "name": "404th US Combat Engineer Battalion",
+      "parent": 11583,
+      "stored_men": 666
+    }
+  ],
+  "main_body_stored_men": 119670,
+  "note": "Seven assault divisions and231st Malta Brigade match the major historical landing formations. Stored main-body personnel exclude attached support, HQs, airborne, naval personnel and later echelons; not a like-for-like comparison with all-theater/D-day totals.",
+  "limits": [
+    "Weekly whole-division counters do not distinguish every D-day assault regiment from its follow-up echelon.",
+    "The2nd Armored Division combat command and detailed commando battalion allocations are not fully reconstructed. No entire armored division is added to the first assault.",
+    "Inherited WiTW special-service abstractions are listed separately; not certified as a complete archival battalion-level roster.",
+    "The seven optional airdrop plans are player alternatives, not a claim all seven formations parachuted on9-10July1943."
+  ],
+  "sources": [
+    "https://history.army.mil/portals/143/Images/Publications/catalog/6-2.pdf",
+    "https://publications.gc.ca/collections/collection_2024/mdn-dnd/d12/D12-11-5-8-eng.pdf",
+    "https://achh.army.mil/history/book-wwii-medsvcsinmedtrnmnrthrtrs-chapter4/"
+  ]
+}

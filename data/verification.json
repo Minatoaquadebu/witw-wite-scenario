@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.44",
+  "version": "v0.9.45",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "416b28defec075c254a98047b0ffac562ada2554cd4ce10ab1390ece915293b0",
+  "scenario_sha256": "57f163e62a5c90575fc806b7ed47d46a37c93edd4a89d63396769885754bb0bf",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -184,5 +184,42 @@
   "first_turn_air_v43_recon_execution_observed": true,
   "opening_ground_attack_runtime_verified": false,
   "new_temporary_port_runtime_verified": false,
-  "hq_forward_transport_within_five_hexes_verified": false
+  "hq_forward_transport_within_five_hexes_verified": false,
+  "husky45_static_checks": {
+    "western_active_onmap_overstacks_zero": true,
+    "seven_unique_optional_airborne_targets": true,
+    "airborne_not_on_invasion_beaches": true,
+    "all_targets_adjacent_to_supporting_assault": true,
+    "no_airborne_target_initially_occupied_by_enemy_combat_unit": true,
+    "native_naval_area_gate_returns11": true,
+    "unit_attack_areas_focus_on_german_units": true,
+    "split_unit_attack_groups_disjoint": true,
+    "all_other_bytes_identical": true
+  },
+  "native_sea_area_after_repair": 11,
+  "all_seven_native_airborne_eligibility_pass": true,
+  "previous_v44_ground_attack_runtime_observed": true,
+  "previous_v44_air_sorties": 792,
+  "new_focused_air_orders_runtime_verified": false,
+  "corrected_tf81_launch_runtime_verified": false,
+  "seven_optional_airdrop_launches_runtime_verified": false,
+  "comprehensive_husky45_static_checks": {
+    "all6_assault_hqs_and8_main_units_paired_prepared_with_valid_sea_approaches": true,
+    "all7_optional_drop_targets_unique_and_separate_from_invasion_beaches": true,
+    "western_active_map_stacks_at_most3_axis_positions_preserved": true,
+    "adjacent_commando_drop_planned_combination_at_most3_before_random_scatter": true,
+    "all16384_units_equipment_morale_experience_stocks_arrivals_hq_types_preserved": true,
+    "all4096_ground_and4096_toe_records_preserved": true,
+    "all_new_attack_groups_active_and_target_radius_caches_consistent": true,
+    "existing_recon_naval_ground_support_orders_preserved": true,
+    "all7_native_airborne_unit_eligibility_checks_pass": true,
+    "continuation_copy_map_links_coordinates_and_stacks_consistent": true,
+    "main_optional_only_title_and_art_differ": true,
+    "checksums_archive_and_both_installed_variants_verified": true,
+    "original_scenario_untouched": true
+  },
+  "comprehensive_check_limits": [
+    "Static and offline native checks; no full live launch/aircraft-capacity/random-scatter simulation.",
+    "Legacy native editor validation was not rerun through the UI; no assertion of zero legacy errors, balanced outcomes or complete Western AI."
+  ]
 }

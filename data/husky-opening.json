@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.44",
+  "version": "v0.9.45",
   "hq_relocations": [
     {
       "id": 11505,
@@ -205,5 +205,7 @@
       "title": "WiTE2 Living Manual, temporary ports and amphibious operations",
       "url": "https://ftp.matrixgames.com/pub/WarInTheEast2/WarintheEast2Chapter25-29.pdf"
     }
-  ]
+  ],
+  "provenance_revision": "v0.9.44",
+  "superseded_fields": "Current HQ position, air orders, coastal cache and drop targets are in husky-followup.json."
 }
