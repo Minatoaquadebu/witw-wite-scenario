@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.40",
+  "version": "v0.9.41",
   "factory_capacity_edits": [
     {
       "city_id": 3057,
@@ -162,5 +162,6 @@
     "all_five_country_gates_eligible": true,
     "added_input_budget_covers_nominal_output_1943_1945": true
   },
-  "revision_note": "Settings retained from the preceding release; historical runtime evidence is not a new full-campaign test."
+  "revision_note": "Settings retained from the preceding release; historical runtime evidence is not a new full-campaign test.",
+  "checks_basis": "Earlier logistics-production revision relative to its source. v0.9.41 intentionally corrects opening stocks of35 active formations; these historical baseline checks do not assert those35 inventories stayed unchanged."
 }

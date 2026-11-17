@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.40",
+  "version": "v0.9.41",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "23c7c01662131e446fcad0ab04fe54f9940db96580a5d367d98dc8b9bb5a447f",
+  "scenario_sha256": "6f7753ad155457987a9eaea6555a4183e4cb4fe34b0389209374ded9c07ec1d2",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -76,5 +76,14 @@
     "source_enum_checked_against_editor_csv": true,
     "original_atlas_pixels_preserved": true,
     "visual_runtime_verified": false
-  }
+  },
+  "opening_stock_checks": {
+    "all35_stock_omissions_restored": true,
+    "all_other_save_bytes_identical": true,
+    "all_air_orders_identical": true,
+    "all_equipment_quantities_and_experience_preserved": true,
+    "no_national_pool_or_production_changes": true,
+    "all_frozen_and_delayed_units_excluded": true
+  },
+  "opening_stock_fix_new_save_runtime_visual_verified": false
 }

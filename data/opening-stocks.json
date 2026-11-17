@@ -1,0 +1,372 @@
+{
+  "version": "v0.9.41",
+  "count": 35,
+  "records": [
+    {
+      "id": 11546,
+      "name": "1/1st",
+      "suffix": "BR Airborne Division",
+      "stocks": {
+        "supply": 133470,
+        "ammo": 178162,
+        "fuel": 22074
+      }
+    },
+    {
+      "id": 11547,
+      "name": "2/1st",
+      "suffix": "BR Airborne Division",
+      "stocks": {
+        "supply": 133470,
+        "ammo": 178162,
+        "fuel": 22074
+      }
+    },
+    {
+      "id": 11548,
+      "name": "3/1st",
+      "suffix": "BR Airborne Division",
+      "stocks": {
+        "supply": 133470,
+        "ammo": 178162,
+        "fuel": 22074
+      }
+    },
+    {
+      "id": 11551,
+      "name": "1st",
+      "suffix": "US Armored Division",
+      "stocks": {
+        "supply": 265844,
+        "ammo": 974614,
+        "fuel": 1036860
+      }
+    },
+    {
+      "id": 11552,
+      "name": "2nd",
+      "suffix": "US Armored Division",
+      "stocks": {
+        "supply": 479006,
+        "ammo": 1782262,
+        "fuel": 1883610
+      }
+    },
+    {
+      "id": 11571,
+      "name": "6th",
+      "suffix": "BR Armoured Division",
+      "stocks": {
+        "supply": 511984,
+        "ammo": 1853044,
+        "fuel": 1463260
+      }
+    },
+    {
+      "id": 11572,
+      "name": "7th",
+      "suffix": "BR Armoured Division",
+      "stocks": {
+        "supply": 447786,
+        "ammo": 1611022,
+        "fuel": 1271410
+      }
+    },
+    {
+      "id": 11579,
+      "name": "1st",
+      "suffix": "PO Armoured Division",
+      "stocks": {
+        "supply": 442542,
+        "ammo": 1557898,
+        "fuel": 1220510
+      }
+    },
+    {
+      "id": 11580,
+      "name": "4th",
+      "suffix": "CA Armoured Division",
+      "stocks": {
+        "supply": 487936,
+        "ammo": 1903840,
+        "fuel": 1887110
+      }
+    },
+    {
+      "id": 11583,
+      "name": "1st",
+      "suffix": "US Infantry Division",
+      "stocks": {
+        "supply": 462980,
+        "ammo": 944098,
+        "fuel": 94410
+      }
+    },
+    {
+      "id": 11585,
+      "name": "3rd",
+      "suffix": "US Infantry Division",
+      "stocks": {
+        "supply": 462980,
+        "ammo": 944098,
+        "fuel": 94410
+      }
+    },
+    {
+      "id": 11589,
+      "name": "9th",
+      "suffix": "US Infantry Division",
+      "stocks": {
+        "supply": 462980,
+        "ammo": 944098,
+        "fuel": 94410
+      }
+    },
+    {
+      "id": 11592,
+      "name": "29th",
+      "suffix": "US Infantry Division",
+      "stocks": {
+        "supply": 462980,
+        "ammo": 944098,
+        "fuel": 94410
+      }
+    },
+    {
+      "id": 11594,
+      "name": "34th",
+      "suffix": "US Infantry Division",
+      "stocks": {
+        "supply": 462980,
+        "ammo": 944098,
+        "fuel": 94410
+      }
+    },
+    {
+      "id": 11596,
+      "name": "36th",
+      "suffix": "US Infantry Division",
+      "stocks": {
+        "supply": 462980,
+        "ammo": 944098,
+        "fuel": 94410
+      }
+    },
+    {
+      "id": 11599,
+      "name": "45th",
+      "suffix": "US Infantry Division",
+      "stocks": {
+        "supply": 462980,
+        "ammo": 944098,
+        "fuel": 94410
+      }
+    },
+    {
+      "id": 11633,
+      "name": "1st",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11634,
+      "name": "3rd",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11635,
+      "name": "4th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11636,
+      "name": "5th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11637,
+      "name": "15th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11638,
+      "name": "43rd",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11639,
+      "name": "46th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11640,
+      "name": "49th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11641,
+      "name": "50th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11642,
+      "name": "51st",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11644,
+      "name": "53rd",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11645,
+      "name": "56th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11646,
+      "name": "59th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11647,
+      "name": "78th",
+      "suffix": "BR Infantry Division",
+      "stocks": {
+        "supply": 541084,
+        "ammo": 1102690,
+        "fuel": 119226
+      }
+    },
+    {
+      "id": 11753,
+      "name": "102nd",
+      "suffix": "US Cavalry Group",
+      "stocks": {
+        "supply": 44772,
+        "ammo": 113062,
+        "fuel": 188210
+      }
+    },
+    {
+      "id": 11774,
+      "name": "509th",
+      "suffix": "US Parachute Regiment",
+      "stocks": {
+        "supply": 50334,
+        "ammo": 109648,
+        "fuel": 15082
+      }
+    },
+    {
+      "id": 11784,
+      "name": "231st",
+      "suffix": "BR Infantry Brigade",
+      "stocks": {
+        "supply": 112844,
+        "ammo": 171616,
+        "fuel": 21546
+      }
+    },
+    {
+      "id": 11793,
+      "name": "156th Sep.",
+      "suffix": "US Infantry Regiment",
+      "stocks": {
+        "supply": 75038,
+        "ammo": 226030,
+        "fuel": 18570
+      }
+    },
+    {
+      "id": 11808,
+      "name": "2nd",
+      "suffix": "BR Special Service Brigade",
+      "stocks": {
+        "supply": 136284,
+        "ammo": 119260,
+        "fuel": 10
+      }
+    }
+  ],
+  "basis": "Native July3 fresh-start ground-phase demand, before any ground turn is ended.",
+  "policy": "One opening allowance equal to100% of fresh-start calculated supply/ammunition/fuel need. Existing nonzero stocks unchanged; no recurring gift, no future/frozen units, no HQ or attached support stocks.",
+  "checks": {
+    "all35_stock_omissions_restored": true,
+    "all_other_save_bytes_identical": true,
+    "all_air_orders_identical": true,
+    "all_equipment_quantities_and_experience_preserved": true,
+    "no_national_pool_or_production_changes": true,
+    "all_frozen_and_delayed_units_excluded": true
+  },
+  "limits": [
+    "Only initial, active, unfrozen map combat formations with wholly missing stocks are repaired.",
+    "Native demand was read after opening air execution; scenario initialization recalculates requirements.",
+    "Ongoing resupply remains dependent on logistics; this is not an additional production or national-pool bonus.",
+    "No preplanned Western air missions are added. A valid flight or immediate Allied airdrop still requires runtime verification."
+  ]
+}

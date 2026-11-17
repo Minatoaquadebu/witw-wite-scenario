@@ -1,4 +1,4 @@
-WITW+WITE v0.9.40
+WITW+WITE v0.9.41
 July 3, 1943 - July 6, 1945 (maximum106 turns)
 
 Historical Overview
@@ -9,8 +9,7 @@ Scenario Overview
 Player2 commands Soviet and Western Allied forces on the WiTE2 map.
 Two human-controlled sides are recommended; Western strategic AI remains
 incomplete. This revision restores the official WiTW1943 campaign's dated
-roster:1010 ground/HQ/airbase and198 air-group arrivals. This is not a claim
-to every historical formation. Normal arrivals and preplaced frozen units
+roster:1010 ground/HQ/airbase and198 air-group arrivals. Opening stocks are supplied to35 active formations. Normal arrivals and preplaced frozen units
 are both used; frozen units are already on-map and absent from arrival lists.
 
 Finite Allied replacement manpower totals625,000 men in24 events. Germany
