@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.42",
+  "version": "v0.9.43",
   "count": 35,
   "records": [
     {
@@ -368,5 +368,6 @@
     "Native demand was read after opening air execution; scenario initialization recalculates requirements.",
     "Ongoing resupply remains dependent on logistics; this is not an additional production or national-pool bonus."
   ],
-  "runtime_evidence": "The user confirmed repaired 50th Division supply and the native temporary motorization button. This does not validate every formation or future supply."
+  "runtime_evidence": "The user confirmed repaired 50th Division supply and the native temporary motorization button. This does not validate every formation or future supply.",
+  "current_value_note": "Earlier revision provenance. Current fuel, additional opening stocks, airborne readiness and ground morale/experience are in opening-readiness.json."
 }

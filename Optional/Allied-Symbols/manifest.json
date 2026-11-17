@@ -1,6 +1,6 @@
 {
-  "version": "v0.9.42",
-  "scenario": "WITW+WITE v0.9.42 Allied Symbols",
+  "version": "v0.9.43",
+  "scenario": "WITW+WITE v0.9.43 Allied Symbols",
   "color": [
     139,
     196,
@@ -6598,8 +6598,8 @@
   "byte_proof": {
     "changed_bytes": 754,
     "all_other_bytes_identical": true,
-    "source_sha256": "357c589b3c1fafecdd5c5dfb63f3a6d7c1161ca68cdbeb0a0d982ab72858aa77",
-    "result_sha256": "6f58e9510a699132d9c57fc9855be7826a136b0d8aad4e6650f566d121065e07"
+    "source_sha256": "ef3fe21d670178894792d0e1a6f78239ce83af10f9c453ee11ee296e4029a988",
+    "result_sha256": "b75e29942279d53a237306cc3c489a3724621cffd684c8f01a18017af16bd33f"
   },
   "checks": {
     "original_pixels_unchanged": true,

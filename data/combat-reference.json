@@ -1,0 +1,412 @@
+{
+  "version": "v0.9.43",
+  "scope": "Pre-revision stored values, official WiTE2 1943 and official WiTW 1943 source scenarios; not an equal-strength combat test.",
+  "before_revision": {
+    "current": [
+      {
+        "id": 3075,
+        "name": "1/HG Fallschirm Nr.1",
+        "suffix": "Panzer Division",
+        "xy": [
+          149,
+          292
+        ],
+        "morale": 85,
+        "exp_min": 84,
+        "exp_max": 86,
+        "element_weighted_exp": 85.12,
+        "ready_elements": 487
+      },
+      {
+        "id": 3163,
+        "name": "2/HG Fallschirm Nr.1",
+        "suffix": "Panzer Division",
+        "xy": [
+          152,
+          290
+        ],
+        "morale": 85,
+        "exp_min": 84,
+        "exp_max": 86,
+        "element_weighted_exp": 85.13,
+        "ready_elements": 455
+      },
+      {
+        "id": 3164,
+        "name": "3/HG Fallschirm Nr.1",
+        "suffix": "Panzer Division",
+        "xy": [
+          149,
+          292
+        ],
+        "morale": 85,
+        "exp_min": 84,
+        "exp_max": 86,
+        "element_weighted_exp": 85.13,
+        "ready_elements": 455
+      },
+      {
+        "id": 3433,
+        "name": "1/15th",
+        "suffix": "Panzergrenadier Division",
+        "xy": [
+          140,
+          289
+        ],
+        "morale": 86,
+        "exp_min": 86,
+        "exp_max": 86,
+        "element_weighted_exp": 86.0,
+        "ready_elements": 256
+      },
+      {
+        "id": 3434,
+        "name": "2/15th",
+        "suffix": "Panzergrenadier Division",
+        "xy": [
+          146,
+          291
+        ],
+        "morale": 86,
+        "exp_min": 86,
+        "exp_max": 86,
+        "element_weighted_exp": 86.0,
+        "ready_elements": 245
+      },
+      {
+        "id": 3435,
+        "name": "3/15th",
+        "suffix": "Panzergrenadier Division",
+        "xy": [
+          148,
+          289
+        ],
+        "morale": 86,
+        "exp_min": 86,
+        "exp_max": 86,
+        "element_weighted_exp": 86.0,
+        "ready_elements": 245
+      },
+      {
+        "id": 11583,
+        "name": "1st",
+        "suffix": "US Infantry Division",
+        "xy": [
+          64,
+          300
+        ],
+        "morale": 60,
+        "exp_min": 60,
+        "exp_max": 60,
+        "element_weighted_exp": 60.0,
+        "ready_elements": 1467
+      }
+    ],
+    "witw": [
+      {
+        "id": 136,
+        "name": "Hermann Goering",
+        "player": 1,
+        "nation": 1,
+        "ob": 97,
+        "ob_name": "43a Elite",
+        "suffix": "Panzer Division (-)",
+        "type": 1,
+        "xy": [
+          149,
+          292
+        ],
+        "delay": 0,
+        "arrival_xy": [
+          149,
+          291
+        ],
+        "hq": 0,
+        "higher_hq": 33,
+        "morale": 70,
+        "exp_min": 70,
+        "exp_max": 70,
+        "element_weighted_exp": 70.0,
+        "ready_elements": 819
+      },
+      {
+        "id": 151,
+        "name": "1/15th",
+        "player": 1,
+        "nation": 1,
+        "ob": 98,
+        "ob_name": "43a",
+        "suffix": "Panzergrenadier Division",
+        "type": 2,
+        "xy": [
+          140,
+          289
+        ],
+        "delay": 0,
+        "arrival_xy": [
+          141,
+          288
+        ],
+        "hq": 0,
+        "higher_hq": 33,
+        "morale": 75,
+        "exp_min": 75,
+        "exp_max": 75,
+        "element_weighted_exp": 75.0,
+        "ready_elements": 409
+      },
+      {
+        "id": 152,
+        "name": "2/15th",
+        "player": 1,
+        "nation": 1,
+        "ob": 98,
+        "ob_name": "43a",
+        "suffix": "Panzergrenadier Division",
+        "type": 2,
+        "xy": [
+          146,
+          291
+        ],
+        "delay": 0,
+        "arrival_xy": [
+          141,
+          288
+        ],
+        "hq": 0,
+        "higher_hq": 33,
+        "morale": 75,
+        "exp_min": 75,
+        "exp_max": 75,
+        "element_weighted_exp": 75.0,
+        "ready_elements": 409
+      },
+      {
+        "id": 153,
+        "name": "3/15th",
+        "player": 1,
+        "nation": 1,
+        "ob": 98,
+        "ob_name": "43a",
+        "suffix": "Panzergrenadier Division",
+        "type": 2,
+        "xy": [
+          148,
+          289
+        ],
+        "delay": 0,
+        "arrival_xy": [
+          148,
+          289
+        ],
+        "hq": 0,
+        "higher_hq": 33,
+        "morale": 75,
+        "exp_min": 75,
+        "exp_max": 75,
+        "element_weighted_exp": 75.0,
+        "ready_elements": 409
+      },
+      {
+        "id": 437,
+        "name": "Schmalz",
+        "player": 1,
+        "nation": 1,
+        "ob": 703,
+        "ob_name": "43",
+        "suffix": "Panzergrenadier Brigade",
+        "type": 2,
+        "xy": [
+          152,
+          290
+        ],
+        "delay": 0,
+        "arrival_xy": [
+          151,
+          290
+        ],
+        "hq": 0,
+        "higher_hq": 33,
+        "morale": 75,
+        "exp_min": 75,
+        "exp_max": 75,
+        "element_weighted_exp": 75.0,
+        "ready_elements": 883
+      },
+      {
+        "id": 1935,
+        "name": "1st",
+        "player": 2,
+        "nation": 13,
+        "ob": 1310,
+        "ob_name": "43",
+        "suffix": "US Infantry Division",
+        "type": 4,
+        "xy": [
+          64,
+          300
+        ],
+        "delay": 0,
+        "arrival_xy": [
+          64,
+          300
+        ],
+        "hq": 0,
+        "higher_hq": 1857,
+        "morale": 60,
+        "exp_min": 60,
+        "exp_max": 60,
+        "element_weighted_exp": 60.0,
+        "ready_elements": 1467
+      }
+    ],
+    "wite1943": [
+      {
+        "id": 71,
+        "name": "HG Fallschirm",
+        "suffix": "Panzer Corps",
+        "morale": 85,
+        "exp": 85.0,
+        "theater": 7,
+        "delay": 61,
+        "qty": 250
+      },
+      {
+        "id": 168,
+        "name": "101st RHG Command",
+        "suffix": "",
+        "morale": 65,
+        "exp": 65.0,
+        "theater": 8,
+        "delay": 0,
+        "qty": 500
+      },
+      {
+        "id": 169,
+        "name": "102nd RHG Command",
+        "suffix": "",
+        "morale": 75,
+        "exp": 75.0,
+        "theater": 0,
+        "delay": 998,
+        "qty": 500
+      },
+      {
+        "id": 170,
+        "name": "103rd RHG Command",
+        "suffix": "",
+        "morale": 65,
+        "exp": 65.0,
+        "theater": 8,
+        "delay": 0,
+        "qty": 500
+      },
+      {
+        "id": 190,
+        "name": "102nd RHG Command",
+        "suffix": "",
+        "morale": 65,
+        "exp": 65.0,
+        "theater": 8,
+        "delay": 0,
+        "qty": 500
+      },
+      {
+        "id": 367,
+        "name": "1st",
+        "suffix": "Panzer Division",
+        "morale": 81,
+        "exp": 81.0,
+        "theater": 5,
+        "delay": 0,
+        "qty": 1233
+      },
+      {
+        "id": 579,
+        "name": "1st",
+        "suffix": "Panzer Division",
+        "morale": 90,
+        "exp": 90.0,
+        "theater": 0,
+        "delay": 998,
+        "qty": 998
+      },
+      {
+        "id": 580,
+        "name": "3rd",
+        "suffix": "Panzer Division",
+        "morale": 84,
+        "exp": 84.0,
+        "theater": 0,
+        "delay": 0,
+        "qty": 1085
+      },
+      {
+        "id": 584,
+        "name": "6th",
+        "suffix": "Panzer Division",
+        "morale": 85,
+        "exp": 85.0,
+        "theater": 0,
+        "delay": 0,
+        "qty": 1108
+      },
+      {
+        "id": 620,
+        "name": "HG",
+        "suffix": "Fallschirm Nr.2 PzG Division",
+        "morale": 84,
+        "exp": 84.61,
+        "theater": 7,
+        "delay": 59,
+        "qty": 702
+      },
+      {
+        "id": 1045,
+        "name": "HG Fallschirm",
+        "suffix": "Mot. Flak Regiment",
+        "morale": 85,
+        "exp": 85.0,
+        "theater": 7,
+        "delay": 61,
+        "qty": 416
+      },
+      {
+        "id": 1555,
+        "name": "HG Fallschirm",
+        "suffix": "Panzer Pioneer Battalion",
+        "morale": 85,
+        "exp": 85.0,
+        "theater": 0,
+        "delay": 65,
+        "qty": 41
+      },
+      {
+        "id": 3433,
+        "name": "15th",
+        "suffix": "Panzergrenadier Division",
+        "morale": 86,
+        "exp": 86.0,
+        "theater": 2,
+        "delay": 0,
+        "qty": 746
+      },
+      {
+        "id": 3941,
+        "name": "HG E",
+        "suffix": "Sturm Infantry Battalion",
+        "morale": 70,
+        "exp": 70.0,
+        "theater": 5,
+        "delay": 47,
+        "qty": 5
+      }
+    ]
+  },
+  "policy": "Western German records and Eastern Front formations are unchanged. Allied ground quality is a scenario balance calibration; see opening-readiness.json.",
+  "limits": [
+    "WitW Hermann Goering and Schmalz are separate formations; converted HG division thirds cannot be compared one-for-one to the source main body.",
+    "Experience summaries are weighted by ready ground-element count, not manpower.",
+    "Air-ground sortie totals are not equivalent to national aircraft inventory."
+  ]
+}

@@ -1,7 +1,7 @@
-WITW+WITE v0.9.42 Allied Symbols
+WITW+WITE v0.9.43
 July 3, 1943 - July 6, 1945 (maximum 106 turns)
 
-Optional green-symbol version: install accompanying Art/Units files.
+Eastern Front, Western Europe and Mediterranean campaign.
 Player 2 commands Soviet and Western Allied forces. Both sides Human is
 recommended; Western strategic AI is incomplete. Nation 12 preserves
 Western control but shares manpower, vehicles, supplies and leader pools.
@@ -12,13 +12,15 @@ campaign. Some future units are preplaced and frozen. This is not a claim
 to every historical formation. Historical officers are preassigned where
 compatible; later command handovers are incomplete.
 
-Finite manpower and dated overseas equipment/logistics allocations are
-scenario estimates informed by historical shortages, not exact statistics.
+Finite manpower and overseas allocations are scenario estimates.
+Allied opening fuel is filled; ground combat morale/experience is raised.
 Opening stocks are repaired. Six existing airborne division thirds now
 use regiment/brigade TOEs; intact divisions cannot drop as a whole.
 
-Four default Western opening air orders are included. Husky airborne targets are preset; launch remains a player choice. Two airborne
-thirds have 50 preparation points. Actual new air orders and drops still
+Four default Western opening air orders are included. Husky airborne targets
+are preset; launch remains a player choice. Seven active Tunisian airborne
+parts have at least 50 preparation points. Actual new air orders and drops
+still
 need runtime checks.
 
 Native NO EARLY END retains Berlin and expiry endings. The 163 victory

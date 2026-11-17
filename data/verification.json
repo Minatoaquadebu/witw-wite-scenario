@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.42",
+  "version": "v0.9.43",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "3d6cf641c7d87f67051f53f712fbd48b0b4d4bc7c47ef248226cff35dbf83f1e",
+  "scenario_sha256": "036ef00aca6b393b10068ef290a8952ea1ea578d9a4013b8bbfcd4a0a74599f7",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -152,5 +152,19 @@
     "opening_invasion_adjacency_enforced": true,
     "both_targets_on_clear_or_rough_land": true,
     "no_launch_flags_or_preparation_points_changed": true
-  }
+  },
+  "opening_readiness_checks": {
+    "all_soviet_axis_and_unselected_unit_records_identical": true,
+    "all_equipment_quantities_and_fatigue_preserved": true,
+    "all_airgroups_aircraft_and_pilots_preserved": true,
+    "no_models_toes_factory_events_or_national_factors_changed": true,
+    "all_fuel_changes_at_least_native_opening_need_and_no_existing_surplus_removed": true,
+    "all_seven_active_tunisian_airborne_parts_at_least50": true,
+    "three_initial_naval_groups_restored_without_activating_future_duplicates": true
+  },
+  "new_opening_readiness_runtime_verified": false,
+  "quality_balance_runtime_verified": false,
+  "all_seven_tunisian_airborne_parts_initial_prep_at_least50": true,
+  "first_turn_air_v42_observed_sorties": 0,
+  "first_turn_air_v43_execution_verified": false
 }
