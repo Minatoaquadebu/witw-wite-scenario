@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.43",
+  "version": "v0.9.44",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "036ef00aca6b393b10068ef290a8952ea1ea578d9a4013b8bbfcd4a0a74599f7",
+  "scenario_sha256": "416b28defec075c254a98047b0ffac562ada2554cd4ce10ab1390ece915293b0",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -166,5 +166,23 @@
   "quality_balance_runtime_verified": false,
   "all_seven_tunisian_airborne_parts_initial_prep_at_least50": true,
   "first_turn_air_v42_observed_sorties": 0,
-  "first_turn_air_v43_execution_verified": false
+  "first_turn_air_v43_execution_verified": false,
+  "husky_opening_static_checks": {
+    "all_other_bytes_identical": true,
+    "existing_air_directives_unchanged": true,
+    "hq_levels_chains_leaders_unchanged": true,
+    "ground_equipment_quality_stocks_unchanged": true,
+    "eastern_and_axis_units_unchanged": true,
+    "production_events_manpower_vp_unchanged": true,
+    "new_target_clear_coastal_without_city": true,
+    "valletta_regular_stack_at_most_three": true,
+    "native_ground_attack_template_used": true,
+    "assigned_groups_active_western_tactical": true
+  },
+  "husky_opening_runtime_verified": false,
+  "first_turn_air_v43_observed_sorties": 72,
+  "first_turn_air_v43_recon_execution_observed": true,
+  "opening_ground_attack_runtime_verified": false,
+  "new_temporary_port_runtime_verified": false,
+  "hq_forward_transport_within_five_hexes_verified": false
 }

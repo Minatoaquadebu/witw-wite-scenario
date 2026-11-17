@@ -1,0 +1,209 @@
+{
+  "version": "v0.9.44",
+  "hq_relocations": [
+    {
+      "id": 11505,
+      "name": "II US Corps",
+      "before_xy": [
+        62,
+        300
+      ],
+      "after_xy": [
+        150,
+        303
+      ],
+      "before_distance_to_new_beach": 87,
+      "after_distance_to_new_beach": 10,
+      "hq_type": 3,
+      "parent": 11442
+    },
+    {
+      "id": 11442,
+      "name": "Seventh US Army",
+      "before_xy": [
+        69,
+        299
+      ],
+      "after_xy": [
+        150,
+        303
+      ],
+      "before_distance_to_new_beach": 80,
+      "after_distance_to_new_beach": 10,
+      "hq_type": 3,
+      "parent": 11427
+    },
+    {
+      "id": 11427,
+      "name": "15th Army Group",
+      "before_xy": [
+        84,
+        295
+      ],
+      "after_xy": [
+        123,
+        293
+      ],
+      "before_distance_to_new_beach": 65,
+      "after_distance_to_new_beach": 26,
+      "hq_type": 2,
+      "parent": 11419
+    }
+  ],
+  "landing": {
+    "unit_ids": [
+      11583,
+      13058
+    ],
+    "old_target": [
+      148,
+      293
+    ],
+    "new_target": [
+      149,
+      293
+    ],
+    "existing_45th_beach": [
+      149,
+      294
+    ],
+    "native_adjacent": true,
+    "permanent_port_at_new_target": false
+  },
+  "air_orders": [
+    {
+      "slot": 21,
+      "name": "Southern Sicily unit attacks",
+      "mission_code": 5,
+      "air_hq": 11457,
+      "center": [
+        149,
+        292
+      ],
+      "radius": 5,
+      "altitude": 12000,
+      "day_mask": 21,
+      "priorities": {
+        "airfield": 0,
+        "unit": 3,
+        "railway": 0,
+        "port": 0,
+        "ferry": 0,
+        "interdiction": 0,
+        "railyard": 0
+      },
+      "assigned_air_groups": [
+        3178,
+        3180,
+        3182,
+        3183,
+        3184,
+        3195,
+        3201,
+        3205,
+        3210,
+        3213,
+        3219,
+        3251,
+        3257,
+        3346,
+        3350,
+        3353,
+        3365,
+        3387,
+        3534,
+        3537,
+        3570,
+        3571,
+        3578,
+        3582,
+        3595,
+        3600
+      ],
+      "source_airfield": 13944,
+      "runtime_execution_verified": false
+    },
+    {
+      "slot": 22,
+      "name": "Southern Sicily interdiction",
+      "mission_code": 5,
+      "air_hq": 11457,
+      "center": [
+        149,
+        292
+      ],
+      "radius": 5,
+      "altitude": 12000,
+      "day_mask": 42,
+      "priorities": {
+        "airfield": 0,
+        "unit": 0,
+        "railway": 0,
+        "port": 0,
+        "ferry": 0,
+        "interdiction": 3,
+        "railyard": 0
+      },
+      "assigned_air_groups": [
+        3178,
+        3180,
+        3182,
+        3183,
+        3184,
+        3195,
+        3201,
+        3205,
+        3210,
+        3213,
+        3219,
+        3251,
+        3257,
+        3346,
+        3350,
+        3353,
+        3365,
+        3387,
+        3534,
+        3537,
+        3570,
+        3571,
+        3578,
+        3582,
+        3595,
+        3600
+      ],
+      "source_airfield": 13944,
+      "runtime_execution_verified": false
+    }
+  ],
+  "byte_proof": {
+    "changed_bytes": 1027,
+    "all_other_bytes_identical": true
+  },
+  "checks": {
+    "all_other_bytes_identical": true,
+    "existing_air_directives_unchanged": true,
+    "hq_levels_chains_leaders_unchanged": true,
+    "ground_equipment_quality_stocks_unchanged": true,
+    "eastern_and_axis_units_unchanged": true,
+    "production_events_manpower_vp_unchanged": true,
+    "new_target_clear_coastal_without_city": true,
+    "valletta_regular_stack_at_most_three": true,
+    "native_ground_attack_template_used": true,
+    "assigned_groups_active_western_tactical": true
+  },
+  "limitations": [
+    "HQ staging is an operational abstraction. II Corps remains more than five hexes from Sicily; HQ-attached support commitment still requires onward transport after a foothold is secured.",
+    "The temporary port is to be created by a successful native amphibious assault, not pre-created. Keep an amphibious HQ adjacent for logistics checks.",
+    "Ground-attack orders use a retargeted native WiTE2 template. Scheduling, available aircraft and actual sorties remain unverified until native execution.",
+    "This is not a guarantee against retreat or surrender. The precise surrender branch in the supplied battle is unresolved.",
+    "No saved game is altered or destroyed unit resurrected. A new scenario start is required."
+  ],
+  "native_template_reference": "Official WiTE2 1941 Campaign ground-attack directive, slot15; native retargeting configuration, runtime pending.",
+  "sources": [
+    {
+      "title": "WiTE2 Living Manual, temporary ports and amphibious operations",
+      "url": "https://ftp.matrixgames.com/pub/WarInTheEast2/WarintheEast2Chapter25-29.pdf"
+    }
+  ]
+}

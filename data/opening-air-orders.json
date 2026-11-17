@@ -128,7 +128,118 @@
     "Only the first-turn omission is addressed. Later AI behavior over the expanded Western map remains unverified.",
     "No airborne drop or amphibious assault is automatically launched."
   ],
-  "version": "v0.9.43",
+  "version": "v0.9.44",
   "first_turn_assistant_rule": "The assistant retains scenario directives during the first air-planning phase of the first player turn.",
-  "rule_source": "https://forums.matrixgames.com/viewtopic.php?t=367329"
+  "rule_source": "https://forums.matrixgames.com/viewtopic.php?t=367329",
+  "additional_ground_attack_orders": [
+    {
+      "slot": 21,
+      "name": "Southern Sicily unit attacks",
+      "mission_code": 5,
+      "air_hq": 11457,
+      "center": [
+        149,
+        292
+      ],
+      "radius": 5,
+      "altitude": 12000,
+      "day_mask": 21,
+      "priorities": {
+        "airfield": 0,
+        "unit": 3,
+        "railway": 0,
+        "port": 0,
+        "ferry": 0,
+        "interdiction": 0,
+        "railyard": 0
+      },
+      "assigned_air_groups": [
+        3178,
+        3180,
+        3182,
+        3183,
+        3184,
+        3195,
+        3201,
+        3205,
+        3210,
+        3213,
+        3219,
+        3251,
+        3257,
+        3346,
+        3350,
+        3353,
+        3365,
+        3387,
+        3534,
+        3537,
+        3570,
+        3571,
+        3578,
+        3582,
+        3595,
+        3600
+      ],
+      "source_airfield": 13944,
+      "runtime_execution_verified": false
+    },
+    {
+      "slot": 22,
+      "name": "Southern Sicily interdiction",
+      "mission_code": 5,
+      "air_hq": 11457,
+      "center": [
+        149,
+        292
+      ],
+      "radius": 5,
+      "altitude": 12000,
+      "day_mask": 42,
+      "priorities": {
+        "airfield": 0,
+        "unit": 0,
+        "railway": 0,
+        "port": 0,
+        "ferry": 0,
+        "interdiction": 3,
+        "railyard": 0
+      },
+      "assigned_air_groups": [
+        3178,
+        3180,
+        3182,
+        3183,
+        3184,
+        3195,
+        3201,
+        3205,
+        3210,
+        3213,
+        3219,
+        3251,
+        3257,
+        3346,
+        3350,
+        3353,
+        3365,
+        3387,
+        3534,
+        3537,
+        3570,
+        3571,
+        3578,
+        3582,
+        3595,
+        3600
+      ],
+      "source_airfield": 13944,
+      "runtime_execution_verified": false
+    }
+  ],
+  "execution_observations": {
+    "previous_v43_first_turn_sorties": 72,
+    "previous_v43_mission": "reconnaissance only",
+    "new_ground_attack_orders_runtime_verified": false
+  }
 }
