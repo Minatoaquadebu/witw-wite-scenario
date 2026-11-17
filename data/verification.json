@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.39",
+  "version": "v0.9.40",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "9c6107cebabc3b7bf8f75e6adab194867334117e4175b72a2c75f83bba59b85b",
+  "scenario_sha256": "23c7c01662131e446fcad0ab04fe54f9940db96580a5d367d98dc8b9bb5a447f",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -61,5 +61,20 @@
   "manpower_event_delivery_runtime_verified": false,
   "optional_symbols_in_game_visual_verified": false,
   "western_strategic_ai_complete": false,
-  "full_campaign_balance_or_long_stability_verified": false
+  "full_campaign_balance_or_long_stability_verified": false,
+  "symbol_mapping_correction": {
+    "version": "v0.9.40",
+    "semantic_checks": {
+      "green_command_HQs": 102,
+      "green_anti_tank_records": 77,
+      "green_combat_engineer_records": 191,
+      "green_rail_HQs": 6,
+      "green_anti_aircraft_records": 405
+    },
+    "main_gameplay_identical_to_v39": true,
+    "all_unit_bytes_unchanged": true,
+    "source_enum_checked_against_editor_csv": true,
+    "original_atlas_pixels_preserved": true,
+    "visual_runtime_verified": false
+  }
 }
