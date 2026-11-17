@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.45",
+  "version": "v0.9.46",
   "reference": "Official WiTW1943-45 Campaign, installed regular campaign (not the additional-air-HQ variant)",
   "source_container_sha256": "c344d48714e26782ae017c6cc8f66ef2c4127afee96d934ceb6c9e467af666c8",
   "scope": "Named Allied records with0<Delay<106. Initial/home/training, split-spare and post-campaign records are outside this completeness metric.",

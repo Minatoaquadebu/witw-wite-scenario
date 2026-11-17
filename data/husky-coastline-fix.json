@@ -1,0 +1,329 @@
+{
+  "version": "v0.9.46",
+  "saved_game_copy": false,
+  "root_cause": "Earlier offline checks used shape3 column parity; the actual native board is shape2 row parity.149,293 is inland; the original-1 sea cache was correct.",
+  "board_shape": 2,
+  "old_inland_target": [
+    149,
+    293
+  ],
+  "new_beach": [
+    147,
+    293
+  ],
+  "new_approach": [
+    147,
+    294
+  ],
+  "inland_cache_restored": -1,
+  "new_beach_original_sea_area": 11,
+  "landings": {
+    "13055": {
+      "target": [
+        146,
+        293
+      ],
+      "sea_approach": [
+        146,
+        294
+      ]
+    },
+    "13058": {
+      "target": [
+        147,
+        293
+      ],
+      "sea_approach": [
+        147,
+        294
+      ]
+    },
+    "13061": {
+      "target": [
+        149,
+        294
+      ],
+      "sea_approach": [
+        148,
+        295
+      ]
+    },
+    "13064": {
+      "target": [
+        154,
+        296
+      ],
+      "sea_approach": [
+        154,
+        297
+      ]
+    },
+    "13067": {
+      "target": [
+        154,
+        293
+      ],
+      "sea_approach": [
+        155,
+        293
+      ]
+    },
+    "13070": {
+      "target": [
+        153,
+        295
+      ],
+      "sea_approach": [
+        154,
+        295
+      ]
+    }
+  },
+  "airborne_plans": [
+    {
+      "id": 11542,
+      "target": [
+        146,
+        292
+      ],
+      "supporting_tf": 13055,
+      "role": "Optional reserve plan; moved off the new TF81 beach"
+    },
+    {
+      "id": 11543,
+      "target": [
+        148,
+        293
+      ],
+      "supporting_tf": 13058,
+      "role": "Optional reserve plan"
+    },
+    {
+      "id": 11544,
+      "target": [
+        149,
+        293
+      ],
+      "supporting_tf": 13061,
+      "role": "Initial US505th combat-team abstraction; original inland Gela/Piano Lupo area"
+    },
+    {
+      "id": 11546,
+      "target": [
+        153,
+        294
+      ],
+      "supporting_tf": 13070,
+      "role": "Optional reserve plan"
+    },
+    {
+      "id": 11547,
+      "target": [
+        152,
+        295
+      ],
+      "supporting_tf": 13070,
+      "role": "Optional reserve plan; avoids Canadian commando landing space"
+    },
+    {
+      "id": 11548,
+      "target": [
+        154,
+        294
+      ],
+      "supporting_tf": 13067,
+      "role": "Ladbroke glider-assault abstraction"
+    },
+    {
+      "id": 11774,
+      "target": [
+        147,
+        292
+      ],
+      "supporting_tf": 13055,
+      "role": "Optional509th reserve plan; not a historical Husky drop"
+    }
+  ],
+  "checks": {
+    "all6_approaches_adjacent_under_native_shape2": true,
+    "all7_drop_plans_adjacent_under_native_shape2": true,
+    "new_beach_has_original_valid_coastal_area": true,
+    "no_terrain_or_ownership_change": true,
+    "no_inland_coastal_override": true,
+    "no_drop_on_invasion_beach": true,
+    "all7_drop_targets_unique": true,
+    "western_active_regular_stacks_within_three": true,
+    "all_other_bytes_identical": true
+  },
+  "byte_proof": {
+    "changed_bytes": 11,
+    "all_other_bytes_identical": true
+  },
+  "runtime_launch_verified": false,
+  "native_geometry": {
+    "board_shape": 2,
+    "initialization_addresses": [
+      "0x11805b5",
+      "0x119474c"
+    ],
+    "constructor_shape_store": "0x1265c00",
+    "neighbor_function": "0x1265720",
+    "naval_area_function": "0x1135940",
+    "rejected_inland_target": {
+      "xy": [
+        149,
+        293
+      ],
+      "neighbors": [
+        [
+          150,
+          293
+        ],
+        [
+          150,
+          294
+        ],
+        [
+          149,
+          294
+        ],
+        [
+          148,
+          293
+        ],
+        [
+          149,
+          292
+        ],
+        [
+          150,
+          292
+        ]
+      ],
+      "stored_area": {
+        "result": -1,
+        "cached_after": -1
+      },
+      "recomputed_area": {
+        "result": 0,
+        "cached_after": -1
+      }
+    },
+    "actual_coastal_target": {
+      "xy": [
+        147,
+        293
+      ],
+      "neighbors": [
+        [
+          148,
+          293
+        ],
+        [
+          148,
+          294
+        ],
+        [
+          147,
+          294
+        ],
+        [
+          146,
+          293
+        ],
+        [
+          147,
+          292
+        ],
+        [
+          148,
+          292
+        ]
+      ],
+      "stored_area": {
+        "result": 11,
+        "cached_after": 11
+      },
+      "recomputed_area": {
+        "result": 11,
+        "cached_after": 11
+      }
+    },
+    "all6_landing_approaches_native_verified": [
+      {
+        "tf": 13055,
+        "target": [
+          146,
+          293
+        ],
+        "approach": [
+          146,
+          294
+        ]
+      },
+      {
+        "tf": 13058,
+        "target": [
+          147,
+          293
+        ],
+        "approach": [
+          147,
+          294
+        ]
+      },
+      {
+        "tf": 13061,
+        "target": [
+          149,
+          294
+        ],
+        "approach": [
+          148,
+          295
+        ]
+      },
+      {
+        "tf": 13064,
+        "target": [
+          154,
+          296
+        ],
+        "approach": [
+          154,
+          297
+        ]
+      },
+      {
+        "tf": 13067,
+        "target": [
+          154,
+          293
+        ],
+        "approach": [
+          155,
+          293
+        ]
+      },
+      {
+        "tf": 13070,
+        "target": [
+          153,
+          295
+        ],
+        "approach": [
+          154,
+          295
+        ]
+      }
+    ],
+    "all7_airborne_adjacencies_native_verified": true,
+    "wrong_shape3_prior_checks_invalidated": true,
+    "live_launch_verified": false
+  },
+  "limits": [
+    "The native initialization, neighbors and coastal area are verified offline using shape2. Actual user launch and landing remain pending.",
+    "Aircraft capacity, airborne scatter and battle outcomes are not simulated by these checks.",
+    "Prior shape3 geometry checks and the v45 coastal override are invalidated, not independent confirmations."
+  ]
+}

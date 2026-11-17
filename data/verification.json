@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.45",
+  "version": "v0.9.46",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "57f163e62a5c90575fc806b7ed47d46a37c93edd4a89d63396769885754bb0bf",
+  "scenario_sha256": "2622d015713b5e6575fab1ebfb657b64a365bedad04edab7051e9712f246c3ff",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -167,43 +167,40 @@
   "all_seven_tunisian_airborne_parts_initial_prep_at_least50": true,
   "first_turn_air_v42_observed_sorties": 0,
   "first_turn_air_v43_execution_verified": false,
-  "husky_opening_static_checks": {
-    "all_other_bytes_identical": true,
-    "existing_air_directives_unchanged": true,
-    "hq_levels_chains_leaders_unchanged": true,
-    "ground_equipment_quality_stocks_unchanged": true,
-    "eastern_and_axis_units_unchanged": true,
-    "production_events_manpower_vp_unchanged": true,
-    "new_target_clear_coastal_without_city": true,
-    "valletta_regular_stack_at_most_three": true,
-    "native_ground_attack_template_used": true,
-    "assigned_groups_active_western_tactical": true
-  },
   "husky_opening_runtime_verified": false,
   "first_turn_air_v43_observed_sorties": 72,
   "first_turn_air_v43_recon_execution_observed": true,
   "opening_ground_attack_runtime_verified": false,
   "new_temporary_port_runtime_verified": false,
   "hq_forward_transport_within_five_hexes_verified": false,
-  "husky45_static_checks": {
-    "western_active_onmap_overstacks_zero": true,
-    "seven_unique_optional_airborne_targets": true,
-    "airborne_not_on_invasion_beaches": true,
-    "all_targets_adjacent_to_supporting_assault": true,
-    "no_airborne_target_initially_occupied_by_enemy_combat_unit": true,
-    "native_naval_area_gate_returns11": true,
-    "unit_attack_areas_focus_on_german_units": true,
-    "split_unit_attack_groups_disjoint": true,
-    "all_other_bytes_identical": true
-  },
-  "native_sea_area_after_repair": 11,
   "all_seven_native_airborne_eligibility_pass": true,
   "previous_v44_ground_attack_runtime_observed": true,
   "previous_v44_air_sorties": 792,
   "new_focused_air_orders_runtime_verified": false,
   "corrected_tf81_launch_runtime_verified": false,
   "seven_optional_airdrop_launches_runtime_verified": false,
-  "comprehensive_husky45_static_checks": {
+  "comprehensive_check_limits": [
+    "Static and offline native checks; no full live launch/aircraft-capacity/random-scatter simulation.",
+    "Legacy native editor validation was not rerun through the UI; no assertion of zero legacy errors, balanced outcomes or complete Western AI."
+  ],
+  "coastline46_checks": {
+    "all6_approaches_adjacent_under_native_shape2": true,
+    "all7_drop_plans_adjacent_under_native_shape2": true,
+    "new_beach_has_original_valid_coastal_area": true,
+    "no_terrain_or_ownership_change": true,
+    "no_inland_coastal_override": true,
+    "no_drop_on_invasion_beach": true,
+    "all7_drop_targets_unique": true,
+    "western_active_regular_stacks_within_three": true,
+    "all_other_bytes_identical": true
+  },
+  "actual_native_board_shape": 2,
+  "prior_shape3_geometry_checks_invalidated": true,
+  "old149293_is_inland": true,
+  "old_inland_cache_restored_minus1": true,
+  "new147293_original_coastal_area": 11,
+  "updated_two_airborne_targets_runtime_verified": false,
+  "comprehensive_coastline46_checks": {
     "all6_assault_hqs_and8_main_units_paired_prepared_with_valid_sea_approaches": true,
     "all7_optional_drop_targets_unique_and_separate_from_invasion_beaches": true,
     "western_active_map_stacks_at_most3_axis_positions_preserved": true,
@@ -216,10 +213,8 @@
     "continuation_copy_map_links_coordinates_and_stacks_consistent": true,
     "main_optional_only_title_and_art_differ": true,
     "checksums_archive_and_both_installed_variants_verified": true,
-    "original_scenario_untouched": true
+    "original_scenario_untouched": true,
+    "actual_native_shape2_constructor_and_neighbor_paths_verified": true
   },
-  "comprehensive_check_limits": [
-    "Static and offline native checks; no full live launch/aircraft-capacity/random-scatter simulation.",
-    "Legacy native editor validation was not rerun through the UI; no assertion of zero legacy errors, balanced outcomes or complete Western AI."
-  ]
+  "geometry_validation_scope": "Actual native initialization shape2 and native neighbor function; prior shape3 checks are invalidated. Live launch pending."
 }

@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.45",
+  "version": "v0.9.46",
   "hq_relocations": [
     {
       "id": 11505,
@@ -180,18 +180,6 @@
     "changed_bytes": 1027,
     "all_other_bytes_identical": true
   },
-  "checks": {
-    "all_other_bytes_identical": true,
-    "existing_air_directives_unchanged": true,
-    "hq_levels_chains_leaders_unchanged": true,
-    "ground_equipment_quality_stocks_unchanged": true,
-    "eastern_and_axis_units_unchanged": true,
-    "production_events_manpower_vp_unchanged": true,
-    "new_target_clear_coastal_without_city": true,
-    "valletta_regular_stack_at_most_three": true,
-    "native_ground_attack_template_used": true,
-    "assigned_groups_active_western_tactical": true
-  },
   "limitations": [
     "HQ staging is an operational abstraction. II Corps remains more than five hexes from Sicily; HQ-attached support commitment still requires onward transport after a foothold is secured.",
     "The temporary port is to be created by a successful native amphibious assault, not pre-created. Keep an amphibious HQ adjacent for logistics checks.",
@@ -207,5 +195,18 @@
     }
   ],
   "provenance_revision": "v0.9.44",
-  "superseded_fields": "Current HQ position, air orders, coastal cache and drop targets are in husky-followup.json."
+  "superseded_fields": "Current HQ position, air orders, coastal cache and drop targets are in husky-followup.json.",
+  "validation_status": "Historical provenance only. Prior shape3 geometry checks were incorrect; see husky-coastline-fix.json for the corrected shape2 validation.",
+  "superseded_prior_checks": {
+    "all_other_bytes_identical": true,
+    "existing_air_directives_unchanged": true,
+    "hq_levels_chains_leaders_unchanged": true,
+    "ground_equipment_quality_stocks_unchanged": true,
+    "eastern_and_axis_units_unchanged": true,
+    "production_events_manpower_vp_unchanged": true,
+    "new_target_clear_coastal_without_city": true,
+    "valletta_regular_stack_at_most_three": true,
+    "native_ground_attack_template_used": true,
+    "assigned_groups_active_western_tactical": true
+  }
 }

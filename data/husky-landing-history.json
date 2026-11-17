@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.45",
+  "version": "v0.9.46",
   "assault_divisions": 7,
   "independent_brigades": 1,
   "main_bodies": [
@@ -18,7 +18,7 @@
       "id": 11583,
       "name": "1st US Infantry Division",
       "target": [
-        149,
+        147,
         293
       ],
       "tf": 13058,

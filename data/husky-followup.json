@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.45",
+  "version": "v0.9.46",
   "native_naval_area_evidence": [
     {
       "xy": [
@@ -298,17 +298,6 @@
     ]
   },
   "western_active_overstacks_after": {},
-  "checks": {
-    "western_active_onmap_overstacks_zero": true,
-    "seven_unique_optional_airborne_targets": true,
-    "airborne_not_on_invasion_beaches": true,
-    "all_targets_adjacent_to_supporting_assault": true,
-    "no_airborne_target_initially_occupied_by_enemy_combat_unit": true,
-    "native_naval_area_gate_returns11": true,
-    "unit_attack_areas_focus_on_german_units": true,
-    "split_unit_attack_groups_disjoint": true,
-    "all_other_bytes_identical": true
-  },
   "byte_proof": {
     "changed_bytes": 951,
     "all_other_bytes_identical": true
@@ -361,5 +350,17 @@
     "Native unit eligibility is verified offline, not a full transport-capacity/mission-launch simulation.",
     "Seven unique planned targets and at most two planned divisions per invasion beach avoid planned overstacking. Native scatter and commando placement can alter final positions.",
     "HQs still require onward transport for attached support units to participate within five hexes."
-  ]
+  ],
+  "validation_status": "Historical provenance only. Prior shape3 geometry checks were incorrect; see husky-coastline-fix.json for the corrected shape2 validation.",
+  "superseded_prior_checks": {
+    "western_active_onmap_overstacks_zero": true,
+    "seven_unique_optional_airborne_targets": true,
+    "airborne_not_on_invasion_beaches": true,
+    "all_targets_adjacent_to_supporting_assault": true,
+    "no_airborne_target_initially_occupied_by_enemy_combat_unit": true,
+    "native_naval_area_gate_returns11": true,
+    "unit_attack_areas_focus_on_german_units": true,
+    "split_unit_attack_groups_disjoint": true,
+    "all_other_bytes_identical": true
+  }
 }
