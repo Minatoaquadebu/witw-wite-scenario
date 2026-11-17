@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.41",
+  "version": "v0.9.42",
   "count": 35,
   "records": [
     {
@@ -366,7 +366,7 @@
   "limits": [
     "Only initial, active, unfrozen map combat formations with wholly missing stocks are repaired.",
     "Native demand was read after opening air execution; scenario initialization recalculates requirements.",
-    "Ongoing resupply remains dependent on logistics; this is not an additional production or national-pool bonus.",
-    "No preplanned Western air missions are added. A valid flight or immediate Allied airdrop still requires runtime verification."
-  ]
+    "Ongoing resupply remains dependent on logistics; this is not an additional production or national-pool bonus."
+  ],
+  "runtime_evidence": "The user confirmed repaired 50th Division supply and the native temporary motorization button. This does not validate every formation or future supply."
 }

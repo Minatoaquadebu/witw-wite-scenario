@@ -1,0 +1,134 @@
+{
+  "orders": [
+    {
+      "slot": 17,
+      "name": "Sicily western reconnaissance",
+      "mission_code": 7,
+      "air_hq": 11457,
+      "target_xy": [
+        143,
+        288
+      ],
+      "ground_hq": null,
+      "altitude": 17000,
+      "assigned_air_groups": [
+        3156,
+        3172,
+        3173,
+        3174,
+        3491,
+        3493,
+        3497
+      ],
+      "runtime_execution_verified": false
+    },
+    {
+      "slot": 18,
+      "name": "Sicily eastern reconnaissance",
+      "mission_code": 7,
+      "air_hq": 11457,
+      "target_xy": [
+        154,
+        290
+      ],
+      "ground_hq": null,
+      "altitude": 17000,
+      "assigned_air_groups": [
+        3156,
+        3172,
+        3173,
+        3174,
+        3491,
+        3493,
+        3497
+      ],
+      "runtime_execution_verified": false
+    },
+    {
+      "slot": 19,
+      "name": "Husky approach naval patrol",
+      "mission_code": 9,
+      "air_hq": 11458,
+      "target_xy": [
+        140,
+        299
+      ],
+      "ground_hq": null,
+      "altitude": 9000,
+      "assigned_air_groups": [
+        3249,
+        3675,
+        3676,
+        3677,
+        3691,
+        3707,
+        3714,
+        3716,
+        3717,
+        3718,
+        3719,
+        3720,
+        3722
+      ],
+      "runtime_execution_verified": false
+    },
+    {
+      "slot": 20,
+      "name": "Mediterranean army-group ground support",
+      "mission_code": 1,
+      "air_hq": 11457,
+      "target_xy": null,
+      "ground_hq": 11427,
+      "altitude": 9000,
+      "assigned_air_groups": [
+        3178,
+        3180,
+        3182,
+        3183,
+        3184,
+        3195,
+        3201,
+        3205,
+        3210,
+        3213,
+        3219,
+        3251,
+        3257,
+        3346,
+        3350,
+        3353,
+        3365,
+        3387,
+        3534,
+        3537,
+        3570,
+        3571,
+        3578,
+        3582,
+        3595,
+        3600
+      ],
+      "runtime_execution_verified": false
+    }
+  ],
+  "checks": {
+    "existing_directives_unchanged": true,
+    "no_eastern_groups_assigned_to_western_orders": true,
+    "all_assigned_groups_active_and_based": true,
+    "directive_slot_identities_correct": true
+  },
+  "byte_proof": {
+    "changed_bytes": 874,
+    "all_other_bytes_identical": true,
+    "source_sha256": "8d95abd91c5f8aa99b6539dda60a2183c98e8896c78d9c0eee3fa4822dbc06a3",
+    "result_sha256": "ff2838a9e02c522f29e653f5b257ee324ea5ee9ca0e9a6c2f7449900518a71b6"
+  },
+  "limits": [
+    "Native cached target lists are translated from existing configured orders; execution is not yet verified.",
+    "Only the first-turn omission is addressed. Later AI behavior over the expanded Western map remains unverified.",
+    "No airborne drop or amphibious assault is automatically launched."
+  ],
+  "version": "v0.9.42",
+  "first_turn_assistant_rule": "The assistant retains scenario directives during the first air-planning phase of the first player turn.",
+  "rule_source": "https://forums.matrixgames.com/viewtopic.php?t=367329"
+}

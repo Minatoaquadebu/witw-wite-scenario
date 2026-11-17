@@ -1,35 +1,35 @@
 {
-  "version": "v0.9.41",
+  "version": "v0.9.42",
   "initial_allowance": 100000,
   "monthly_allowances": [
     {
       "event": 5,
       "date": "1943-08-01",
-      "amount": 15000,
+      "amount": 20000,
       "title": "Allied replacement allocation 1943-08"
     },
     {
       "event": 6,
       "date": "1943-09-01",
-      "amount": 15000,
+      "amount": 20000,
       "title": "Allied replacement allocation 1943-09"
     },
     {
       "event": 7,
       "date": "1943-10-01",
-      "amount": 15000,
+      "amount": 20000,
       "title": "Allied replacement allocation 1943-10"
     },
     {
       "event": 10,
       "date": "1943-11-01",
-      "amount": 15000,
+      "amount": 20000,
       "title": "Allied replacement allocation 1943-11"
     },
     {
       "event": 13,
       "date": "1943-12-01",
-      "amount": 15000,
+      "amount": 20000,
       "title": "Allied replacement allocation 1943-12"
     },
     {
@@ -65,83 +65,83 @@
     {
       "event": 19,
       "date": "1944-06-01",
-      "amount": 30000,
+      "amount": 50000,
       "title": "Allied replacement allocation 1944-06"
     },
     {
       "event": 20,
       "date": "1944-07-01",
-      "amount": 30000,
+      "amount": 50000,
       "title": "Allied replacement allocation 1944-07"
     },
     {
       "event": 34,
       "date": "1944-08-01",
-      "amount": 30000,
+      "amount": 50000,
       "title": "Allied replacement allocation 1944-08"
     },
     {
       "event": 50,
       "date": "1944-09-01",
-      "amount": 30000,
+      "amount": 55000,
       "title": "Allied replacement allocation 1944-09"
     },
     {
       "event": 51,
       "date": "1944-10-01",
-      "amount": 20000,
+      "amount": 55000,
       "title": "Allied replacement allocation 1944-10"
     },
     {
       "event": 85,
       "date": "1944-11-01",
-      "amount": 20000,
+      "amount": 55000,
       "title": "Allied replacement allocation 1944-11"
     },
     {
       "event": 89,
       "date": "1944-12-01",
-      "amount": 20000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-12"
     },
     {
       "event": 91,
       "date": "1945-01-01",
-      "amount": 20000,
+      "amount": 65000,
       "title": "Allied replacement allocation 1945-01"
     },
     {
       "event": 92,
       "date": "1945-02-01",
-      "amount": 20000,
+      "amount": 65000,
       "title": "Allied replacement allocation 1945-02"
     },
     {
       "event": 96,
       "date": "1945-03-01",
-      "amount": 20000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1945-03"
     },
     {
       "event": 98,
       "date": "1945-04-01",
-      "amount": 20000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1945-04"
     },
     {
       "event": 99,
       "date": "1945-05-01",
-      "amount": 20000,
+      "amount": 35000,
       "title": "Allied replacement allocation 1945-05"
     },
     {
       "event": 100,
       "date": "1945-06-01",
-      "amount": 20000,
+      "amount": 35000,
       "title": "Allied replacement allocation 1945-06"
     }
   ],
-  "total_allowance": 625000,
+  "total_allowance": 1045000,
   "all_events": [
     {
       "event": 4,
@@ -321,5 +321,16 @@
       "A mod design choice, not a measured monthly historical recruitment series.",
       "Base factors are game settings; actual recruiting depends on ownership, damage and allocation."
     ]
-  }
+  },
+  "previous_total": 625000,
+  "historical_sources": [
+    {
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-E-Logistics2/USA-E-Logistics2-11.html",
+      "basis": "US replacement forecasts, late1944 shortages; not a complete coalition monthly series."
+    },
+    {
+      "url": "https://www.ibiblio.org/hyperwar/USA/USA-E-Logistics2/USA-E-Logistics2-17.html",
+      "basis": "Spring1945 improvement and proposed May diversion of19000 replacements; no extra credit for personnel already represented in units."
+    }
+  ]
 }

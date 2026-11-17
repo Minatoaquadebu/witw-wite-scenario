@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.41",
+  "version": "v0.9.42",
   "model_map": {
     "2548": 1400,
     "2556": 3401,
@@ -224,7 +224,8 @@
     "2659": 1225,
     "2661": 1226,
     "2662": 1227,
-    "2669": 1228
+    "2669": 1228,
+    "2079": 1229
   },
   "type_map": {
     "4": 118,
@@ -1308,5 +1309,559 @@
     "34 foreign-country production sites are represented by18 compatible UK allocations, with the same model capacity totals; not literal factory relocations.",
     "Source ground element2583 uses existing1943 French Rifle Squad2657 as an explicit compatibility substitute.",
     "Eleven source-entry TOE profiles are fixed profiles; later historical handovers are not reconstructed."
+  ],
+  "restored_american_canadian_routes": [
+    {
+      "factory": 5206,
+      "original_model": 2518,
+      "model": 1061,
+      "name": "M4A4 Sherman",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 0,
+      "capacity": 86,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5212,
+      "original_model": 2529,
+      "model": 1166,
+      "name": "M10 3in GMC",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 1,
+      "capacity": 80,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5199,
+      "original_model": 2504,
+      "model": 1159,
+      "name": "M5A1 Stuart",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 2,
+      "capacity": 60,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5222,
+      "original_model": 2547,
+      "model": 1175,
+      "name": "M3A1 White Scout Car",
+      "original_city": 4033,
+      "city": 3162,
+      "slot": 3,
+      "capacity": 54,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5220,
+      "original_model": 2543,
+      "model": 1174,
+      "name": "M16 MGMC",
+      "original_city": 4033,
+      "city": 3162,
+      "slot": 4,
+      "capacity": 52,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5202,
+      "original_model": 2513,
+      "model": 1411,
+      "name": "M4 Sherman",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 5,
+      "capacity": 50,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5203,
+      "original_model": 2514,
+      "model": 1412,
+      "name": "M4A1 Sherman",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 6,
+      "capacity": 33,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5223,
+      "original_model": 2548,
+      "model": 1400,
+      "name": "M8 Greyhound Armored Car",
+      "original_city": 4033,
+      "city": 3162,
+      "slot": 7,
+      "capacity": 33,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5198,
+      "original_model": 2503,
+      "model": 1158,
+      "name": "M3A3 Stuart",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 8,
+      "capacity": 32,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5204,
+      "original_model": 2515,
+      "model": 1060,
+      "name": "M4A2 Sherman",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 9,
+      "capacity": 27,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5224,
+      "original_model": 2549,
+      "model": 1176,
+      "name": "M20 Scout Car",
+      "original_city": 4033,
+      "city": 3162,
+      "slot": 10,
+      "capacity": 25,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5226,
+      "original_model": 2060,
+      "model": 1036,
+      "name": "Staghound I Armored Car",
+      "original_city": 4033,
+      "city": 3162,
+      "slot": 11,
+      "capacity": 23,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5215,
+      "original_model": 2534,
+      "model": 1170,
+      "name": "M8 75mm HMC",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 12,
+      "capacity": 17,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5216,
+      "original_model": 2536,
+      "model": 1172,
+      "name": "M7 105mm HMC",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 13,
+      "capacity": 16,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 4676,
+      "original_model": 2057,
+      "model": 1114,
+      "name": "Sexton",
+      "original_city": 3567,
+      "city": 3162,
+      "slot": 14,
+      "capacity": 15,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5205,
+      "original_model": 2516,
+      "model": 1413,
+      "name": "M4A3 Sherman",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 15,
+      "capacity": 13,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5210,
+      "original_model": 2524,
+      "model": 1163,
+      "name": "M4A3E2 Jumbo",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 16,
+      "capacity": 6,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5225,
+      "original_model": 2552,
+      "model": 1178,
+      "name": "M4A1 Mortar Carrier",
+      "original_city": 4033,
+      "city": 3162,
+      "slot": 17,
+      "capacity": 4,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5211,
+      "original_model": 2526,
+      "model": 1164,
+      "name": "M26 Pershing",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 18,
+      "capacity": 4,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5209,
+      "original_model": 2523,
+      "model": 1162,
+      "name": "M4A3(105) Sherman",
+      "original_city": 4032,
+      "city": 3162,
+      "slot": 19,
+      "capacity": 3,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5201,
+      "original_model": 2506,
+      "model": 1160,
+      "name": "M24 Chaffee",
+      "original_city": 4032,
+      "city": 3163,
+      "slot": 0,
+      "capacity": 2,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5207,
+      "original_model": 2521,
+      "model": 1416,
+      "name": "M4A3(76)W Sherman",
+      "original_city": 4032,
+      "city": 3163,
+      "slot": 1,
+      "capacity": 2,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5208,
+      "original_model": 2522,
+      "model": 1161,
+      "name": "M4(105) Sherman",
+      "original_city": 4032,
+      "city": 3163,
+      "slot": 2,
+      "capacity": 2,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5213,
+      "original_model": 2530,
+      "model": 1167,
+      "name": "M18 76mm GMC",
+      "original_city": 4032,
+      "city": 3163,
+      "slot": 3,
+      "capacity": 2,
+      "official_capacity_retained": true
+    },
+    {
+      "factory": 5214,
+      "original_model": 2531,
+      "model": 1168,
+      "name": "M36 90mm GMC",
+      "original_city": 4032,
+      "city": 3163,
+      "slot": 4,
+      "capacity": 2,
+      "official_capacity_retained": true
+    }
+  ],
+  "private_import_links": [
+    {
+      "model": 1423,
+      "source_model": 2596,
+      "private_source": 1423
+    },
+    {
+      "model": 1014,
+      "source_model": 2513,
+      "private_source": 1411
+    },
+    {
+      "model": 1017,
+      "source_model": 2514,
+      "private_source": 1412
+    },
+    {
+      "model": 1023,
+      "source_model": 2519,
+      "private_source": 1415
+    },
+    {
+      "model": 1027,
+      "source_model": 2515,
+      "private_source": 1060
+    },
+    {
+      "model": 1032,
+      "source_model": 2518,
+      "private_source": 1061
+    },
+    {
+      "model": 1041,
+      "source_model": 2562,
+      "private_source": 1182
+    },
+    {
+      "model": 1046,
+      "source_model": 2074,
+      "private_source": 1046
+    },
+    {
+      "model": 1047,
+      "source_model": 2075,
+      "private_source": 1047
+    },
+    {
+      "model": 1048,
+      "source_model": 2076,
+      "private_source": 1048
+    },
+    {
+      "model": 1049,
+      "source_model": 2077,
+      "private_source": 1049
+    },
+    {
+      "model": 1051,
+      "source_model": 2084,
+      "private_source": 1051
+    },
+    {
+      "model": 1057,
+      "source_model": 2584,
+      "private_source": 1421
+    },
+    {
+      "model": 1058,
+      "source_model": 2060,
+      "private_source": 1036
+    },
+    {
+      "model": 1059,
+      "source_model": 2557,
+      "private_source": 1181
+    },
+    {
+      "model": 1066,
+      "source_model": 2658,
+      "private_source": 1066
+    },
+    {
+      "model": 1077,
+      "source_model": 2503,
+      "private_source": 1158
+    },
+    {
+      "model": 1078,
+      "source_model": 2504,
+      "private_source": 1159
+    },
+    {
+      "model": 1097,
+      "source_model": 2522,
+      "private_source": 1161
+    },
+    {
+      "model": 1098,
+      "source_model": 2031,
+      "private_source": 1032
+    },
+    {
+      "model": 1108,
+      "source_model": 2031,
+      "private_source": 1032
+    },
+    {
+      "model": 1110,
+      "source_model": 2529,
+      "private_source": 1166
+    },
+    {
+      "model": 1111,
+      "source_model": 2053,
+      "private_source": 1110
+    },
+    {
+      "model": 1113,
+      "source_model": 2536,
+      "private_source": 1172
+    },
+    {
+      "model": 1121,
+      "source_model": 2079,
+      "private_source": 1229
+    },
+    {
+      "model": 1122,
+      "source_model": 2081,
+      "private_source": 1122
+    },
+    {
+      "model": 1123,
+      "source_model": 2082,
+      "private_source": 1123
+    },
+    {
+      "model": 1125,
+      "source_model": 2087,
+      "private_source": 1125
+    },
+    {
+      "model": 1142,
+      "source_model": 2062,
+      "private_source": 1037
+    },
+    {
+      "model": 1143,
+      "source_model": 2593,
+      "private_source": 1199
+    },
+    {
+      "model": 1149,
+      "source_model": 2528,
+      "private_source": 1165
+    },
+    {
+      "model": 1154,
+      "source_model": 2005,
+      "private_source": 1077
+    },
+    {
+      "model": 1155,
+      "source_model": 2592,
+      "private_source": 1198
+    },
+    {
+      "model": 1156,
+      "source_model": 2060,
+      "private_source": 1036
+    },
+    {
+      "model": 1187,
+      "source_model": 2575,
+      "private_source": 1186
+    },
+    {
+      "model": 1188,
+      "source_model": 2576,
+      "private_source": 1187
+    },
+    {
+      "model": 1190,
+      "source_model": 2579,
+      "private_source": 1190
+    },
+    {
+      "model": 1191,
+      "source_model": 2580,
+      "private_source": 1191
+    },
+    {
+      "model": 1202,
+      "source_model": 2605,
+      "private_source": 1202
+    },
+    {
+      "model": 1204,
+      "source_model": 2606,
+      "private_source": 1203
+    },
+    {
+      "model": 1207,
+      "source_model": 2513,
+      "private_source": 1411
+    },
+    {
+      "model": 1208,
+      "source_model": 2049,
+      "private_source": 1108
+    },
+    {
+      "model": 1209,
+      "source_model": 2514,
+      "private_source": 1412
+    }
+  ],
+  "removed_duplicate_producers": [
+    6271,
+    6272
+  ],
+  "theatre_availability_gates": [
+    {
+      "model": 1094,
+      "name": "Comet",
+      "before": [
+        1944,
+        9
+      ],
+      "after": [
+        1945,
+        3
+      ]
+    },
+    {
+      "model": 1160,
+      "name": "M24 Chaffee",
+      "before": [
+        1944,
+        4
+      ],
+      "after": [
+        1944,
+        12
+      ]
+    },
+    {
+      "model": 1164,
+      "name": "M26 Pershing",
+      "before": [
+        1944,
+        11
+      ],
+      "after": [
+        1945,
+        2
+      ]
+    }
+  ],
+  "additional_compatible_hubs": [
+    {
+      "id": 3162,
+      "name": "Doncaster",
+      "old_nation": 15,
+      "new_nation": 12,
+      "old_manpower_capacity": 0,
+      "new_manpower_capacity": 0
+    },
+    {
+      "id": 3163,
+      "name": "Wrexham",
+      "old_nation": 15,
+      "new_nation": 12,
+      "old_manpower_capacity": 0,
+      "new_manpower_capacity": 0
+    }
   ]
 }

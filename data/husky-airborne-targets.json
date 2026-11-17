@@ -1,0 +1,70 @@
+{
+  "plans": [
+    {
+      "unit": 11544,
+      "target": [
+        149,
+        293
+      ],
+      "supporting_tf": 13061,
+      "historical_role": "HUSKY I: 505th PIR combat team, Piano Lupo / east of Gela, night9-10 July1943",
+      "abstraction": "Existing3/82nd division-third represents the initial US airborne assault, not a newly reconstructed505th RCT.",
+      "before_target": [
+        149,
+        293
+      ],
+      "supporting_invasion_target": [
+        149,
+        294
+      ],
+      "native_terrain_code": 1,
+      "airborne_prep": 50,
+      "adjacent_to_current_tf_target": true
+    },
+    {
+      "unit": 11548,
+      "target": [
+        154,
+        294
+      ],
+      "supporting_tf": 13067,
+      "historical_role": "LADBROKE: 1st Airlanding Brigade, Ponte Grande / south of Syracuse, night9-10 July1943",
+      "abstraction": "Existing3/1st brigade-sized division-third uses native airborne rules to abstract a historical glider assault; no new glider simulation is created.",
+      "before_target": [
+        154,
+        294
+      ],
+      "supporting_invasion_target": [
+        154,
+        293
+      ],
+      "native_terrain_code": 3,
+      "airborne_prep": 50,
+      "adjacent_to_current_tf_target": true
+    }
+  ],
+  "checks": {
+    "only_airborne_target_coordinates_changed": true,
+    "existing_invasion_targets_preserved": true,
+    "opening_invasion_adjacency_enforced": true,
+    "both_targets_on_clear_or_rough_land": true,
+    "no_launch_flags_or_preparation_points_changed": true
+  },
+  "byte_proof": {
+    "changed_bytes": 0,
+    "all_other_bytes_identical": true,
+    "source_sha256": "357c589b3c1fafecdd5c5dfb63f3a6d7c1161ca68cdbeb0a0d982ab72858aa77",
+    "result_sha256": "357c589b3c1fafecdd5c5dfb63f3a6d7c1161ca68cdbeb0a0d982ab72858aa77"
+  },
+  "sources": [
+    "https://history.army.mil/portals/143/Images/Publications/catalog/6-2.pdf",
+    "https://www.army.mod.uk/media/10745/bar-special-report-italian-campaign.pdf"
+  ],
+  "limits": [
+    "Hexes are approximations at game-map scale, not precise historical drop-zone coordinates.",
+    "The British glider operation is abstracted through the existing airborne system.",
+    "Player must order the supporting amphibious invasion and launch the airdrop; target presets do not validate aircraft capacity or trigger a launch.",
+    "The13 July Primosole operation and later airborne campaigns are not automatically scheduled."
+  ],
+  "version": "v0.9.42"
+}

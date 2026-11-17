@@ -1,6 +1,6 @@
 {
-  "version": "v0.9.41",
-  "scenario": "WITW+WITE v0.9.41 Allied Symbols",
+  "version": "v0.9.42",
+  "scenario": "WITW+WITE v0.9.42 Allied Symbols",
   "color": [
     139,
     196,
@@ -17,7 +17,7 @@
     "113": 227,
     "110": 208
   },
-  "ob_count": 712,
+  "ob_count": 739,
   "referencing_unit_records": 1425,
   "sprite_files": [
     {
@@ -6377,13 +6377,229 @@
       "source_art_index": 103,
       "old_art_index": 0,
       "new_art_index": 123
+    },
+    {
+      "ob": 3245,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3244,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3209,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3190,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3189,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3123,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3122,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3109,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2923,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2917,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2915,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2914,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2892,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2891,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 2886,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3377,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3375,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3373,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3371,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3332,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3306,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3298,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3295,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3291,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3290,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3273,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
+    },
+    {
+      "ob": 3272,
+      "nation": 12,
+      "type": 5,
+      "source_art_index": 104,
+      "old_art_index": 0,
+      "new_art_index": 125
     }
   ],
   "byte_proof": {
-    "changed_bytes": 727,
+    "changed_bytes": 754,
     "all_other_bytes_identical": true,
-    "source_sha256": "83c5564cb6d2b67229e0bad2ca261779274bbe6fddb73d83eb408d12e780a14b",
-    "result_sha256": "951a8b878e5c245bb9abb8e641897e385c1e74a7914b10fc649ec24032d7f267"
+    "source_sha256": "357c589b3c1fafecdd5c5dfb63f3a6d7c1161ca68cdbeb0a0d982ab72858aa77",
+    "result_sha256": "6f58e9510a699132d9c57fc9855be7826a136b0d8aad4e6650f566d121065e07"
   },
   "checks": {
     "original_pixels_unchanged": true,

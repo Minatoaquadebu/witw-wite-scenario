@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.41",
+  "version": "v0.9.42",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "6f7753ad155457987a9eaea6555a4183e4cb4fe34b0389209374ded9c07ec1d2",
+  "scenario_sha256": "3d6cf641c7d87f67051f53f712fbd48b0b4d4bc7c47ef248226cff35dbf83f1e",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -85,5 +85,72 @@
     "no_national_pool_or_production_changes": true,
     "all_frozen_and_delayed_units_excluded": true
   },
-  "opening_stock_fix_new_save_runtime_visual_verified": false
+  "opening_stock_fix_new_save_runtime_visual_verified": false,
+  "support_revision_static_checks": {
+    "all_units_equipment_morale_experience_leaders_and_stocks_identical": true,
+    "all163_victory_records_identical": true,
+    "all_factory_registry_and_city_capacities_match": true,
+    "all24_manpower_events_keep_original_dates_and_occurrence_state": true,
+    "two_city_conversions_add_no_manpower_factory_capacity": true,
+    "all_generic_incremental_inputs_cover_output": true,
+    "existing_national_multipliers_unchanged": true,
+    "all_new_production_routes_pass_native_nationality_gate": true
+  },
+  "airborne_formation_static_checks": {
+    "native_size_below_six": true,
+    "partitioned_toe_totals_equal_original_division": true,
+    "current_equipment_stocks_morale_leaders_unchanged": true,
+    "original_division_toes_unchanged": true,
+    "linked_upgrade_chains_keep_smaller_formation": true
+  },
+  "airborne_native_size_before_after": [
+    {
+      "unit": 11542,
+      "name": "1/82nd",
+      "native_size_before": 9,
+      "native_size_after": 3
+    },
+    {
+      "unit": 11543,
+      "name": "2/82nd",
+      "native_size_before": 9,
+      "native_size_after": 3
+    },
+    {
+      "unit": 11544,
+      "name": "3/82nd",
+      "native_size_before": 9,
+      "native_size_after": 3
+    },
+    {
+      "unit": 11546,
+      "name": "1/1st",
+      "native_size_before": 9,
+      "native_size_after": 5
+    },
+    {
+      "unit": 11547,
+      "name": "2/1st",
+      "native_size_before": 9,
+      "native_size_after": 5
+    },
+    {
+      "unit": 11548,
+      "name": "3/1st",
+      "native_size_before": 9,
+      "native_size_after": 5
+    }
+  ],
+  "new_airborne_drop_runtime_verified": false,
+  "new_opening_air_execution_runtime_verified": false,
+  "phased_production_runtime_verified": false,
+  "opening_50th_supply_and_motorization_user_verified": true,
+  "arrival_aog_renaming_keeps_operational_fields": true,
+  "historical_husky_target_checks": {
+    "only_airborne_target_coordinates_changed": true,
+    "existing_invasion_targets_preserved": true,
+    "opening_invasion_adjacency_enforced": true,
+    "both_targets_on_clear_or_rough_land": true,
+    "no_launch_flags_or_preparation_points_changed": true
+  }
 }

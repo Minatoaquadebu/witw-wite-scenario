@@ -1,0 +1,221 @@
+{
+  "units": [
+    {
+      "unit": 11542,
+      "name": "1/82nd",
+      "old_ob": 3656,
+      "new_ob": 3377,
+      "formation": "regiment",
+      "native_size_before": 9,
+      "native_size_after": 3,
+      "opening_air_prep": 0
+    },
+    {
+      "unit": 11543,
+      "name": "2/82nd",
+      "old_ob": 3656,
+      "new_ob": 3375,
+      "formation": "regiment",
+      "native_size_before": 9,
+      "native_size_after": 3,
+      "opening_air_prep": 0
+    },
+    {
+      "unit": 11544,
+      "name": "3/82nd",
+      "old_ob": 3656,
+      "new_ob": 3373,
+      "formation": "regiment",
+      "native_size_before": 9,
+      "native_size_after": 3,
+      "opening_air_prep": 50
+    },
+    {
+      "unit": 11546,
+      "name": "1/1st",
+      "old_ob": 3532,
+      "new_ob": 3245,
+      "formation": "brigade",
+      "native_size_before": 9,
+      "native_size_after": 5,
+      "opening_air_prep": 0
+    },
+    {
+      "unit": 11547,
+      "name": "2/1st",
+      "old_ob": 3532,
+      "new_ob": 3244,
+      "formation": "brigade",
+      "native_size_before": 9,
+      "native_size_after": 5,
+      "opening_air_prep": 0
+    },
+    {
+      "unit": 11548,
+      "name": "3/1st",
+      "old_ob": 3532,
+      "new_ob": 3209,
+      "formation": "brigade",
+      "native_size_before": 9,
+      "native_size_after": 5,
+      "opening_air_prep": 50
+    }
+  ],
+  "private_toe_records": 27,
+  "mapping": [
+    {
+      "source": 3532,
+      "part": 1,
+      "private": 3245
+    },
+    {
+      "source": 3532,
+      "part": 2,
+      "private": 3244
+    },
+    {
+      "source": 3532,
+      "part": 3,
+      "private": 3209
+    },
+    {
+      "source": 3533,
+      "part": 1,
+      "private": 3190
+    },
+    {
+      "source": 3533,
+      "part": 2,
+      "private": 3189
+    },
+    {
+      "source": 3533,
+      "part": 3,
+      "private": 3123
+    },
+    {
+      "source": 3534,
+      "part": 1,
+      "private": 3122
+    },
+    {
+      "source": 3534,
+      "part": 2,
+      "private": 3109
+    },
+    {
+      "source": 3534,
+      "part": 3,
+      "private": 2923
+    },
+    {
+      "source": 3535,
+      "part": 1,
+      "private": 2917
+    },
+    {
+      "source": 3535,
+      "part": 2,
+      "private": 2915
+    },
+    {
+      "source": 3535,
+      "part": 3,
+      "private": 2914
+    },
+    {
+      "source": 3536,
+      "part": 1,
+      "private": 2892
+    },
+    {
+      "source": 3536,
+      "part": 2,
+      "private": 2891
+    },
+    {
+      "source": 3536,
+      "part": 3,
+      "private": 2886
+    },
+    {
+      "source": 3656,
+      "part": 1,
+      "private": 3377
+    },
+    {
+      "source": 3656,
+      "part": 2,
+      "private": 3375
+    },
+    {
+      "source": 3656,
+      "part": 3,
+      "private": 3373
+    },
+    {
+      "source": 3658,
+      "part": 1,
+      "private": 3371
+    },
+    {
+      "source": 3658,
+      "part": 2,
+      "private": 3332
+    },
+    {
+      "source": 3658,
+      "part": 3,
+      "private": 3306
+    },
+    {
+      "source": 3660,
+      "part": 1,
+      "private": 3298
+    },
+    {
+      "source": 3660,
+      "part": 2,
+      "private": 3295
+    },
+    {
+      "source": 3660,
+      "part": 3,
+      "private": 3291
+    },
+    {
+      "source": 3662,
+      "part": 1,
+      "private": 3290
+    },
+    {
+      "source": 3662,
+      "part": 2,
+      "private": 3273
+    },
+    {
+      "source": 3662,
+      "part": 3,
+      "private": 3272
+    }
+  ],
+  "checks": {
+    "native_size_below_six": true,
+    "partitioned_toe_totals_equal_original_division": true,
+    "current_equipment_stocks_morale_leaders_unchanged": true,
+    "original_division_toes_unchanged": true,
+    "linked_upgrade_chains_keep_smaller_formation": true
+  },
+  "byte_proof": {
+    "changed_bytes": 2168,
+    "all_other_bytes_identical": true,
+    "source_sha256": "ff2838a9e02c522f29e653f5b257ee324ea5ee9ca0e9a6c2f7449900518a71b6",
+    "result_sha256": "8d078e2c44c0e44f7494fa5a0b32cdb8cff98f7d8ff1251fd27d5dd920622657"
+  },
+  "limits": [
+    "Native size helper verified offline; actual staging selection and drop execution still require the combined runtime check.",
+    "These are abstract thirds of each imported division, not reconstructed historical parachute/glider brigade TOEs.",
+    "Intact airborne divisions remain division-sized and may not be dropped as a whole."
+  ],
+  "version": "v0.9.42"
+}

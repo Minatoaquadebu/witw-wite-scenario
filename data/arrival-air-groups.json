@@ -1,0 +1,413 @@
+{
+  "count": 81,
+  "labels": [
+    {
+      "aog": 610,
+      "old": "Allied arrivals 11432 profile 23 wing 1",
+      "name": "RAF Transport Command / CW Transport 1 (arrivals)"
+    },
+    {
+      "aog": 611,
+      "old": "Allied arrivals 11432 profile 23 wing 2",
+      "name": "RAF Transport Command / CW Transport 2 (arrivals)"
+    },
+    {
+      "aog": 612,
+      "old": "Allied arrivals 11432 profile 23 wing 3",
+      "name": "RAF Transport Command / CW Transport 3 (arrivals)"
+    },
+    {
+      "aog": 613,
+      "old": "Allied arrivals 11432 profile 23 wing 4",
+      "name": "RAF Transport Command / CW Transport 4 (arrivals)"
+    },
+    {
+      "aog": 614,
+      "old": "Allied arrivals 11432 profile 24 wing 1",
+      "name": "RAF Transport Command / CW Bomber Tpt 1 (arrivals)"
+    },
+    {
+      "aog": 615,
+      "old": "Allied arrivals 11432 profile 24 wing 2",
+      "name": "RAF Transport Command / CW Bomber Tpt 2 (arrivals)"
+    },
+    {
+      "aog": 616,
+      "old": "Allied arrivals 11433 profile 22 wing 1",
+      "name": "RAF Fighter Command / CW Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 617,
+      "old": "Allied arrivals 11433 profile 22 wing 2",
+      "name": "RAF Fighter Command / CW Fighter 2 (arrivals)"
+    },
+    {
+      "aog": 618,
+      "old": "Allied arrivals 11433 profile 22 wing 3",
+      "name": "RAF Fighter Command / CW Fighter 3 (arrivals)"
+    },
+    {
+      "aog": 619,
+      "old": "Allied arrivals 11433 profile 26 wing 1",
+      "name": "RAF Fighter Command / CW NFighter/Recce 1 (arrivals)"
+    },
+    {
+      "aog": 620,
+      "old": "Allied arrivals 11434 profile 21 wing 1",
+      "name": "RAF Bomber Command / CW Heavy Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 621,
+      "old": "Allied arrivals 11434 profile 21 wing 2",
+      "name": "RAF Bomber Command / CW Heavy Bomber 2 (arrivals)"
+    },
+    {
+      "aog": 622,
+      "old": "Allied arrivals 11434 profile 21 wing 3",
+      "name": "RAF Bomber Command / CW Heavy Bomber 3 (arrivals)"
+    },
+    {
+      "aog": 623,
+      "old": "Allied arrivals 11434 profile 21 wing 4",
+      "name": "RAF Bomber Command / CW Heavy Bomber 4 (arrivals)"
+    },
+    {
+      "aog": 624,
+      "old": "Allied arrivals 11434 profile 21 wing 5",
+      "name": "RAF Bomber Command / CW Heavy Bomber 5 (arrivals)"
+    },
+    {
+      "aog": 625,
+      "old": "Allied arrivals 11434 profile 21 wing 6",
+      "name": "RAF Bomber Command / CW Heavy Bomber 6 (arrivals)"
+    },
+    {
+      "aog": 626,
+      "old": "Allied arrivals 11434 profile 22 wing 1",
+      "name": "RAF Bomber Command / CW Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 627,
+      "old": "Allied arrivals 11434 profile 25 wing 1",
+      "name": "RAF Bomber Command / CW L/M Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 628,
+      "old": "Allied arrivals 11434 profile 25 wing 2",
+      "name": "RAF Bomber Command / CW L/M Bomber 2 (arrivals)"
+    },
+    {
+      "aog": 629,
+      "old": "Allied arrivals 11435 profile 27 wing 1",
+      "name": "RAF Coastal Command / CW Patrol 1 (arrivals)"
+    },
+    {
+      "aog": 630,
+      "old": "Allied arrivals 11435 profile 28 wing 1",
+      "name": "RAF Coastal Command / CW Flying Boat 1 (arrivals)"
+    },
+    {
+      "aog": 631,
+      "old": "Allied arrivals 11435 profile 81 wing 1",
+      "name": "RAF Coastal Command / US Patrol 1 (arrivals)"
+    },
+    {
+      "aog": 632,
+      "old": "Allied arrivals 11436 profile 22 wing 1",
+      "name": "2nd RAF Tactical Air Force / CW Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 633,
+      "old": "Allied arrivals 11436 profile 22 wing 2",
+      "name": "2nd RAF Tactical Air Force / CW Fighter 2 (arrivals)"
+    },
+    {
+      "aog": 634,
+      "old": "Allied arrivals 11436 profile 22 wing 3",
+      "name": "2nd RAF Tactical Air Force / CW Fighter 3 (arrivals)"
+    },
+    {
+      "aog": 635,
+      "old": "Allied arrivals 11436 profile 22 wing 4",
+      "name": "2nd RAF Tactical Air Force / CW Fighter 4 (arrivals)"
+    },
+    {
+      "aog": 636,
+      "old": "Allied arrivals 11436 profile 22 wing 5",
+      "name": "2nd RAF Tactical Air Force / CW Fighter 5 (arrivals)"
+    },
+    {
+      "aog": 637,
+      "old": "Allied arrivals 11452 profile 31 wing 1",
+      "name": "8th US Air Force / US Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 638,
+      "old": "Allied arrivals 11452 profile 31 wing 2",
+      "name": "8th US Air Force / US Fighter 2 (arrivals)"
+    },
+    {
+      "aog": 639,
+      "old": "Allied arrivals 11452 profile 31 wing 3",
+      "name": "8th US Air Force / US Fighter 3 (arrivals)"
+    },
+    {
+      "aog": 640,
+      "old": "Allied arrivals 11452 profile 31 wing 4",
+      "name": "8th US Air Force / US Fighter 4 (arrivals)"
+    },
+    {
+      "aog": 641,
+      "old": "Allied arrivals 11452 profile 34 wing 1",
+      "name": "8th US Air Force / US Heavy Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 642,
+      "old": "Allied arrivals 11452 profile 34 wing 2",
+      "name": "8th US Air Force / US Heavy Bomber 2 (arrivals)"
+    },
+    {
+      "aog": 643,
+      "old": "Allied arrivals 11452 profile 34 wing 3",
+      "name": "8th US Air Force / US Heavy Bomber 3 (arrivals)"
+    },
+    {
+      "aog": 644,
+      "old": "Allied arrivals 11452 profile 34 wing 4",
+      "name": "8th US Air Force / US Heavy Bomber 4 (arrivals)"
+    },
+    {
+      "aog": 645,
+      "old": "Allied arrivals 11452 profile 34 wing 5",
+      "name": "8th US Air Force / US Heavy Bomber 5 (arrivals)"
+    },
+    {
+      "aog": 646,
+      "old": "Allied arrivals 11452 profile 34 wing 6",
+      "name": "8th US Air Force / US Heavy Bomber 6 (arrivals)"
+    },
+    {
+      "aog": 647,
+      "old": "Allied arrivals 11452 profile 34 wing 7",
+      "name": "8th US Air Force / US Heavy Bomber 7 (arrivals)"
+    },
+    {
+      "aog": 648,
+      "old": "Allied arrivals 11452 profile 34 wing 8",
+      "name": "8th US Air Force / US Heavy Bomber 8 (arrivals)"
+    },
+    {
+      "aog": 649,
+      "old": "Allied arrivals 11452 profile 36 wing 1",
+      "name": "8th US Air Force / US Tac Recon 1 (arrivals)"
+    },
+    {
+      "aog": 650,
+      "old": "Allied arrivals 11452 profile 37 wing 1",
+      "name": "8th US Air Force / US Photo Recon 1 (arrivals)"
+    },
+    {
+      "aog": 651,
+      "old": "Allied arrivals 11453 profile 31 wing 1",
+      "name": "9th US Air Force / US Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 652,
+      "old": "Allied arrivals 11453 profile 31 wing 2",
+      "name": "9th US Air Force / US Fighter 2 (arrivals)"
+    },
+    {
+      "aog": 653,
+      "old": "Allied arrivals 11453 profile 31 wing 3",
+      "name": "9th US Air Force / US Fighter 3 (arrivals)"
+    },
+    {
+      "aog": 654,
+      "old": "Allied arrivals 11453 profile 31 wing 4",
+      "name": "9th US Air Force / US Fighter 4 (arrivals)"
+    },
+    {
+      "aog": 655,
+      "old": "Allied arrivals 11453 profile 31 wing 5",
+      "name": "9th US Air Force / US Fighter 5 (arrivals)"
+    },
+    {
+      "aog": 656,
+      "old": "Allied arrivals 11453 profile 31 wing 6",
+      "name": "9th US Air Force / US Fighter 6 (arrivals)"
+    },
+    {
+      "aog": 657,
+      "old": "Allied arrivals 11453 profile 32 wing 1",
+      "name": "9th US Air Force / US Light Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 658,
+      "old": "Allied arrivals 11453 profile 33 wing 1",
+      "name": "9th US Air Force / US Medium Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 659,
+      "old": "Allied arrivals 11453 profile 33 wing 2",
+      "name": "9th US Air Force / US Medium Bomber 2 (arrivals)"
+    },
+    {
+      "aog": 660,
+      "old": "Allied arrivals 11453 profile 36 wing 1",
+      "name": "9th US Air Force / US Tac Recon 1 (arrivals)"
+    },
+    {
+      "aog": 661,
+      "old": "Allied arrivals 11453 profile 36 wing 2",
+      "name": "9th US Air Force / US Tac Recon 2 (arrivals)"
+    },
+    {
+      "aog": 662,
+      "old": "Allied arrivals 11453 profile 37 wing 1",
+      "name": "9th US Air Force / US Photo Recon 1 (arrivals)"
+    },
+    {
+      "aog": 663,
+      "old": "Allied arrivals 11453 profile 37 wing 2",
+      "name": "9th US Air Force / US Photo Recon 2 (arrivals)"
+    },
+    {
+      "aog": 664,
+      "old": "Allied arrivals 11453 profile 38 wing 1",
+      "name": "9th US Air Force / US Combat Mapping 1 (arrivals)"
+    },
+    {
+      "aog": 665,
+      "old": "Allied arrivals 11453 profile 39 wing 1",
+      "name": "9th US Air Force / US Night Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 666,
+      "old": "Allied arrivals 11456 profile 21 wing 1",
+      "name": "Strategic Air Force / CW Heavy Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 667,
+      "old": "Allied arrivals 11456 profile 25 wing 1",
+      "name": "Strategic Air Force / CW L/M Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 668,
+      "old": "Allied arrivals 11456 profile 34 wing 1",
+      "name": "Strategic Air Force / US Heavy Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 669,
+      "old": "Allied arrivals 11456 profile 34 wing 2",
+      "name": "Strategic Air Force / US Heavy Bomber 2 (arrivals)"
+    },
+    {
+      "aog": 670,
+      "old": "Allied arrivals 11456 profile 34 wing 3",
+      "name": "Strategic Air Force / US Heavy Bomber 3 (arrivals)"
+    },
+    {
+      "aog": 671,
+      "old": "Allied arrivals 11456 profile 34 wing 4",
+      "name": "Strategic Air Force / US Heavy Bomber 4 (arrivals)"
+    },
+    {
+      "aog": 672,
+      "old": "Allied arrivals 11456 profile 34 wing 5",
+      "name": "Strategic Air Force / US Heavy Bomber 5 (arrivals)"
+    },
+    {
+      "aog": 673,
+      "old": "Allied arrivals 11457 profile 22 wing 1",
+      "name": "Tactical Air Force / CW Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 674,
+      "old": "Allied arrivals 11457 profile 22 wing 2",
+      "name": "Tactical Air Force / CW Fighter 2 (arrivals)"
+    },
+    {
+      "aog": 675,
+      "old": "Allied arrivals 11457 profile 22 wing 3",
+      "name": "Tactical Air Force / CW Fighter 3 (arrivals)"
+    },
+    {
+      "aog": 676,
+      "old": "Allied arrivals 11457 profile 25 wing 1",
+      "name": "Tactical Air Force / CW L/M Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 677,
+      "old": "Allied arrivals 11457 profile 31 wing 1",
+      "name": "Tactical Air Force / US Fighter 1 (arrivals)"
+    },
+    {
+      "aog": 678,
+      "old": "Allied arrivals 11457 profile 31 wing 2",
+      "name": "Tactical Air Force / US Fighter 2 (arrivals)"
+    },
+    {
+      "aog": 679,
+      "old": "Allied arrivals 11457 profile 33 wing 1",
+      "name": "Tactical Air Force / US Medium Bomber 1 (arrivals)"
+    },
+    {
+      "aog": 680,
+      "old": "Allied arrivals 11457 profile 33 wing 2",
+      "name": "Tactical Air Force / US Medium Bomber 2 (arrivals)"
+    },
+    {
+      "aog": 681,
+      "old": "Allied arrivals 11457 profile 33 wing 3",
+      "name": "Tactical Air Force / US Medium Bomber 3 (arrivals)"
+    },
+    {
+      "aog": 682,
+      "old": "Allied arrivals 11457 profile 37 wing 1",
+      "name": "Tactical Air Force / US Photo Recon 1 (arrivals)"
+    },
+    {
+      "aog": 683,
+      "old": "Allied arrivals 11458 profile 16 wing 1",
+      "name": "Coastal Air Force / WI Patrol/Recon 1 (arrivals)"
+    },
+    {
+      "aog": 684,
+      "old": "Allied arrivals 11458 profile 16 wing 2",
+      "name": "Coastal Air Force / WI Patrol/Recon 2 (arrivals)"
+    },
+    {
+      "aog": 686,
+      "old": "Allied arrivals 11459 profile 35 wing 1",
+      "name": "IX Troop Carrier Command / US Troop Carrier 1 (arrivals)"
+    },
+    {
+      "aog": 687,
+      "old": "Allied arrivals 11459 profile 35 wing 2",
+      "name": "IX Troop Carrier Command / US Troop Carrier 2 (arrivals)"
+    },
+    {
+      "aog": 688,
+      "old": "Allied arrivals 11459 profile 35 wing 3",
+      "name": "IX Troop Carrier Command / US Troop Carrier 3 (arrivals)"
+    },
+    {
+      "aog": 689,
+      "old": "Allied arrivals 11459 profile 35 wing 4",
+      "name": "IX Troop Carrier Command / US Troop Carrier 4 (arrivals)"
+    },
+    {
+      "aog": 690,
+      "old": "Allied arrivals 11460 profile 23 wing 1",
+      "name": "XII Troop Carrier Command / CW Transport 1 (arrivals)"
+    },
+    {
+      "aog": 691,
+      "old": "Allied arrivals 11460 profile 24 wing 1",
+      "name": "XII Troop Carrier Command / CW Bomber Tpt 1 (arrivals)"
+    }
+  ],
+  "all_non_name_fields_preserved": true,
+  "delayed_groups_are_not_current_combat_ready_aircraft": true,
+  "version": "v0.9.42"
+}
