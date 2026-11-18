@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.46",
+  "version": "v0.9.47",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "2622d015713b5e6575fab1ebfb657b64a365bedad04edab7051e9712f246c3ff",
+  "scenario_sha256": "f37fdb0d1fb6513bb1b483175866f937bb9e7dfccc3c0809b18871fa8c9fc946",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -216,5 +216,9 @@
     "original_scenario_untouched": true,
     "actual_native_shape2_constructor_and_neighbor_paths_verified": true
   },
-  "geometry_validation_scope": "Actual native initialization shape2 and native neighbor function; prior shape3 checks are invalidated. Live launch pending."
+  "geometry_validation_scope": "Actual native initialization shape2 and native neighbor function; prior shape3 checks are invalidated. Live launch pending.",
+  "local47_cadres": 113,
+  "local47_support_formations": 79,
+  "local47_support_limits_checked_offline": 77,
+  "local47_combined_campaign_runtime_verified": false
 }

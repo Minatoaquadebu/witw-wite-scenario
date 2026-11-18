@@ -1,0 +1,7 @@
+WITW+WITE v0.9.47
+
+July 1943 to July 1945. Eastern and Western Front campaign. Original scenario by yyuegu. Unofficial continuation. Both sides Human recommended.
+
+113 Western Allied divisions can reform once after permanent exit. The empty cadre enters Soviet Reserves after ten weeks. Set its Max TOE and Refit to draw normal replacements. Set Liverpool (72,158) as Reserve TB Arrival Hex and manually transfer the unit to the map. Reassign the HQ as needed. This arrival hex is shared by the reserve box.
+
+Covered infantry and mountain divisions use the Rifle Division label for a single direct support slot. Support eligibility, range and availability still apply. Permanent exit can also include voluntary disbandment.

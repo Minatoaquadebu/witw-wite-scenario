@@ -1,0 +1,1784 @@
+{
+  "version": "v0.9.47",
+  "rebuild_wait_weeks": 10,
+  "scenario_wide_rebuild_divisions": 113,
+  "reserve_box": "Soviet Reserves",
+  "player_selected_arrival": {
+    "city": "Liverpool",
+    "hex": [
+      72,
+      158
+    ]
+  },
+  "original_divisions": [
+    {
+      "id": 11540,
+      "name": "13th",
+      "ob": 3663,
+      "suffix": "US Airborne Division",
+      "nation": 13,
+      "cadre": 16000,
+      "initial_quality": 55,
+      "trigger_event": 101,
+      "release_event": 102
+    },
+    {
+      "id": 11541,
+      "name": "17th",
+      "ob": 3661,
+      "suffix": "US Airborne Division",
+      "nation": 13,
+      "cadre": 16001,
+      "initial_quality": 55,
+      "trigger_event": 103,
+      "release_event": 111
+    },
+    {
+      "id": 11545,
+      "name": "101st",
+      "ob": 3657,
+      "suffix": "US Airborne Division",
+      "nation": 13,
+      "cadre": 16002,
+      "initial_quality": 55,
+      "trigger_event": 112,
+      "release_event": 115
+    },
+    {
+      "id": 11549,
+      "name": "6th",
+      "ob": 3533,
+      "suffix": "BR Airborne Division",
+      "nation": 15,
+      "cadre": 16003,
+      "initial_quality": 65,
+      "trigger_event": 116,
+      "release_event": 118
+    },
+    {
+      "id": 11551,
+      "name": "1st",
+      "ob": 3613,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16004,
+      "initial_quality": 55,
+      "trigger_event": 124,
+      "release_event": 125
+    },
+    {
+      "id": 11552,
+      "name": "2nd",
+      "ob": 3612,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16005,
+      "initial_quality": 55,
+      "trigger_event": 133,
+      "release_event": 134
+    },
+    {
+      "id": 11553,
+      "name": "3rd",
+      "ob": 3612,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16006,
+      "initial_quality": 55,
+      "trigger_event": 135,
+      "release_event": 137
+    },
+    {
+      "id": 11554,
+      "name": "4th",
+      "ob": 3616,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16007,
+      "initial_quality": 55,
+      "trigger_event": 138,
+      "release_event": 140
+    },
+    {
+      "id": 11555,
+      "name": "5th",
+      "ob": 3626,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16008,
+      "initial_quality": 55,
+      "trigger_event": 141,
+      "release_event": 142
+    },
+    {
+      "id": 11556,
+      "name": "6th",
+      "ob": 3617,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16009,
+      "initial_quality": 55,
+      "trigger_event": 143,
+      "release_event": 144
+    },
+    {
+      "id": 11557,
+      "name": "7th",
+      "ob": 3619,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16010,
+      "initial_quality": 55,
+      "trigger_event": 145,
+      "release_event": 146
+    },
+    {
+      "id": 11558,
+      "name": "8th",
+      "ob": 3623,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16011,
+      "initial_quality": 55,
+      "trigger_event": 147,
+      "release_event": 148
+    },
+    {
+      "id": 11559,
+      "name": "9th",
+      "ob": 3630,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16012,
+      "initial_quality": 55,
+      "trigger_event": 150,
+      "release_event": 151
+    },
+    {
+      "id": 11560,
+      "name": "10th",
+      "ob": 3621,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16013,
+      "initial_quality": 55,
+      "trigger_event": 154,
+      "release_event": 168
+    },
+    {
+      "id": 11561,
+      "name": "11th",
+      "ob": 3630,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16014,
+      "initial_quality": 55,
+      "trigger_event": 170,
+      "release_event": 175
+    },
+    {
+      "id": 11562,
+      "name": "12th",
+      "ob": 3621,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16015,
+      "initial_quality": 55,
+      "trigger_event": 176,
+      "release_event": 177
+    },
+    {
+      "id": 11563,
+      "name": "13th",
+      "ob": 3623,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16016,
+      "initial_quality": 55,
+      "trigger_event": 179,
+      "release_event": 180
+    },
+    {
+      "id": 11564,
+      "name": "14th",
+      "ob": 3623,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16017,
+      "initial_quality": 55,
+      "trigger_event": 182,
+      "release_event": 184
+    },
+    {
+      "id": 11565,
+      "name": "16th",
+      "ob": 3633,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16018,
+      "initial_quality": 55,
+      "trigger_event": 185,
+      "release_event": 186
+    },
+    {
+      "id": 11566,
+      "name": "20th",
+      "ob": 3633,
+      "suffix": "US Armored Division",
+      "nation": 13,
+      "cadre": 16019,
+      "initial_quality": 55,
+      "trigger_event": 187,
+      "release_event": 189
+    },
+    {
+      "id": 11568,
+      "name": "Guards",
+      "ob": 3507,
+      "suffix": "BR Armoured Division",
+      "nation": 15,
+      "cadre": 16020,
+      "initial_quality": 65,
+      "trigger_event": 192,
+      "release_event": 193
+    },
+    {
+      "id": 11569,
+      "name": "1st",
+      "ob": 3512,
+      "suffix": "BR Armoured Division",
+      "nation": 15,
+      "cadre": 16021,
+      "initial_quality": 65,
+      "trigger_event": 194,
+      "release_event": 195
+    },
+    {
+      "id": 11570,
+      "name": "6th",
+      "ob": 3684,
+      "suffix": "SA Armoured Division",
+      "nation": 23,
+      "cadre": 16022,
+      "initial_quality": 60,
+      "trigger_event": 196,
+      "release_event": 198
+    },
+    {
+      "id": 11571,
+      "name": "6th",
+      "ob": 3509,
+      "suffix": "BR Armoured Division",
+      "nation": 15,
+      "cadre": 16023,
+      "initial_quality": 65,
+      "trigger_event": 199,
+      "release_event": 200
+    },
+    {
+      "id": 11572,
+      "name": "7th",
+      "ob": 3506,
+      "suffix": "BR Armoured Division",
+      "nation": 15,
+      "cadre": 16024,
+      "initial_quality": 65,
+      "trigger_event": 201,
+      "release_event": 202
+    },
+    {
+      "id": 11573,
+      "name": "11th",
+      "ob": 3507,
+      "suffix": "BR Armoured Division",
+      "nation": 15,
+      "cadre": 16025,
+      "initial_quality": 65,
+      "trigger_event": 204,
+      "release_event": 210
+    },
+    {
+      "id": 11575,
+      "name": "1st",
+      "ob": 3603,
+      "suffix": "FF Armored Division",
+      "nation": 22,
+      "cadre": 16026,
+      "initial_quality": 55,
+      "trigger_event": 211,
+      "release_event": 216
+    },
+    {
+      "id": 11576,
+      "name": "2nd",
+      "ob": 3603,
+      "suffix": "FF Armored Division",
+      "nation": 22,
+      "cadre": 16027,
+      "initial_quality": 55,
+      "trigger_event": 217,
+      "release_event": 219
+    },
+    {
+      "id": 11577,
+      "name": "5th",
+      "ob": 3603,
+      "suffix": "FF Armored Division",
+      "nation": 22,
+      "cadre": 16028,
+      "initial_quality": 55,
+      "trigger_event": 220,
+      "release_event": 221
+    },
+    {
+      "id": 11579,
+      "name": "1st",
+      "ob": 3594,
+      "suffix": "PO Armoured Division",
+      "nation": 11,
+      "cadre": 16029,
+      "initial_quality": 60,
+      "trigger_event": 222,
+      "release_event": 223
+    },
+    {
+      "id": 11580,
+      "name": "4th",
+      "ob": 3560,
+      "suffix": "CA Armoured Division",
+      "nation": 19,
+      "cadre": 16030,
+      "initial_quality": 70,
+      "trigger_event": 224,
+      "release_event": 225
+    },
+    {
+      "id": 11581,
+      "name": "5th",
+      "ob": 3561,
+      "suffix": "CA Armoured Division",
+      "nation": 19,
+      "cadre": 16031,
+      "initial_quality": 70,
+      "trigger_event": 228,
+      "release_event": 233
+    },
+    {
+      "id": 11583,
+      "name": "1st",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16032,
+      "initial_quality": 55,
+      "trigger_event": 238,
+      "release_event": 239
+    },
+    {
+      "id": 11584,
+      "name": "2nd",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16033,
+      "initial_quality": 55,
+      "trigger_event": 240,
+      "release_event": 247
+    },
+    {
+      "id": 11585,
+      "name": "3rd",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16034,
+      "initial_quality": 55,
+      "trigger_event": 248,
+      "release_event": 250
+    },
+    {
+      "id": 11586,
+      "name": "4th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16035,
+      "initial_quality": 55,
+      "trigger_event": 251,
+      "release_event": 253
+    },
+    {
+      "id": 11587,
+      "name": "5th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16036,
+      "initial_quality": 55,
+      "trigger_event": 257,
+      "release_event": 258
+    },
+    {
+      "id": 11588,
+      "name": "8th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16037,
+      "initial_quality": 55,
+      "trigger_event": 259,
+      "release_event": 261
+    },
+    {
+      "id": 11589,
+      "name": "9th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16038,
+      "initial_quality": 55,
+      "trigger_event": 262,
+      "release_event": 263
+    },
+    {
+      "id": 11590,
+      "name": "26th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16039,
+      "initial_quality": 55,
+      "trigger_event": 264,
+      "release_event": 265
+    },
+    {
+      "id": 11591,
+      "name": "28th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16040,
+      "initial_quality": 55,
+      "trigger_event": 266,
+      "release_event": 267
+    },
+    {
+      "id": 11592,
+      "name": "29th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16041,
+      "initial_quality": 55,
+      "trigger_event": 268,
+      "release_event": 269
+    },
+    {
+      "id": 11593,
+      "name": "30th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16042,
+      "initial_quality": 55,
+      "trigger_event": 270,
+      "release_event": 271
+    },
+    {
+      "id": 11594,
+      "name": "34th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16043,
+      "initial_quality": 55,
+      "trigger_event": 272,
+      "release_event": 273
+    },
+    {
+      "id": 11595,
+      "name": "35th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16044,
+      "initial_quality": 55,
+      "trigger_event": 274,
+      "release_event": 275
+    },
+    {
+      "id": 11596,
+      "name": "36th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16045,
+      "initial_quality": 55,
+      "trigger_event": 276,
+      "release_event": 278
+    },
+    {
+      "id": 11597,
+      "name": "42nd",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16046,
+      "initial_quality": 55,
+      "trigger_event": 279,
+      "release_event": 280
+    },
+    {
+      "id": 11598,
+      "name": "44th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16047,
+      "initial_quality": 55,
+      "trigger_event": 281,
+      "release_event": 282
+    },
+    {
+      "id": 11599,
+      "name": "45th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16048,
+      "initial_quality": 55,
+      "trigger_event": 283,
+      "release_event": 284
+    },
+    {
+      "id": 11600,
+      "name": "63rd",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16049,
+      "initial_quality": 55,
+      "trigger_event": 285,
+      "release_event": 286
+    },
+    {
+      "id": 11601,
+      "name": "65th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16050,
+      "initial_quality": 55,
+      "trigger_event": 287,
+      "release_event": 288
+    },
+    {
+      "id": 11602,
+      "name": "66th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16051,
+      "initial_quality": 55,
+      "trigger_event": 289,
+      "release_event": 290
+    },
+    {
+      "id": 11603,
+      "name": "69th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16052,
+      "initial_quality": 55,
+      "trigger_event": 291,
+      "release_event": 292
+    },
+    {
+      "id": 11604,
+      "name": "70th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16053,
+      "initial_quality": 55,
+      "trigger_event": 293,
+      "release_event": 294
+    },
+    {
+      "id": 11605,
+      "name": "71st",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16054,
+      "initial_quality": 55,
+      "trigger_event": 295,
+      "release_event": 296
+    },
+    {
+      "id": 11606,
+      "name": "75th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16055,
+      "initial_quality": 55,
+      "trigger_event": 297,
+      "release_event": 298
+    },
+    {
+      "id": 11607,
+      "name": "76th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16056,
+      "initial_quality": 55,
+      "trigger_event": 299,
+      "release_event": 300
+    },
+    {
+      "id": 11608,
+      "name": "78th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16057,
+      "initial_quality": 55,
+      "trigger_event": 301,
+      "release_event": 302
+    },
+    {
+      "id": 11609,
+      "name": "79th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16058,
+      "initial_quality": 55,
+      "trigger_event": 303,
+      "release_event": 304
+    },
+    {
+      "id": 11610,
+      "name": "80th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16059,
+      "initial_quality": 55,
+      "trigger_event": 305,
+      "release_event": 306
+    },
+    {
+      "id": 11611,
+      "name": "83rd",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16060,
+      "initial_quality": 55,
+      "trigger_event": 307,
+      "release_event": 308
+    },
+    {
+      "id": 11612,
+      "name": "84th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16061,
+      "initial_quality": 55,
+      "trigger_event": 309,
+      "release_event": 310
+    },
+    {
+      "id": 11613,
+      "name": "85th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16062,
+      "initial_quality": 55,
+      "trigger_event": 311,
+      "release_event": 312
+    },
+    {
+      "id": 11614,
+      "name": "86th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16063,
+      "initial_quality": 55,
+      "trigger_event": 313,
+      "release_event": 314
+    },
+    {
+      "id": 11615,
+      "name": "87th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16064,
+      "initial_quality": 55,
+      "trigger_event": 315,
+      "release_event": 316
+    },
+    {
+      "id": 11616,
+      "name": "88th",
+      "ob": 3669,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16065,
+      "initial_quality": 55,
+      "trigger_event": 317,
+      "release_event": 318
+    },
+    {
+      "id": 11617,
+      "name": "89th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16066,
+      "initial_quality": 55,
+      "trigger_event": 319,
+      "release_event": 320
+    },
+    {
+      "id": 11618,
+      "name": "90th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16067,
+      "initial_quality": 55,
+      "trigger_event": 321,
+      "release_event": 322
+    },
+    {
+      "id": 11619,
+      "name": "91st",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16068,
+      "initial_quality": 55,
+      "trigger_event": 323,
+      "release_event": 324
+    },
+    {
+      "id": 11620,
+      "name": "92nd",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16069,
+      "initial_quality": 55,
+      "trigger_event": 325,
+      "release_event": 327
+    },
+    {
+      "id": 11621,
+      "name": "94th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16070,
+      "initial_quality": 55,
+      "trigger_event": 328,
+      "release_event": 329
+    },
+    {
+      "id": 11622,
+      "name": "95th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16071,
+      "initial_quality": 55,
+      "trigger_event": 330,
+      "release_event": 331
+    },
+    {
+      "id": 11623,
+      "name": "97th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16072,
+      "initial_quality": 55,
+      "trigger_event": 332,
+      "release_event": 333
+    },
+    {
+      "id": 11624,
+      "name": "99th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16073,
+      "initial_quality": 55,
+      "trigger_event": 334,
+      "release_event": 335
+    },
+    {
+      "id": 11625,
+      "name": "100th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16074,
+      "initial_quality": 55,
+      "trigger_event": 336,
+      "release_event": 337
+    },
+    {
+      "id": 11626,
+      "name": "102nd",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16075,
+      "initial_quality": 55,
+      "trigger_event": 338,
+      "release_event": 339
+    },
+    {
+      "id": 11627,
+      "name": "103rd",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16076,
+      "initial_quality": 55,
+      "trigger_event": 340,
+      "release_event": 341
+    },
+    {
+      "id": 11628,
+      "name": "104th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16077,
+      "initial_quality": 55,
+      "trigger_event": 342,
+      "release_event": 343
+    },
+    {
+      "id": 11629,
+      "name": "106th",
+      "ob": 3670,
+      "suffix": "US Infantry Division",
+      "nation": 13,
+      "cadre": 16078,
+      "initial_quality": 55,
+      "trigger_event": 344,
+      "release_event": 345
+    },
+    {
+      "id": 11631,
+      "name": "10th",
+      "ob": 3667,
+      "suffix": "US Mountain Division",
+      "nation": 13,
+      "cadre": 16079,
+      "initial_quality": 55,
+      "trigger_event": 346,
+      "release_event": 347
+    },
+    {
+      "id": 11633,
+      "name": "1st",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16080,
+      "initial_quality": 65,
+      "trigger_event": 348,
+      "release_event": 349
+    },
+    {
+      "id": 11634,
+      "name": "3rd",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16081,
+      "initial_quality": 65,
+      "trigger_event": 350,
+      "release_event": 351
+    },
+    {
+      "id": 11635,
+      "name": "4th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16082,
+      "initial_quality": 65,
+      "trigger_event": 352,
+      "release_event": 353
+    },
+    {
+      "id": 11636,
+      "name": "5th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16083,
+      "initial_quality": 65,
+      "trigger_event": 354,
+      "release_event": 355
+    },
+    {
+      "id": 11637,
+      "name": "15th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16084,
+      "initial_quality": 65,
+      "trigger_event": 356,
+      "release_event": 357
+    },
+    {
+      "id": 11638,
+      "name": "43rd",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16085,
+      "initial_quality": 65,
+      "trigger_event": 358,
+      "release_event": 359
+    },
+    {
+      "id": 11639,
+      "name": "46th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16086,
+      "initial_quality": 65,
+      "trigger_event": 360,
+      "release_event": 361
+    },
+    {
+      "id": 11640,
+      "name": "49th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16087,
+      "initial_quality": 65,
+      "trigger_event": 362,
+      "release_event": 363
+    },
+    {
+      "id": 11641,
+      "name": "50th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16088,
+      "initial_quality": 65,
+      "trigger_event": 364,
+      "release_event": 365
+    },
+    {
+      "id": 11642,
+      "name": "51st",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16089,
+      "initial_quality": 65,
+      "trigger_event": 366,
+      "release_event": 367
+    },
+    {
+      "id": 11643,
+      "name": "52nd",
+      "ob": 3537,
+      "suffix": "BR Air-Portable Division",
+      "nation": 15,
+      "cadre": 16090,
+      "initial_quality": 65,
+      "trigger_event": 368,
+      "release_event": 369
+    },
+    {
+      "id": 11644,
+      "name": "53rd",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16091,
+      "initial_quality": 65,
+      "trigger_event": 370,
+      "release_event": 371
+    },
+    {
+      "id": 11645,
+      "name": "56th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16092,
+      "initial_quality": 65,
+      "trigger_event": 372,
+      "release_event": 373
+    },
+    {
+      "id": 11646,
+      "name": "59th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16093,
+      "initial_quality": 65,
+      "trigger_event": 374,
+      "release_event": 375
+    },
+    {
+      "id": 11647,
+      "name": "78th",
+      "ob": 3539,
+      "suffix": "BR Infantry Division",
+      "nation": 15,
+      "cadre": 16094,
+      "initial_quality": 65,
+      "trigger_event": 376,
+      "release_event": 377
+    },
+    {
+      "id": 11649,
+      "name": "1st",
+      "ob": 3681,
+      "suffix": "BZ Infantry Division",
+      "nation": 25,
+      "cadre": 16095,
+      "initial_quality": 60,
+      "trigger_event": 378,
+      "release_event": 379
+    },
+    {
+      "id": 11650,
+      "name": "1st",
+      "ob": 3570,
+      "suffix": "CA Infantry Division",
+      "nation": 19,
+      "cadre": 16096,
+      "initial_quality": 70,
+      "trigger_event": 380,
+      "release_event": 381
+    },
+    {
+      "id": 11651,
+      "name": "2nd",
+      "ob": 3570,
+      "suffix": "CA Infantry Division",
+      "nation": 19,
+      "cadre": 16097,
+      "initial_quality": 70,
+      "trigger_event": 382,
+      "release_event": 383
+    },
+    {
+      "id": 11652,
+      "name": "3rd",
+      "ob": 3570,
+      "suffix": "CA Infantry Division",
+      "nation": 19,
+      "cadre": 16098,
+      "initial_quality": 70,
+      "trigger_event": 384,
+      "release_event": 385
+    },
+    {
+      "id": 11653,
+      "name": "2nd",
+      "ob": 3584,
+      "suffix": "NZ Mixed Infantry Division",
+      "nation": 28,
+      "cadre": 16099,
+      "initial_quality": 70,
+      "trigger_event": 386,
+      "release_event": 387
+    },
+    {
+      "id": 11654,
+      "name": "3rd",
+      "ob": 3597,
+      "suffix": "PO Infantry Division",
+      "nation": 11,
+      "cadre": 16100,
+      "initial_quality": 60,
+      "trigger_event": 388,
+      "release_event": 389
+    },
+    {
+      "id": 11655,
+      "name": "4th",
+      "ob": 3592,
+      "suffix": "IN Infantry Division",
+      "nation": 20,
+      "cadre": 16101,
+      "initial_quality": 70,
+      "trigger_event": 390,
+      "release_event": 391
+    },
+    {
+      "id": 11656,
+      "name": "5th",
+      "ob": 3597,
+      "suffix": "PO Infantry Division",
+      "nation": 11,
+      "cadre": 16102,
+      "initial_quality": 60,
+      "trigger_event": 392,
+      "release_event": 393
+    },
+    {
+      "id": 11657,
+      "name": "8th",
+      "ob": 3592,
+      "suffix": "IN Infantry Division",
+      "nation": 20,
+      "cadre": 16103,
+      "initial_quality": 70,
+      "trigger_event": 394,
+      "release_event": 395
+    },
+    {
+      "id": 11658,
+      "name": "10th",
+      "ob": 3592,
+      "suffix": "IN Infantry Division",
+      "nation": 20,
+      "cadre": 16104,
+      "initial_quality": 70,
+      "trigger_event": 396,
+      "release_event": 397
+    },
+    {
+      "id": 11660,
+      "name": "1st",
+      "ob": 3604,
+      "suffix": "FF Motorized Division",
+      "nation": 22,
+      "cadre": 16105,
+      "initial_quality": 55,
+      "trigger_event": 398,
+      "release_event": 399
+    },
+    {
+      "id": 11662,
+      "name": "2nd Moroccan",
+      "ob": 3610,
+      "suffix": "FF Infantry Division",
+      "nation": 22,
+      "cadre": 16106,
+      "initial_quality": 55,
+      "trigger_event": 400,
+      "release_event": 401
+    },
+    {
+      "id": 11663,
+      "name": "3rd Algerian",
+      "ob": 3610,
+      "suffix": "FF Infantry Division",
+      "nation": 22,
+      "cadre": 16107,
+      "initial_quality": 55,
+      "trigger_event": 402,
+      "release_event": 403
+    },
+    {
+      "id": 11664,
+      "name": "9th Colonial",
+      "ob": 3610,
+      "suffix": "FF Infantry Division",
+      "nation": 22,
+      "cadre": 16108,
+      "initial_quality": 55,
+      "trigger_event": 404,
+      "release_event": 405
+    },
+    {
+      "id": 11665,
+      "name": "10th",
+      "ob": 3610,
+      "suffix": "FF Infantry Division",
+      "nation": 22,
+      "cadre": 16109,
+      "initial_quality": 55,
+      "trigger_event": 406,
+      "release_event": 407
+    },
+    {
+      "id": 11666,
+      "name": "14th",
+      "ob": 3610,
+      "suffix": "FF Infantry Division",
+      "nation": 22,
+      "cadre": 16110,
+      "initial_quality": 55,
+      "trigger_event": 408,
+      "release_event": 409
+    },
+    {
+      "id": 11685,
+      "name": "4th Moroccan",
+      "ob": 3605,
+      "suffix": "FF Mountain Division",
+      "nation": 22,
+      "cadre": 16111,
+      "initial_quality": 55,
+      "trigger_event": 410,
+      "release_event": 411
+    },
+    {
+      "id": 11686,
+      "name": "27th Alpine",
+      "ob": 3606,
+      "suffix": "FF Mountain Division",
+      "nation": 22,
+      "cadre": 16112,
+      "initial_quality": 55,
+      "trigger_event": 412,
+      "release_event": 413
+    }
+  ],
+  "label_changes": {
+    "3669": [
+      "US Infantry Division",
+      "US Rifle Division"
+    ],
+    "3670": [
+      "US Infantry Division",
+      "US Rifle Division"
+    ],
+    "3667": [
+      "US Mountain Division",
+      "US Mountain Rifle Division"
+    ],
+    "3539": [
+      "BR Infantry Division",
+      "BR Rifle Division"
+    ],
+    "3681": [
+      "BZ Infantry Division",
+      "BZ Rifle Division"
+    ],
+    "3570": [
+      "CA Infantry Division",
+      "CA Rifle Division"
+    ],
+    "3584": [
+      "NZ Mixed Infantry Division",
+      "NZ Mixed Rifle Division"
+    ],
+    "3597": [
+      "PO Infantry Division",
+      "PO Rifle Division"
+    ],
+    "3592": [
+      "IN Infantry Division",
+      "IN Rifle Division"
+    ],
+    "3610": [
+      "FF Infantry Division",
+      "FF Rifle Division"
+    ],
+    "3605": [
+      "FF Mountain Division",
+      "FF Mountain Rifle Division"
+    ],
+    "3606": [
+      "FF Mountain Division",
+      "FF Mountain Rifle Division"
+    ]
+  },
+  "original_divisions_with_support_label": 79,
+  "on_map_caps_verified_offline": [
+    {
+      "id": 11583,
+      "formation": "1st US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11584,
+      "formation": "2nd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11585,
+      "formation": "3rd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11586,
+      "formation": "4th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11587,
+      "formation": "5th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11588,
+      "formation": "8th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11589,
+      "formation": "9th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11590,
+      "formation": "26th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11591,
+      "formation": "28th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11592,
+      "formation": "29th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11593,
+      "formation": "30th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11594,
+      "formation": "34th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11595,
+      "formation": "35th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11596,
+      "formation": "36th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11597,
+      "formation": "42nd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11598,
+      "formation": "44th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11599,
+      "formation": "45th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11600,
+      "formation": "63rd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11601,
+      "formation": "65th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11602,
+      "formation": "66th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11603,
+      "formation": "69th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11604,
+      "formation": "70th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11605,
+      "formation": "71st US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11606,
+      "formation": "75th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11607,
+      "formation": "76th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11608,
+      "formation": "78th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11609,
+      "formation": "79th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11610,
+      "formation": "80th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11611,
+      "formation": "83rd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11612,
+      "formation": "84th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11613,
+      "formation": "85th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11614,
+      "formation": "86th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11615,
+      "formation": "87th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11616,
+      "formation": "88th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11617,
+      "formation": "89th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11618,
+      "formation": "90th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11619,
+      "formation": "91st US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11620,
+      "formation": "92nd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11621,
+      "formation": "94th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11622,
+      "formation": "95th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11623,
+      "formation": "97th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11624,
+      "formation": "99th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11625,
+      "formation": "100th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11626,
+      "formation": "102nd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11627,
+      "formation": "103rd US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11628,
+      "formation": "104th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11629,
+      "formation": "106th US Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11631,
+      "formation": "10th US Mountain Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11633,
+      "formation": "1st BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11634,
+      "formation": "3rd BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11635,
+      "formation": "4th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11636,
+      "formation": "5th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11637,
+      "formation": "15th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11638,
+      "formation": "43rd BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11639,
+      "formation": "46th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11640,
+      "formation": "49th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11641,
+      "formation": "50th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11642,
+      "formation": "51st BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11644,
+      "formation": "53rd BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11645,
+      "formation": "56th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11646,
+      "formation": "59th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11647,
+      "formation": "78th BR Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11649,
+      "formation": "1st BZ Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11650,
+      "formation": "1st CA Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11651,
+      "formation": "2nd CA Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11652,
+      "formation": "3rd CA Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11653,
+      "formation": "2nd NZ Mixed Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11654,
+      "formation": "3rd PO Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11655,
+      "formation": "4th IN Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11656,
+      "formation": "5th PO Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11657,
+      "formation": "8th IN Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11658,
+      "formation": "10th IN Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11664,
+      "formation": "9th Colonial FF Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11665,
+      "formation": "10th FF Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11666,
+      "formation": "14th FF Infantry Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11685,
+      "formation": "4th Moroccan FF Mountain Division",
+      "cap_before": 0,
+      "cap_after": 1
+    },
+    {
+      "id": 11686,
+      "formation": "27th Alpine FF Mountain Division",
+      "cap_before": 0,
+      "cap_after": 1
+    }
+  ],
+  "event_count_including_reserved_index_zero": 414,
+  "event_frames_added_or_replaced": 226,
+  "first_us_division_rebuild_refit_transfer_tested_in_separate_save": true,
+  "combined_campaign_runtime_verified": false,
+  "interactive_attachment_runtime_verified": false,
+  "limits": [
+    "A permanent-exit event cannot separate combat destruction from a disband that sets identical fields.",
+    "Only Western division records covered by the manifest can reform.",
+    "Liverpool is a shared reserve arrival option. Orders and reattachment are manual.",
+    "The expanded event list and the full support assignment UI still require an in-game check."
+  ]
+}
