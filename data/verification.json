@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.48",
+  "version": "v0.9.49",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "9ccb9a4045ed04f0424dbb9707effbc5f092390f78a7077a4a7af9055baa84fa",
+  "scenario_sha256": "20a1a0bb72a9f2f0975478458625ac21e3b06d0a056bbf9f0adddfbfde47a458",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -221,7 +221,7 @@
   "local47_support_formations": 79,
   "local47_support_limits_checked_offline": 77,
   "local47_combined_campaign_runtime_verified": false,
-  "historical_checks_note": "Earlier revision-specific checks below describe those revisions. Current scenario checks and limitations are listed in v048.",
+  "historical_checks_note": "Earlier revision-specific checks describe the releases in which they were run. See v049 for the mainland freeze in this release.",
   "v048": {
     "regular_scenario_sha256": "9ccb9a4045ed04f0424dbb9707effbc5f092390f78a7077a4a7af9055baa84fa",
     "symbols_scenario_sha256": "a9fadcb74808f837e9fa6aec281166d53581065864213931da5dca9d556017c1",
@@ -385,5 +385,858 @@
     "british_split_airborne_brigades_visible_in_airborne_menu": 3,
     "airborne_mission_flown_in_this_test": false,
     "full_campaign_tested": false
+  },
+  "v049": {
+    "scenario_sha256_by_edition": {
+      "WITW+WITE v0.9.49": "20a1a0bb72a9f2f0975478458625ac21e3b06d0a056bbf9f0adddfbfde47a458",
+      "WITW+WITE v0.9.49 Allied Symbols": "e136f1764620653eb998a0ec146f471e67cbfcf0d6f3567d245ce034c394cd58"
+    },
+    "native_freeze_weeks": 107,
+    "ground_formations": 50,
+    "headquarters": 21,
+    "changed_bytes_from_v048_per_edition": 98,
+    "opening_movement_points": 0,
+    "units": [
+      {
+        "id": 152,
+        "name": "XXXV",
+        "formation": "Ital. Corps",
+        "xy": [
+          131,
+          219
+        ],
+        "kind": 4
+      },
+      {
+        "id": 638,
+        "name": "9th Pasubio",
+        "formation": "Ital. Semi-Mot. Infantry Division",
+        "xy": [
+          145,
+          261
+        ],
+        "kind": 0
+      },
+      {
+        "id": 639,
+        "name": "52nd Torino",
+        "formation": "Ital. Semi-Mot. Infantry Division",
+        "xy": [
+          142,
+          223
+        ],
+        "kind": 0
+      },
+      {
+        "id": 646,
+        "name": "3rd Principe Amedeo",
+        "formation": "Ital. Celere Division",
+        "xy": [
+          131,
+          225
+        ],
+        "kind": 0
+      },
+      {
+        "id": 657,
+        "name": "2nd Tridentina",
+        "formation": "Ital. Alpina Division",
+        "xy": [
+          132,
+          217
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3236,
+        "name": "Italian High Command",
+        "formation": "",
+        "xy": [
+          137,
+          255
+        ],
+        "kind": 1
+      },
+      {
+        "id": 3238,
+        "name": "Regia Aeronautica",
+        "formation": "",
+        "xy": [
+          136,
+          255
+        ],
+        "kind": 2
+      },
+      {
+        "id": 3248,
+        "name": "5th",
+        "formation": "Ital. Army",
+        "xy": [
+          135,
+          251
+        ],
+        "kind": 3
+      },
+      {
+        "id": 3250,
+        "name": "7th",
+        "formation": "Ital. Army",
+        "xy": [
+          155,
+          264
+        ],
+        "kind": 3
+      },
+      {
+        "id": 3251,
+        "name": "8th",
+        "formation": "Ital. Army",
+        "xy": [
+          133,
+          227
+        ],
+        "kind": 3
+      },
+      {
+        "id": 3252,
+        "name": "Rome Defense",
+        "formation": "Ital. Army",
+        "xy": [
+          138,
+          254
+        ],
+        "kind": 3
+      },
+      {
+        "id": 3264,
+        "name": "Armored",
+        "formation": "Ital. Corps",
+        "xy": [
+          138,
+          254
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3265,
+        "name": "Rome",
+        "formation": "Ital. Corps",
+        "xy": [
+          138,
+          254
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3267,
+        "name": "II",
+        "formation": "Ital. Corps",
+        "xy": [
+          131,
+          240
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3269,
+        "name": "IX",
+        "formation": "Ital. Corps",
+        "xy": [
+          161,
+          262
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3270,
+        "name": "XV",
+        "formation": "Ital. Corps",
+        "xy": [
+          119,
+          235
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3275,
+        "name": "XIX",
+        "formation": "Ital. Corps",
+        "xy": [
+          145,
+          261
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3277,
+        "name": "XXIII",
+        "formation": "Ital. Corps",
+        "xy": [
+          143,
+          225
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3278,
+        "name": "XXIV",
+        "formation": "Ital. Corps",
+        "xy": [
+          140,
+          222
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3280,
+        "name": "XXXI",
+        "formation": "Ital. Corps",
+        "xy": [
+          155,
+          269
+        ],
+        "kind": 4
+      },
+      {
+        "id": 3287,
+        "name": "136th Centauro II",
+        "formation": "Ital. Armored Division",
+        "xy": [
+          138,
+          255
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3288,
+        "name": "135th Ariete II",
+        "formation": "Ital. Armored Division",
+        "xy": [
+          125,
+          227
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3294,
+        "name": "10th Piave",
+        "formation": "Ital. Motorized Division",
+        "xy": [
+          137,
+          255
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3297,
+        "name": "103rd Piacenza",
+        "formation": "Ital. Motorized Division",
+        "xy": [
+          138,
+          256
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3298,
+        "name": "104th Mantova",
+        "formation": "Ital. Motorized Division",
+        "xy": [
+          159,
+          270
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3299,
+        "name": "105th Rovigo",
+        "formation": "Ital. Motorized Division",
+        "xy": [
+          122,
+          236
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3315,
+        "name": "4th Cuneense",
+        "formation": "Ital. Alpina Division",
+        "xy": [
+          130,
+          220
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3318,
+        "name": "6th Alpi Graie",
+        "formation": "Ital. Alpina Division",
+        "xy": [
+          124,
+          238
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3321,
+        "name": "3rd Ravenna",
+        "formation": "Ital. Mountain Division",
+        "xy": [
+          132,
+          244
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3336,
+        "name": "5th Cosseria",
+        "formation": "Ital. Infantry Division",
+        "xy": [
+          120,
+          227
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3348,
+        "name": "152nd Piceno",
+        "formation": "Ital. Security Division",
+        "xy": [
+          165,
+          264
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3357,
+        "name": "201st",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          117,
+          236
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3366,
+        "name": "210th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          163,
+          264
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3368,
+        "name": "212th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          160,
+          280
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3370,
+        "name": "214th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          163,
+          277
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3371,
+        "name": "215th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          127,
+          245
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3372,
+        "name": "216th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          126,
+          241
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3373,
+        "name": "220th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          135,
+          255
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3374,
+        "name": "221st",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          138,
+          258
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3375,
+        "name": "222nd",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          146,
+          262
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3380,
+        "name": "227th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          156,
+          271
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3799,
+        "name": "Ital. Southeast",
+        "formation": "Army Group",
+        "xy": [
+          141,
+          257
+        ],
+        "kind": 2
+      },
+      {
+        "id": 3846,
+        "name": "2nd Ferro",
+        "formation": "Ital. Celere Division",
+        "xy": [
+          113,
+          230
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3859,
+        "name": "3rd Julia",
+        "formation": "Ital. Alpina Division",
+        "xy": [
+          142,
+          223
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3862,
+        "name": "2nd Sforzesca",
+        "formation": "Ital. Mountain Division",
+        "xy": [
+          145,
+          224
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3889,
+        "name": "12th Sassari",
+        "formation": "Ital. Infantry Division",
+        "xy": [
+          137,
+          256
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3890,
+        "name": "13th Re",
+        "formation": "Ital. Infantry Division",
+        "xy": [
+          138,
+          253
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3895,
+        "name": "21st Sardegna",
+        "formation": "Ital. Infantry Division",
+        "xy": [
+          137,
+          256
+        ],
+        "kind": 0
+      },
+      {
+        "id": 3910,
+        "name": "58th Legnano",
+        "formation": "Ital. Infantry Division",
+        "xy": [
+          166,
+          263
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10259,
+        "name": "1st Ital. Air Fleet",
+        "formation": "",
+        "xy": [
+          120,
+          227
+        ],
+        "kind": 3
+      },
+      {
+        "id": 10261,
+        "name": "2nd Ital. Air Fleet",
+        "formation": "",
+        "xy": [
+          135,
+          227
+        ],
+        "kind": 3
+      },
+      {
+        "id": 10262,
+        "name": "3rd Ital. Air Fleet",
+        "formation": "",
+        "xy": [
+          137,
+          255
+        ],
+        "kind": 3
+      },
+      {
+        "id": 10263,
+        "name": "4th Ital. Air Fleet",
+        "formation": "",
+        "xy": [
+          161,
+          260
+        ],
+        "kind": 3
+      },
+      {
+        "id": 10291,
+        "name": "209th",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          162,
+          261
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10293,
+        "name": "211st",
+        "formation": "Ital. Coastal Division",
+        "xy": [
+          158,
+          286
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10326,
+        "name": "XXXI",
+        "formation": "Ital. Coastal Brigade",
+        "xy": [
+          161,
+          265
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10327,
+        "name": "XXXII",
+        "formation": "Ital. Coastal Brigade",
+        "xy": [
+          144,
+          260
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10329,
+        "name": "XXXIV",
+        "formation": "Ital. Coastal Brigade",
+        "xy": [
+          136,
+          257
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10332,
+        "name": "102nd",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          119,
+          235
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10333,
+        "name": "112th",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          161,
+          260
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10334,
+        "name": "116th",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          156,
+          285
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10335,
+        "name": "117th",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          147,
+          263
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10340,
+        "name": "151st",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          147,
+          263
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10341,
+        "name": "161st",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          124,
+          238
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10342,
+        "name": "162nd Naval",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          166,
+          263
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10344,
+        "name": "169th",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          136,
+          227
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10346,
+        "name": "Piazza Naval",
+        "formation": "Ital. Coastal Regiment",
+        "xy": [
+          163,
+          264
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10349,
+        "name": "6th",
+        "formation": "Ital. Alpina Regiment",
+        "xy": [
+          131,
+          227
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10358,
+        "name": "6th",
+        "formation": "Ital. Bersaglieri Regiment",
+        "xy": [
+          135,
+          235
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10359,
+        "name": "8th",
+        "formation": "Ital. Bersaglieri Regiment",
+        "xy": [
+          130,
+          220
+        ],
+        "kind": 0
+      },
+      {
+        "id": 10363,
+        "name": "185th",
+        "formation": "Ital. Parachute Regiment",
+        "xy": [
+          136,
+          227
+        ],
+        "kind": 0
+      }
+    ],
+    "proximity_test": {
+      "scenarios": {
+        "WITW+WITE v0.9.49": [
+          {
+            "location": "Palermo",
+            "xy": [
+              143,
+              286
+            ],
+            "eligible": true,
+            "enemy_frozen": false,
+            "released": [],
+            "still_frozen": 71
+          },
+          {
+            "location": "Messina",
+            "xy": [
+              155,
+              284
+            ],
+            "eligible": true,
+            "enemy_frozen": false,
+            "released": [
+              10334
+            ],
+            "still_frozen": 70
+          },
+          {
+            "location": "Salerno",
+            "xy": [
+              149,
+              265
+            ],
+            "eligible": true,
+            "enemy_frozen": false,
+            "released": [
+              10335,
+              10340
+            ],
+            "still_frozen": 69
+          },
+          {
+            "location": "Messina with frozen enemy",
+            "xy": [
+              155,
+              284
+            ],
+            "eligible": true,
+            "enemy_frozen": true,
+            "released": [],
+            "still_frozen": 71
+          },
+          {
+            "location": "Messina with ineligible enemy hex",
+            "xy": [
+              155,
+              284
+            ],
+            "eligible": false,
+            "enemy_frozen": false,
+            "released": [],
+            "still_frozen": 71
+          }
+        ],
+        "WITW+WITE v0.9.49 Allied Symbols": [
+          {
+            "location": "Palermo",
+            "xy": [
+              143,
+              286
+            ],
+            "eligible": true,
+            "enemy_frozen": false,
+            "released": [],
+            "still_frozen": 71
+          },
+          {
+            "location": "Messina",
+            "xy": [
+              155,
+              284
+            ],
+            "eligible": true,
+            "enemy_frozen": false,
+            "released": [
+              10334
+            ],
+            "still_frozen": 70
+          },
+          {
+            "location": "Salerno",
+            "xy": [
+              149,
+              265
+            ],
+            "eligible": true,
+            "enemy_frozen": false,
+            "released": [
+              10335,
+              10340
+            ],
+            "still_frozen": 69
+          },
+          {
+            "location": "Messina with frozen enemy",
+            "xy": [
+              155,
+              284
+            ],
+            "eligible": true,
+            "enemy_frozen": true,
+            "released": [],
+            "still_frozen": 71
+          },
+          {
+            "location": "Messina with ineligible enemy hex",
+            "xy": [
+              155,
+              284
+            ],
+            "eligible": false,
+            "enemy_frozen": false,
+            "released": [],
+            "still_frozen": 71
+          }
+        ]
+      },
+      "scope": "Isolated native proximity decision with one controlled enemy, not a full turn."
+    },
+    "full_turn_played_in_this_test": false
   }
 }

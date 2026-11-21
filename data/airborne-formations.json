@@ -217,7 +217,7 @@
     "These are abstract thirds of each imported division, not reconstructed historical parachute/glider brigade TOEs.",
     "Intact airborne divisions remain division-sized and may not be dropped as a whole."
   ],
-  "version": "v0.9.48",
+  "version": "v0.9.49",
   "current_value_note": "Earlier revision provenance. Current fuel, additional opening stocks, airborne readiness and ground morale/experience are in opening-readiness.json.",
   "v048_british_brigades": {
     "unit_ids": [

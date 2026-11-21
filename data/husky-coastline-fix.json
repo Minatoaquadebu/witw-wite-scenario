@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.48",
+  "version": "v0.9.49",
   "saved_game_copy": false,
   "root_cause": "Earlier offline checks used shape3 column parity; the actual native board is shape2 row parity.149,293 is inland; the original-1 sea cache was correct.",
   "board_shape": 2,
