@@ -217,6 +217,17 @@
     "These are abstract thirds of each imported division, not reconstructed historical parachute/glider brigade TOEs.",
     "Intact airborne divisions remain division-sized and may not be dropped as a whole."
   ],
-  "version": "v0.9.47",
-  "current_value_note": "Earlier revision provenance. Current fuel, additional opening stocks, airborne readiness and ground morale/experience are in opening-readiness.json."
+  "version": "v0.9.48",
+  "current_value_note": "Earlier revision provenance. Current fuel, additional opening stocks, airborne readiness and ground morale/experience are in opening-readiness.json.",
+  "v048_british_brigades": {
+    "unit_ids": [
+      11546,
+      11547,
+      11548
+    ],
+    "formation_name": "BR Parachute Brigade",
+    "private_toe_chain_records": 15,
+    "airborne_menu_lists_all_three": true,
+    "mission_flown_in_this_test": false
+  }
 }

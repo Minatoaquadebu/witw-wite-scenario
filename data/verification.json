@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.47",
+  "version": "v0.9.48",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "f37fdb0d1fb6513bb1b483175866f937bb9e7dfccc3c0809b18871fa8c9fc946",
+  "scenario_sha256": "9ccb9a4045ed04f0424dbb9707effbc5f092390f78a7077a4a7af9055baa84fa",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -220,5 +220,170 @@
   "local47_cadres": 113,
   "local47_support_formations": 79,
   "local47_support_limits_checked_offline": 77,
-  "local47_combined_campaign_runtime_verified": false
+  "local47_combined_campaign_runtime_verified": false,
+  "historical_checks_note": "Earlier revision-specific checks below describe those revisions. Current scenario checks and limitations are listed in v048.",
+  "v048": {
+    "regular_scenario_sha256": "9ccb9a4045ed04f0424dbb9707effbc5f092390f78a7077a4a7af9055baa84fa",
+    "symbols_scenario_sha256": "a9fadcb74808f837e9fa6aec281166d53581065864213931da5dca9d556017c1",
+    "both_editions_started_and_saved_in_game": true,
+    "ports": [
+      {
+        "name": "Bizerte",
+        "before": 3,
+        "after": 7
+      },
+      {
+        "name": "Bone",
+        "before": 4,
+        "after": 6
+      },
+      {
+        "name": "Philippeville",
+        "before": 1,
+        "after": 4
+      },
+      {
+        "name": "Sousse",
+        "before": 2,
+        "after": 5
+      },
+      {
+        "name": "Sfax",
+        "before": 2,
+        "after": 4
+      },
+      {
+        "name": "Tunis",
+        "before": 6,
+        "after": 7
+      },
+      {
+        "name": "Algiers",
+        "before": 6,
+        "after": 7
+      },
+      {
+        "name": "Oran",
+        "before": 6,
+        "after": 7
+      },
+      {
+        "name": "Siracusa",
+        "before": 3,
+        "after": 6
+      },
+      {
+        "name": "Gela",
+        "before": 1,
+        "after": 2
+      },
+      {
+        "name": "Catania",
+        "before": 4,
+        "after": 5
+      },
+      {
+        "name": "Palermo",
+        "before": 5,
+        "after": 6
+      },
+      {
+        "name": "Messina",
+        "before": 4,
+        "after": 5
+      },
+      {
+        "name": "Dover",
+        "before": 2,
+        "after": 5
+      },
+      {
+        "name": "Brighton and Hove",
+        "before": 2,
+        "after": 4
+      },
+      {
+        "name": "Poole",
+        "before": 2,
+        "after": 4
+      },
+      {
+        "name": "Portsmouth",
+        "before": 6,
+        "after": 7
+      },
+      {
+        "name": "Dunkerque",
+        "before": 2,
+        "after": 5
+      },
+      {
+        "name": "Boulogne",
+        "before": 3,
+        "after": 4
+      },
+      {
+        "name": "Calais",
+        "before": 2,
+        "after": 5
+      },
+      {
+        "name": "Dieppe",
+        "before": 2,
+        "after": 4
+      },
+      {
+        "name": "Le Havre",
+        "before": 5,
+        "after": 7
+      },
+      {
+        "name": "Cherbourg",
+        "before": 5,
+        "after": 7
+      },
+      {
+        "name": "Ostend",
+        "before": 3,
+        "after": 5
+      },
+      {
+        "name": "Bruges",
+        "before": 3,
+        "after": 4
+      },
+      {
+        "name": "Amsterdam",
+        "before": 5,
+        "after": 6
+      }
+    ],
+    "armoured_divisions_embarked_and_unloaded_in_game": [
+      {
+        "unit": "British 11th Armoured",
+        "from": "Philippeville",
+        "to": "Bone",
+        "display_tons": 26770
+      },
+      {
+        "unit": "US 2nd Armored",
+        "from": "Sfax",
+        "to": "Sousse",
+        "display_tons": 26260
+      }
+    ],
+    "transport_test_scope": "Diagnostic ground-phase save, with full divisions positioned in ports and a free destination stacking slot.",
+    "west_german_units_frozen": 103,
+    "opening_freeze_weeks": 26,
+    "units_at_25_weeks_in_T2": 103,
+    "western_records_checked_in_T2": 1922,
+    "western_soviet_guards_flags_in_T2": 0,
+    "guards_quota_check": "Native calculation on a diagnostic T2 roster with on-map eligibility enabled and reserve tables omitted. Switching the US 1st Infantry Division between its Allied morale setting and ordinary status gave the same weighted count. Switching to Soviet Guards added its divisional weight to the numerator. Eligible Western units contribute to the denominator.",
+    "soviet_positive_control": "A Soviet unit promoted in the controlled native test.",
+    "july_1943_US_1st_infantry_recovery_target": 65,
+    "US_1st_infantry_actual_T2_morale_after_replacements": 54,
+    "british_split_airborne_brigades_visible_in_airborne_menu": 3,
+    "airborne_mission_flown_in_this_test": false,
+    "full_campaign_tested": false
+  }
 }
