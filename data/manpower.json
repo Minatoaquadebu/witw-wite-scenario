@@ -1,290 +1,290 @@
 {
-  "version": "v0.9.49",
-  "initial_allowance": 125000,
+  "version": "v0.9.52",
+  "initial_allowance": 250000,
   "monthly_allowances": [
     {
       "event": 5,
       "date": "1943-08-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-08"
     },
     {
       "event": 6,
       "date": "1943-09-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-09"
     },
     {
       "event": 7,
       "date": "1943-10-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-10"
     },
     {
       "event": 10,
       "date": "1943-11-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-11"
     },
     {
       "event": 13,
       "date": "1943-12-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-12"
     },
     {
       "event": 14,
       "date": "1944-01-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-01"
     },
     {
       "event": 15,
       "date": "1944-02-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-02"
     },
     {
       "event": 16,
       "date": "1944-03-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-03"
     },
     {
       "event": 17,
       "date": "1944-04-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-04"
     },
     {
       "event": 18,
       "date": "1944-05-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-05"
     },
     {
       "event": 19,
       "date": "1944-06-01",
-      "amount": 60000,
+      "amount": 90000,
       "title": "Allied replacement allocation 1944-06"
     },
     {
       "event": 20,
       "date": "1944-07-01",
-      "amount": 60000,
+      "amount": 90000,
       "title": "Allied replacement allocation 1944-07"
     },
     {
       "event": 34,
       "date": "1944-08-01",
-      "amount": 60000,
+      "amount": 90000,
       "title": "Allied replacement allocation 1944-08"
     },
     {
       "event": 50,
       "date": "1944-09-01",
-      "amount": 65000,
+      "amount": 97500,
       "title": "Allied replacement allocation 1944-09"
     },
     {
       "event": 51,
       "date": "1944-10-01",
-      "amount": 65000,
+      "amount": 97500,
       "title": "Allied replacement allocation 1944-10"
     },
     {
       "event": 85,
       "date": "1944-11-01",
-      "amount": 65000,
+      "amount": 97500,
       "title": "Allied replacement allocation 1944-11"
     },
     {
       "event": 89,
       "date": "1944-12-01",
-      "amount": 70000,
+      "amount": 105000,
       "title": "Allied replacement allocation 1944-12"
     },
     {
       "event": 91,
       "date": "1945-01-01",
-      "amount": 75000,
+      "amount": 112500,
       "title": "Allied replacement allocation 1945-01"
     },
     {
       "event": 92,
       "date": "1945-02-01",
-      "amount": 75000,
+      "amount": 112500,
       "title": "Allied replacement allocation 1945-02"
     },
     {
       "event": 96,
       "date": "1945-03-01",
-      "amount": 70000,
+      "amount": 105000,
       "title": "Allied replacement allocation 1945-03"
     },
     {
       "event": 98,
       "date": "1945-04-01",
-      "amount": 70000,
+      "amount": 105000,
       "title": "Allied replacement allocation 1945-04"
     },
     {
       "event": 99,
       "date": "1945-05-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1945-05"
     },
     {
       "event": 100,
       "date": "1945-06-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1945-06"
     }
   ],
-  "total_allowance": 1265000,
+  "total_allowance": 1960000,
   "all_events": [
     {
       "event": 4,
       "date": "1943-07-03",
-      "amount": 125000,
+      "amount": 250000,
       "title": "Initial Allied replacement allocation"
     },
     {
       "event": 5,
       "date": "1943-08-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-08"
     },
     {
       "event": 6,
       "date": "1943-09-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-09"
     },
     {
       "event": 7,
       "date": "1943-10-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-10"
     },
     {
       "event": 10,
       "date": "1943-11-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-11"
     },
     {
       "event": 13,
       "date": "1943-12-01",
-      "amount": 25000,
+      "amount": 37500,
       "title": "Allied replacement allocation 1943-12"
     },
     {
       "event": 14,
       "date": "1944-01-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-01"
     },
     {
       "event": 15,
       "date": "1944-02-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-02"
     },
     {
       "event": 16,
       "date": "1944-03-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-03"
     },
     {
       "event": 17,
       "date": "1944-04-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-04"
     },
     {
       "event": 18,
       "date": "1944-05-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1944-05"
     },
     {
       "event": 19,
       "date": "1944-06-01",
-      "amount": 60000,
+      "amount": 90000,
       "title": "Allied replacement allocation 1944-06"
     },
     {
       "event": 20,
       "date": "1944-07-01",
-      "amount": 60000,
+      "amount": 90000,
       "title": "Allied replacement allocation 1944-07"
     },
     {
       "event": 34,
       "date": "1944-08-01",
-      "amount": 60000,
+      "amount": 90000,
       "title": "Allied replacement allocation 1944-08"
     },
     {
       "event": 50,
       "date": "1944-09-01",
-      "amount": 65000,
+      "amount": 97500,
       "title": "Allied replacement allocation 1944-09"
     },
     {
       "event": 51,
       "date": "1944-10-01",
-      "amount": 65000,
+      "amount": 97500,
       "title": "Allied replacement allocation 1944-10"
     },
     {
       "event": 85,
       "date": "1944-11-01",
-      "amount": 65000,
+      "amount": 97500,
       "title": "Allied replacement allocation 1944-11"
     },
     {
       "event": 89,
       "date": "1944-12-01",
-      "amount": 70000,
+      "amount": 105000,
       "title": "Allied replacement allocation 1944-12"
     },
     {
       "event": 91,
       "date": "1945-01-01",
-      "amount": 75000,
+      "amount": 112500,
       "title": "Allied replacement allocation 1945-01"
     },
     {
       "event": 92,
       "date": "1945-02-01",
-      "amount": 75000,
+      "amount": 112500,
       "title": "Allied replacement allocation 1945-02"
     },
     {
       "event": 96,
       "date": "1945-03-01",
-      "amount": 70000,
+      "amount": 105000,
       "title": "Allied replacement allocation 1945-03"
     },
     {
       "event": 98,
       "date": "1945-04-01",
-      "amount": 70000,
+      "amount": 105000,
       "title": "Allied replacement allocation 1945-04"
     },
     {
       "event": 99,
       "date": "1945-05-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1945-05"
     },
     {
       "event": 100,
       "date": "1945-06-01",
-      "amount": 40000,
+      "amount": 60000,
       "title": "Allied replacement allocation 1945-06"
     }
   ],
@@ -300,7 +300,7 @@
   "limits": [
     "The allowance is a mod design choice informed by historical replacement constraints, not an archival monthly manpower series.",
     "A shared coalition pool does not reserve these men exclusively for Western units.",
-    "The opening event logged success in a live T2 game. All 24 amounts were checked with the native action in isolation. The full calendar has yet to be observed in live play."
+    "The v0.9.49 opening event was observed in live play. All 24 revised grants were verified by running the native action individually. Full-calendar delivery has yet to be observed in live play."
   ],
   "german": {
     "recruitment_capacity": 1650,
@@ -322,7 +322,7 @@
       "Base factors are game settings; actual recruiting depends on ownership, damage and allocation."
     ]
   },
-  "previous_total": 1045000,
+  "previous_total": 1265000,
   "historical_sources": [
     {
       "url": "https://www.ibiblio.org/hyperwar/USA/USA-E-Logistics2/USA-E-Logistics2-11.html",

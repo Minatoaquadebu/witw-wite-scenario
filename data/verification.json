@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.49",
+  "version": "v0.9.52",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "20a1a0bb72a9f2f0975478458625ac21e3b06d0a056bbf9f0adddfbfde47a458",
+  "scenario_sha256": "2958788a8eb5531a3c6998e01a2df5b0c46685a5b5adb75f85bdba93e6afe17f",
   "final_static_checks": {
     "all_non_german_events_byte_identical": true,
     "all163_victory_records_identical": true,
@@ -1238,5 +1238,276 @@
       "scope": "Isolated native proximity decision with one controlled enemy, not a full turn."
     },
     "full_turn_played_in_this_test": false
+  },
+  "v052": {
+    "scenario_sha256_by_edition": {
+      "WITW+WITE v0.9.52": "2958788a8eb5531a3c6998e01a2df5b0c46685a5b5adb75f85bdba93e6afe17f",
+      "WITW+WITE v0.9.52 Allied Symbols": "12283a8fbf65854084cee753415c84307aae347460a3f660bca269b940c904c9"
+    },
+    "shared_troop_ships_at_start": 349,
+    "western_manpower_grants": {
+      "events": 24,
+      "total": 1960000,
+      "first": 250000
+    },
+    "british_ports": [
+      {
+        "name": "Dover",
+        "old": 5,
+        "new": 6,
+        "before_tons": 75000,
+        "after_tons": 90000
+      },
+      {
+        "name": "Brighton and Hove",
+        "old": 4,
+        "new": 5,
+        "before_tons": 60000,
+        "after_tons": 75000
+      },
+      {
+        "name": "Portsmouth",
+        "old": 7,
+        "new": 8,
+        "before_tons": 105000,
+        "after_tons": 120000
+      },
+      {
+        "name": "Bournemouth",
+        "old": 4,
+        "new": 5,
+        "before_tons": 60000,
+        "after_tons": 75000
+      },
+      {
+        "name": "Southampton",
+        "old": 7,
+        "new": 8,
+        "before_tons": 105000,
+        "after_tons": 120000
+      },
+      {
+        "name": "Weymouth",
+        "old": 5,
+        "new": 6,
+        "before_tons": 75000,
+        "after_tons": 90000
+      },
+      {
+        "name": "Poole",
+        "old": 4,
+        "new": 5,
+        "before_tons": 60000,
+        "after_tons": 75000
+      },
+      {
+        "name": "Plymouth",
+        "old": 6,
+        "new": 7,
+        "before_tons": 90000,
+        "after_tons": 105000
+      },
+      {
+        "name": "Bristol",
+        "old": 4,
+        "new": 5,
+        "before_tons": 60000,
+        "after_tons": 75000
+      },
+      {
+        "name": "Falmouth",
+        "old": 2,
+        "new": 3,
+        "before_tons": 30000,
+        "after_tons": 45000
+      }
+    ],
+    "continental_ports_after_game_logistics": [
+      {
+        "name": "Hamburg",
+        "level": 9,
+        "capacity_tons": 135000
+      },
+      {
+        "name": "Bremerhaven",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "Bremen",
+        "level": 4,
+        "capacity_tons": 60000
+      },
+      {
+        "name": "Wilhelmshaven",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "Emden",
+        "level": 3,
+        "capacity_tons": 45000
+      },
+      {
+        "name": "Brunsbuettel",
+        "level": 3,
+        "capacity_tons": 45000
+      },
+      {
+        "name": "Antwerp",
+        "level": 10,
+        "capacity_tons": 150000
+      },
+      {
+        "name": "Bruges",
+        "level": 5,
+        "capacity_tons": 75000
+      },
+      {
+        "name": "Ostend",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "Rotterdam",
+        "level": 8,
+        "capacity_tons": 120000
+      },
+      {
+        "name": "The Hague",
+        "level": 5,
+        "capacity_tons": 75000
+      },
+      {
+        "name": "Amsterdam",
+        "level": 7,
+        "capacity_tons": 105000
+      },
+      {
+        "name": "Haarlem",
+        "level": 5,
+        "capacity_tons": 75000
+      },
+      {
+        "name": "Den Helder",
+        "level": 4,
+        "capacity_tons": 60000
+      },
+      {
+        "name": "Nice",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "Toulon",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "Marseille",
+        "level": 10,
+        "capacity_tons": 150000
+      },
+      {
+        "name": "Bayonne",
+        "level": 2,
+        "capacity_tons": 30000
+      },
+      {
+        "name": "Bordeaux",
+        "level": 8,
+        "capacity_tons": 120000
+      },
+      {
+        "name": "Rochefort",
+        "level": 3,
+        "capacity_tons": 45000
+      },
+      {
+        "name": "La Rochelle",
+        "level": 3,
+        "capacity_tons": 45000
+      },
+      {
+        "name": "Nantes",
+        "level": 2,
+        "capacity_tons": 30000
+      },
+      {
+        "name": "St Nazaire",
+        "level": 5,
+        "capacity_tons": 75000
+      },
+      {
+        "name": "Dieppe",
+        "level": 5,
+        "capacity_tons": 75000
+      },
+      {
+        "name": "Le Havre",
+        "level": 8,
+        "capacity_tons": 120000
+      },
+      {
+        "name": "St Malo",
+        "level": 3,
+        "capacity_tons": 45000
+      },
+      {
+        "name": "Granville",
+        "level": 2,
+        "capacity_tons": 30000
+      },
+      {
+        "name": "Lorient",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "Etaples",
+        "level": 2,
+        "capacity_tons": 30000
+      },
+      {
+        "name": "Dunkerque",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "St Brieuc",
+        "level": 2,
+        "capacity_tons": 30000
+      },
+      {
+        "name": "Boulogne",
+        "level": 5,
+        "capacity_tons": 75000
+      },
+      {
+        "name": "Calais",
+        "level": 6,
+        "capacity_tons": 90000
+      },
+      {
+        "name": "Cherbourg",
+        "level": 8,
+        "capacity_tons": 120000
+      },
+      {
+        "name": "Brest",
+        "level": 7,
+        "capacity_tons": 105000
+      }
+    ],
+    "british_capacity_undamaged_tons": 870000,
+    "continental_capacity_undamaged_tons": 2790000,
+    "channel_test": {
+      "fixture": "July 1943 diagnostic save with the US 4th Infantry Division and Amphibious HQ placed together at Portsmouth with 90 preparation points.",
+      "troop_ships_debited": 6,
+      "cargo_ships_debited": 6,
+      "temporary_port_level": 2,
+      "division_ashore_next_turn": true
+    },
+    "full_campaign_verified": false
   }
 }

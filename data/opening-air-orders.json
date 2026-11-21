@@ -128,7 +128,7 @@
     "Only the first-turn omission is addressed. Later AI behavior over the expanded Western map remains unverified.",
     "No airborne drop or amphibious assault is automatically launched."
   ],
-  "version": "v0.9.49",
+  "version": "v0.9.52",
   "first_turn_assistant_rule": "The assistant retains scenario directives during the first air-planning phase of the first player turn.",
   "rule_source": "https://forums.matrixgames.com/viewtopic.php?t=367329",
   "additional_ground_attack_orders": [
