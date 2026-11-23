@@ -1,4 +1,4 @@
-WITW+WITE v0.9.53 QA
+WITW+WITE v0.9.54
 
 July 1943 to July 1945. Eastern and Western Front campaign. Original scenario by yyuegu. Unofficial continuation. Both sides Human recommended.
 
@@ -7,3 +7,7 @@ July 1943 to July 1945. Eastern and Western Front campaign. Original scenario by
 113 Western Allied divisions can reform once after permanent exit (including voluntary disbandment). After ten weeks, find the empty cadre in Soviet Reserves. Raise Max TOE and use Refit. Set Liverpool (72,158) as the shared Reserve TB Arrival Hex and order deployment. Reassign HQs as needed.
 
 Covered Rifle Divisions can take one direct support unit. Ports expanded (Gela 2, 10 British and 35 mainland ports +1). Western Axis field units outside Atlantic Wall garrisons are scheduled to unlock on turn 16. 349 shared troop ships at start. Allied manpower grants total 1,960,000. Western units gain morale protection. British parachute brigades stay independent.
+
+Western Europe, Italy and the Balkans are fought on the map. Regional capitulation scripts for these campaigns are disabled. Most former theater formations enter Axis Reserves on their scheduled dates.
+
+Western Allied aircraft replacements use Western aircraft types. B-17G deliveries start in September 1943 and P-51B deliveries in November 1943.
