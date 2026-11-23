@@ -1,1513 +1,1661 @@
 {
-  "version": "v0.9.52",
+  "version": "v0.9.53",
   "development_game_version": "WiTE2 v1.05.02",
-  "scenario_sha256": "2958788a8eb5531a3c6998e01a2df5b0c46685a5b5adb75f85bdba93e6afe17f",
-  "final_static_checks": {
-    "all_non_german_events_byte_identical": true,
-    "all163_victory_records_identical": true,
-    "all_existing_western_HQ_leaders_identical": true,
-    "all_axis_and_soviet_ground_records_identical": true,
-    "national_recruitment_unchanged": true,
-    "all_city_nationalities_unchanged": true,
-    "all_ground_coverage_still_valid_after_air_table_rebuild": true,
-    "factory_registry_and_city_slots_match": true,
-    "equipment_capacity_by_canonical_model_conserved": true,
-    "all224_model_alias_physical_definitions_preserved": true,
-    "all_restored_ready_equipment_has_valid_model": true
+  "scenario_sha256": "41199928e00397cf224d86eac6f86c7cf955fb140b89698895202ab7d5cb1c99",
+  "scenario_sha256_by_edition": {
+    "WITW+WITE v0.9.53 QA": "41199928e00397cf224d86eac6f86c7cf955fb140b89698895202ab7d5cb1c99",
+    "WITW+WITE v0.9.53 QA Allied Symbols": "4712fcdfeddc01eb6f44fa02ca8f05311771cf831fc2dd9f56db56e48a006840"
   },
-  "ground_compiler_checks": {
-    "byte_proof": {
-      "changed_bytes": 39469,
-      "all_other_bytes_identical": true,
-      "source_sha256": "0cfb0bc806c371cce892a7baab4bb75456fa2480c72a85e66c8c3ea214f82210",
-      "result_sha256": "4d14832b7a2fae947ec2fa0b2fb1b0909e27d61280b1f05e0af6d666493fb963"
+  "evidence": {
+    "restored_units": {
+      "rockets": 5,
+      "artillery": 12,
+      "reserve_airborne": 20,
+      "support_restored": 2
     },
-    "all1010_ground_arrival_identities_schedules_and_control": true,
-    "all163_victory_records_identical": true,
-    "all_preexisting_active_quantities_experience_morale_and_leaders_retained": true,
-    "allied_equipment_total_capacity_preserved": true,
-    "all_city_nations_and_national_multipliers_preserved": true
-  },
-  "air_compiler_checks": {
-    "all_dates_control_hq_profiles_bases_and_unique_aog_membership": true,
-    "all_existing_group_morale_and_experience_retained": true,
-    "all_unselected_airgroups_unchanged": true,
-    "source_and_native_player_type_offsets_verified_against_editor_csv": true
-  },
-  "official_dated_ground_coverage": 1010,
-  "official_dated_air_coverage": 198,
-  "rail_capacity_offline_native_helper": {
-    "before": {
-      "11978": 1593,
-      "11979": 1674,
-      "11990": 2916,
-      "11991": 2916,
-      "11992": 2916,
-      "11993": 2754
-    },
-    "after": {
-      "11978": 1629,
-      "11979": 1665,
-      "11990": 2916,
-      "11991": 2916,
-      "11992": 2916,
-      "11993": 2763
-    },
-    "all_six_above_native_minimum": true,
-    "unchanged": false
-  },
-  "prior_runtime_evidence": "Before this revision, the user verified six railway groups repairing track and next-week repair settlement, selected reinforcements/replacements, amphibious landings and supply. These do not certify every newly restored formation.",
-  "newly_restored_arrivals_runtime_verified": false,
-  "manpower_event_delivery_runtime_verified": false,
-  "optional_symbols_in_game_visual_verified": false,
-  "western_strategic_ai_complete": false,
-  "full_campaign_balance_or_long_stability_verified": false,
-  "symbol_mapping_correction": {
-    "version": "v0.9.40",
-    "semantic_checks": {
-      "green_command_HQs": 102,
-      "green_anti_tank_records": 77,
-      "green_combat_engineer_records": 191,
-      "green_rail_HQs": 6,
-      "green_anti_aircraft_records": 405
-    },
-    "main_gameplay_identical_to_v39": true,
-    "all_unit_bytes_unchanged": true,
-    "source_enum_checked_against_editor_csv": true,
-    "original_atlas_pixels_preserved": true,
-    "visual_runtime_verified": false
-  },
-  "opening_stock_checks": {
-    "all35_stock_omissions_restored": true,
-    "all_other_save_bytes_identical": true,
-    "all_air_orders_identical": true,
-    "all_equipment_quantities_and_experience_preserved": true,
-    "no_national_pool_or_production_changes": true,
-    "all_frozen_and_delayed_units_excluded": true
-  },
-  "opening_stock_fix_new_save_runtime_visual_verified": false,
-  "support_revision_static_checks": {
-    "all_units_equipment_morale_experience_leaders_and_stocks_identical": true,
-    "all163_victory_records_identical": true,
-    "all_factory_registry_and_city_capacities_match": true,
-    "all24_manpower_events_keep_original_dates_and_occurrence_state": true,
-    "two_city_conversions_add_no_manpower_factory_capacity": true,
-    "all_generic_incremental_inputs_cover_output": true,
-    "existing_national_multipliers_unchanged": true,
-    "all_new_production_routes_pass_native_nationality_gate": true
-  },
-  "airborne_formation_static_checks": {
-    "native_size_below_six": true,
-    "partitioned_toe_totals_equal_original_division": true,
-    "current_equipment_stocks_morale_leaders_unchanged": true,
-    "original_division_toes_unchanged": true,
-    "linked_upgrade_chains_keep_smaller_formation": true
-  },
-  "airborne_native_size_before_after": [
-    {
-      "unit": 11542,
-      "name": "1/82nd",
-      "native_size_before": 9,
-      "native_size_after": 3
-    },
-    {
-      "unit": 11543,
-      "name": "2/82nd",
-      "native_size_before": 9,
-      "native_size_after": 3
-    },
-    {
-      "unit": 11544,
-      "name": "3/82nd",
-      "native_size_before": 9,
-      "native_size_after": 3
-    },
-    {
-      "unit": 11546,
-      "name": "1/1st",
-      "native_size_before": 9,
-      "native_size_after": 5
-    },
-    {
-      "unit": 11547,
-      "name": "2/1st",
-      "native_size_before": 9,
-      "native_size_after": 5
-    },
-    {
-      "unit": 11548,
-      "name": "3/1st",
-      "native_size_before": 9,
-      "native_size_after": 5
-    }
-  ],
-  "new_airborne_drop_runtime_verified": false,
-  "new_opening_air_execution_runtime_verified": false,
-  "phased_production_runtime_verified": false,
-  "opening_50th_supply_and_motorization_user_verified": true,
-  "arrival_aog_renaming_keeps_operational_fields": true,
-  "historical_husky_target_checks": {
-    "only_airborne_target_coordinates_changed": true,
-    "existing_invasion_targets_preserved": true,
-    "opening_invasion_adjacency_enforced": true,
-    "both_targets_on_clear_or_rough_land": true,
-    "no_launch_flags_or_preparation_points_changed": true
-  },
-  "opening_readiness_checks": {
-    "all_soviet_axis_and_unselected_unit_records_identical": true,
-    "all_equipment_quantities_and_fatigue_preserved": true,
-    "all_airgroups_aircraft_and_pilots_preserved": true,
-    "no_models_toes_factory_events_or_national_factors_changed": true,
-    "all_fuel_changes_at_least_native_opening_need_and_no_existing_surplus_removed": true,
-    "all_seven_active_tunisian_airborne_parts_at_least50": true,
-    "three_initial_naval_groups_restored_without_activating_future_duplicates": true
-  },
-  "new_opening_readiness_runtime_verified": false,
-  "quality_balance_runtime_verified": false,
-  "all_seven_tunisian_airborne_parts_initial_prep_at_least50": true,
-  "first_turn_air_v42_observed_sorties": 0,
-  "first_turn_air_v43_execution_verified": false,
-  "husky_opening_runtime_verified": false,
-  "first_turn_air_v43_observed_sorties": 72,
-  "first_turn_air_v43_recon_execution_observed": true,
-  "opening_ground_attack_runtime_verified": false,
-  "new_temporary_port_runtime_verified": false,
-  "hq_forward_transport_within_five_hexes_verified": false,
-  "all_seven_native_airborne_eligibility_pass": true,
-  "previous_v44_ground_attack_runtime_observed": true,
-  "previous_v44_air_sorties": 792,
-  "new_focused_air_orders_runtime_verified": false,
-  "corrected_tf81_launch_runtime_verified": false,
-  "seven_optional_airdrop_launches_runtime_verified": false,
-  "comprehensive_check_limits": [
-    "Static and offline native checks; no full live launch/aircraft-capacity/random-scatter simulation.",
-    "Legacy native editor validation was not rerun through the UI; no assertion of zero legacy errors, balanced outcomes or complete Western AI."
-  ],
-  "coastline46_checks": {
-    "all6_approaches_adjacent_under_native_shape2": true,
-    "all7_drop_plans_adjacent_under_native_shape2": true,
-    "new_beach_has_original_valid_coastal_area": true,
-    "no_terrain_or_ownership_change": true,
-    "no_inland_coastal_override": true,
-    "no_drop_on_invasion_beach": true,
-    "all7_drop_targets_unique": true,
-    "western_active_regular_stacks_within_three": true,
-    "all_other_bytes_identical": true
-  },
-  "actual_native_board_shape": 2,
-  "prior_shape3_geometry_checks_invalidated": true,
-  "old149293_is_inland": true,
-  "old_inland_cache_restored_minus1": true,
-  "new147293_original_coastal_area": 11,
-  "updated_two_airborne_targets_runtime_verified": false,
-  "comprehensive_coastline46_checks": {
-    "all6_assault_hqs_and8_main_units_paired_prepared_with_valid_sea_approaches": true,
-    "all7_optional_drop_targets_unique_and_separate_from_invasion_beaches": true,
-    "western_active_map_stacks_at_most3_axis_positions_preserved": true,
-    "adjacent_commando_drop_planned_combination_at_most3_before_random_scatter": true,
-    "all16384_units_equipment_morale_experience_stocks_arrivals_hq_types_preserved": true,
-    "all4096_ground_and4096_toe_records_preserved": true,
-    "all_new_attack_groups_active_and_target_radius_caches_consistent": true,
-    "existing_recon_naval_ground_support_orders_preserved": true,
-    "all7_native_airborne_unit_eligibility_checks_pass": true,
-    "continuation_copy_map_links_coordinates_and_stacks_consistent": true,
-    "main_optional_only_title_and_art_differ": true,
-    "checksums_archive_and_both_installed_variants_verified": true,
-    "original_scenario_untouched": true,
-    "actual_native_shape2_constructor_and_neighbor_paths_verified": true
-  },
-  "geometry_validation_scope": "Actual native initialization shape2 and native neighbor function; prior shape3 checks are invalidated. Live launch pending.",
-  "local47_cadres": 113,
-  "local47_support_formations": 79,
-  "local47_support_limits_checked_offline": 77,
-  "local47_combined_campaign_runtime_verified": false,
-  "historical_checks_note": "Earlier revision-specific checks describe the releases in which they were run. See v049 for the mainland freeze in this release.",
-  "v048": {
-    "regular_scenario_sha256": "9ccb9a4045ed04f0424dbb9707effbc5f092390f78a7077a4a7af9055baa84fa",
-    "symbols_scenario_sha256": "a9fadcb74808f837e9fa6aec281166d53581065864213931da5dca9d556017c1",
-    "both_editions_started_and_saved_in_game": true,
-    "ports": [
-      {
-        "name": "Bizerte",
-        "before": 3,
-        "after": 7
-      },
-      {
-        "name": "Bone",
-        "before": 4,
-        "after": 6
-      },
-      {
-        "name": "Philippeville",
-        "before": 1,
-        "after": 4
-      },
-      {
-        "name": "Sousse",
-        "before": 2,
-        "after": 5
-      },
-      {
-        "name": "Sfax",
-        "before": 2,
-        "after": 4
-      },
-      {
-        "name": "Tunis",
-        "before": 6,
-        "after": 7
-      },
-      {
-        "name": "Algiers",
-        "before": 6,
-        "after": 7
-      },
-      {
-        "name": "Oran",
-        "before": 6,
-        "after": 7
-      },
-      {
-        "name": "Siracusa",
-        "before": 3,
-        "after": 6
-      },
-      {
-        "name": "Gela",
-        "before": 1,
-        "after": 2
-      },
-      {
-        "name": "Catania",
-        "before": 4,
-        "after": 5
-      },
-      {
-        "name": "Palermo",
-        "before": 5,
-        "after": 6
-      },
-      {
-        "name": "Messina",
-        "before": 4,
-        "after": 5
-      },
-      {
-        "name": "Dover",
-        "before": 2,
-        "after": 5
-      },
-      {
-        "name": "Brighton and Hove",
-        "before": 2,
-        "after": 4
-      },
-      {
-        "name": "Poole",
-        "before": 2,
-        "after": 4
-      },
-      {
-        "name": "Portsmouth",
-        "before": 6,
-        "after": 7
-      },
-      {
-        "name": "Dunkerque",
-        "before": 2,
-        "after": 5
-      },
-      {
-        "name": "Boulogne",
-        "before": 3,
-        "after": 4
-      },
-      {
-        "name": "Calais",
-        "before": 2,
-        "after": 5
-      },
-      {
-        "name": "Dieppe",
-        "before": 2,
-        "after": 4
-      },
-      {
-        "name": "Le Havre",
-        "before": 5,
-        "after": 7
-      },
-      {
-        "name": "Cherbourg",
-        "before": 5,
-        "after": 7
-      },
-      {
-        "name": "Ostend",
-        "before": 3,
-        "after": 5
-      },
-      {
-        "name": "Bruges",
-        "before": 3,
-        "after": 4
-      },
-      {
-        "name": "Amsterdam",
-        "before": 5,
-        "after": 6
-      }
-    ],
-    "armoured_divisions_embarked_and_unloaded_in_game": [
-      {
-        "unit": "British 11th Armoured",
-        "from": "Philippeville",
-        "to": "Bone",
-        "display_tons": 26770
-      },
-      {
-        "unit": "US 2nd Armored",
-        "from": "Sfax",
-        "to": "Sousse",
-        "display_tons": 26260
-      }
-    ],
-    "transport_test_scope": "Diagnostic ground-phase save, with full divisions positioned in ports and a free destination stacking slot.",
-    "west_german_units_frozen": 103,
-    "opening_freeze_weeks": 26,
-    "units_at_25_weeks_in_T2": 103,
-    "western_records_checked_in_T2": 1922,
-    "western_soviet_guards_flags_in_T2": 0,
-    "guards_quota_check": "Native calculation on a diagnostic T2 roster with on-map eligibility enabled and reserve tables omitted. Switching the US 1st Infantry Division between its Allied morale setting and ordinary status gave the same weighted count. Switching to Soviet Guards added its divisional weight to the numerator. Eligible Western units contribute to the denominator.",
-    "soviet_positive_control": "A Soviet unit promoted in the controlled native test.",
-    "july_1943_US_1st_infantry_recovery_target": 65,
-    "US_1st_infantry_actual_T2_morale_after_replacements": 54,
-    "british_split_airborne_brigades_visible_in_airborne_menu": 3,
-    "airborne_mission_flown_in_this_test": false,
-    "full_campaign_tested": false
-  },
-  "v049": {
-    "scenario_sha256_by_edition": {
-      "WITW+WITE v0.9.49": "20a1a0bb72a9f2f0975478458625ac21e3b06d0a056bbf9f0adddfbfde47a458",
-      "WITW+WITE v0.9.49 Allied Symbols": "e136f1764620653eb998a0ec146f471e67cbfcf0d6f3567d245ce034c394cd58"
-    },
-    "native_freeze_weeks": 107,
-    "ground_formations": 50,
-    "headquarters": 21,
-    "changed_bytes_from_v048_per_edition": 98,
-    "opening_movement_points": 0,
-    "units": [
-      {
-        "id": 152,
-        "name": "XXXV",
-        "formation": "Ital. Corps",
-        "xy": [
-          131,
-          219
-        ],
-        "kind": 4
-      },
-      {
-        "id": 638,
-        "name": "9th Pasubio",
-        "formation": "Ital. Semi-Mot. Infantry Division",
-        "xy": [
-          145,
-          261
-        ],
-        "kind": 0
-      },
-      {
-        "id": 639,
-        "name": "52nd Torino",
-        "formation": "Ital. Semi-Mot. Infantry Division",
-        "xy": [
-          142,
-          223
-        ],
-        "kind": 0
-      },
-      {
-        "id": 646,
-        "name": "3rd Principe Amedeo",
-        "formation": "Ital. Celere Division",
-        "xy": [
-          131,
-          225
-        ],
-        "kind": 0
-      },
-      {
-        "id": 657,
-        "name": "2nd Tridentina",
-        "formation": "Ital. Alpina Division",
-        "xy": [
-          132,
-          217
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3236,
-        "name": "Italian High Command",
-        "formation": "",
-        "xy": [
-          137,
-          255
-        ],
-        "kind": 1
-      },
-      {
-        "id": 3238,
-        "name": "Regia Aeronautica",
-        "formation": "",
-        "xy": [
-          136,
-          255
-        ],
-        "kind": 2
-      },
-      {
-        "id": 3248,
-        "name": "5th",
-        "formation": "Ital. Army",
-        "xy": [
-          135,
-          251
-        ],
-        "kind": 3
-      },
-      {
-        "id": 3250,
-        "name": "7th",
-        "formation": "Ital. Army",
-        "xy": [
-          155,
-          264
-        ],
-        "kind": 3
-      },
-      {
-        "id": 3251,
-        "name": "8th",
-        "formation": "Ital. Army",
-        "xy": [
-          133,
-          227
-        ],
-        "kind": 3
-      },
-      {
-        "id": 3252,
-        "name": "Rome Defense",
-        "formation": "Ital. Army",
-        "xy": [
-          138,
-          254
-        ],
-        "kind": 3
-      },
-      {
-        "id": 3264,
-        "name": "Armored",
-        "formation": "Ital. Corps",
-        "xy": [
-          138,
-          254
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3265,
-        "name": "Rome",
-        "formation": "Ital. Corps",
-        "xy": [
-          138,
-          254
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3267,
-        "name": "II",
-        "formation": "Ital. Corps",
-        "xy": [
-          131,
-          240
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3269,
-        "name": "IX",
-        "formation": "Ital. Corps",
-        "xy": [
-          161,
-          262
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3270,
-        "name": "XV",
-        "formation": "Ital. Corps",
-        "xy": [
-          119,
-          235
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3275,
-        "name": "XIX",
-        "formation": "Ital. Corps",
-        "xy": [
-          145,
-          261
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3277,
-        "name": "XXIII",
-        "formation": "Ital. Corps",
-        "xy": [
-          143,
-          225
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3278,
-        "name": "XXIV",
-        "formation": "Ital. Corps",
-        "xy": [
-          140,
-          222
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3280,
-        "name": "XXXI",
-        "formation": "Ital. Corps",
-        "xy": [
-          155,
-          269
-        ],
-        "kind": 4
-      },
-      {
-        "id": 3287,
-        "name": "136th Centauro II",
-        "formation": "Ital. Armored Division",
-        "xy": [
-          138,
-          255
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3288,
-        "name": "135th Ariete II",
-        "formation": "Ital. Armored Division",
-        "xy": [
-          125,
-          227
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3294,
-        "name": "10th Piave",
-        "formation": "Ital. Motorized Division",
-        "xy": [
-          137,
-          255
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3297,
-        "name": "103rd Piacenza",
-        "formation": "Ital. Motorized Division",
-        "xy": [
-          138,
-          256
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3298,
-        "name": "104th Mantova",
-        "formation": "Ital. Motorized Division",
-        "xy": [
-          159,
-          270
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3299,
-        "name": "105th Rovigo",
-        "formation": "Ital. Motorized Division",
-        "xy": [
-          122,
-          236
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3315,
-        "name": "4th Cuneense",
-        "formation": "Ital. Alpina Division",
-        "xy": [
-          130,
-          220
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3318,
-        "name": "6th Alpi Graie",
-        "formation": "Ital. Alpina Division",
-        "xy": [
-          124,
-          238
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3321,
-        "name": "3rd Ravenna",
-        "formation": "Ital. Mountain Division",
-        "xy": [
-          132,
-          244
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3336,
-        "name": "5th Cosseria",
-        "formation": "Ital. Infantry Division",
-        "xy": [
-          120,
-          227
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3348,
-        "name": "152nd Piceno",
-        "formation": "Ital. Security Division",
-        "xy": [
-          165,
-          264
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3357,
-        "name": "201st",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          117,
-          236
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3366,
-        "name": "210th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          163,
-          264
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3368,
-        "name": "212th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          160,
-          280
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3370,
-        "name": "214th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          163,
-          277
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3371,
-        "name": "215th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          127,
-          245
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3372,
-        "name": "216th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          126,
-          241
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3373,
-        "name": "220th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          135,
-          255
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3374,
-        "name": "221st",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          138,
-          258
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3375,
-        "name": "222nd",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          146,
-          262
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3380,
-        "name": "227th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          156,
-          271
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3799,
-        "name": "Ital. Southeast",
-        "formation": "Army Group",
-        "xy": [
-          141,
-          257
-        ],
-        "kind": 2
-      },
-      {
-        "id": 3846,
-        "name": "2nd Ferro",
-        "formation": "Ital. Celere Division",
-        "xy": [
-          113,
-          230
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3859,
-        "name": "3rd Julia",
-        "formation": "Ital. Alpina Division",
-        "xy": [
-          142,
-          223
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3862,
-        "name": "2nd Sforzesca",
-        "formation": "Ital. Mountain Division",
-        "xy": [
-          145,
-          224
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3889,
-        "name": "12th Sassari",
-        "formation": "Ital. Infantry Division",
-        "xy": [
-          137,
-          256
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3890,
-        "name": "13th Re",
-        "formation": "Ital. Infantry Division",
-        "xy": [
-          138,
-          253
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3895,
-        "name": "21st Sardegna",
-        "formation": "Ital. Infantry Division",
-        "xy": [
-          137,
-          256
-        ],
-        "kind": 0
-      },
-      {
-        "id": 3910,
-        "name": "58th Legnano",
-        "formation": "Ital. Infantry Division",
-        "xy": [
-          166,
-          263
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10259,
-        "name": "1st Ital. Air Fleet",
-        "formation": "",
-        "xy": [
-          120,
-          227
-        ],
-        "kind": 3
-      },
-      {
-        "id": 10261,
-        "name": "2nd Ital. Air Fleet",
-        "formation": "",
-        "xy": [
-          135,
-          227
-        ],
-        "kind": 3
-      },
-      {
-        "id": 10262,
-        "name": "3rd Ital. Air Fleet",
-        "formation": "",
-        "xy": [
-          137,
-          255
-        ],
-        "kind": 3
-      },
-      {
-        "id": 10263,
-        "name": "4th Ital. Air Fleet",
-        "formation": "",
-        "xy": [
-          161,
-          260
-        ],
-        "kind": 3
-      },
-      {
-        "id": 10291,
-        "name": "209th",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          162,
-          261
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10293,
-        "name": "211st",
-        "formation": "Ital. Coastal Division",
-        "xy": [
-          158,
-          286
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10326,
-        "name": "XXXI",
-        "formation": "Ital. Coastal Brigade",
-        "xy": [
-          161,
-          265
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10327,
-        "name": "XXXII",
-        "formation": "Ital. Coastal Brigade",
-        "xy": [
-          144,
-          260
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10329,
-        "name": "XXXIV",
-        "formation": "Ital. Coastal Brigade",
-        "xy": [
-          136,
-          257
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10332,
-        "name": "102nd",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          119,
-          235
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10333,
-        "name": "112th",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          161,
-          260
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10334,
-        "name": "116th",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          156,
-          285
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10335,
-        "name": "117th",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          147,
-          263
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10340,
-        "name": "151st",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          147,
-          263
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10341,
-        "name": "161st",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          124,
-          238
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10342,
-        "name": "162nd Naval",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          166,
-          263
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10344,
-        "name": "169th",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          136,
-          227
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10346,
-        "name": "Piazza Naval",
-        "formation": "Ital. Coastal Regiment",
-        "xy": [
-          163,
-          264
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10349,
-        "name": "6th",
-        "formation": "Ital. Alpina Regiment",
-        "xy": [
-          131,
-          227
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10358,
-        "name": "6th",
-        "formation": "Ital. Bersaglieri Regiment",
-        "xy": [
-          135,
-          235
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10359,
-        "name": "8th",
-        "formation": "Ital. Bersaglieri Regiment",
-        "xy": [
-          130,
-          220
-        ],
-        "kind": 0
-      },
-      {
-        "id": 10363,
-        "name": "185th",
-        "formation": "Ital. Parachute Regiment",
-        "xy": [
-          136,
-          227
-        ],
-        "kind": 0
-      }
-    ],
-    "proximity_test": {
-      "scenarios": {
-        "WITW+WITE v0.9.49": [
-          {
-            "location": "Palermo",
-            "xy": [
-              143,
-              286
-            ],
-            "eligible": true,
-            "enemy_frozen": false,
-            "released": [],
-            "still_frozen": 71
-          },
-          {
-            "location": "Messina",
-            "xy": [
-              155,
-              284
-            ],
-            "eligible": true,
-            "enemy_frozen": false,
-            "released": [
-              10334
-            ],
-            "still_frozen": 70
-          },
-          {
-            "location": "Salerno",
-            "xy": [
-              149,
-              265
-            ],
-            "eligible": true,
-            "enemy_frozen": false,
-            "released": [
-              10335,
-              10340
-            ],
-            "still_frozen": 69
-          },
-          {
-            "location": "Messina with frozen enemy",
-            "xy": [
-              155,
-              284
-            ],
-            "eligible": true,
-            "enemy_frozen": true,
-            "released": [],
-            "still_frozen": 71
-          },
-          {
-            "location": "Messina with ineligible enemy hex",
-            "xy": [
-              155,
-              284
-            ],
-            "eligible": false,
-            "enemy_frozen": false,
-            "released": [],
-            "still_frozen": 71
-          }
-        ],
-        "WITW+WITE v0.9.49 Allied Symbols": [
-          {
-            "location": "Palermo",
-            "xy": [
-              143,
-              286
-            ],
-            "eligible": true,
-            "enemy_frozen": false,
-            "released": [],
-            "still_frozen": 71
-          },
-          {
-            "location": "Messina",
-            "xy": [
-              155,
-              284
-            ],
-            "eligible": true,
-            "enemy_frozen": false,
-            "released": [
-              10334
-            ],
-            "still_frozen": 70
-          },
-          {
-            "location": "Salerno",
-            "xy": [
-              149,
-              265
-            ],
-            "eligible": true,
-            "enemy_frozen": false,
-            "released": [
-              10335,
-              10340
-            ],
-            "still_frozen": 69
-          },
-          {
-            "location": "Messina with frozen enemy",
-            "xy": [
-              155,
-              284
-            ],
-            "eligible": true,
-            "enemy_frozen": true,
-            "released": [],
-            "still_frozen": 71
-          },
-          {
-            "location": "Messina with ineligible enemy hex",
-            "xy": [
-              155,
-              284
-            ],
-            "eligible": false,
-            "enemy_frozen": false,
-            "released": [],
-            "still_frozen": 71
-          }
+    "armistice": {
+      "test": "Save turn 002 7-10-1943 Ax.sav",
+      "control": "Save turn 002 7-10-1943 Ax.sav",
+      "teststate": {
+        "italian_ground": {
+          "999": 189,
+          "0": 1
+        },
+        "italian_air": {
+          "0": 113
+        },
+        "italian_bases": {
+          "0": 96
+        },
+        "western_freeze": {
+          "0": 116,
+          "1": 1
+        }
+      },
+      "controlstate": {
+        "italian_ground": {
+          "0": 190
+        },
+        "italian_air": {
+          "0": 113
+        },
+        "italian_bases": {
+          "0": 96
+        },
+        "western_freeze": {
+          "14": 117
+        }
+      },
+      "non_italian_missing": [],
+      "non_italian_extra": [],
+      "log_excerpt": [
+        "Balkans LOSSES (INACTIVE)",
+        "Balkans AIR LOSSES (INACTIVE)",
+        "Axis Surrender______0",
+        "Soviet Surrender____0"
+      ],
+      "italian_ground_still_active": [],
+      "italian_air_still_active": [],
+      "italian_bases_still_active": 96,
+      "non_italian_air_removed": [],
+      "non_italian_ground_removed_all_boxes_and_sides": [],
+      "italian_high_command_record_cleared": true,
+      "remaining_western_freeze": [
+        [
+          10365,
+          "Sud'",
+          "Mot. Military Police Battalion",
+          1,
+          true
         ]
-      },
-      "scope": "Isolated native proximity decision with one controlled enemy, not a full turn."
+      ]
     },
-    "full_turn_played_in_this_test": false
-  },
-  "v052": {
-    "scenario_sha256_by_edition": {
-      "WITW+WITE v0.9.52": "2958788a8eb5531a3c6998e01a2df5b0c46685a5b5adb75f85bdba93e6afe17f",
-      "WITW+WITE v0.9.52 Allied Symbols": "12283a8fbf65854084cee753415c84307aae347460a3f660bca269b940c904c9"
-    },
-    "shared_troop_ships_at_start": 349,
-    "western_manpower_grants": {
-      "events": 24,
-      "total": 1960000,
-      "first": 250000
-    },
-    "british_ports": [
-      {
-        "name": "Dover",
-        "old": 5,
-        "new": 6,
-        "before_tons": 75000,
-        "after_tons": 90000
+    "first_week": {
+      "save": "Save turn 002 7-10-1943 Ax.sav",
+      "hash": "2362f00e0a14f6deedab3ce81c9039600a0aaeffa5ac6b67e55d53275c5f19e9",
+      "rockets": [
+        {
+          "id": 6013,
+          "name": "1st Guards",
+          "assigned": 3979,
+          "xy": [
+            229,
+            122
+          ],
+          "launchers": 68,
+          "support_elements": 27
+        },
+        {
+          "id": 6016,
+          "name": "4th Guards",
+          "assigned": 3979,
+          "xy": [
+            230,
+            122
+          ],
+          "launchers": 136,
+          "support_elements": 54
+        },
+        {
+          "id": 6017,
+          "name": "5th Guards",
+          "assigned": 4096,
+          "xy": [
+            233,
+            152
+          ],
+          "launchers": 204,
+          "support_elements": 81
+        },
+        {
+          "id": 6018,
+          "name": "6th Guards",
+          "assigned": 3979,
+          "xy": [
+            229,
+            121
+          ],
+          "launchers": 136,
+          "support_elements": 54
+        },
+        {
+          "id": 6019,
+          "name": "7th Guards",
+          "assigned": 3979,
+          "xy": [
+            230,
+            122
+          ],
+          "launchers": 204,
+          "support_elements": 81
+        }
+      ],
+      "reserve_after_week": {
+        "('land', 1)": 125,
+        "('air', 1)": 34,
+        "('air', 2)": 1
       },
-      {
-        "name": "Brighton and Hove",
-        "old": 4,
-        "new": 5,
-        "before_tons": 60000,
-        "after_tons": 75000
+      "west_after_week": {
+        "14": 117
       },
-      {
-        "name": "Portsmouth",
-        "old": 7,
-        "new": 8,
-        "before_tons": 105000,
-        "after_tons": 120000
-      },
-      {
-        "name": "Bournemouth",
-        "old": 4,
-        "new": 5,
-        "before_tons": 60000,
-        "after_tons": 75000
-      },
-      {
-        "name": "Southampton",
-        "old": 7,
-        "new": 8,
-        "before_tons": 105000,
-        "after_tons": 120000
-      },
-      {
-        "name": "Weymouth",
-        "old": 5,
-        "new": 6,
-        "before_tons": 75000,
-        "after_tons": 90000
-      },
-      {
-        "name": "Poole",
-        "old": 4,
-        "new": 5,
-        "before_tons": 60000,
-        "after_tons": 75000
-      },
-      {
-        "name": "Plymouth",
-        "old": 6,
-        "new": 7,
-        "before_tons": 90000,
-        "after_tons": 105000
-      },
-      {
-        "name": "Bristol",
-        "old": 4,
-        "new": 5,
-        "before_tons": 60000,
-        "after_tons": 75000
-      },
-      {
-        "name": "Falmouth",
-        "old": 2,
-        "new": 3,
-        "before_tons": 30000,
-        "after_tons": 45000
-      }
-    ],
-    "continental_ports_after_game_logistics": [
-      {
-        "name": "Hamburg",
-        "level": 9,
-        "capacity_tons": 135000
-      },
-      {
-        "name": "Bremerhaven",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "Bremen",
-        "level": 4,
-        "capacity_tons": 60000
-      },
-      {
-        "name": "Wilhelmshaven",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "Emden",
-        "level": 3,
-        "capacity_tons": 45000
-      },
-      {
-        "name": "Brunsbuettel",
-        "level": 3,
-        "capacity_tons": 45000
-      },
-      {
-        "name": "Antwerp",
-        "level": 10,
-        "capacity_tons": 150000
-      },
-      {
-        "name": "Bruges",
-        "level": 5,
-        "capacity_tons": 75000
-      },
-      {
-        "name": "Ostend",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "Rotterdam",
-        "level": 8,
-        "capacity_tons": 120000
-      },
-      {
-        "name": "The Hague",
-        "level": 5,
-        "capacity_tons": 75000
-      },
-      {
-        "name": "Amsterdam",
-        "level": 7,
-        "capacity_tons": 105000
-      },
-      {
-        "name": "Haarlem",
-        "level": 5,
-        "capacity_tons": 75000
-      },
-      {
-        "name": "Den Helder",
-        "level": 4,
-        "capacity_tons": 60000
-      },
-      {
-        "name": "Nice",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "Toulon",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "Marseille",
-        "level": 10,
-        "capacity_tons": 150000
-      },
-      {
-        "name": "Bayonne",
-        "level": 2,
-        "capacity_tons": 30000
-      },
-      {
-        "name": "Bordeaux",
-        "level": 8,
-        "capacity_tons": 120000
-      },
-      {
-        "name": "Rochefort",
-        "level": 3,
-        "capacity_tons": 45000
-      },
-      {
-        "name": "La Rochelle",
-        "level": 3,
-        "capacity_tons": 45000
-      },
-      {
-        "name": "Nantes",
-        "level": 2,
-        "capacity_tons": 30000
-      },
-      {
-        "name": "St Nazaire",
-        "level": 5,
-        "capacity_tons": 75000
-      },
-      {
-        "name": "Dieppe",
-        "level": 5,
-        "capacity_tons": 75000
-      },
-      {
-        "name": "Le Havre",
-        "level": 8,
-        "capacity_tons": 120000
-      },
-      {
-        "name": "St Malo",
-        "level": 3,
-        "capacity_tons": 45000
-      },
-      {
-        "name": "Granville",
-        "level": 2,
-        "capacity_tons": 30000
-      },
-      {
-        "name": "Lorient",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "Etaples",
-        "level": 2,
-        "capacity_tons": 30000
-      },
-      {
-        "name": "Dunkerque",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "St Brieuc",
-        "level": 2,
-        "capacity_tons": 30000
-      },
-      {
-        "name": "Boulogne",
-        "level": 5,
-        "capacity_tons": 75000
-      },
-      {
-        "name": "Calais",
-        "level": 6,
-        "capacity_tons": 90000
-      },
-      {
-        "name": "Cherbourg",
-        "level": 8,
-        "capacity_tons": 120000
-      },
-      {
-        "name": "Brest",
-        "level": 7,
-        "capacity_tons": 105000
-      }
-    ],
-    "british_capacity_undamaged_tons": 870000,
-    "continental_capacity_undamaged_tons": 2790000,
-    "channel_test": {
-      "fixture": "July 1943 diagnostic save with the US 4th Infantry Division and Amphibious HQ placed together at Portsmouth with 90 preparation points.",
-      "troop_ships_debited": 6,
-      "cargo_ships_debited": 6,
-      "temporary_port_level": 2,
-      "division_ashore_next_turn": true
+      "logs": [
+        "Balkans LOSSES (INACTIVE)",
+        "Balkans AIR LOSSES (INACTIVE)"
+      ]
     },
     "full_campaign_verified": false
+  },
+  "previous_release_verification": {
+    "version": "v0.9.52",
+    "development_game_version": "WiTE2 v1.05.02",
+    "scenario_sha256": "2958788a8eb5531a3c6998e01a2df5b0c46685a5b5adb75f85bdba93e6afe17f",
+    "final_static_checks": {
+      "all_non_german_events_byte_identical": true,
+      "all163_victory_records_identical": true,
+      "all_existing_western_HQ_leaders_identical": true,
+      "all_axis_and_soviet_ground_records_identical": true,
+      "national_recruitment_unchanged": true,
+      "all_city_nationalities_unchanged": true,
+      "all_ground_coverage_still_valid_after_air_table_rebuild": true,
+      "factory_registry_and_city_slots_match": true,
+      "equipment_capacity_by_canonical_model_conserved": true,
+      "all224_model_alias_physical_definitions_preserved": true,
+      "all_restored_ready_equipment_has_valid_model": true
+    },
+    "ground_compiler_checks": {
+      "byte_proof": {
+        "changed_bytes": 39469,
+        "all_other_bytes_identical": true,
+        "source_sha256": "0cfb0bc806c371cce892a7baab4bb75456fa2480c72a85e66c8c3ea214f82210",
+        "result_sha256": "4d14832b7a2fae947ec2fa0b2fb1b0909e27d61280b1f05e0af6d666493fb963"
+      },
+      "all1010_ground_arrival_identities_schedules_and_control": true,
+      "all163_victory_records_identical": true,
+      "all_preexisting_active_quantities_experience_morale_and_leaders_retained": true,
+      "allied_equipment_total_capacity_preserved": true,
+      "all_city_nations_and_national_multipliers_preserved": true
+    },
+    "air_compiler_checks": {
+      "all_dates_control_hq_profiles_bases_and_unique_aog_membership": true,
+      "all_existing_group_morale_and_experience_retained": true,
+      "all_unselected_airgroups_unchanged": true,
+      "source_and_native_player_type_offsets_verified_against_editor_csv": true
+    },
+    "official_dated_ground_coverage": 1010,
+    "official_dated_air_coverage": 198,
+    "rail_capacity_offline_native_helper": {
+      "before": {
+        "11978": 1593,
+        "11979": 1674,
+        "11990": 2916,
+        "11991": 2916,
+        "11992": 2916,
+        "11993": 2754
+      },
+      "after": {
+        "11978": 1629,
+        "11979": 1665,
+        "11990": 2916,
+        "11991": 2916,
+        "11992": 2916,
+        "11993": 2763
+      },
+      "all_six_above_native_minimum": true,
+      "unchanged": false
+    },
+    "prior_runtime_evidence": "Before this revision, the user verified six railway groups repairing track and next-week repair settlement, selected reinforcements/replacements, amphibious landings and supply. These do not certify every newly restored formation.",
+    "newly_restored_arrivals_runtime_verified": false,
+    "manpower_event_delivery_runtime_verified": false,
+    "optional_symbols_in_game_visual_verified": false,
+    "western_strategic_ai_complete": false,
+    "full_campaign_balance_or_long_stability_verified": false,
+    "symbol_mapping_correction": {
+      "version": "v0.9.40",
+      "semantic_checks": {
+        "green_command_HQs": 102,
+        "green_anti_tank_records": 77,
+        "green_combat_engineer_records": 191,
+        "green_rail_HQs": 6,
+        "green_anti_aircraft_records": 405
+      },
+      "main_gameplay_identical_to_v39": true,
+      "all_unit_bytes_unchanged": true,
+      "source_enum_checked_against_editor_csv": true,
+      "original_atlas_pixels_preserved": true,
+      "visual_runtime_verified": false
+    },
+    "opening_stock_checks": {
+      "all35_stock_omissions_restored": true,
+      "all_other_save_bytes_identical": true,
+      "all_air_orders_identical": true,
+      "all_equipment_quantities_and_experience_preserved": true,
+      "no_national_pool_or_production_changes": true,
+      "all_frozen_and_delayed_units_excluded": true
+    },
+    "opening_stock_fix_new_save_runtime_visual_verified": false,
+    "support_revision_static_checks": {
+      "all_units_equipment_morale_experience_leaders_and_stocks_identical": true,
+      "all163_victory_records_identical": true,
+      "all_factory_registry_and_city_capacities_match": true,
+      "all24_manpower_events_keep_original_dates_and_occurrence_state": true,
+      "two_city_conversions_add_no_manpower_factory_capacity": true,
+      "all_generic_incremental_inputs_cover_output": true,
+      "existing_national_multipliers_unchanged": true,
+      "all_new_production_routes_pass_native_nationality_gate": true
+    },
+    "airborne_formation_static_checks": {
+      "native_size_below_six": true,
+      "partitioned_toe_totals_equal_original_division": true,
+      "current_equipment_stocks_morale_leaders_unchanged": true,
+      "original_division_toes_unchanged": true,
+      "linked_upgrade_chains_keep_smaller_formation": true
+    },
+    "airborne_native_size_before_after": [
+      {
+        "unit": 11542,
+        "name": "1/82nd",
+        "native_size_before": 9,
+        "native_size_after": 3
+      },
+      {
+        "unit": 11543,
+        "name": "2/82nd",
+        "native_size_before": 9,
+        "native_size_after": 3
+      },
+      {
+        "unit": 11544,
+        "name": "3/82nd",
+        "native_size_before": 9,
+        "native_size_after": 3
+      },
+      {
+        "unit": 11546,
+        "name": "1/1st",
+        "native_size_before": 9,
+        "native_size_after": 5
+      },
+      {
+        "unit": 11547,
+        "name": "2/1st",
+        "native_size_before": 9,
+        "native_size_after": 5
+      },
+      {
+        "unit": 11548,
+        "name": "3/1st",
+        "native_size_before": 9,
+        "native_size_after": 5
+      }
+    ],
+    "new_airborne_drop_runtime_verified": false,
+    "new_opening_air_execution_runtime_verified": false,
+    "phased_production_runtime_verified": false,
+    "opening_50th_supply_and_motorization_user_verified": true,
+    "arrival_aog_renaming_keeps_operational_fields": true,
+    "historical_husky_target_checks": {
+      "only_airborne_target_coordinates_changed": true,
+      "existing_invasion_targets_preserved": true,
+      "opening_invasion_adjacency_enforced": true,
+      "both_targets_on_clear_or_rough_land": true,
+      "no_launch_flags_or_preparation_points_changed": true
+    },
+    "opening_readiness_checks": {
+      "all_soviet_axis_and_unselected_unit_records_identical": true,
+      "all_equipment_quantities_and_fatigue_preserved": true,
+      "all_airgroups_aircraft_and_pilots_preserved": true,
+      "no_models_toes_factory_events_or_national_factors_changed": true,
+      "all_fuel_changes_at_least_native_opening_need_and_no_existing_surplus_removed": true,
+      "all_seven_active_tunisian_airborne_parts_at_least50": true,
+      "three_initial_naval_groups_restored_without_activating_future_duplicates": true
+    },
+    "new_opening_readiness_runtime_verified": false,
+    "quality_balance_runtime_verified": false,
+    "all_seven_tunisian_airborne_parts_initial_prep_at_least50": true,
+    "first_turn_air_v42_observed_sorties": 0,
+    "first_turn_air_v43_execution_verified": false,
+    "husky_opening_runtime_verified": false,
+    "first_turn_air_v43_observed_sorties": 72,
+    "first_turn_air_v43_recon_execution_observed": true,
+    "opening_ground_attack_runtime_verified": false,
+    "new_temporary_port_runtime_verified": false,
+    "hq_forward_transport_within_five_hexes_verified": false,
+    "all_seven_native_airborne_eligibility_pass": true,
+    "previous_v44_ground_attack_runtime_observed": true,
+    "previous_v44_air_sorties": 792,
+    "new_focused_air_orders_runtime_verified": false,
+    "corrected_tf81_launch_runtime_verified": false,
+    "seven_optional_airdrop_launches_runtime_verified": false,
+    "comprehensive_check_limits": [
+      "Static and offline native checks; no full live launch/aircraft-capacity/random-scatter simulation.",
+      "Legacy native editor validation was not rerun through the UI; no assertion of zero legacy errors, balanced outcomes or complete Western AI."
+    ],
+    "coastline46_checks": {
+      "all6_approaches_adjacent_under_native_shape2": true,
+      "all7_drop_plans_adjacent_under_native_shape2": true,
+      "new_beach_has_original_valid_coastal_area": true,
+      "no_terrain_or_ownership_change": true,
+      "no_inland_coastal_override": true,
+      "no_drop_on_invasion_beach": true,
+      "all7_drop_targets_unique": true,
+      "western_active_regular_stacks_within_three": true,
+      "all_other_bytes_identical": true
+    },
+    "actual_native_board_shape": 2,
+    "prior_shape3_geometry_checks_invalidated": true,
+    "old149293_is_inland": true,
+    "old_inland_cache_restored_minus1": true,
+    "new147293_original_coastal_area": 11,
+    "updated_two_airborne_targets_runtime_verified": false,
+    "comprehensive_coastline46_checks": {
+      "all6_assault_hqs_and8_main_units_paired_prepared_with_valid_sea_approaches": true,
+      "all7_optional_drop_targets_unique_and_separate_from_invasion_beaches": true,
+      "western_active_map_stacks_at_most3_axis_positions_preserved": true,
+      "adjacent_commando_drop_planned_combination_at_most3_before_random_scatter": true,
+      "all16384_units_equipment_morale_experience_stocks_arrivals_hq_types_preserved": true,
+      "all4096_ground_and4096_toe_records_preserved": true,
+      "all_new_attack_groups_active_and_target_radius_caches_consistent": true,
+      "existing_recon_naval_ground_support_orders_preserved": true,
+      "all7_native_airborne_unit_eligibility_checks_pass": true,
+      "continuation_copy_map_links_coordinates_and_stacks_consistent": true,
+      "main_optional_only_title_and_art_differ": true,
+      "checksums_archive_and_both_installed_variants_verified": true,
+      "original_scenario_untouched": true,
+      "actual_native_shape2_constructor_and_neighbor_paths_verified": true
+    },
+    "geometry_validation_scope": "Actual native initialization shape2 and native neighbor function; prior shape3 checks are invalidated. Live launch pending.",
+    "local47_cadres": 113,
+    "local47_support_formations": 79,
+    "local47_support_limits_checked_offline": 77,
+    "local47_combined_campaign_runtime_verified": false,
+    "historical_checks_note": "Earlier revision-specific checks describe the releases in which they were run. See v049 for the mainland freeze in this release.",
+    "v048": {
+      "regular_scenario_sha256": "9ccb9a4045ed04f0424dbb9707effbc5f092390f78a7077a4a7af9055baa84fa",
+      "symbols_scenario_sha256": "a9fadcb74808f837e9fa6aec281166d53581065864213931da5dca9d556017c1",
+      "both_editions_started_and_saved_in_game": true,
+      "ports": [
+        {
+          "name": "Bizerte",
+          "before": 3,
+          "after": 7
+        },
+        {
+          "name": "Bone",
+          "before": 4,
+          "after": 6
+        },
+        {
+          "name": "Philippeville",
+          "before": 1,
+          "after": 4
+        },
+        {
+          "name": "Sousse",
+          "before": 2,
+          "after": 5
+        },
+        {
+          "name": "Sfax",
+          "before": 2,
+          "after": 4
+        },
+        {
+          "name": "Tunis",
+          "before": 6,
+          "after": 7
+        },
+        {
+          "name": "Algiers",
+          "before": 6,
+          "after": 7
+        },
+        {
+          "name": "Oran",
+          "before": 6,
+          "after": 7
+        },
+        {
+          "name": "Siracusa",
+          "before": 3,
+          "after": 6
+        },
+        {
+          "name": "Gela",
+          "before": 1,
+          "after": 2
+        },
+        {
+          "name": "Catania",
+          "before": 4,
+          "after": 5
+        },
+        {
+          "name": "Palermo",
+          "before": 5,
+          "after": 6
+        },
+        {
+          "name": "Messina",
+          "before": 4,
+          "after": 5
+        },
+        {
+          "name": "Dover",
+          "before": 2,
+          "after": 5
+        },
+        {
+          "name": "Brighton and Hove",
+          "before": 2,
+          "after": 4
+        },
+        {
+          "name": "Poole",
+          "before": 2,
+          "after": 4
+        },
+        {
+          "name": "Portsmouth",
+          "before": 6,
+          "after": 7
+        },
+        {
+          "name": "Dunkerque",
+          "before": 2,
+          "after": 5
+        },
+        {
+          "name": "Boulogne",
+          "before": 3,
+          "after": 4
+        },
+        {
+          "name": "Calais",
+          "before": 2,
+          "after": 5
+        },
+        {
+          "name": "Dieppe",
+          "before": 2,
+          "after": 4
+        },
+        {
+          "name": "Le Havre",
+          "before": 5,
+          "after": 7
+        },
+        {
+          "name": "Cherbourg",
+          "before": 5,
+          "after": 7
+        },
+        {
+          "name": "Ostend",
+          "before": 3,
+          "after": 5
+        },
+        {
+          "name": "Bruges",
+          "before": 3,
+          "after": 4
+        },
+        {
+          "name": "Amsterdam",
+          "before": 5,
+          "after": 6
+        }
+      ],
+      "armoured_divisions_embarked_and_unloaded_in_game": [
+        {
+          "unit": "British 11th Armoured",
+          "from": "Philippeville",
+          "to": "Bone",
+          "display_tons": 26770
+        },
+        {
+          "unit": "US 2nd Armored",
+          "from": "Sfax",
+          "to": "Sousse",
+          "display_tons": 26260
+        }
+      ],
+      "transport_test_scope": "Diagnostic ground-phase save, with full divisions positioned in ports and a free destination stacking slot.",
+      "west_german_units_frozen": 103,
+      "opening_freeze_weeks": 26,
+      "units_at_25_weeks_in_T2": 103,
+      "western_records_checked_in_T2": 1922,
+      "western_soviet_guards_flags_in_T2": 0,
+      "guards_quota_check": "Native calculation on a diagnostic T2 roster with on-map eligibility enabled and reserve tables omitted. Switching the US 1st Infantry Division between its Allied morale setting and ordinary status gave the same weighted count. Switching to Soviet Guards added its divisional weight to the numerator. Eligible Western units contribute to the denominator.",
+      "soviet_positive_control": "A Soviet unit promoted in the controlled native test.",
+      "july_1943_US_1st_infantry_recovery_target": 65,
+      "US_1st_infantry_actual_T2_morale_after_replacements": 54,
+      "british_split_airborne_brigades_visible_in_airborne_menu": 3,
+      "airborne_mission_flown_in_this_test": false,
+      "full_campaign_tested": false
+    },
+    "v049": {
+      "scenario_sha256_by_edition": {
+        "WITW+WITE v0.9.49": "20a1a0bb72a9f2f0975478458625ac21e3b06d0a056bbf9f0adddfbfde47a458",
+        "WITW+WITE v0.9.49 Allied Symbols": "e136f1764620653eb998a0ec146f471e67cbfcf0d6f3567d245ce034c394cd58"
+      },
+      "native_freeze_weeks": 107,
+      "ground_formations": 50,
+      "headquarters": 21,
+      "changed_bytes_from_v048_per_edition": 98,
+      "opening_movement_points": 0,
+      "units": [
+        {
+          "id": 152,
+          "name": "XXXV",
+          "formation": "Ital. Corps",
+          "xy": [
+            131,
+            219
+          ],
+          "kind": 4
+        },
+        {
+          "id": 638,
+          "name": "9th Pasubio",
+          "formation": "Ital. Semi-Mot. Infantry Division",
+          "xy": [
+            145,
+            261
+          ],
+          "kind": 0
+        },
+        {
+          "id": 639,
+          "name": "52nd Torino",
+          "formation": "Ital. Semi-Mot. Infantry Division",
+          "xy": [
+            142,
+            223
+          ],
+          "kind": 0
+        },
+        {
+          "id": 646,
+          "name": "3rd Principe Amedeo",
+          "formation": "Ital. Celere Division",
+          "xy": [
+            131,
+            225
+          ],
+          "kind": 0
+        },
+        {
+          "id": 657,
+          "name": "2nd Tridentina",
+          "formation": "Ital. Alpina Division",
+          "xy": [
+            132,
+            217
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3236,
+          "name": "Italian High Command",
+          "formation": "",
+          "xy": [
+            137,
+            255
+          ],
+          "kind": 1
+        },
+        {
+          "id": 3238,
+          "name": "Regia Aeronautica",
+          "formation": "",
+          "xy": [
+            136,
+            255
+          ],
+          "kind": 2
+        },
+        {
+          "id": 3248,
+          "name": "5th",
+          "formation": "Ital. Army",
+          "xy": [
+            135,
+            251
+          ],
+          "kind": 3
+        },
+        {
+          "id": 3250,
+          "name": "7th",
+          "formation": "Ital. Army",
+          "xy": [
+            155,
+            264
+          ],
+          "kind": 3
+        },
+        {
+          "id": 3251,
+          "name": "8th",
+          "formation": "Ital. Army",
+          "xy": [
+            133,
+            227
+          ],
+          "kind": 3
+        },
+        {
+          "id": 3252,
+          "name": "Rome Defense",
+          "formation": "Ital. Army",
+          "xy": [
+            138,
+            254
+          ],
+          "kind": 3
+        },
+        {
+          "id": 3264,
+          "name": "Armored",
+          "formation": "Ital. Corps",
+          "xy": [
+            138,
+            254
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3265,
+          "name": "Rome",
+          "formation": "Ital. Corps",
+          "xy": [
+            138,
+            254
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3267,
+          "name": "II",
+          "formation": "Ital. Corps",
+          "xy": [
+            131,
+            240
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3269,
+          "name": "IX",
+          "formation": "Ital. Corps",
+          "xy": [
+            161,
+            262
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3270,
+          "name": "XV",
+          "formation": "Ital. Corps",
+          "xy": [
+            119,
+            235
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3275,
+          "name": "XIX",
+          "formation": "Ital. Corps",
+          "xy": [
+            145,
+            261
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3277,
+          "name": "XXIII",
+          "formation": "Ital. Corps",
+          "xy": [
+            143,
+            225
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3278,
+          "name": "XXIV",
+          "formation": "Ital. Corps",
+          "xy": [
+            140,
+            222
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3280,
+          "name": "XXXI",
+          "formation": "Ital. Corps",
+          "xy": [
+            155,
+            269
+          ],
+          "kind": 4
+        },
+        {
+          "id": 3287,
+          "name": "136th Centauro II",
+          "formation": "Ital. Armored Division",
+          "xy": [
+            138,
+            255
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3288,
+          "name": "135th Ariete II",
+          "formation": "Ital. Armored Division",
+          "xy": [
+            125,
+            227
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3294,
+          "name": "10th Piave",
+          "formation": "Ital. Motorized Division",
+          "xy": [
+            137,
+            255
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3297,
+          "name": "103rd Piacenza",
+          "formation": "Ital. Motorized Division",
+          "xy": [
+            138,
+            256
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3298,
+          "name": "104th Mantova",
+          "formation": "Ital. Motorized Division",
+          "xy": [
+            159,
+            270
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3299,
+          "name": "105th Rovigo",
+          "formation": "Ital. Motorized Division",
+          "xy": [
+            122,
+            236
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3315,
+          "name": "4th Cuneense",
+          "formation": "Ital. Alpina Division",
+          "xy": [
+            130,
+            220
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3318,
+          "name": "6th Alpi Graie",
+          "formation": "Ital. Alpina Division",
+          "xy": [
+            124,
+            238
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3321,
+          "name": "3rd Ravenna",
+          "formation": "Ital. Mountain Division",
+          "xy": [
+            132,
+            244
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3336,
+          "name": "5th Cosseria",
+          "formation": "Ital. Infantry Division",
+          "xy": [
+            120,
+            227
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3348,
+          "name": "152nd Piceno",
+          "formation": "Ital. Security Division",
+          "xy": [
+            165,
+            264
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3357,
+          "name": "201st",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            117,
+            236
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3366,
+          "name": "210th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            163,
+            264
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3368,
+          "name": "212th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            160,
+            280
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3370,
+          "name": "214th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            163,
+            277
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3371,
+          "name": "215th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            127,
+            245
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3372,
+          "name": "216th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            126,
+            241
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3373,
+          "name": "220th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            135,
+            255
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3374,
+          "name": "221st",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            138,
+            258
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3375,
+          "name": "222nd",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            146,
+            262
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3380,
+          "name": "227th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            156,
+            271
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3799,
+          "name": "Ital. Southeast",
+          "formation": "Army Group",
+          "xy": [
+            141,
+            257
+          ],
+          "kind": 2
+        },
+        {
+          "id": 3846,
+          "name": "2nd Ferro",
+          "formation": "Ital. Celere Division",
+          "xy": [
+            113,
+            230
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3859,
+          "name": "3rd Julia",
+          "formation": "Ital. Alpina Division",
+          "xy": [
+            142,
+            223
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3862,
+          "name": "2nd Sforzesca",
+          "formation": "Ital. Mountain Division",
+          "xy": [
+            145,
+            224
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3889,
+          "name": "12th Sassari",
+          "formation": "Ital. Infantry Division",
+          "xy": [
+            137,
+            256
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3890,
+          "name": "13th Re",
+          "formation": "Ital. Infantry Division",
+          "xy": [
+            138,
+            253
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3895,
+          "name": "21st Sardegna",
+          "formation": "Ital. Infantry Division",
+          "xy": [
+            137,
+            256
+          ],
+          "kind": 0
+        },
+        {
+          "id": 3910,
+          "name": "58th Legnano",
+          "formation": "Ital. Infantry Division",
+          "xy": [
+            166,
+            263
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10259,
+          "name": "1st Ital. Air Fleet",
+          "formation": "",
+          "xy": [
+            120,
+            227
+          ],
+          "kind": 3
+        },
+        {
+          "id": 10261,
+          "name": "2nd Ital. Air Fleet",
+          "formation": "",
+          "xy": [
+            135,
+            227
+          ],
+          "kind": 3
+        },
+        {
+          "id": 10262,
+          "name": "3rd Ital. Air Fleet",
+          "formation": "",
+          "xy": [
+            137,
+            255
+          ],
+          "kind": 3
+        },
+        {
+          "id": 10263,
+          "name": "4th Ital. Air Fleet",
+          "formation": "",
+          "xy": [
+            161,
+            260
+          ],
+          "kind": 3
+        },
+        {
+          "id": 10291,
+          "name": "209th",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            162,
+            261
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10293,
+          "name": "211st",
+          "formation": "Ital. Coastal Division",
+          "xy": [
+            158,
+            286
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10326,
+          "name": "XXXI",
+          "formation": "Ital. Coastal Brigade",
+          "xy": [
+            161,
+            265
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10327,
+          "name": "XXXII",
+          "formation": "Ital. Coastal Brigade",
+          "xy": [
+            144,
+            260
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10329,
+          "name": "XXXIV",
+          "formation": "Ital. Coastal Brigade",
+          "xy": [
+            136,
+            257
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10332,
+          "name": "102nd",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            119,
+            235
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10333,
+          "name": "112th",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            161,
+            260
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10334,
+          "name": "116th",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            156,
+            285
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10335,
+          "name": "117th",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            147,
+            263
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10340,
+          "name": "151st",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            147,
+            263
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10341,
+          "name": "161st",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            124,
+            238
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10342,
+          "name": "162nd Naval",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            166,
+            263
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10344,
+          "name": "169th",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            136,
+            227
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10346,
+          "name": "Piazza Naval",
+          "formation": "Ital. Coastal Regiment",
+          "xy": [
+            163,
+            264
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10349,
+          "name": "6th",
+          "formation": "Ital. Alpina Regiment",
+          "xy": [
+            131,
+            227
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10358,
+          "name": "6th",
+          "formation": "Ital. Bersaglieri Regiment",
+          "xy": [
+            135,
+            235
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10359,
+          "name": "8th",
+          "formation": "Ital. Bersaglieri Regiment",
+          "xy": [
+            130,
+            220
+          ],
+          "kind": 0
+        },
+        {
+          "id": 10363,
+          "name": "185th",
+          "formation": "Ital. Parachute Regiment",
+          "xy": [
+            136,
+            227
+          ],
+          "kind": 0
+        }
+      ],
+      "proximity_test": {
+        "scenarios": {
+          "WITW+WITE v0.9.49": [
+            {
+              "location": "Palermo",
+              "xy": [
+                143,
+                286
+              ],
+              "eligible": true,
+              "enemy_frozen": false,
+              "released": [],
+              "still_frozen": 71
+            },
+            {
+              "location": "Messina",
+              "xy": [
+                155,
+                284
+              ],
+              "eligible": true,
+              "enemy_frozen": false,
+              "released": [
+                10334
+              ],
+              "still_frozen": 70
+            },
+            {
+              "location": "Salerno",
+              "xy": [
+                149,
+                265
+              ],
+              "eligible": true,
+              "enemy_frozen": false,
+              "released": [
+                10335,
+                10340
+              ],
+              "still_frozen": 69
+            },
+            {
+              "location": "Messina with frozen enemy",
+              "xy": [
+                155,
+                284
+              ],
+              "eligible": true,
+              "enemy_frozen": true,
+              "released": [],
+              "still_frozen": 71
+            },
+            {
+              "location": "Messina with ineligible enemy hex",
+              "xy": [
+                155,
+                284
+              ],
+              "eligible": false,
+              "enemy_frozen": false,
+              "released": [],
+              "still_frozen": 71
+            }
+          ],
+          "WITW+WITE v0.9.49 Allied Symbols": [
+            {
+              "location": "Palermo",
+              "xy": [
+                143,
+                286
+              ],
+              "eligible": true,
+              "enemy_frozen": false,
+              "released": [],
+              "still_frozen": 71
+            },
+            {
+              "location": "Messina",
+              "xy": [
+                155,
+                284
+              ],
+              "eligible": true,
+              "enemy_frozen": false,
+              "released": [
+                10334
+              ],
+              "still_frozen": 70
+            },
+            {
+              "location": "Salerno",
+              "xy": [
+                149,
+                265
+              ],
+              "eligible": true,
+              "enemy_frozen": false,
+              "released": [
+                10335,
+                10340
+              ],
+              "still_frozen": 69
+            },
+            {
+              "location": "Messina with frozen enemy",
+              "xy": [
+                155,
+                284
+              ],
+              "eligible": true,
+              "enemy_frozen": true,
+              "released": [],
+              "still_frozen": 71
+            },
+            {
+              "location": "Messina with ineligible enemy hex",
+              "xy": [
+                155,
+                284
+              ],
+              "eligible": false,
+              "enemy_frozen": false,
+              "released": [],
+              "still_frozen": 71
+            }
+          ]
+        },
+        "scope": "Isolated native proximity decision with one controlled enemy, not a full turn."
+      },
+      "full_turn_played_in_this_test": false
+    },
+    "v052": {
+      "scenario_sha256_by_edition": {
+        "WITW+WITE v0.9.52": "2958788a8eb5531a3c6998e01a2df5b0c46685a5b5adb75f85bdba93e6afe17f",
+        "WITW+WITE v0.9.52 Allied Symbols": "12283a8fbf65854084cee753415c84307aae347460a3f660bca269b940c904c9"
+      },
+      "shared_troop_ships_at_start": 349,
+      "western_manpower_grants": {
+        "events": 24,
+        "total": 1960000,
+        "first": 250000
+      },
+      "british_ports": [
+        {
+          "name": "Dover",
+          "old": 5,
+          "new": 6,
+          "before_tons": 75000,
+          "after_tons": 90000
+        },
+        {
+          "name": "Brighton and Hove",
+          "old": 4,
+          "new": 5,
+          "before_tons": 60000,
+          "after_tons": 75000
+        },
+        {
+          "name": "Portsmouth",
+          "old": 7,
+          "new": 8,
+          "before_tons": 105000,
+          "after_tons": 120000
+        },
+        {
+          "name": "Bournemouth",
+          "old": 4,
+          "new": 5,
+          "before_tons": 60000,
+          "after_tons": 75000
+        },
+        {
+          "name": "Southampton",
+          "old": 7,
+          "new": 8,
+          "before_tons": 105000,
+          "after_tons": 120000
+        },
+        {
+          "name": "Weymouth",
+          "old": 5,
+          "new": 6,
+          "before_tons": 75000,
+          "after_tons": 90000
+        },
+        {
+          "name": "Poole",
+          "old": 4,
+          "new": 5,
+          "before_tons": 60000,
+          "after_tons": 75000
+        },
+        {
+          "name": "Plymouth",
+          "old": 6,
+          "new": 7,
+          "before_tons": 90000,
+          "after_tons": 105000
+        },
+        {
+          "name": "Bristol",
+          "old": 4,
+          "new": 5,
+          "before_tons": 60000,
+          "after_tons": 75000
+        },
+        {
+          "name": "Falmouth",
+          "old": 2,
+          "new": 3,
+          "before_tons": 30000,
+          "after_tons": 45000
+        }
+      ],
+      "continental_ports_after_game_logistics": [
+        {
+          "name": "Hamburg",
+          "level": 9,
+          "capacity_tons": 135000
+        },
+        {
+          "name": "Bremerhaven",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "Bremen",
+          "level": 4,
+          "capacity_tons": 60000
+        },
+        {
+          "name": "Wilhelmshaven",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "Emden",
+          "level": 3,
+          "capacity_tons": 45000
+        },
+        {
+          "name": "Brunsbuettel",
+          "level": 3,
+          "capacity_tons": 45000
+        },
+        {
+          "name": "Antwerp",
+          "level": 10,
+          "capacity_tons": 150000
+        },
+        {
+          "name": "Bruges",
+          "level": 5,
+          "capacity_tons": 75000
+        },
+        {
+          "name": "Ostend",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "Rotterdam",
+          "level": 8,
+          "capacity_tons": 120000
+        },
+        {
+          "name": "The Hague",
+          "level": 5,
+          "capacity_tons": 75000
+        },
+        {
+          "name": "Amsterdam",
+          "level": 7,
+          "capacity_tons": 105000
+        },
+        {
+          "name": "Haarlem",
+          "level": 5,
+          "capacity_tons": 75000
+        },
+        {
+          "name": "Den Helder",
+          "level": 4,
+          "capacity_tons": 60000
+        },
+        {
+          "name": "Nice",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "Toulon",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "Marseille",
+          "level": 10,
+          "capacity_tons": 150000
+        },
+        {
+          "name": "Bayonne",
+          "level": 2,
+          "capacity_tons": 30000
+        },
+        {
+          "name": "Bordeaux",
+          "level": 8,
+          "capacity_tons": 120000
+        },
+        {
+          "name": "Rochefort",
+          "level": 3,
+          "capacity_tons": 45000
+        },
+        {
+          "name": "La Rochelle",
+          "level": 3,
+          "capacity_tons": 45000
+        },
+        {
+          "name": "Nantes",
+          "level": 2,
+          "capacity_tons": 30000
+        },
+        {
+          "name": "St Nazaire",
+          "level": 5,
+          "capacity_tons": 75000
+        },
+        {
+          "name": "Dieppe",
+          "level": 5,
+          "capacity_tons": 75000
+        },
+        {
+          "name": "Le Havre",
+          "level": 8,
+          "capacity_tons": 120000
+        },
+        {
+          "name": "St Malo",
+          "level": 3,
+          "capacity_tons": 45000
+        },
+        {
+          "name": "Granville",
+          "level": 2,
+          "capacity_tons": 30000
+        },
+        {
+          "name": "Lorient",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "Etaples",
+          "level": 2,
+          "capacity_tons": 30000
+        },
+        {
+          "name": "Dunkerque",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "St Brieuc",
+          "level": 2,
+          "capacity_tons": 30000
+        },
+        {
+          "name": "Boulogne",
+          "level": 5,
+          "capacity_tons": 75000
+        },
+        {
+          "name": "Calais",
+          "level": 6,
+          "capacity_tons": 90000
+        },
+        {
+          "name": "Cherbourg",
+          "level": 8,
+          "capacity_tons": 120000
+        },
+        {
+          "name": "Brest",
+          "level": 7,
+          "capacity_tons": 105000
+        }
+      ],
+      "british_capacity_undamaged_tons": 870000,
+      "continental_capacity_undamaged_tons": 2790000,
+      "channel_test": {
+        "fixture": "July 1943 diagnostic save with the US 4th Infantry Division and Amphibious HQ placed together at Portsmouth with 90 preparation points.",
+        "troop_ships_debited": 6,
+        "cargo_ships_debited": 6,
+        "temporary_port_level": 2,
+        "division_ashore_next_turn": true
+      },
+      "full_campaign_verified": false
+    }
   }
 }
