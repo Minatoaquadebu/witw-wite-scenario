@@ -1,4 +1,4 @@
-WITW+WITE v0.9.54 Allied Symbols
+WITW+WITE v0.9.55 Allied Symbols
 
 July 1943 to July 1945. Eastern and Western Front campaign. Original scenario by yyuegu. Unofficial continuation. Human vs Human advised.
 
@@ -11,3 +11,24 @@ Covered Rifle Divisions can take one support unit. Ports expanded (Gela 2, 10 Br
 Western Europe, Italy and the Balkans are fought on the map. Regional capitulation scripts for these campaigns are disabled. Most former theater formations enter Axis Reserves on their scheduled dates.
 
 Western Allied aircraft replacements use Western aircraft types. B-17G deliveries start in September 1943 and P-51B deliveries in November 1943.
+
+Axis Reserves: dated releases for former Western Europe, Italy and Balkans units are listed in Info Screens - Reinforcements and Transfers. Units without a further theater obligation can be deployed when available. Scheduled disbandments still apply. 
+
+Scheduled Axis reserve unlocks (campaign turn):
+T5: 355th Infantry Division
+T17: I/53rd LW Mot. Mixed Flak Battalion
+T19: 11th SS Panzergrenadier Division, 103rd SS SS Mot. Werfer Battalion, III SS Panzer Corps
+T23: Netherlands SS Grenadier Regiment
+T31: I/57th Mot. Werfer Battalion, II/57th Mot. Werfer Battalion
+T35: 8th Construction Battalion
+T39: 367th Infantry Division
+T43: 17th Coastal Fortress Construction Battalion
+T67: Rhodos Sturm Division
+T71: II/12th LW Mot. Mixed Flak Battalion
+T76: IX SS Mountain Corps
+T79: 13th SS Mountain Division
+T80: 118th Jaeger Division
+T82: 356th Infantry Division, 715th Static Infantry Division, V SS Mountain Corps, 105th SS Panzer Battalion, 105th SS leFH Howitzer Battalion
+T83: 141st LW Flak Regiment, I./NJG 7
+T92: 117th Jaeger Division
+T94: XC Corps
