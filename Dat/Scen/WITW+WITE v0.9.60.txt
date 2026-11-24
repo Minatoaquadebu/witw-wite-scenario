@@ -1,0 +1,60 @@
+WITW+WITE v0.9.60
+
+July 1943 to July 1945. Eastern and Western Front campaign. Original
+scenario by yyuegu. Unofficial continuation. Both sides Human
+recommended.
+
+71 Italian mainland ground units and HQs start frozen with zero
+movement. They can be released individually by enemy proximity or
+attack. Sicily and Sardinia have their original garrisons.
+
+113 Western Allied divisions can reform once after permanent exit
+(including voluntary disbandment). After ten weeks, find the empty
+cadre in Soviet Reserves. Raise Max TOE and use Refit. Set Liverpool
+(72,158) as the shared Reserve TB Arrival Hex and order deployment.
+Reassign HQs as needed.
+
+Covered Rifle Divisions can take one direct support unit. Ports
+expanded (Gela 2, 10 British and 35 mainland ports +1). Western Axis
+formations in France, Belgium and the Netherlands outside Atlantic
+Wall garrisons start unfrozen and use normal movement rules from
+their first turn. Atlantic Wall garrisons retain their 26-turn
+freeze. Allied manpower grants total 1,960,000. Western units gain
+morale protection. British parachute brigades stay independent.
+
+Western Europe, Italy and the Balkans are fought on the map.
+Regional capitulation scripts for these campaigns are disabled. Most
+former theater formations enter Axis Reserves on their scheduled
+dates.
+
+Western Allied aircraft replacements use Western aircraft types.
+B-17G deliveries start in September 1943 and P-51B deliveries in
+November 1943.
+
+Axis Reserves units can be assigned under the normal deployment
+rules as soon as they arrive. Scheduled map transfers and
+disbandments still apply.
+
+Western Allied air headquarters use the campaign Western morale
+adjustment. At the July 1943 start their standard-difficulty
+recovery target is 65.
+
+German western and Italian theater replacements: 3,000 extra men at
+start, then dated allocations through April 1945, credited to the
+German national pool.
+Normandy reinforcements: western allocations are 6,710 men on July
+15, 1944 and 10,000 on August 1. Both events add manpower to the
+German national pool.
+
+Western Allied strategic bombing is directed by the player. Normandy
+breakthroughs follow play on the map. Starting industrial damage in
+the Ruhr is applied on turn one.
+
+Grossdeutschland uses the stock July 1943 panzergrenadier
+organization with its existing equipment.
+
+Britain and the Mediterranean share 600 troop ships and 2,000 cargo
+ships at the start of the campaign, shown in the Ladoga column.
+Soviet troop ships and cargo ships in the other sea zones match the
+1943 Campaign: Baltic 20/100, Black Sea 25/100, Azov 5/20, Caspian
+5/20.
