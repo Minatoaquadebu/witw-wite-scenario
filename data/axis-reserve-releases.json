@@ -1,2422 +1,3297 @@
 {
-  "version": "v0.9.55",
+  "version": "v0.9.58",
+  "ground_records_checked": 833,
+  "air_records_checked": 307,
+  "remaining_reserve_locks": 0,
+  "remaining_ground_freezes": 0,
+  "disabled_release_notice_turns": [
+    5,
+    17,
+    19,
+    23,
+    31,
+    35,
+    39,
+    43,
+    67,
+    71,
+    76,
+    79,
+    80,
+    82,
+    83,
+    92,
+    94
+  ],
   "changes": [
     {
       "kind": "ground",
-      "id": 132,
-      "name": "LXII Reserve Corps",
-      "action": "available",
-      "delay": 27
-    },
-    {
-      "kind": "ground",
-      "id": 140,
-      "name": "LXVIII zbV Corps",
-      "action": "map",
-      "turn": 71,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 367,
-      "name": "1st Panzer Division",
-      "action": "map",
-      "turn": 13,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 593,
-      "name": "36th Pz Rgt Flammpanzer Company",
-      "action": "map",
-      "turn": 13,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 642,
-      "name": "24th Pz Rgt Flammpanzer Battalion",
-      "action": "map",
-      "turn": 13,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 648,
-      "name": "22nd Airlanding Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 650,
-      "name": "1st Mountain Division",
-      "action": "map",
-      "turn": 71,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 666,
-      "name": "100th Jaeger Division",
-      "action": "map",
-      "turn": 35,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 1829,
-      "name": "I/231st LW Mot. Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 1832,
-      "name": "I/401st LW Mot. Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 1834,
-      "name": "II/491st LW Mot. Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 1836,
-      "name": "I/704th LW Mot. Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 1838,
-      "name": "I/Lehr LW Mot. Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 1840,
-      "name": "125th LW Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2084,
-      "name": "369th Croat. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2085,
-      "name": "373rd Croat. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2094,
-      "name": "389th Infantry Division",
-      "action": "map",
-      "turn": 13,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 2217,
-      "name": "939th Rhodos Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 44
-    },
-    {
-      "kind": "ground",
-      "id": 2218,
-      "name": "963rd Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2219,
-      "name": "964th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 52
-    },
-    {
-      "kind": "ground",
-      "id": 2220,
-      "name": "966th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 60
-    },
-    {
-      "kind": "ground",
-      "id": 2221,
-      "name": "967th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 63
-    },
-    {
-      "kind": "ground",
-      "id": 2222,
-      "name": "968th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 63
-    },
-    {
-      "kind": "ground",
-      "id": 2223,
-      "name": "969th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 53
-    },
-    {
-      "kind": "ground",
       "id": 2394,
-      "name": "11th SS Panzergrenadier Division",
-      "action": "map",
-      "turn": 19,
+      "name": "11th SS",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 2431,
-      "name": "450th sFH Heavy Howitzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2435,
-      "name": "763rd Mot. Gun Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2436,
-      "name": "764th Mot. Gun Battalion",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 18,
+      "before": [
+        [
+          18,
+          7
+        ],
+        [
+          19,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          19,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 2476,
-      "name": "103rd SS SS Mot. Werfer Battalion",
-      "action": "map",
-      "turn": 19,
+      "name": "103rd SS",
       "delay": 9,
-      "locked": true,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 2541,
-      "name": "3rd Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          18,
+          7
+        ],
+        [
+          19,
+          0
+        ]
+      ],
+      "after": [
+        [
+          10,
+          7
+        ],
+        [
+          19,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 2621,
-      "name": "141st LW Flak Regiment",
-      "action": "reserve",
-      "turn": 83,
+      "name": "141st",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 2631,
-      "name": "241st LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2632,
-      "name": "300th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 82,
+      "before": [
+        [
+          83,
+          7
+        ]
+      ],
+      "after": []
     },
     {
       "kind": "ground",
       "id": 2737,
-      "name": "I/53rd LW Mot. Mixed Flak Battalion",
-      "action": "map",
-      "turn": 17,
+      "name": "I/53rd",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 2739,
-      "name": "II/64th LW Mot. Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2845,
-      "name": "19th Army",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2846,
-      "name": "24th Army",
-      "action": "available",
-      "delay": 87
-    },
-    {
-      "kind": "ground",
-      "id": 2847,
-      "name": "25th Army",
-      "action": "available",
-      "delay": 71
-    },
-    {
-      "kind": "ground",
-      "id": 2854,
-      "name": "LW Kdo Middle ",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 2868,
-      "name": "LXXXIII Corps",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 16,
+      "before": [
+        [
+          16,
+          7
+        ],
+        [
+          17,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          17,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 2892,
-      "name": "XC Corps",
-      "action": "map",
-      "turn": 94,
+      "name": "XC",
       "delay": 71,
-      "locked": true,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 2919,
-      "name": "2nd Fallschirmjaeger Division",
-      "action": "map",
-      "turn": 19,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 2924,
-      "name": "21st Fallschirmjaeger Division",
-      "action": "available",
-      "delay": 91
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          93,
+          7
+        ],
+        [
+          94,
+          0
+        ]
+      ],
+      "after": [
+        [
+          72,
+          7
+        ],
+        [
+          94,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 2926,
-      "name": "13th SS Mountain Division",
-      "action": "map",
-      "turn": 79,
+      "name": "13th SS",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 2931,
-      "name": "38th SS Grenadier Division",
-      "action": "available",
-      "delay": 91
-    },
-    {
-      "kind": "ground",
-      "id": 2962,
-      "name": "176th Infantry Division",
-      "action": "available",
-      "delay": 65
-    },
-    {
-      "kind": "ground",
-      "id": 2963,
-      "name": "180th Infantry Division",
-      "action": "available",
-      "delay": 64
-    },
-    {
-      "kind": "ground",
-      "id": 2968,
-      "name": "190th Infantry Division",
-      "action": "available",
-      "delay": 64
-    },
-    {
-      "kind": "ground",
-      "id": 2987,
-      "name": "249th Infantry Division",
-      "action": "available",
-      "delay": 93
-    },
-    {
-      "kind": "ground",
-      "id": 3012,
-      "name": "326th Static Infantry Division",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 78,
+      "before": [
+        [
+          78,
+          7
+        ],
+        [
+          79,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          79,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3041,
-      "name": "355th Infantry Division",
-      "action": "map",
-      "turn": 5,
+      "name": "355th",
       "delay": 0,
-      "locked": true,
-      "countdown": true
+      "lock": 1,
+      "frozen": 4,
+      "before": [
+        [
+          4,
+          7
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          5,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3042,
-      "name": "356th Infantry Division",
-      "action": "map",
-      "turn": 82,
+      "name": "356th",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 3048,
-      "name": "703rd Infantry Division",
-      "action": "available",
-      "delay": 93
+      "lock": 1,
+      "frozen": 81,
+      "before": [
+        [
+          81,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3053,
-      "name": "715th Static Infantry Division",
-      "action": "map",
-      "turn": 82,
+      "name": "715th",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 3066,
-      "name": "20th Schnelle Brigade",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3067,
-      "name": "30th Schnelle Brigade",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3068,
-      "name": "West Schnelle Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3079,
-      "name": "21st Lehr Fallschirmjaeger Regiment",
-      "action": "available",
-      "delay": 31
+      "lock": 1,
+      "frozen": 81,
+      "before": [
+        [
+          81,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3081,
-      "name": "Netherlands SS Grenadier Regiment",
-      "action": "map",
-      "turn": 23,
+      "name": "Netherlands SS",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 3086,
-      "name": "100th Training Panzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3087,
-      "name": "205th Panzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3088,
-      "name": "206th Panzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3089,
-      "name": "213th Flammpanzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3093,
-      "name": "278th Stug Battalion",
-      "action": "map",
-      "turn": 15,
-      "delay": 5,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3094,
-      "name": "279th Stug Battalion",
-      "action": "map",
-      "turn": 13,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3095,
-      "name": "280th Stug Battalion",
-      "action": "map",
-      "turn": 13,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3096,
-      "name": "281st Stug Battalion",
-      "action": "map",
-      "turn": 19,
-      "delay": 12,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3097,
-      "name": "286th Stug Battalion",
-      "action": "map",
-      "turn": 23,
-      "delay": 12,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3098,
-      "name": "300th Stug Battalion",
-      "action": "map",
-      "turn": 23,
-      "delay": 12,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3099,
-      "name": "311th Stug Battalion",
-      "action": "map",
-      "turn": 36,
-      "delay": 17,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3100,
-      "name": "325th Stug Battalion",
-      "action": "map",
-      "turn": 40,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3120,
-      "name": "468th Panzer Destroyer Battalion",
-      "action": "available",
-      "delay": 79
-    },
-    {
-      "kind": "ground",
-      "id": 3121,
-      "name": "485th Panzer Destroyer Battalion",
-      "action": "available",
-      "delay": 77
-    },
-    {
-      "kind": "ground",
-      "id": 3122,
-      "name": "486th Panzer Destroyer Battalion",
-      "action": "available",
-      "delay": 77
-    },
-    {
-      "kind": "ground",
-      "id": 3127,
-      "name": "100th zbV Mot. Infantry Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3128,
-      "name": "16th Machine Gun Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3129,
-      "name": "17th Machine Gun Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3131,
-      "name": "11th FJ Reconnaissance Battalion",
-      "action": "available",
-      "delay": 27
-    },
-    {
-      "kind": "ground",
-      "id": 3132,
-      "name": "12th FJ Reconnaissance Battalion",
-      "action": "available",
-      "delay": 27
-    },
-    {
-      "kind": "ground",
-      "id": 3134,
-      "name": "1 AOK Sturm Infantry Battalion",
-      "action": "available",
-      "delay": 13
-    },
-    {
-      "kind": "ground",
-      "id": 3136,
-      "name": "7 AOK Sturm Infantry Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3137,
-      "name": "15 AOK Sturm Infantry Battalion",
-      "action": "available",
-      "delay": 22
-    },
-    {
-      "kind": "ground",
-      "id": 3138,
-      "name": "19 AOK Sturm Infantry Battalion",
-      "action": "available",
-      "delay": 69
-    },
-    {
-      "kind": "ground",
-      "id": 3139,
-      "name": "25 AOK Sturm Infantry Battalion",
-      "action": "available",
-      "delay": 83
-    },
-    {
-      "kind": "ground",
-      "id": 3144,
-      "name": "456th Mot. Mixed Artillery Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3145,
-      "name": "457th Mot. Mixed Artillery Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3146,
-      "name": "460th Mot. Mixed Artillery Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3181,
-      "name": "668th Pioneer Battalion",
-      "action": "available",
-      "delay": 27
-    },
-    {
-      "kind": "ground",
-      "id": 3182,
-      "name": "669th Pioneer Battalion",
-      "action": "available",
-      "delay": 27
+      "lock": 1,
+      "frozen": 22,
+      "before": [
+        [
+          22,
+          7
+        ],
+        [
+          23,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          23,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3185,
-      "name": "I/57th Mot. Werfer Battalion",
-      "action": "map",
-      "turn": 31,
+      "name": "I/57th",
       "delay": 4,
-      "locked": true,
-      "countdown": false
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          30,
+          7
+        ],
+        [
+          31,
+          0
+        ]
+      ],
+      "after": [
+        [
+          5,
+          7
+        ],
+        [
+          31,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3186,
-      "name": "II/57th Mot. Werfer Battalion",
-      "action": "map",
-      "turn": 31,
+      "name": "II/57th",
       "delay": 4,
-      "locked": true,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3187,
-      "name": "III/57th Mot. Heavy Werfer Battalion",
-      "action": "available",
-      "delay": 47
-    },
-    {
-      "kind": "ground",
-      "id": 3192,
-      "name": "II/22nd LW Mot. Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          30,
+          7
+        ],
+        [
+          31,
+          0
+        ]
+      ],
+      "after": [
+        [
+          5,
+          7
+        ],
+        [
+          31,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3198,
-      "name": "8th Construction Battalion",
-      "action": "map",
-      "turn": 35,
+      "name": "8th",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 3199,
-      "name": "59th Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3200,
-      "name": "211th Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3207,
-      "name": "13th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3208,
-      "name": "14th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3209,
-      "name": "15th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3213,
-      "name": "27th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3214,
-      "name": "28th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3216,
-      "name": "40th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3217,
-      "name": "61st Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3218,
-      "name": "21st Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3219,
-      "name": "9th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3220,
-      "name": "12th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3221,
-      "name": "11th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3222,
-      "name": "30th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3223,
-      "name": "19th Coastal Fortress Construction Battalion",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 34,
+      "before": [
+        [
+          34,
+          7
+        ],
+        [
+          35,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          35,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3225,
-      "name": "17th Coastal Fortress Construction Battalion",
-      "action": "map",
-      "turn": 43,
+      "name": "17th Coastal Fortress",
       "delay": 0,
-      "locked": true,
-      "countdown": true
+      "lock": 1,
+      "frozen": 42,
+      "before": [
+        [
+          42,
+          7
+        ],
+        [
+          43,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          43,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
-      "id": 3243,
-      "name": "10th Army",
-      "action": "available",
-      "delay": 6
-    },
-    {
-      "kind": "ground",
-      "id": 3258,
-      "name": "LXXIII zbV Corps",
-      "action": "available",
-      "delay": 72
-    },
-    {
-      "kind": "ground",
-      "id": 3274,
-      "name": "XVIII Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3311,
-      "name": "188th Reserve Mountain Division",
-      "action": "available",
-      "delay": 13
-    },
-    {
-      "kind": "ground",
-      "id": 3314,
-      "name": "1st Taurinese Ital. Alpina Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3347,
-      "name": "151st Perugia Ital. Security Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3349,
-      "name": "153rd Macerata Ital. Security Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3350,
-      "name": "154th Murge Ital. Security Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3351,
-      "name": "155th Emilia Ital. Security Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3354,
-      "name": "158th Zara Ital. Security Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3355,
-      "name": "159th Vento Ital. Security Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3365,
-      "name": "209th Ital. Coastal Division",
-      "action": "available",
-      "delay": 1
-    },
-    {
-      "kind": "ground",
-      "id": 3367,
-      "name": "211th Ital. Coastal Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3383,
-      "name": "1st SS Ital. Infantry Brigade",
-      "action": "available",
-      "delay": 61
-    },
-    {
-      "kind": "ground",
-      "id": 3385,
-      "name": "Lehr Grenadier Brigade",
-      "action": "available",
-      "delay": 47
-    },
-    {
-      "kind": "ground",
-      "id": 3386,
-      "name": "1027th Mot. Grenadier Brigade",
-      "action": "available",
-      "delay": 46
-    },
-    {
-      "kind": "ground",
-      "id": 3390,
-      "name": "1028th Grenadier Regiment",
-      "action": "available",
-      "delay": 19
-    },
-    {
-      "kind": "ground",
-      "id": 3394,
-      "name": "'Meyer' Heavy Panzer Company",
-      "action": "available",
-      "delay": 55
-    },
-    {
-      "kind": "ground",
-      "id": 3400,
-      "name": "OB SW Sturm Infantry Battalion",
-      "action": "available",
-      "delay": 39
-    },
-    {
-      "kind": "ground",
-      "id": 3801,
-      "name": "Army Group F ",
-      "action": "available",
-      "delay": 7
-    },
-    {
-      "kind": "ground",
-      "id": 3803,
-      "name": "Army Group E ",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3805,
-      "name": "2nd Ital. Army",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3806,
-      "name": "9th Ital. Army",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3807,
-      "name": "11th Ital. Army",
-      "action": "available",
-      "delay": 0
+      "id": 3810,
+      "name": "LW Kdo South East",
+      "delay": 0,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          70,
+          101
+        ]
+      ],
+      "after": [
+        [
+          70,
+          101
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3812,
-      "name": "III SS Panzer Corps",
-      "action": "map",
-      "turn": 19,
+      "name": "III SS",
       "delay": 9,
-      "locked": true,
-      "countdown": false
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          18,
+          7
+        ],
+        [
+          19,
+          0
+        ]
+      ],
+      "after": [
+        [
+          10,
+          7
+        ],
+        [
+          19,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3813,
-      "name": "V SS Mountain Corps",
-      "action": "map",
-      "turn": 82,
+      "name": "V SS Mountain",
       "delay": 12,
-      "locked": true,
-      "countdown": false
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          81,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ],
+      "after": [
+        [
+          13,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3814,
-      "name": "IX SS Mountain Corps",
-      "action": "map",
-      "turn": 76,
+      "name": "IX SS Mountain",
       "delay": 53,
-      "locked": true,
-      "countdown": false
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          75,
+          7
+        ],
+        [
+          76,
+          0
+        ]
+      ],
+      "after": [
+        [
+          54,
+          7
+        ],
+        [
+          76,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
-      "id": 3815,
-      "name": "XV SS Cossack Corps",
-      "action": "available",
-      "delay": 82
-    },
-    {
-      "kind": "ground",
-      "id": 3817,
-      "name": "XV Mountain Corps",
-      "action": "available",
-      "delay": 5
-    },
-    {
-      "kind": "ground",
-      "id": 3819,
-      "name": "XXI Mountain Corps",
-      "action": "available",
-      "delay": 5
-    },
-    {
-      "kind": "ground",
-      "id": 3820,
-      "name": "XXII Mountain Corps",
-      "action": "available",
-      "delay": 5
-    },
-    {
-      "kind": "ground",
-      "id": 3822,
-      "name": "LXIX Reserve Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3823,
-      "name": "LXIX Corps",
-      "action": "available",
-      "delay": 28
-    },
-    {
-      "kind": "ground",
-      "id": 3824,
-      "name": "LXXXXI Corps",
-      "action": "available",
-      "delay": 58
-    },
-    {
-      "kind": "ground",
-      "id": 3825,
-      "name": "Fortress Crete Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3827,
-      "name": "Celere Cavalry Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3830,
-      "name": "V Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3831,
-      "name": "VI Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3833,
-      "name": "XI Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3834,
-      "name": "XIV Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3835,
-      "name": "XVII Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3836,
-      "name": "XXV Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3837,
-      "name": "XXVI Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3839,
-      "name": "Settore Librazhd Ital. Corps",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3845,
-      "name": "1st Savoia Ital. Celere Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3848,
-      "name": "1st Cossack Cavalry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3849,
-      "name": "2nd Cossack Cavalry Division",
-      "action": "available",
-      "delay": 71
-    },
-    {
-      "kind": "ground",
-      "id": 3851,
-      "name": "7th SS Mountain Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3852,
-      "name": "21st SS Mountain Division",
-      "action": "available",
-      "delay": 43
-    },
-    {
-      "kind": "ground",
-      "id": 3854,
-      "name": "24th SS Mountain Division",
-      "action": "available",
-      "delay": 56
-    },
-    {
-      "kind": "ground",
-      "id": 3863,
-      "name": "33rd Acqui Ital. Mountain Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3864,
-      "name": "36th Forli Ital. Mountain Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3865,
-      "name": "37th Modena Ital. Mountain Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3866,
-      "name": "59th Cagliari Ital. Mountain Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3868,
-      "name": "42nd Jaeger Division",
-      "action": "available",
-      "delay": 24
+      "id": 3853,
+      "name": "23rd SS",
+      "delay": 50,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          66,
+          101
+        ]
+      ],
+      "after": [
+        [
+          66,
+          101
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3874,
-      "name": "Rhodos Sturm Division",
-      "action": "map",
-      "turn": 67,
+      "name": "Rhodos",
       "delay": 0,
-      "locked": true,
-      "countdown": true
+      "lock": 1,
+      "frozen": 66,
+      "before": [
+        [
+          66,
+          7
+        ],
+        [
+          67,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          67,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3879,
-      "name": "367th Infantry Division",
-      "action": "map",
-      "turn": 39,
+      "name": "367th",
       "delay": 19,
-      "locked": true,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 3880,
-      "name": "104th Jaeger Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3881,
-      "name": "713th Static Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3882,
-      "name": "114th Jaeger Division",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          38,
+          7
+        ],
+        [
+          39,
+          0
+        ]
+      ],
+      "after": [
+        [
+          20,
+          7
+        ],
+        [
+          39,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3883,
-      "name": "117th Jaeger Division",
-      "action": "map",
-      "turn": 92,
+      "name": "117th",
       "delay": 0,
-      "locked": true,
-      "countdown": true
+      "lock": 1,
+      "frozen": 91,
+      "before": [
+        [
+          91,
+          7
+        ],
+        [
+          92,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          92,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3884,
-      "name": "118th Jaeger Division",
-      "action": "map",
-      "turn": 80,
+      "name": "118th",
       "delay": 0,
-      "locked": true,
-      "countdown": true
+      "lock": 1,
+      "frozen": 79,
+      "before": [
+        [
+          79,
+          7
+        ],
+        [
+          80,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          80,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
-      "id": 3886,
-      "name": "6th Cuneo Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
+      "id": 3925,
+      "name": "2nd Kreta",
+      "delay": 0,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          28,
+          101
+        ]
+      ],
+      "after": [
+        [
+          28,
+          101
+        ]
+      ]
     },
     {
       "kind": "ground",
-      "id": 3888,
-      "name": "11th Brennero Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3891,
-      "name": "14th Isonzo Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3892,
-      "name": "15th Bergamo Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3893,
-      "name": "18th Messina Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3894,
-      "name": "19th Venezia Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3896,
-      "name": "22nd Alpi Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3897,
-      "name": "23rd Ferrara Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3898,
-      "name": "24th Pinerolo Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3899,
-      "name": "29th Piemonte Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3900,
-      "name": "32nd Marche Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3901,
-      "name": "38th Puglie Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3902,
-      "name": "41st Firenze Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3904,
-      "name": "49th Parma Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3905,
-      "name": "50th Regina Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3906,
-      "name": "51st Siena Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3907,
-      "name": "53rd Arezzo Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3908,
-      "name": "56th Casale Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3909,
-      "name": "57th Lombardia Ital. Infantry Division",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3924,
-      "name": "1st Kreta Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3926,
-      "name": "1017th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 52
-    },
-    {
-      "kind": "ground",
-      "id": 3928,
-      "name": "125th Mot. Grenadier Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3930,
-      "name": "28th Ital. CCNN Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3931,
-      "name": "36th Ital. CCNN Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3932,
-      "name": "79th Ital. CCNN Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3933,
-      "name": "95th Ital. CCNN Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3936,
-      "name": "212th Panzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3938,
-      "name": "Southeast Mot. Panzerjaeger Battalion",
-      "action": "available",
-      "delay": 62
-    },
-    {
-      "kind": "ground",
-      "id": 3939,
-      "name": "48th Mountain Mot. Panzerjaeger Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3945,
-      "name": "828th leFH Howitzer Battalion",
-      "action": "available",
-      "delay": 33
-    },
-    {
-      "kind": "ground",
-      "id": 3946,
-      "name": "829th leFH Howitzer Battalion",
-      "action": "available",
-      "delay": 33
-    },
-    {
-      "kind": "ground",
-      "id": 3947,
-      "name": "835th leFH Howitzer Battalion",
-      "action": "available",
-      "delay": 33
-    },
-    {
-      "kind": "ground",
-      "id": 3948,
-      "name": "III/999th Mot. Howitzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3949,
-      "name": "IV/999th Mot. Howitzer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 3953,
-      "name": "73rd LW Mot. Light Flak Battalion",
-      "action": "available",
-      "delay": 0
+      "id": 3944,
+      "name": "716th",
+      "delay": 0,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          5,
+          101
+        ]
+      ],
+      "after": [
+        [
+          5,
+          101
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 3957,
-      "name": "II/12th LW Mot. Mixed Flak Battalion",
-      "action": "map",
-      "turn": 71,
+      "name": "II/12th",
       "delay": 0,
-      "locked": true,
-      "countdown": true
-    },
-    {
-      "kind": "ground",
-      "id": 3961,
-      "name": "659th Pioneer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10380,
-      "name": "55th Ital. CCNN Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10436,
-      "name": "8th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10438,
-      "name": "11th LW Flak Regiment",
-      "action": "available",
-      "delay": 30
-    },
-    {
-      "kind": "ground",
-      "id": 10440,
-      "name": "14th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10441,
-      "name": "15th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10445,
-      "name": "20th LW Flak Regiment",
-      "action": "available",
-      "delay": 27
-    },
-    {
-      "kind": "ground",
-      "id": 10447,
-      "name": "24th(a) LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10448,
-      "name": "24th(b) LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10453,
-      "name": "30th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10456,
-      "name": "38th LW Flak Regiment",
-      "action": "available",
-      "delay": 10
-    },
-    {
-      "kind": "ground",
-      "id": 10457,
-      "name": "39th Mot. LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10458,
-      "name": "40th Mot. LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10459,
-      "name": "44th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10460,
-      "name": "45th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10461,
-      "name": "46th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10462,
-      "name": "47th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10463,
-      "name": "49th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10468,
-      "name": "54th LW Flak Regiment",
-      "action": "available",
-      "delay": 14
-    },
-    {
-      "kind": "ground",
-      "id": 10470,
-      "name": "57th Mot. LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10471,
-      "name": "58th Mot. LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10472,
-      "name": "59th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10476,
-      "name": "64th(a) LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10477,
-      "name": "64th(b) LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10481,
-      "name": "67th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10482,
-      "name": "68th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10483,
-      "name": "69th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10484,
-      "name": "71st LW Flak Regiment",
-      "action": "available",
-      "delay": 18
-    },
-    {
-      "kind": "ground",
-      "id": 10485,
-      "name": "72nd Rail LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10486,
-      "name": "75th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10488,
-      "name": "79th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10490,
-      "name": "85th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10491,
-      "name": "86th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10492,
-      "name": "87th LW Flak Regiment",
-      "action": "available",
-      "delay": 26
-    },
-    {
-      "kind": "ground",
-      "id": 10497,
-      "name": "91st LW Flak Regiment",
-      "action": "available",
-      "delay": 2
-    },
-    {
-      "kind": "ground",
-      "id": 10501,
-      "name": "94th LW Flak Regiment",
-      "action": "available",
-      "delay": 70
-    },
-    {
-      "kind": "ground",
-      "id": 10502,
-      "name": "95th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10503,
-      "name": "96th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10505,
-      "name": "100th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10510,
-      "name": "111th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10515,
-      "name": "120th LW Flak Regiment",
-      "action": "available",
-      "delay": 6
-    },
-    {
-      "kind": "ground",
-      "id": 10517,
-      "name": "123rd LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10518,
-      "name": "124th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10519,
-      "name": "126th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10522,
-      "name": "131st LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10523,
-      "name": "135th LW Flak Regiment",
-      "action": "available",
-      "delay": 18
-    },
-    {
-      "kind": "ground",
-      "id": 10524,
-      "name": "137th LW Flak Regiment",
-      "action": "available",
-      "delay": 2
-    },
-    {
-      "kind": "ground",
-      "id": 10525,
-      "name": "138th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10528,
-      "name": "144th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10532,
-      "name": "149th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10535,
-      "name": "169th LW Flak Regiment",
-      "action": "available",
-      "delay": 4
-    },
-    {
-      "kind": "ground",
-      "id": 10541,
-      "name": "189th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10542,
-      "name": "201st Mot. LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10545,
-      "name": "2nd Marine LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10547,
-      "name": "6th Marine LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10553,
-      "name": "24th Marine LW Flak Regiment",
-      "action": "available",
-      "delay": 30
-    },
-    {
-      "kind": "ground",
-      "id": 10557,
-      "name": "97th Rail LW Flak Regiment",
-      "action": "available",
-      "delay": 49
-    },
-    {
-      "kind": "ground",
-      "id": 10558,
-      "name": "112th Rail LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10559,
-      "name": "114th Rail LW Flak Regiment",
-      "action": "available",
-      "delay": 43
-    },
-    {
-      "kind": "ground",
-      "id": 10560,
-      "name": "122nd Rail LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10561,
-      "name": "159th Rail LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10562,
-      "name": "78th Mot. LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10563,
-      "name": "79th Mot. LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10564,
-      "name": "129th LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10565,
-      "name": "132nd LW Flak Regiment",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10603,
-      "name": "DXXXV Ital. Coastal Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10604,
-      "name": "DXXXVI Ital. Coastal Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 10849,
-      "name": "Angers School Pioneer Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 11027,
-      "name": "808th Marine LW Heavy Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 11028,
-      "name": "810th Marine LW Heavy Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 11029,
-      "name": "812th Marine LW Heavy Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 11030,
-      "name": "813th Marine LW Heavy Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 11031,
-      "name": "814th Marine LW Heavy Flak Battalion",
-      "action": "available",
-      "delay": 14
-    },
-    {
-      "kind": "ground",
-      "id": 11033,
-      "name": "816th Marine LW Heavy Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 11074,
-      "name": "364th LW Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 11109,
-      "name": "683rd LW Mixed Flak Battalion",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 14499,
-      "name": "92nd Mot. Sturm Brigade",
-      "action": "map",
-      "turn": 79,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 14501,
-      "name": "Crete Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 14503,
-      "name": "966th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "ground",
-      "id": 14504,
-      "name": "969th Fortress Infantry Brigade",
-      "action": "available",
-      "delay": 0
+      "lock": 1,
+      "frozen": 70,
+      "before": [
+        [
+          70,
+          7
+        ],
+        [
+          71,
+          0
+        ]
+      ],
+      "after": [
+        [
+          2,
+          7
+        ],
+        [
+          71,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 14516,
-      "name": "105th SS Panzer Battalion",
-      "action": "map",
-      "turn": 82,
+      "name": "105th SS",
       "delay": 16,
-      "locked": true,
-      "countdown": false
-    },
-    {
-      "kind": "ground",
-      "id": 14519,
-      "name": "201st Stug Battalion",
-      "action": "map",
-      "turn": 66,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          81,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ],
+      "after": [
+        [
+          17,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ]
     },
     {
       "kind": "ground",
       "id": 14523,
-      "name": "105th SS leFH Howitzer Battalion",
-      "action": "map",
-      "turn": 82,
+      "name": "105th SS",
       "delay": 12,
-      "locked": true,
-      "countdown": false
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          81,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ],
+      "after": [
+        [
+          13,
+          7
+        ],
+        [
+          82,
+          0
+        ]
+      ]
     },
     {
       "kind": "air",
-      "id": 726,
-      "name": "Stab/FAGr 5",
-      "action": "map",
-      "turn": 67,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
+      "id": 922,
+      "name": "Stab/JG 302",
+      "delay": 17,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          50,
+          101
+        ]
+      ],
+      "after": [
+        [
+          50,
+          101
+        ]
+      ]
     },
     {
       "kind": "air",
-      "id": 766,
-      "name": "III./NJG 3",
-      "action": "available",
-      "delay": 0
+      "id": 924,
+      "name": "II./JG 302",
+      "delay": 17,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          50,
+          101
+        ]
+      ],
+      "after": [
+        [
+          50,
+          101
+        ]
+      ]
     },
     {
       "kind": "air",
-      "id": 903,
-      "name": "II./JG 300",
-      "action": "available",
-      "delay": 0
+      "id": 925,
+      "name": "III./JG 302",
+      "delay": 16,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          50,
+          101
+        ]
+      ],
+      "after": [
+        [
+          50,
+          101
+        ]
+      ]
     },
     {
       "kind": "air",
-      "id": 909,
-      "name": "Stab/JG 300",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 910,
-      "name": "I./JG 300",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 912,
-      "name": "III./JG 300",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 927,
-      "name": "Stab/JG 400",
-      "action": "available",
-      "delay": 73
-    },
-    {
-      "kind": "air",
-      "id": 928,
-      "name": "I./JG 400",
-      "action": "available",
-      "delay": 41
-    },
-    {
-      "kind": "air",
-      "id": 929,
-      "name": "II./JG 400",
-      "action": "available",
-      "delay": 70
-    },
-    {
-      "kind": "air",
-      "id": 930,
-      "name": "III./JG 400",
-      "action": "available",
-      "delay": 54
-    },
-    {
-      "kind": "air",
-      "id": 942,
-      "name": "III./NJG 1",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 943,
-      "name": "IV./NJG 1",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 948,
-      "name": "III./NJG 2",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 952,
-      "name": "Stab/NJG 3",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 953,
-      "name": "I./NJG 3",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 954,
-      "name": "II./NJG 3",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 956,
-      "name": "IV./NJG 3",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 958,
-      "name": "Stab/NJG 4",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 962,
-      "name": "IV./NJG 4",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 964,
-      "name": "Stab/NJG 5",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 966,
-      "name": "II./NJG 5",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 967,
-      "name": "III./NJG 5",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 968,
-      "name": "IV./NJG 5",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 969,
-      "name": "V./NJG 5",
-      "action": "available",
-      "delay": 5
-    },
-    {
-      "kind": "air",
-      "id": 971,
-      "name": "Stab/NJG 6",
-      "action": "available",
-      "delay": 9
-    },
-    {
-      "kind": "air",
-      "id": 973,
-      "name": "II./NJG 6",
-      "action": "available",
-      "delay": 9
-    },
-    {
-      "kind": "air",
-      "id": 974,
-      "name": "III./NJG 6",
-      "action": "available",
-      "delay": 43
-    },
-    {
-      "kind": "air",
-      "id": 975,
-      "name": "IV./NJG 6",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 976,
-      "name": "V./NJG 6",
-      "action": "available",
-      "delay": 0
+      "id": 932,
+      "name": "Sturmstaffel 1",
+      "delay": 14,
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          44,
+          101
+        ]
+      ],
+      "after": [
+        [
+          44,
+          101
+        ]
+      ]
     },
     {
       "kind": "air",
       "id": 978,
       "name": "I./NJG 7",
-      "action": "map",
-      "turn": 83,
       "delay": 30,
-      "locked": true,
-      "countdown": false
-    },
-    {
-      "kind": "air",
-      "id": 986,
-      "name": "I./NJG 11",
-      "action": "available",
-      "delay": 59
-    },
-    {
-      "kind": "air",
-      "id": 987,
-      "name": "II./NJG 11",
-      "action": "available",
-      "delay": 72
-    },
-    {
-      "kind": "air",
-      "id": 988,
-      "name": "III./NJG 11",
-      "action": "available",
-      "delay": 78
-    },
-    {
-      "kind": "air",
-      "id": 1208,
-      "name": "I./NJG 5",
-      "action": "available",
-      "delay": 0
-    },
-    {
-      "kind": "air",
-      "id": 1227,
-      "name": "I./TG 1",
-      "action": "map",
-      "turn": 13,
-      "delay": 0,
-      "locked": false,
-      "countdown": false
+      "lock": 1,
+      "frozen": 0,
+      "before": [
+        [
+          82,
+          7
+        ],
+        [
+          83,
+          0
+        ]
+      ],
+      "after": [
+        [
+          31,
+          7
+        ],
+        [
+          83,
+          0
+        ]
+      ]
     }
-  ]
+  ],
+  "previous_release": {
+    "version": "v0.9.55",
+    "changes": [
+      {
+        "kind": "ground",
+        "id": 132,
+        "name": "LXII Reserve Corps",
+        "action": "available",
+        "delay": 27
+      },
+      {
+        "kind": "ground",
+        "id": 140,
+        "name": "LXVIII zbV Corps",
+        "action": "map",
+        "turn": 71,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 367,
+        "name": "1st Panzer Division",
+        "action": "map",
+        "turn": 13,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 593,
+        "name": "36th Pz Rgt Flammpanzer Company",
+        "action": "map",
+        "turn": 13,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 642,
+        "name": "24th Pz Rgt Flammpanzer Battalion",
+        "action": "map",
+        "turn": 13,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 648,
+        "name": "22nd Airlanding Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 650,
+        "name": "1st Mountain Division",
+        "action": "map",
+        "turn": 71,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 666,
+        "name": "100th Jaeger Division",
+        "action": "map",
+        "turn": 35,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 1829,
+        "name": "I/231st LW Mot. Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 1832,
+        "name": "I/401st LW Mot. Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 1834,
+        "name": "II/491st LW Mot. Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 1836,
+        "name": "I/704th LW Mot. Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 1838,
+        "name": "I/Lehr LW Mot. Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 1840,
+        "name": "125th LW Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2084,
+        "name": "369th Croat. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2085,
+        "name": "373rd Croat. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2094,
+        "name": "389th Infantry Division",
+        "action": "map",
+        "turn": 13,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 2217,
+        "name": "939th Rhodos Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 44
+      },
+      {
+        "kind": "ground",
+        "id": 2218,
+        "name": "963rd Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2219,
+        "name": "964th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 52
+      },
+      {
+        "kind": "ground",
+        "id": 2220,
+        "name": "966th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 60
+      },
+      {
+        "kind": "ground",
+        "id": 2221,
+        "name": "967th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 63
+      },
+      {
+        "kind": "ground",
+        "id": 2222,
+        "name": "968th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 63
+      },
+      {
+        "kind": "ground",
+        "id": 2223,
+        "name": "969th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 53
+      },
+      {
+        "kind": "ground",
+        "id": 2394,
+        "name": "11th SS Panzergrenadier Division",
+        "action": "map",
+        "turn": 19,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 2431,
+        "name": "450th sFH Heavy Howitzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2435,
+        "name": "763rd Mot. Gun Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2436,
+        "name": "764th Mot. Gun Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2476,
+        "name": "103rd SS SS Mot. Werfer Battalion",
+        "action": "map",
+        "turn": 19,
+        "delay": 9,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 2541,
+        "name": "3rd Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2621,
+        "name": "141st LW Flak Regiment",
+        "action": "reserve",
+        "turn": 83,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 2631,
+        "name": "241st LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2632,
+        "name": "300th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2737,
+        "name": "I/53rd LW Mot. Mixed Flak Battalion",
+        "action": "map",
+        "turn": 17,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 2739,
+        "name": "II/64th LW Mot. Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2845,
+        "name": "19th Army",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2846,
+        "name": "24th Army",
+        "action": "available",
+        "delay": 87
+      },
+      {
+        "kind": "ground",
+        "id": 2847,
+        "name": "25th Army",
+        "action": "available",
+        "delay": 71
+      },
+      {
+        "kind": "ground",
+        "id": 2854,
+        "name": "LW Kdo Middle ",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2868,
+        "name": "LXXXIII Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 2892,
+        "name": "XC Corps",
+        "action": "map",
+        "turn": 94,
+        "delay": 71,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 2919,
+        "name": "2nd Fallschirmjaeger Division",
+        "action": "map",
+        "turn": 19,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 2924,
+        "name": "21st Fallschirmjaeger Division",
+        "action": "available",
+        "delay": 91
+      },
+      {
+        "kind": "ground",
+        "id": 2926,
+        "name": "13th SS Mountain Division",
+        "action": "map",
+        "turn": 79,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 2931,
+        "name": "38th SS Grenadier Division",
+        "action": "available",
+        "delay": 91
+      },
+      {
+        "kind": "ground",
+        "id": 2962,
+        "name": "176th Infantry Division",
+        "action": "available",
+        "delay": 65
+      },
+      {
+        "kind": "ground",
+        "id": 2963,
+        "name": "180th Infantry Division",
+        "action": "available",
+        "delay": 64
+      },
+      {
+        "kind": "ground",
+        "id": 2968,
+        "name": "190th Infantry Division",
+        "action": "available",
+        "delay": 64
+      },
+      {
+        "kind": "ground",
+        "id": 2987,
+        "name": "249th Infantry Division",
+        "action": "available",
+        "delay": 93
+      },
+      {
+        "kind": "ground",
+        "id": 3012,
+        "name": "326th Static Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3041,
+        "name": "355th Infantry Division",
+        "action": "map",
+        "turn": 5,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3042,
+        "name": "356th Infantry Division",
+        "action": "map",
+        "turn": 82,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3048,
+        "name": "703rd Infantry Division",
+        "action": "available",
+        "delay": 93
+      },
+      {
+        "kind": "ground",
+        "id": 3053,
+        "name": "715th Static Infantry Division",
+        "action": "map",
+        "turn": 82,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3066,
+        "name": "20th Schnelle Brigade",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3067,
+        "name": "30th Schnelle Brigade",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3068,
+        "name": "West Schnelle Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3079,
+        "name": "21st Lehr Fallschirmjaeger Regiment",
+        "action": "available",
+        "delay": 31
+      },
+      {
+        "kind": "ground",
+        "id": 3081,
+        "name": "Netherlands SS Grenadier Regiment",
+        "action": "map",
+        "turn": 23,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3086,
+        "name": "100th Training Panzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3087,
+        "name": "205th Panzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3088,
+        "name": "206th Panzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3089,
+        "name": "213th Flammpanzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3093,
+        "name": "278th Stug Battalion",
+        "action": "map",
+        "turn": 15,
+        "delay": 5,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3094,
+        "name": "279th Stug Battalion",
+        "action": "map",
+        "turn": 13,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3095,
+        "name": "280th Stug Battalion",
+        "action": "map",
+        "turn": 13,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3096,
+        "name": "281st Stug Battalion",
+        "action": "map",
+        "turn": 19,
+        "delay": 12,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3097,
+        "name": "286th Stug Battalion",
+        "action": "map",
+        "turn": 23,
+        "delay": 12,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3098,
+        "name": "300th Stug Battalion",
+        "action": "map",
+        "turn": 23,
+        "delay": 12,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3099,
+        "name": "311th Stug Battalion",
+        "action": "map",
+        "turn": 36,
+        "delay": 17,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3100,
+        "name": "325th Stug Battalion",
+        "action": "map",
+        "turn": 40,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3120,
+        "name": "468th Panzer Destroyer Battalion",
+        "action": "available",
+        "delay": 79
+      },
+      {
+        "kind": "ground",
+        "id": 3121,
+        "name": "485th Panzer Destroyer Battalion",
+        "action": "available",
+        "delay": 77
+      },
+      {
+        "kind": "ground",
+        "id": 3122,
+        "name": "486th Panzer Destroyer Battalion",
+        "action": "available",
+        "delay": 77
+      },
+      {
+        "kind": "ground",
+        "id": 3127,
+        "name": "100th zbV Mot. Infantry Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3128,
+        "name": "16th Machine Gun Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3129,
+        "name": "17th Machine Gun Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3131,
+        "name": "11th FJ Reconnaissance Battalion",
+        "action": "available",
+        "delay": 27
+      },
+      {
+        "kind": "ground",
+        "id": 3132,
+        "name": "12th FJ Reconnaissance Battalion",
+        "action": "available",
+        "delay": 27
+      },
+      {
+        "kind": "ground",
+        "id": 3134,
+        "name": "1 AOK Sturm Infantry Battalion",
+        "action": "available",
+        "delay": 13
+      },
+      {
+        "kind": "ground",
+        "id": 3136,
+        "name": "7 AOK Sturm Infantry Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3137,
+        "name": "15 AOK Sturm Infantry Battalion",
+        "action": "available",
+        "delay": 22
+      },
+      {
+        "kind": "ground",
+        "id": 3138,
+        "name": "19 AOK Sturm Infantry Battalion",
+        "action": "available",
+        "delay": 69
+      },
+      {
+        "kind": "ground",
+        "id": 3139,
+        "name": "25 AOK Sturm Infantry Battalion",
+        "action": "available",
+        "delay": 83
+      },
+      {
+        "kind": "ground",
+        "id": 3144,
+        "name": "456th Mot. Mixed Artillery Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3145,
+        "name": "457th Mot. Mixed Artillery Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3146,
+        "name": "460th Mot. Mixed Artillery Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3181,
+        "name": "668th Pioneer Battalion",
+        "action": "available",
+        "delay": 27
+      },
+      {
+        "kind": "ground",
+        "id": 3182,
+        "name": "669th Pioneer Battalion",
+        "action": "available",
+        "delay": 27
+      },
+      {
+        "kind": "ground",
+        "id": 3185,
+        "name": "I/57th Mot. Werfer Battalion",
+        "action": "map",
+        "turn": 31,
+        "delay": 4,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3186,
+        "name": "II/57th Mot. Werfer Battalion",
+        "action": "map",
+        "turn": 31,
+        "delay": 4,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3187,
+        "name": "III/57th Mot. Heavy Werfer Battalion",
+        "action": "available",
+        "delay": 47
+      },
+      {
+        "kind": "ground",
+        "id": 3192,
+        "name": "II/22nd LW Mot. Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3198,
+        "name": "8th Construction Battalion",
+        "action": "map",
+        "turn": 35,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3199,
+        "name": "59th Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3200,
+        "name": "211th Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3207,
+        "name": "13th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3208,
+        "name": "14th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3209,
+        "name": "15th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3213,
+        "name": "27th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3214,
+        "name": "28th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3216,
+        "name": "40th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3217,
+        "name": "61st Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3218,
+        "name": "21st Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3219,
+        "name": "9th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3220,
+        "name": "12th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3221,
+        "name": "11th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3222,
+        "name": "30th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3223,
+        "name": "19th Coastal Fortress Construction Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3225,
+        "name": "17th Coastal Fortress Construction Battalion",
+        "action": "map",
+        "turn": 43,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3243,
+        "name": "10th Army",
+        "action": "available",
+        "delay": 6
+      },
+      {
+        "kind": "ground",
+        "id": 3258,
+        "name": "LXXIII zbV Corps",
+        "action": "available",
+        "delay": 72
+      },
+      {
+        "kind": "ground",
+        "id": 3274,
+        "name": "XVIII Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3311,
+        "name": "188th Reserve Mountain Division",
+        "action": "available",
+        "delay": 13
+      },
+      {
+        "kind": "ground",
+        "id": 3314,
+        "name": "1st Taurinese Ital. Alpina Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3347,
+        "name": "151st Perugia Ital. Security Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3349,
+        "name": "153rd Macerata Ital. Security Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3350,
+        "name": "154th Murge Ital. Security Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3351,
+        "name": "155th Emilia Ital. Security Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3354,
+        "name": "158th Zara Ital. Security Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3355,
+        "name": "159th Vento Ital. Security Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3365,
+        "name": "209th Ital. Coastal Division",
+        "action": "available",
+        "delay": 1
+      },
+      {
+        "kind": "ground",
+        "id": 3367,
+        "name": "211th Ital. Coastal Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3383,
+        "name": "1st SS Ital. Infantry Brigade",
+        "action": "available",
+        "delay": 61
+      },
+      {
+        "kind": "ground",
+        "id": 3385,
+        "name": "Lehr Grenadier Brigade",
+        "action": "available",
+        "delay": 47
+      },
+      {
+        "kind": "ground",
+        "id": 3386,
+        "name": "1027th Mot. Grenadier Brigade",
+        "action": "available",
+        "delay": 46
+      },
+      {
+        "kind": "ground",
+        "id": 3390,
+        "name": "1028th Grenadier Regiment",
+        "action": "available",
+        "delay": 19
+      },
+      {
+        "kind": "ground",
+        "id": 3394,
+        "name": "'Meyer' Heavy Panzer Company",
+        "action": "available",
+        "delay": 55
+      },
+      {
+        "kind": "ground",
+        "id": 3400,
+        "name": "OB SW Sturm Infantry Battalion",
+        "action": "available",
+        "delay": 39
+      },
+      {
+        "kind": "ground",
+        "id": 3801,
+        "name": "Army Group F ",
+        "action": "available",
+        "delay": 7
+      },
+      {
+        "kind": "ground",
+        "id": 3803,
+        "name": "Army Group E ",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3805,
+        "name": "2nd Ital. Army",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3806,
+        "name": "9th Ital. Army",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3807,
+        "name": "11th Ital. Army",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3812,
+        "name": "III SS Panzer Corps",
+        "action": "map",
+        "turn": 19,
+        "delay": 9,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3813,
+        "name": "V SS Mountain Corps",
+        "action": "map",
+        "turn": 82,
+        "delay": 12,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3814,
+        "name": "IX SS Mountain Corps",
+        "action": "map",
+        "turn": 76,
+        "delay": 53,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3815,
+        "name": "XV SS Cossack Corps",
+        "action": "available",
+        "delay": 82
+      },
+      {
+        "kind": "ground",
+        "id": 3817,
+        "name": "XV Mountain Corps",
+        "action": "available",
+        "delay": 5
+      },
+      {
+        "kind": "ground",
+        "id": 3819,
+        "name": "XXI Mountain Corps",
+        "action": "available",
+        "delay": 5
+      },
+      {
+        "kind": "ground",
+        "id": 3820,
+        "name": "XXII Mountain Corps",
+        "action": "available",
+        "delay": 5
+      },
+      {
+        "kind": "ground",
+        "id": 3822,
+        "name": "LXIX Reserve Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3823,
+        "name": "LXIX Corps",
+        "action": "available",
+        "delay": 28
+      },
+      {
+        "kind": "ground",
+        "id": 3824,
+        "name": "LXXXXI Corps",
+        "action": "available",
+        "delay": 58
+      },
+      {
+        "kind": "ground",
+        "id": 3825,
+        "name": "Fortress Crete Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3827,
+        "name": "Celere Cavalry Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3830,
+        "name": "V Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3831,
+        "name": "VI Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3833,
+        "name": "XI Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3834,
+        "name": "XIV Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3835,
+        "name": "XVII Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3836,
+        "name": "XXV Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3837,
+        "name": "XXVI Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3839,
+        "name": "Settore Librazhd Ital. Corps",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3845,
+        "name": "1st Savoia Ital. Celere Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3848,
+        "name": "1st Cossack Cavalry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3849,
+        "name": "2nd Cossack Cavalry Division",
+        "action": "available",
+        "delay": 71
+      },
+      {
+        "kind": "ground",
+        "id": 3851,
+        "name": "7th SS Mountain Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3852,
+        "name": "21st SS Mountain Division",
+        "action": "available",
+        "delay": 43
+      },
+      {
+        "kind": "ground",
+        "id": 3854,
+        "name": "24th SS Mountain Division",
+        "action": "available",
+        "delay": 56
+      },
+      {
+        "kind": "ground",
+        "id": 3863,
+        "name": "33rd Acqui Ital. Mountain Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3864,
+        "name": "36th Forli Ital. Mountain Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3865,
+        "name": "37th Modena Ital. Mountain Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3866,
+        "name": "59th Cagliari Ital. Mountain Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3868,
+        "name": "42nd Jaeger Division",
+        "action": "available",
+        "delay": 24
+      },
+      {
+        "kind": "ground",
+        "id": 3874,
+        "name": "Rhodos Sturm Division",
+        "action": "map",
+        "turn": 67,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3879,
+        "name": "367th Infantry Division",
+        "action": "map",
+        "turn": 39,
+        "delay": 19,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 3880,
+        "name": "104th Jaeger Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3881,
+        "name": "713th Static Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3882,
+        "name": "114th Jaeger Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3883,
+        "name": "117th Jaeger Division",
+        "action": "map",
+        "turn": 92,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3884,
+        "name": "118th Jaeger Division",
+        "action": "map",
+        "turn": 80,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3886,
+        "name": "6th Cuneo Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3888,
+        "name": "11th Brennero Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3891,
+        "name": "14th Isonzo Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3892,
+        "name": "15th Bergamo Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3893,
+        "name": "18th Messina Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3894,
+        "name": "19th Venezia Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3896,
+        "name": "22nd Alpi Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3897,
+        "name": "23rd Ferrara Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3898,
+        "name": "24th Pinerolo Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3899,
+        "name": "29th Piemonte Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3900,
+        "name": "32nd Marche Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3901,
+        "name": "38th Puglie Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3902,
+        "name": "41st Firenze Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3904,
+        "name": "49th Parma Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3905,
+        "name": "50th Regina Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3906,
+        "name": "51st Siena Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3907,
+        "name": "53rd Arezzo Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3908,
+        "name": "56th Casale Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3909,
+        "name": "57th Lombardia Ital. Infantry Division",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3924,
+        "name": "1st Kreta Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3926,
+        "name": "1017th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 52
+      },
+      {
+        "kind": "ground",
+        "id": 3928,
+        "name": "125th Mot. Grenadier Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3930,
+        "name": "28th Ital. CCNN Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3931,
+        "name": "36th Ital. CCNN Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3932,
+        "name": "79th Ital. CCNN Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3933,
+        "name": "95th Ital. CCNN Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3936,
+        "name": "212th Panzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3938,
+        "name": "Southeast Mot. Panzerjaeger Battalion",
+        "action": "available",
+        "delay": 62
+      },
+      {
+        "kind": "ground",
+        "id": 3939,
+        "name": "48th Mountain Mot. Panzerjaeger Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3945,
+        "name": "828th leFH Howitzer Battalion",
+        "action": "available",
+        "delay": 33
+      },
+      {
+        "kind": "ground",
+        "id": 3946,
+        "name": "829th leFH Howitzer Battalion",
+        "action": "available",
+        "delay": 33
+      },
+      {
+        "kind": "ground",
+        "id": 3947,
+        "name": "835th leFH Howitzer Battalion",
+        "action": "available",
+        "delay": 33
+      },
+      {
+        "kind": "ground",
+        "id": 3948,
+        "name": "III/999th Mot. Howitzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3949,
+        "name": "IV/999th Mot. Howitzer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3953,
+        "name": "73rd LW Mot. Light Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 3957,
+        "name": "II/12th LW Mot. Mixed Flak Battalion",
+        "action": "map",
+        "turn": 71,
+        "delay": 0,
+        "locked": true,
+        "countdown": true
+      },
+      {
+        "kind": "ground",
+        "id": 3961,
+        "name": "659th Pioneer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10380,
+        "name": "55th Ital. CCNN Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10436,
+        "name": "8th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10438,
+        "name": "11th LW Flak Regiment",
+        "action": "available",
+        "delay": 30
+      },
+      {
+        "kind": "ground",
+        "id": 10440,
+        "name": "14th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10441,
+        "name": "15th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10445,
+        "name": "20th LW Flak Regiment",
+        "action": "available",
+        "delay": 27
+      },
+      {
+        "kind": "ground",
+        "id": 10447,
+        "name": "24th(a) LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10448,
+        "name": "24th(b) LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10453,
+        "name": "30th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10456,
+        "name": "38th LW Flak Regiment",
+        "action": "available",
+        "delay": 10
+      },
+      {
+        "kind": "ground",
+        "id": 10457,
+        "name": "39th Mot. LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10458,
+        "name": "40th Mot. LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10459,
+        "name": "44th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10460,
+        "name": "45th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10461,
+        "name": "46th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10462,
+        "name": "47th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10463,
+        "name": "49th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10468,
+        "name": "54th LW Flak Regiment",
+        "action": "available",
+        "delay": 14
+      },
+      {
+        "kind": "ground",
+        "id": 10470,
+        "name": "57th Mot. LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10471,
+        "name": "58th Mot. LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10472,
+        "name": "59th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10476,
+        "name": "64th(a) LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10477,
+        "name": "64th(b) LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10481,
+        "name": "67th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10482,
+        "name": "68th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10483,
+        "name": "69th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10484,
+        "name": "71st LW Flak Regiment",
+        "action": "available",
+        "delay": 18
+      },
+      {
+        "kind": "ground",
+        "id": 10485,
+        "name": "72nd Rail LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10486,
+        "name": "75th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10488,
+        "name": "79th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10490,
+        "name": "85th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10491,
+        "name": "86th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10492,
+        "name": "87th LW Flak Regiment",
+        "action": "available",
+        "delay": 26
+      },
+      {
+        "kind": "ground",
+        "id": 10497,
+        "name": "91st LW Flak Regiment",
+        "action": "available",
+        "delay": 2
+      },
+      {
+        "kind": "ground",
+        "id": 10501,
+        "name": "94th LW Flak Regiment",
+        "action": "available",
+        "delay": 70
+      },
+      {
+        "kind": "ground",
+        "id": 10502,
+        "name": "95th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10503,
+        "name": "96th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10505,
+        "name": "100th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10510,
+        "name": "111th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10515,
+        "name": "120th LW Flak Regiment",
+        "action": "available",
+        "delay": 6
+      },
+      {
+        "kind": "ground",
+        "id": 10517,
+        "name": "123rd LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10518,
+        "name": "124th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10519,
+        "name": "126th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10522,
+        "name": "131st LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10523,
+        "name": "135th LW Flak Regiment",
+        "action": "available",
+        "delay": 18
+      },
+      {
+        "kind": "ground",
+        "id": 10524,
+        "name": "137th LW Flak Regiment",
+        "action": "available",
+        "delay": 2
+      },
+      {
+        "kind": "ground",
+        "id": 10525,
+        "name": "138th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10528,
+        "name": "144th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10532,
+        "name": "149th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10535,
+        "name": "169th LW Flak Regiment",
+        "action": "available",
+        "delay": 4
+      },
+      {
+        "kind": "ground",
+        "id": 10541,
+        "name": "189th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10542,
+        "name": "201st Mot. LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10545,
+        "name": "2nd Marine LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10547,
+        "name": "6th Marine LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10553,
+        "name": "24th Marine LW Flak Regiment",
+        "action": "available",
+        "delay": 30
+      },
+      {
+        "kind": "ground",
+        "id": 10557,
+        "name": "97th Rail LW Flak Regiment",
+        "action": "available",
+        "delay": 49
+      },
+      {
+        "kind": "ground",
+        "id": 10558,
+        "name": "112th Rail LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10559,
+        "name": "114th Rail LW Flak Regiment",
+        "action": "available",
+        "delay": 43
+      },
+      {
+        "kind": "ground",
+        "id": 10560,
+        "name": "122nd Rail LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10561,
+        "name": "159th Rail LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10562,
+        "name": "78th Mot. LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10563,
+        "name": "79th Mot. LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10564,
+        "name": "129th LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10565,
+        "name": "132nd LW Flak Regiment",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10603,
+        "name": "DXXXV Ital. Coastal Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10604,
+        "name": "DXXXVI Ital. Coastal Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 10849,
+        "name": "Angers School Pioneer Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 11027,
+        "name": "808th Marine LW Heavy Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 11028,
+        "name": "810th Marine LW Heavy Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 11029,
+        "name": "812th Marine LW Heavy Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 11030,
+        "name": "813th Marine LW Heavy Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 11031,
+        "name": "814th Marine LW Heavy Flak Battalion",
+        "action": "available",
+        "delay": 14
+      },
+      {
+        "kind": "ground",
+        "id": 11033,
+        "name": "816th Marine LW Heavy Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 11074,
+        "name": "364th LW Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 11109,
+        "name": "683rd LW Mixed Flak Battalion",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 14499,
+        "name": "92nd Mot. Sturm Brigade",
+        "action": "map",
+        "turn": 79,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 14501,
+        "name": "Crete Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 14503,
+        "name": "966th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 14504,
+        "name": "969th Fortress Infantry Brigade",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "ground",
+        "id": 14516,
+        "name": "105th SS Panzer Battalion",
+        "action": "map",
+        "turn": 82,
+        "delay": 16,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 14519,
+        "name": "201st Stug Battalion",
+        "action": "map",
+        "turn": 66,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "ground",
+        "id": 14523,
+        "name": "105th SS leFH Howitzer Battalion",
+        "action": "map",
+        "turn": 82,
+        "delay": 12,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "air",
+        "id": 726,
+        "name": "Stab/FAGr 5",
+        "action": "map",
+        "turn": 67,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      },
+      {
+        "kind": "air",
+        "id": 766,
+        "name": "III./NJG 3",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 903,
+        "name": "II./JG 300",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 909,
+        "name": "Stab/JG 300",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 910,
+        "name": "I./JG 300",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 912,
+        "name": "III./JG 300",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 927,
+        "name": "Stab/JG 400",
+        "action": "available",
+        "delay": 73
+      },
+      {
+        "kind": "air",
+        "id": 928,
+        "name": "I./JG 400",
+        "action": "available",
+        "delay": 41
+      },
+      {
+        "kind": "air",
+        "id": 929,
+        "name": "II./JG 400",
+        "action": "available",
+        "delay": 70
+      },
+      {
+        "kind": "air",
+        "id": 930,
+        "name": "III./JG 400",
+        "action": "available",
+        "delay": 54
+      },
+      {
+        "kind": "air",
+        "id": 942,
+        "name": "III./NJG 1",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 943,
+        "name": "IV./NJG 1",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 948,
+        "name": "III./NJG 2",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 952,
+        "name": "Stab/NJG 3",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 953,
+        "name": "I./NJG 3",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 954,
+        "name": "II./NJG 3",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 956,
+        "name": "IV./NJG 3",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 958,
+        "name": "Stab/NJG 4",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 962,
+        "name": "IV./NJG 4",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 964,
+        "name": "Stab/NJG 5",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 966,
+        "name": "II./NJG 5",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 967,
+        "name": "III./NJG 5",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 968,
+        "name": "IV./NJG 5",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 969,
+        "name": "V./NJG 5",
+        "action": "available",
+        "delay": 5
+      },
+      {
+        "kind": "air",
+        "id": 971,
+        "name": "Stab/NJG 6",
+        "action": "available",
+        "delay": 9
+      },
+      {
+        "kind": "air",
+        "id": 973,
+        "name": "II./NJG 6",
+        "action": "available",
+        "delay": 9
+      },
+      {
+        "kind": "air",
+        "id": 974,
+        "name": "III./NJG 6",
+        "action": "available",
+        "delay": 43
+      },
+      {
+        "kind": "air",
+        "id": 975,
+        "name": "IV./NJG 6",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 976,
+        "name": "V./NJG 6",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 978,
+        "name": "I./NJG 7",
+        "action": "map",
+        "turn": 83,
+        "delay": 30,
+        "locked": true,
+        "countdown": false
+      },
+      {
+        "kind": "air",
+        "id": 986,
+        "name": "I./NJG 11",
+        "action": "available",
+        "delay": 59
+      },
+      {
+        "kind": "air",
+        "id": 987,
+        "name": "II./NJG 11",
+        "action": "available",
+        "delay": 72
+      },
+      {
+        "kind": "air",
+        "id": 988,
+        "name": "III./NJG 11",
+        "action": "available",
+        "delay": 78
+      },
+      {
+        "kind": "air",
+        "id": 1208,
+        "name": "I./NJG 5",
+        "action": "available",
+        "delay": 0
+      },
+      {
+        "kind": "air",
+        "id": 1227,
+        "name": "I./TG 1",
+        "action": "map",
+        "turn": 13,
+        "delay": 0,
+        "locked": false,
+        "countdown": false
+      }
+    ]
+  }
 }
