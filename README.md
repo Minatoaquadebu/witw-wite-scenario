@@ -1,18 +1,26 @@
 # WITW+WITE 社区剧本修复版
 
-用于 **Gary Grigsby’s War in the East 2** 的东线＋西线社区剧本。基于原社区版本 **WITW+WITE v0.9** 继续修复，当前版本为 **v0.9.56**。
+用于 **Gary Grigsby’s War in the East 2** 的东线＋西线社区剧本。基于原社区版本 **WITW+WITE v0.9** 继续修复，当前版本为 **v0.9.57**。
 
 这是仍有已知限制的测试版本，当前适合优先尝试双方手动控制。西线 AI 尚未修好，不应把本版本视为已完成的双方 AI 战役。
 
 ## 下载与安装
 
-1. 到 [v0.9.56 预发行版](https://github.com/Minatoaquadebu/witw-wite-scenario/releases/tag/v0.9.56) 下载 `WITW-WITE-v0.9.56.zip` 并解压。
+1. 到 [v0.9.57 预发行版](https://github.com/Minatoaquadebu/witw-wite-scenario/releases/tag/v0.9.57) 下载 `WITW-WITE-v0.9.57.zip` 并解压。
 2. 将压缩包中的 `Dat/Scen` 文件夹内的 `.scn` 和同名 `.txt` **一起复制**到你的 **War in the East 2 安装目录下的 `Dat/Scen` 文件夹**。
-3. 在游戏的新游戏剧本列表中选择 **WITW+WITE v0.9.56**。同名 `.txt` 为选择剧本时读取的介绍；为沿用原版的文本显示方式，游戏内介绍采用英文，另附[中文剧本介绍](docs/剧本介绍.zh-CN.md)。
+3. 在游戏的新游戏剧本列表中选择 **WITW+WITE v0.9.57**。同名 `.txt` 为选择剧本时读取的介绍；为沿用原版的文本显示方式，游戏内介绍采用英文，另附[中文剧本介绍](docs/剧本介绍.zh-CN.md)。
 
 本项目依据 **WiTE2 v1.05.02** 开发和验证；其他版本兼容性尚未确认。需要自行安装游戏，本仓库不包含游戏程序。修改仅在剧本中，不需要替换游戏 EXE 或全局数据库。
 
 安装后请新开战役。进行中的战役沿用存档内的港口、船池和人力数据。
+
+## v0.9.57 诺曼底德军补员
+
+1944 年 7 月 15 日的西线补员额度从 2,710 人提高到 6,710 人，8 月 1 日从 6,000 人提高到 10,000 人。计入意大利每笔 2,000 人，两次事件分别向德国全国人力池拨入 8,710 和 12,000 人。1944 年 7 月至德国投降，两线追加额度合计 120,810 人，其中西线 91,710 人、意大利 29,100 人。整个剧本累计追加 163,310 人。
+
+截至 7 月 11 日，诺曼底德军累计收到 5,210 名补充兵。到 8 月 13 日，B 集团军群报告累计收到 30,069 人，另有 9,933 人在途。考虑到原剧本的常规补员、伤愈归队和东线对全国池的领用，这次先追加 8,000 人。两次拨款的金额已从普通版和盟军符号版的最终剧本文件中回读核对。各师在实战中的领用量仍待战役存档验证。[美国陆军战史](https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/USA-E-Breakout-9.html) · [德军 B 集团军群同期报告，第 61 页](https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/ahb-translations-from-captured-german-documents/situation-reports-by-german-army-commanders-in-normandy-15-may-11-october-1944/)
+
+已开始的战役沿用存档内的事件。安装后，新开普通版或盟军符号版即可使用本次调整。
 
 ## v0.9.56 德军西线与意大利补员
 

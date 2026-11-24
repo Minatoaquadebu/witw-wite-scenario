@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.56",
+  "version": "v0.9.57",
   "initial_allowance": 250000,
   "monthly_allowances": [
     {
@@ -380,15 +380,15 @@
       },
       {
         "date": "1944-07-15",
-        "west": 2710,
+        "west": 6710,
         "italy": 2000,
-        "total": 4710
+        "total": 8710
       },
       {
         "date": "1944-08-01",
-        "west": 6000,
+        "west": 10000,
         "italy": 2000,
-        "total": 8000
+        "total": 12000
       },
       {
         "date": "1944-09-01",
@@ -448,11 +448,11 @@
       "A mod design choice, not a measured monthly historical recruitment series.",
       "Base factors are game settings; actual recruiting depends on ownership, damage and allocation."
     ],
-    "total_extra": 155310,
+    "total_extra": 163310,
     "theater_totals": {
-      "west": 86210,
+      "west": 94210,
       "italy": 69100,
-      "total": 155310
+      "total": 163310
     },
     "opening_pool": 27478,
     "sources": [
@@ -471,6 +471,10 @@
       {
         "description": "意大利战场 1945 年 1 月实收补员",
         "url": "https://ibiblio.org/hyperwar/USA/USA-MTO-Cassino/USA-MTO-Cassino-24.html"
+      },
+      {
+        "description": "1944 年 8 月 13 日诺曼底累计补员",
+        "url": "https://www.raf.mod.uk/what-we-do/our-history/air-historical-branch/ahb-translations-from-captured-german-documents/situation-reports-by-german-army-commanders-in-normandy-15-may-11-october-1944/"
       }
     ]
   },
