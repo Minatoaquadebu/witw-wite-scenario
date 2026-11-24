@@ -1,4 +1,4 @@
-WITW+WITE v0.9.55 Allied Symbols
+WITW+WITE v0.9.56 Allied Symbols
 
 July 1943 to July 1945. Eastern and Western Front campaign. Original scenario by yyuegu. Unofficial continuation. Human vs Human advised.
 
@@ -32,3 +32,5 @@ T82: 356th Infantry Division, 715th Static Infantry Division, V SS Mountain Corp
 T83: 141st LW Flak Regiment, I./NJG 7
 T92: 117th Jaeger Division
 T94: XC Corps
+
+German western and Italian theater replacements: 3,000 extra men at start, then dated allocations through April 1945, credited to the German national pool.

@@ -1,5 +1,5 @@
 {
-  "version": "v0.9.52",
+  "version": "v0.9.56",
   "initial_allowance": 250000,
   "monthly_allowances": [
     {
@@ -310,16 +310,168 @@
       "1945": 800
     },
     "national_capacity_matches_official_east1943": true,
-    "initial_extra": 0,
-    "monthly_extra": 0,
+    "initial_extra": 3000,
+    "monthly_extra": [
+      {
+        "date": "1943-08-01",
+        "west": 0,
+        "italy": 3000,
+        "total": 3000
+      },
+      {
+        "date": "1943-09-01",
+        "west": 0,
+        "italy": 3000,
+        "total": 3000
+      },
+      {
+        "date": "1943-10-01",
+        "west": 0,
+        "italy": 3000,
+        "total": 3000
+      },
+      {
+        "date": "1943-11-01",
+        "west": 0,
+        "italy": 3000,
+        "total": 3000
+      },
+      {
+        "date": "1943-12-01",
+        "west": 0,
+        "italy": 3000,
+        "total": 3000
+      },
+      {
+        "date": "1944-01-01",
+        "west": 0,
+        "italy": 4000,
+        "total": 4000
+      },
+      {
+        "date": "1944-02-01",
+        "west": 0,
+        "italy": 4000,
+        "total": 4000
+      },
+      {
+        "date": "1944-03-01",
+        "west": 0,
+        "italy": 4000,
+        "total": 4000
+      },
+      {
+        "date": "1944-04-01",
+        "west": 0,
+        "italy": 4000,
+        "total": 4000
+      },
+      {
+        "date": "1944-05-01",
+        "west": 0,
+        "italy": 4000,
+        "total": 4000
+      },
+      {
+        "date": "1944-06-10",
+        "west": 2500,
+        "italy": 2000,
+        "total": 4500
+      },
+      {
+        "date": "1944-07-15",
+        "west": 2710,
+        "italy": 2000,
+        "total": 4710
+      },
+      {
+        "date": "1944-08-01",
+        "west": 6000,
+        "italy": 2000,
+        "total": 8000
+      },
+      {
+        "date": "1944-09-01",
+        "west": 12000,
+        "italy": 3000,
+        "total": 15000
+      },
+      {
+        "date": "1944-10-01",
+        "west": 12000,
+        "italy": 3000,
+        "total": 15000
+      },
+      {
+        "date": "1944-11-01",
+        "west": 12000,
+        "italy": 3000,
+        "total": 15000
+      },
+      {
+        "date": "1944-12-01",
+        "west": 12000,
+        "italy": 3000,
+        "total": 15000
+      },
+      {
+        "date": "1945-01-01",
+        "west": 10000,
+        "italy": 5600,
+        "total": 15600
+      },
+      {
+        "date": "1945-02-01",
+        "west": 8000,
+        "italy": 3500,
+        "total": 11500
+      },
+      {
+        "date": "1945-03-01",
+        "west": 6000,
+        "italy": 2500,
+        "total": 8500
+      },
+      {
+        "date": "1945-04-01",
+        "west": 3000,
+        "italy": 1500,
+        "total": 4500
+      }
+    ],
     "mobilization_pool": 200000,
     "mobilization_modifier_add_before": 400,
     "mobilization_modifier_add_after": 200,
-    "rationale": "The eastern campaign already includes the German national recruitment base. No second population pool or complete Replacement Army is added. A smaller continuing mobilisation increment moderates unlimited recruitment while retaining the existing finite stock grant.",
+    "rationale": "Finite personal replacement allowances for the map campaign, credited to the German national pool. Full formations and national recruitment are modelled separately.",
     "historical_reference": "https://www.ibiblio.org/hyperwar/Germany/HB/HB-1.html",
     "limits": [
       "A mod design choice, not a measured monthly historical recruitment series.",
       "Base factors are game settings; actual recruiting depends on ownership, damage and allocation."
+    ],
+    "total_extra": 155310,
+    "theater_totals": {
+      "west": 86210,
+      "italy": 69100,
+      "total": 155310
+    },
+    "opening_pool": 27478,
+    "sources": [
+      {
+        "description": "诺曼底补员抵达数",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/USA-E-Breakout-9.html"
+      },
+      {
+        "description": "意大利战场 1944 年夏的补充限制",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/USA-MTO-Cassino-14.html"
+      },
+      {
+        "description": "德军秋冬西线集结",
+        "url": "https://www.ibiblio.org/hyperwar/USA/USA-E-Siegfried/USA-E-Siegfried-17.html"
+      },
+      {
+        "description": "意大利战场 1945 年 1 月实收补员",
+        "url": "https://ibiblio.org/hyperwar/USA/USA-MTO-Cassino/USA-MTO-Cassino-24.html"
+      }
     ]
   },
   "previous_total": 1265000,

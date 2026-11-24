@@ -1,18 +1,28 @@
 # WITW+WITE 社区剧本修复版
 
-用于 **Gary Grigsby’s War in the East 2** 的东线＋西线社区剧本。基于原社区版本 **WITW+WITE v0.9** 继续修复，当前版本为 **v0.9.55**。
+用于 **Gary Grigsby’s War in the East 2** 的东线＋西线社区剧本。基于原社区版本 **WITW+WITE v0.9** 继续修复，当前版本为 **v0.9.56**。
 
 这是仍有已知限制的测试版本，当前适合优先尝试双方手动控制。西线 AI 尚未修好，不应把本版本视为已完成的双方 AI 战役。
 
 ## 下载与安装
 
-1. 到 [v0.9.55 预发行版](https://github.com/Minatoaquadebu/witw-wite-scenario/releases/tag/v0.9.55) 下载 `WITW-WITE-v0.9.55.zip` 并解压。
+1. 到 [v0.9.56 预发行版](https://github.com/Minatoaquadebu/witw-wite-scenario/releases/tag/v0.9.56) 下载 `WITW-WITE-v0.9.56.zip` 并解压。
 2. 将压缩包中的 `Dat/Scen` 文件夹内的 `.scn` 和同名 `.txt` **一起复制**到你的 **War in the East 2 安装目录下的 `Dat/Scen` 文件夹**。
-3. 在游戏的新游戏剧本列表中选择 **WITW+WITE v0.9.55**。同名 `.txt` 为选择剧本时读取的介绍；为沿用原版的文本显示方式，游戏内介绍采用英文，另附[中文剧本介绍](docs/剧本介绍.zh-CN.md)。
+3. 在游戏的新游戏剧本列表中选择 **WITW+WITE v0.9.56**。同名 `.txt` 为选择剧本时读取的介绍；为沿用原版的文本显示方式，游戏内介绍采用英文，另附[中文剧本介绍](docs/剧本介绍.zh-CN.md)。
 
 本项目依据 **WiTE2 v1.05.02** 开发和验证；其他版本兼容性尚未确认。需要自行安装游戏，本仓库不包含游戏程序。修改仅在剧本中，不需要替换游戏 EXE 或全局数据库。
 
 安装后请新开战役。进行中的战役沿用存档内的港口、船池和人力数据。
+
+## v0.9.56 德军西线与意大利补员
+
+德国额外获得 155,310 名人力，其中西线折算 86,210 人，意大利折算 69,100 人。1943 年 7 月开局先加 3,000 人，德国可用池从 24,478 增至 27,478。余下 152,310 人通过 21 笔一次性事件发至 1945 年 4 月。所有战区可从德国全国池领用。1944 年 8 月原有的 20 万总动员另计。
+
+美军官方战史记载，诺曼底战役初期德军已收到 5,210 名补充兵，另有 7,500 人仍在计划或途中。剧本把已抵达的规模分摊到 1944 年 6、7 月。意大利方面，1945 年 1 月 C 集团军群实际收到 5,600 人。其他月份是有限的战区补员估算：意大利自西西里战役开始纳入，西线自诺曼底登陆开始纳入，秋冬向西线倾斜，1945 年春递减。配额仅折算个人补充，整师调入的兵员由原部队记录体现。
+
+普通版和盟军符号版均需新开战役。两版均已核对开局人力池、21 笔事件的日期、一次性标志与金额，并用游戏原生入池例程逐笔测试。完整战役日历尚未实机跑完。
+
+[诺曼底补员抵达数](https://www.ibiblio.org/hyperwar/USA/USA-E-Breakout/USA-E-Breakout-9.html) · [意大利战场 1944 年夏的补充限制](https://www.ibiblio.org/hyperwar/USA/USA-MTO-Cassino/USA-MTO-Cassino-14.html) · [德军秋冬西线集结](https://www.ibiblio.org/hyperwar/USA/USA-E-Siegfried/USA-E-Siegfried-17.html) · [意大利战场 1945 年 1 月实收补员](https://ibiblio.org/hyperwar/USA/USA-MTO-Cassino/USA-MTO-Cassino-24.html)
 
 ## v0.9.55 德国预备队调动修复
 
