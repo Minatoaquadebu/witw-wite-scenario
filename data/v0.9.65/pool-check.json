@@ -1,0 +1,21 @@
+{
+  "allied_opening_trucks": 200000,
+  "allied_opening_trained_pilots": 2000,
+  "opening_western_groups_using_pool": 373,
+  "scheduled_western_groups_using_pool": 198,
+  "verification": "Two independent replacement-routine checks with one pilot vacancy each; no full turn simulated.",
+  "independent_checks": [
+    {
+      "group": "22nd USAAF PR Sqn",
+      "before": 2000,
+      "after": 1999,
+      "assigned": 1
+    },
+    {
+      "group": "No.126 RAF FB Sqn",
+      "before": 2000,
+      "after": 1999,
+      "assigned": 1
+    }
+  ]
+}

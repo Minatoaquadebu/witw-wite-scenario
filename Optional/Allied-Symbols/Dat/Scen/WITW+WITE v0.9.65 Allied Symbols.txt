@@ -1,8 +1,7 @@
-WITW+WITE v0.9.64
+WITW+WITE v0.9.65 Allied Symbols
 
 July 1943 to July 1945. Eastern and Western Front campaign. Original
-scenario by yyuegu. Unofficial continuation. Both sides Human
-recommended.
+scenario by yyuegu. Unofficial continuation. Human vs Human advised.
 
 71 Italian mainland ground units and HQs start frozen with zero
 movement. They can be released individually by enemy proximity or
@@ -11,11 +10,11 @@ attack. Sicily and Sardinia have their original garrisons.
 113 Western Allied divisions can reform once after permanent exit
 (including voluntary disbandment). After ten weeks, find the empty
 cadre in Soviet Reserves. Raise Max TOE and use Refit. Set Liverpool
-(72,158) as the shared Reserve TB Arrival Hex and order deployment.
-Reassign HQs as needed.
+(72,158) as the shared Reserve TB Arrival Hex and deploy. Reassign
+HQs as needed.
 
-Covered Rifle Divisions can take one direct support unit. Ports
-expanded (Gela 2, 10 British and 35 mainland ports +1). Western Axis
+Covered Rifle Divisions can take one support unit. Ports expanded
+(Gela 2, 10 British and 35 mainland ports +1). Western Axis
 formations in France, Belgium and the Netherlands outside Atlantic
 Wall garrisons start unfrozen and use normal movement rules from
 their first turn. Atlantic Wall garrisons retain their 26-turn
@@ -62,4 +61,4 @@ Western depots and revised Sherman W, reconnaissance and maritime aircraft produ
 Western rail commands, UK Home Forces, revised Allied equipment and air deployment.
 
 126 later Western Allied ground units start frozen in Britain or North Africa.
-Air formations use their unit designations. German and Soviet available truck pools start at 150,000 each.
+Air formations use their unit designations. The Allied shared pool starts with 200,000 available trucks and 2,000 trained pilots. Germany starts with 150,000 available trucks.
