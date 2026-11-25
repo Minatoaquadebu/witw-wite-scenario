@@ -1,0 +1,1766 @@
+[
+  {
+    "id": 11540,
+    "name": "13th US Airborne Division",
+    "region": "Britain",
+    "original_hex": [
+      76,
+      177
+    ],
+    "deployed_hex": [
+      76,
+      177
+    ],
+    "frozen_turns": 83
+  },
+  {
+    "id": 11541,
+    "name": "17th US Airborne Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      179
+    ],
+    "deployed_hex": [
+      71,
+      179
+    ],
+    "frozen_turns": 60
+  },
+  {
+    "id": 11545,
+    "name": "101st US Airborne Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      175
+    ],
+    "deployed_hex": [
+      71,
+      175
+    ],
+    "frozen_turns": 11
+  },
+  {
+    "id": 11553,
+    "name": "3rd US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      175
+    ],
+    "deployed_hex": [
+      71,
+      175
+    ],
+    "frozen_turns": 11
+  },
+  {
+    "id": 11554,
+    "name": "4th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      177
+    ],
+    "deployed_hex": [
+      71,
+      177
+    ],
+    "frozen_turns": 27
+  },
+  {
+    "id": 11555,
+    "name": "5th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      177
+    ],
+    "deployed_hex": [
+      73,
+      177
+    ],
+    "frozen_turns": 34
+  },
+  {
+    "id": 11556,
+    "name": "6th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      80,
+      176
+    ],
+    "deployed_hex": [
+      80,
+      176
+    ],
+    "frozen_turns": 34
+  },
+  {
+    "id": 11557,
+    "name": "7th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      68,
+      173
+    ],
+    "deployed_hex": [
+      68,
+      173
+    ],
+    "frozen_turns": 50
+  },
+  {
+    "id": 11558,
+    "name": "8th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      75,
+      179
+    ],
+    "deployed_hex": [
+      75,
+      179
+    ],
+    "frozen_turns": 73
+  },
+  {
+    "id": 11559,
+    "name": "9th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      179
+    ],
+    "deployed_hex": [
+      71,
+      179
+    ],
+    "frozen_turns": 60
+  },
+  {
+    "id": 11560,
+    "name": "10th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      72,
+      179
+    ],
+    "deployed_hex": [
+      72,
+      179
+    ],
+    "frozen_turns": 64
+  },
+  {
+    "id": 11561,
+    "name": "11th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      171
+    ],
+    "deployed_hex": [
+      73,
+      171
+    ],
+    "frozen_turns": 66
+  },
+  {
+    "id": 11562,
+    "name": "12th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      72,
+      179
+    ],
+    "deployed_hex": [
+      72,
+      179
+    ],
+    "frozen_turns": 65
+  },
+  {
+    "id": 11563,
+    "name": "13th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      180
+    ],
+    "deployed_hex": [
+      73,
+      180
+    ],
+    "frozen_turns": 82
+  },
+  {
+    "id": 11564,
+    "name": "14th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      75,
+      179
+    ],
+    "deployed_hex": [
+      75,
+      179
+    ],
+    "frozen_turns": 69
+  },
+  {
+    "id": 11565,
+    "name": "16th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      74,
+      180
+    ],
+    "deployed_hex": [
+      74,
+      180
+    ],
+    "frozen_turns": 84
+  },
+  {
+    "id": 11566,
+    "name": "20th US Armored Division",
+    "region": "Britain",
+    "original_hex": [
+      74,
+      180
+    ],
+    "deployed_hex": [
+      74,
+      180
+    ],
+    "frozen_turns": 85
+  },
+  {
+    "id": 11570,
+    "name": "6th SA Armoured Division",
+    "region": "North Africa",
+    "original_hex": [
+      89,
+      297
+    ],
+    "deployed_hex": [
+      89,
+      297
+    ],
+    "frozen_turns": 41
+  },
+  {
+    "id": 11575,
+    "name": "1st FF Armored Division",
+    "region": "North Africa",
+    "original_hex": [
+      59,
+      306
+    ],
+    "deployed_hex": [
+      59,
+      306
+    ],
+    "frozen_turns": 48
+  },
+  {
+    "id": 11576,
+    "name": "2nd FF Armored Division",
+    "region": "North Africa",
+    "original_hex": [
+      59,
+      306
+    ],
+    "deployed_hex": [
+      59,
+      306
+    ],
+    "frozen_turns": 39
+  },
+  {
+    "id": 11577,
+    "name": "5th FF Armored Division",
+    "region": "North Africa",
+    "original_hex": [
+      61,
+      310
+    ],
+    "deployed_hex": [
+      61,
+      310
+    ],
+    "frozen_turns": 56
+  },
+  {
+    "id": 11584,
+    "name": "2nd US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      61,
+      147
+    ],
+    "deployed_hex": [
+      61,
+      147
+    ],
+    "frozen_turns": 16
+  },
+  {
+    "id": 11586,
+    "name": "4th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      174
+    ],
+    "deployed_hex": [
+      73,
+      174
+    ],
+    "frozen_turns": 30
+  },
+  {
+    "id": 11587,
+    "name": "5th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      61,
+      147
+    ],
+    "deployed_hex": [
+      61,
+      147
+    ],
+    "frozen_turns": 5
+  },
+  {
+    "id": 11588,
+    "name": "8th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      175
+    ],
+    "deployed_hex": [
+      73,
+      175
+    ],
+    "frozen_turns": 24
+  },
+  {
+    "id": 11590,
+    "name": "26th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      70,
+      179
+    ],
+    "deployed_hex": [
+      70,
+      179
+    ],
+    "frozen_turns": 62
+  },
+  {
+    "id": 11591,
+    "name": "28th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      72,
+      175
+    ],
+    "deployed_hex": [
+      72,
+      175
+    ],
+    "frozen_turns": 15
+  },
+  {
+    "id": 11593,
+    "name": "30th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      177
+    ],
+    "deployed_hex": [
+      73,
+      177
+    ],
+    "frozen_turns": 34
+  },
+  {
+    "id": 11595,
+    "name": "35th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      68,
+      173
+    ],
+    "deployed_hex": [
+      68,
+      173
+    ],
+    "frozen_turns": 47
+  },
+  {
+    "id": 11597,
+    "name": "42nd US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      180
+    ],
+    "deployed_hex": [
+      71,
+      180
+    ],
+    "frozen_turns": 81
+  },
+  {
+    "id": 11598,
+    "name": "44th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      70,
+      179
+    ],
+    "deployed_hex": [
+      70,
+      179
+    ],
+    "frozen_turns": 63
+  },
+  {
+    "id": 11600,
+    "name": "63rd US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      180
+    ],
+    "deployed_hex": [
+      71,
+      180
+    ],
+    "frozen_turns": 80
+  },
+  {
+    "id": 11601,
+    "name": "65th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      180
+    ],
+    "deployed_hex": [
+      71,
+      180
+    ],
+    "frozen_turns": 81
+  },
+  {
+    "id": 11602,
+    "name": "66th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      67,
+      172
+    ],
+    "deployed_hex": [
+      67,
+      172
+    ],
+    "frozen_turns": 76
+  },
+  {
+    "id": 11603,
+    "name": "69th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      67,
+      172
+    ],
+    "deployed_hex": [
+      67,
+      172
+    ],
+    "frozen_turns": 76
+  },
+  {
+    "id": 11604,
+    "name": "70th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      180
+    ],
+    "deployed_hex": [
+      73,
+      180
+    ],
+    "frozen_turns": 81
+  },
+  {
+    "id": 11605,
+    "name": "71st US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      76,
+      177
+    ],
+    "deployed_hex": [
+      76,
+      177
+    ],
+    "frozen_turns": 84
+  },
+  {
+    "id": 11606,
+    "name": "75th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      74,
+      179
+    ],
+    "deployed_hex": [
+      74,
+      179
+    ],
+    "frozen_turns": 73
+  },
+  {
+    "id": 11607,
+    "name": "76th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      67,
+      172
+    ],
+    "deployed_hex": [
+      67,
+      172
+    ],
+    "frozen_turns": 77
+  },
+  {
+    "id": 11608,
+    "name": "78th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      75,
+      177
+    ],
+    "deployed_hex": [
+      75,
+      177
+    ],
+    "frozen_turns": 69
+  },
+  {
+    "id": 11609,
+    "name": "79th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      72,
+      178
+    ],
+    "deployed_hex": [
+      72,
+      178
+    ],
+    "frozen_turns": 41
+  },
+  {
+    "id": 11610,
+    "name": "80th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      68,
+      173
+    ],
+    "deployed_hex": [
+      68,
+      173
+    ],
+    "frozen_turns": 53
+  },
+  {
+    "id": 11611,
+    "name": "83rd US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      72,
+      178
+    ],
+    "deployed_hex": [
+      72,
+      178
+    ],
+    "frozen_turns": 42
+  },
+  {
+    "id": 11612,
+    "name": "84th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      74,
+      178
+    ],
+    "deployed_hex": [
+      74,
+      178
+    ],
+    "frozen_turns": 65
+  },
+  {
+    "id": 11613,
+    "name": "85th US Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      87,
+      296
+    ],
+    "deployed_hex": [
+      87,
+      296
+    ],
+    "frozen_turns": 26
+  },
+  {
+    "id": 11614,
+    "name": "86th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      76,
+      177
+    ],
+    "deployed_hex": [
+      76,
+      177
+    ],
+    "frozen_turns": 87
+  },
+  {
+    "id": 11615,
+    "name": "87th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      179
+    ],
+    "deployed_hex": [
+      73,
+      179
+    ],
+    "frozen_turns": 71
+  },
+  {
+    "id": 11616,
+    "name": "88th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      175
+    ],
+    "deployed_hex": [
+      73,
+      175
+    ],
+    "frozen_turns": 24
+  },
+  {
+    "id": 11617,
+    "name": "89th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      180
+    ],
+    "deployed_hex": [
+      73,
+      180
+    ],
+    "frozen_turns": 81
+  },
+  {
+    "id": 11618,
+    "name": "90th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      177
+    ],
+    "deployed_hex": [
+      73,
+      177
+    ],
+    "frozen_turns": 40
+  },
+  {
+    "id": 11619,
+    "name": "91st US Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      88,
+      296
+    ],
+    "deployed_hex": [
+      88,
+      296
+    ],
+    "frozen_turns": 42
+  },
+  {
+    "id": 11620,
+    "name": "92nd US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      171
+    ],
+    "deployed_hex": [
+      73,
+      171
+    ],
+    "frozen_turns": 67
+  },
+  {
+    "id": 11621,
+    "name": "94th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      74,
+      177
+    ],
+    "deployed_hex": [
+      74,
+      177
+    ],
+    "frozen_turns": 58
+  },
+  {
+    "id": 11622,
+    "name": "95th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      71,
+      179
+    ],
+    "deployed_hex": [
+      71,
+      179
+    ],
+    "frozen_turns": 59
+  },
+  {
+    "id": 11623,
+    "name": "97th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      75,
+      179
+    ],
+    "deployed_hex": [
+      76,
+      179
+    ],
+    "frozen_turns": 87
+  },
+  {
+    "id": 11624,
+    "name": "99th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      73,
+      171
+    ],
+    "deployed_hex": [
+      73,
+      171
+    ],
+    "frozen_turns": 67
+  },
+  {
+    "id": 11625,
+    "name": "100th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      75,
+      177
+    ],
+    "deployed_hex": [
+      75,
+      177
+    ],
+    "frozen_turns": 68
+  },
+  {
+    "id": 11626,
+    "name": "102nd US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      72,
+      179
+    ],
+    "deployed_hex": [
+      72,
+      179
+    ],
+    "frozen_turns": 64
+  },
+  {
+    "id": 11627,
+    "name": "103rd US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      75,
+      177
+    ],
+    "deployed_hex": [
+      75,
+      177
+    ],
+    "frozen_turns": 68
+  },
+  {
+    "id": 11628,
+    "name": "104th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      70,
+      179
+    ],
+    "deployed_hex": [
+      70,
+      179
+    ],
+    "frozen_turns": 62
+  },
+  {
+    "id": 11629,
+    "name": "106th US Infantry Division",
+    "region": "Britain",
+    "original_hex": [
+      74,
+      179
+    ],
+    "deployed_hex": [
+      74,
+      179
+    ],
+    "frozen_turns": 72
+  },
+  {
+    "id": 11631,
+    "name": "10th US Mountain Division",
+    "region": "North Africa",
+    "original_hex": [
+      83,
+      299
+    ],
+    "deployed_hex": [
+      83,
+      299
+    ],
+    "frozen_turns": 81
+  },
+  {
+    "id": 11649,
+    "name": "1st BZ Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      83,
+      299
+    ],
+    "deployed_hex": [
+      83,
+      299
+    ],
+    "frozen_turns": 56
+  },
+  {
+    "id": 11653,
+    "name": "2nd NZ Mixed Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      84,
+      296
+    ],
+    "deployed_hex": [
+      84,
+      296
+    ],
+    "frozen_turns": 22
+  },
+  {
+    "id": 11654,
+    "name": "3rd PO Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      84,
+      296
+    ],
+    "deployed_hex": [
+      84,
+      296
+    ],
+    "frozen_turns": 23
+  },
+  {
+    "id": 11655,
+    "name": "4th IN Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      88,
+      296
+    ],
+    "deployed_hex": [
+      88,
+      296
+    ],
+    "frozen_turns": 43
+  },
+  {
+    "id": 11656,
+    "name": "5th PO Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      83,
+      297
+    ],
+    "deployed_hex": [
+      83,
+      297
+    ],
+    "frozen_turns": 35
+  },
+  {
+    "id": 11657,
+    "name": "8th IN Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      85,
+      295
+    ],
+    "deployed_hex": [
+      85,
+      295
+    ],
+    "frozen_turns": 10
+  },
+  {
+    "id": 11658,
+    "name": "10th IN Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      83,
+      297
+    ],
+    "deployed_hex": [
+      83,
+      297
+    ],
+    "frozen_turns": 37
+  },
+  {
+    "id": 11664,
+    "name": "9th Colonial FF Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      59,
+      306
+    ],
+    "deployed_hex": [
+      59,
+      306
+    ],
+    "frozen_turns": 44
+  },
+  {
+    "id": 11665,
+    "name": "10th FF Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      64,
+      301
+    ],
+    "deployed_hex": [
+      64,
+      301
+    ],
+    "frozen_turns": 78
+  },
+  {
+    "id": 11666,
+    "name": "14th FF Infantry Division",
+    "region": "North Africa",
+    "original_hex": [
+      64,
+      301
+    ],
+    "deployed_hex": [
+      64,
+      301
+    ],
+    "frozen_turns": 84
+  },
+  {
+    "id": 11668,
+    "name": "3rd FF Mountain Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      63,
+      304
+    ],
+    "deployed_hex": [
+      63,
+      304
+    ],
+    "frozen_turns": 64
+  },
+  {
+    "id": 11669,
+    "name": "5th FF Infantry Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      63,
+      304
+    ],
+    "deployed_hex": [
+      63,
+      304
+    ],
+    "frozen_turns": 48
+  },
+  {
+    "id": 11670,
+    "name": "29th FF Infantry Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      63,
+      304
+    ],
+    "deployed_hex": [
+      63,
+      304
+    ],
+    "frozen_turns": 64
+  },
+  {
+    "id": 11671,
+    "name": "99th FF Mountain Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      63,
+      300
+    ],
+    "deployed_hex": [
+      63,
+      300
+    ],
+    "frozen_turns": 64
+  },
+  {
+    "id": 11672,
+    "name": "141st FF Mountain Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      63,
+      300
+    ],
+    "deployed_hex": [
+      63,
+      300
+    ],
+    "frozen_turns": 64
+  },
+  {
+    "id": 11686,
+    "name": "27th Alpine FF Mountain Division",
+    "region": "North Africa",
+    "original_hex": [
+      63,
+      300
+    ],
+    "deployed_hex": [
+      63,
+      300
+    ],
+    "frozen_turns": 71
+  },
+  {
+    "id": 11688,
+    "name": "Liberazione AI Infantry Corpo",
+    "region": "North Africa",
+    "original_hex": [
+      121,
+      294
+    ],
+    "deployed_hex": [
+      121,
+      294
+    ],
+    "frozen_turns": 41
+  },
+  {
+    "id": 11690,
+    "name": "'Cremona' AI Combat Group",
+    "region": "North Africa",
+    "original_hex": [
+      120,
+      297
+    ],
+    "deployed_hex": [
+      120,
+      297
+    ],
+    "frozen_turns": 63
+  },
+  {
+    "id": 11691,
+    "name": "'Folgore' AI Combat Group",
+    "region": "North Africa",
+    "original_hex": [
+      120,
+      297
+    ],
+    "deployed_hex": [
+      120,
+      297
+    ],
+    "frozen_turns": 86
+  },
+  {
+    "id": 11692,
+    "name": "'Friuli' AI Combat Group",
+    "region": "North Africa",
+    "original_hex": [
+      118,
+      295
+    ],
+    "deployed_hex": [
+      118,
+      295
+    ],
+    "frozen_turns": 82
+  },
+  {
+    "id": 11693,
+    "name": "'Legnano' AI Combat Group",
+    "region": "North Africa",
+    "original_hex": [
+      116,
+      296
+    ],
+    "deployed_hex": [
+      116,
+      296
+    ],
+    "frozen_turns": 86
+  },
+  {
+    "id": 11694,
+    "name": "'Mantova' AI Combat Group",
+    "region": "North Africa",
+    "original_hex": [
+      118,
+      295
+    ],
+    "deployed_hex": [
+      118,
+      295
+    ],
+    "frozen_turns": 66
+  },
+  {
+    "id": 11695,
+    "name": "'Piceno' AI Combat Group",
+    "region": "North Africa",
+    "original_hex": [
+      118,
+      295
+    ],
+    "deployed_hex": [
+      118,
+      295
+    ],
+    "frozen_turns": 66
+  },
+  {
+    "id": 11697,
+    "name": "1st CA- US Special Service Force Brigade",
+    "region": "North Africa",
+    "original_hex": [
+      89,
+      297
+    ],
+    "deployed_hex": [
+      89,
+      297
+    ],
+    "frozen_turns": 18
+  },
+  {
+    "id": 11698,
+    "name": "2nd BR Parachute Brigade Group",
+    "region": "North Africa",
+    "original_hex": [
+      89,
+      297
+    ],
+    "deployed_hex": [
+      89,
+      297
+    ],
+    "frozen_turns": 18
+  },
+  {
+    "id": 11704,
+    "name": "7th BR Armoured Brigade",
+    "region": "North Africa",
+    "original_hex": [
+      90,
+      298
+    ],
+    "deployed_hex": [
+      90,
+      298
+    ],
+    "frozen_turns": 43
+  },
+  {
+    "id": 11708,
+    "name": "9th BR Armoured Brigade Group",
+    "region": "North Africa",
+    "original_hex": [
+      90,
+      298
+    ],
+    "deployed_hex": [
+      90,
+      298
+    ],
+    "frozen_turns": 43
+  },
+  {
+    "id": 11712,
+    "name": "27th BR Armoured Brigade",
+    "region": "Britain",
+    "original_hex": [
+      81,
+      173
+    ],
+    "deployed_hex": [
+      81,
+      173
+    ],
+    "frozen_turns": 13
+  },
+  {
+    "id": 11714,
+    "name": "1st CZ Armoured Brigade Group",
+    "region": "Britain",
+    "original_hex": [
+      87,
+      174
+    ],
+    "deployed_hex": [
+      87,
+      174
+    ],
+    "frozen_turns": 9
+  },
+  {
+    "id": 11718,
+    "name": "2nd PO Armoured Brigade",
+    "region": "North Africa",
+    "original_hex": [
+      80,
+      296
+    ],
+    "deployed_hex": [
+      80,
+      296
+    ],
+    "frozen_turns": 30
+  },
+  {
+    "id": 11723,
+    "name": "21st BR Tank Brigade",
+    "region": "North Africa",
+    "original_hex": [
+      91,
+      296
+    ],
+    "deployed_hex": [
+      91,
+      296
+    ],
+    "frozen_turns": 43
+  },
+  {
+    "id": 11742,
+    "name": "25th BR Assault Engineer Brigade",
+    "region": "North Africa",
+    "original_hex": [
+      92,
+      300
+    ],
+    "deployed_hex": [
+      92,
+      300
+    ],
+    "frozen_turns": 78
+  },
+  {
+    "id": 11744,
+    "name": "2nd US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      174
+    ],
+    "deployed_hex": [
+      77,
+      174
+    ],
+    "frozen_turns": 41
+  },
+  {
+    "id": 11745,
+    "name": "3rd US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      174
+    ],
+    "deployed_hex": [
+      77,
+      174
+    ],
+    "frozen_turns": 51
+  },
+  {
+    "id": 11746,
+    "name": "4th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      66,
+      178
+    ],
+    "deployed_hex": [
+      66,
+      178
+    ],
+    "frozen_turns": 24
+  },
+  {
+    "id": 11747,
+    "name": "6th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      66,
+      172
+    ],
+    "deployed_hex": [
+      66,
+      172
+    ],
+    "frozen_turns": 15
+  },
+  {
+    "id": 11748,
+    "name": "11th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      173
+    ],
+    "deployed_hex": [
+      77,
+      173
+    ],
+    "frozen_turns": 67
+  },
+  {
+    "id": 11749,
+    "name": "14th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      174
+    ],
+    "deployed_hex": [
+      77,
+      174
+    ],
+    "frozen_turns": 61
+  },
+  {
+    "id": 11750,
+    "name": "15th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      70,
+      181
+    ],
+    "deployed_hex": [
+      70,
+      181
+    ],
+    "frozen_turns": 36
+  },
+  {
+    "id": 11751,
+    "name": "16th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      173
+    ],
+    "deployed_hex": [
+      77,
+      173
+    ],
+    "frozen_turns": 73
+  },
+  {
+    "id": 11752,
+    "name": "101st US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      173
+    ],
+    "deployed_hex": [
+      77,
+      173
+    ],
+    "frozen_turns": 71
+  },
+  {
+    "id": 11754,
+    "name": "106th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      70,
+      181
+    ],
+    "deployed_hex": [
+      71,
+      181
+    ],
+    "frozen_turns": 36
+  },
+  {
+    "id": 11755,
+    "name": "113th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      66,
+      178
+    ],
+    "deployed_hex": [
+      66,
+      178
+    ],
+    "frozen_turns": 30
+  },
+  {
+    "id": 11756,
+    "name": "115th US Cavalry Group",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      177
+    ],
+    "deployed_hex": [
+      77,
+      177
+    ],
+    "frozen_turns": 80
+  },
+  {
+    "id": 11775,
+    "name": "507th Sep. US Parachute Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      80,
+      296
+    ],
+    "deployed_hex": [
+      80,
+      296
+    ],
+    "frozen_turns": 25
+  },
+  {
+    "id": 11777,
+    "name": "517th Sep. US Parachute Regiment (+)",
+    "region": "North Africa",
+    "original_hex": [
+      64,
+      300
+    ],
+    "deployed_hex": [
+      64,
+      300
+    ],
+    "frozen_turns": 48
+  },
+  {
+    "id": 11780,
+    "name": "3rd GR Mountain Brigade Group",
+    "region": "North Africa",
+    "original_hex": [
+      91,
+      296
+    ],
+    "deployed_hex": [
+      91,
+      296
+    ],
+    "frozen_turns": 56
+  },
+  {
+    "id": 11781,
+    "name": "Jewish BR Infantry Brigade",
+    "region": "North Africa",
+    "original_hex": [
+      92,
+      300
+    ],
+    "deployed_hex": [
+      92,
+      300
+    ],
+    "frozen_turns": 65
+  },
+  {
+    "id": 11783,
+    "name": "56th BR Infantry Brigade",
+    "region": "Britain",
+    "original_hex": [
+      80,
+      175
+    ],
+    "deployed_hex": [
+      80,
+      175
+    ],
+    "frozen_turns": 32
+  },
+  {
+    "id": 11787,
+    "name": "1st AI Motorized Group",
+    "region": "North Africa",
+    "original_hex": [
+      121,
+      294
+    ],
+    "deployed_hex": [
+      121,
+      294
+    ],
+    "frozen_turns": 12
+  },
+  {
+    "id": 11789,
+    "name": "3rd Sep. US Infantry Regiment",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      177
+    ],
+    "deployed_hex": [
+      77,
+      177
+    ],
+    "frozen_turns": 89
+  },
+  {
+    "id": 11790,
+    "name": "29th Sep. US Infantry Regiment",
+    "region": "Britain",
+    "original_hex": [
+      70,
+      181
+    ],
+    "deployed_hex": [
+      70,
+      181
+    ],
+    "frozen_turns": 32
+  },
+  {
+    "id": 11791,
+    "name": "65th Sep. US Infantry Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      80,
+      296
+    ],
+    "deployed_hex": [
+      80,
+      296
+    ],
+    "frozen_turns": 40
+  },
+  {
+    "id": 11792,
+    "name": "118th Sep. US Infantry Regiment",
+    "region": "Britain",
+    "original_hex": [
+      66,
+      178
+    ],
+    "deployed_hex": [
+      66,
+      178
+    ],
+    "frozen_turns": 18
+  },
+  {
+    "id": 11794,
+    "name": "159th Sep. US Infantry Regiment",
+    "region": "Britain",
+    "original_hex": [
+      66,
+      179
+    ],
+    "deployed_hex": [
+      66,
+      179
+    ],
+    "frozen_turns": 89
+  },
+  {
+    "id": 11795,
+    "name": "442nd Nisei Sep. US Infantry Regiment (+)",
+    "region": "North Africa",
+    "original_hex": [
+      91,
+      296
+    ],
+    "deployed_hex": [
+      91,
+      296
+    ],
+    "frozen_turns": 47
+  },
+  {
+    "id": 11796,
+    "name": "473rd Sep. US Infantry Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      127,
+      297
+    ],
+    "deployed_hex": [
+      127,
+      297
+    ],
+    "frozen_turns": 80
+  },
+  {
+    "id": 11797,
+    "name": "474th Sep. US Infantry Regiment",
+    "region": "Britain",
+    "original_hex": [
+      77,
+      177
+    ],
+    "deployed_hex": [
+      77,
+      177
+    ],
+    "frozen_turns": 79
+  },
+  {
+    "id": 11809,
+    "name": "4th BR Commando Brigade",
+    "region": "Britain",
+    "original_hex": [
+      87,
+      174
+    ],
+    "deployed_hex": [
+      87,
+      174
+    ],
+    "frozen_turns": 37
+  },
+  {
+    "id": 12243,
+    "name": "201st North African FF Pioneer Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      127,
+      297
+    ],
+    "deployed_hex": [
+      127,
+      297
+    ],
+    "frozen_turns": 18
+  },
+  {
+    "id": 11785,
+    "name": "43rd Mot. IN Gurkha Brigade",
+    "region": "North Africa",
+    "original_hex": [
+      121,
+      294
+    ],
+    "deployed_hex": [
+      121,
+      294
+    ],
+    "frozen_turns": 54
+  },
+  {
+    "id": 11423,
+    "name": "1st Tabor Goums FF Mountain Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      126,
+      297
+    ],
+    "deployed_hex": [
+      126,
+      297
+    ],
+    "frozen_turns": 18
+  },
+  {
+    "id": 11426,
+    "name": "3rd Tabor Goums FF Mountain Regiment",
+    "region": "North Africa",
+    "original_hex": [
+      127,
+      297
+    ],
+    "deployed_hex": [
+      127,
+      297
+    ],
+    "frozen_turns": 18
+  },
+  {
+    "id": 11429,
+    "name": "504th US Parachute Regiment (+)",
+    "region": "North Africa",
+    "original_hex": [
+      90,
+      298
+    ],
+    "deployed_hex": [
+      90,
+      298
+    ],
+    "frozen_turns": 25
+  }
+]
