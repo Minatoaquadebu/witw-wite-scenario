@@ -1,8 +1,7 @@
-WITW+WITE v0.9.60
+WITW+WITE v0.9.62 Allied Symbols
 
 July 1943 to July 1945. Eastern and Western Front campaign. Original
-scenario by yyuegu. Unofficial continuation. Both sides Human
-recommended.
+scenario by yyuegu. Unofficial continuation. Human vs Human advised.
 
 71 Italian mainland ground units and HQs start frozen with zero
 movement. They can be released individually by enemy proximity or
@@ -11,11 +10,11 @@ attack. Sicily and Sardinia have their original garrisons.
 113 Western Allied divisions can reform once after permanent exit
 (including voluntary disbandment). After ten weeks, find the empty
 cadre in Soviet Reserves. Raise Max TOE and use Refit. Set Liverpool
-(72,158) as the shared Reserve TB Arrival Hex and order deployment.
-Reassign HQs as needed.
+(72,158) as the shared Reserve TB Arrival Hex and deploy. Reassign
+HQs as needed.
 
-Covered Rifle Divisions can take one direct support unit. Ports
-expanded (Gela 2, 10 British and 35 mainland ports +1). Western Axis
+Covered Rifle Divisions can take one support unit. Ports expanded
+(Gela 2, 10 British and 35 mainland ports +1). Western Axis
 formations in France, Belgium and the Netherlands outside Atlantic
 Wall garrisons start unfrozen and use normal movement rules from
 their first turn. Atlantic Wall garrisons retain their 26-turn
@@ -23,9 +22,7 @@ freeze. Allied manpower grants total 1,960,000. Western units gain
 morale protection. British parachute brigades stay independent.
 
 Western Europe, Italy and the Balkans are fought on the map.
-Regional capitulation scripts for these campaigns are disabled. Most
-former theater formations enter Axis Reserves on their scheduled
-dates.
+Regional capitulation scripts for these campaigns are disabled. Former theater air groups are stationed on the map. Ground reserve schedules are retained.
 
 Western Allied aircraft replacements use Western aircraft types.
 B-17G deliveries start in September 1943 and P-51B deliveries in
@@ -58,3 +55,7 @@ ships at the start of the campaign, shown in the Ladoga column.
 Soviet troop ships and cargo ships in the other sea zones match the
 1943 Campaign: Baltic 20/100, Black Sea 25/100, Azov 5/20, Caspian
 5/20.
+
+Western depots and revised Sherman W, reconnaissance and maritime aircraft production.
+
+Western rail commands, UK Home Forces, revised Allied equipment and air deployment.

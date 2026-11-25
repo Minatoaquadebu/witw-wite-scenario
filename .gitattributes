@@ -2,3 +2,4 @@
 *.scn binary
 *.zip binary
 **/Scen/*.txt -text
+data/v0.9.62/logs/**/*.txt -text

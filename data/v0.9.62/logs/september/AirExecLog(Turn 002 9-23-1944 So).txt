@@ -1,0 +1,219 @@
+Scenario: '000 Final 62 Sherman Supply'
+Turn 002 9-23-1944 Soviet
+
+                      Air Execution Log
+_____________________________________________________________________
+
+__________ Night 1 _________
+__________ Day 1 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+2nd Air Army. RECON hex[236,163]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[234,166]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[237,162]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[237,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,118]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,119]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,124]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,120]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[202,120]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[255,201]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[254,200]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[257,200]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[253,200]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,147]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[228,147]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,152]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[200,112]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,116]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[200,116]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,117]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[200,117]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[201,117]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[248,176]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[248,174]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[247,175]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[252,175]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[250,176]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[189,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[194,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[196,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[188,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[192,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[193,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[196,104]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[198,104]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[197,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[198,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[200,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[194,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[224,151]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[221,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[222,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[223,154]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[226,154]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[227,159]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[238,167]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[239,167]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[240,167]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[244,172]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[215,138]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[216,142]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[220,140]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[217,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[218,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 0 ***
+Axis planes repaired: 107
+Soviet planes repaired: 109
+Planes in repair with 0 damage: 486
+ Germany: 1 new pilot(s) arrived. Left in pool 121.
+ Soviet Union: 3 new pilot(s) arrived. Left in pool 0.
+__________ Night 2 _________
+__________ Day 2 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 1 ***
+Axis planes repaired: 29
+Soviet planes repaired: 78
+Planes in repair with 0 damage: 300
+ Germany: 2 new pilot(s) arrived. Left in pool 119.
+ Soviet Union: 5 new pilot(s) arrived. Left in pool 0.
+__________ Night 3 _________
+__________ Day 3 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 2 ***
+Axis planes repaired: 20
+Soviet planes repaired: 38
+Planes in repair with 0 damage: 220
+ Germany: 4 new pilot(s) arrived. Left in pool 115.
+ Soviet Union: 9 new pilot(s) arrived. Left in pool 0.
+__________ Night 4 _________
+__________ Day 4 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+2nd Air Army. RECON hex[233,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[234,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[235,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[234,164]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,125]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[199,126]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,122]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[201,122]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[201,118]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[200,119]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[253,202]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[257,203]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[253,201]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[256,201]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,155]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,148]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,114]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,115]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[199,112]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[202,116]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,113]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[249,177]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[247,173]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[248,175]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[253,177]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[190,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[192,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[193,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[188,108]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,108]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[197,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[200,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[196,103]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[194,103]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[223,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[224,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[226,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[223,160]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[225,160]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[223,155]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[245,172]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[238,173]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[219,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[222,142]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[222,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[215,136]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[217,137]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 3 ***
+Axis planes repaired: 11
+Soviet planes repaired: 50
+Planes in repair with 0 damage: 210
+ Germany: 2 new pilot(s) arrived. Left in pool 113.
+ Soviet Union: 2 new pilot(s) arrived. Left in pool 0.
+__________ Night 5 _________
+__________ Day 5 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 4 ***
+Axis planes repaired: 13
+Soviet planes repaired: 22
+Planes in repair with 0 damage: 173
+ Germany: 1 new pilot(s) arrived. Left in pool 112.
+__________ Night 6 _________
+__________ Day 6 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 5 ***
+Axis planes repaired: 8
+Soviet planes repaired: 18
+Planes in repair with 0 damage: 160
+ Germany: 1 new pilot(s) arrived. Left in pool 111.
+__________ Night 7 _________
+__________ Day 7 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 6 ***
+Axis planes repaired: 5
+Soviet planes repaired: 21
+Planes in repair with 0 damage: 149
+ Germany: 2 new pilot(s) arrived. Left in pool 109.
+ Soviet Union: 1 new pilot(s) arrived. Left in pool 0.
+
+AIRCRAFT PERFORMANCE STATISTICS       DESTROYED     DAMAGED     DAMAGE POINTS      SORTIES
+____________________________________________________________________________________________
+F R I E N D L Y
+___________________________________
+               TOTAL                    0             0            0
+
+_____________________________________________________________________________
+E  N  E  M  Y
+___________________________________
+           Bf 109G-2                   20            26         1986               -
+                         Pe-2R 1943       20            24         1864              964
+___________________________________
+           Bf 110G-4                    3             3          331               -
+                         Pe-2R 1943        3             3          331              964
+___________________________________
+           Fw 190A-5                    3             3          568               -
+                         Pe-2R 1943        3             3          568              964
+___________________________________
+                FLAK                    5            46          104               -
+                              Pe-2R        1             6           15               -
+                         Pe-2R 1943        4            39           88               -
+                       F-6A Mustang        0             1            1               -
+___________________________________
+               TOTAL                   31            76         2867
+_____________________________________________________________________________
+
+Axis air FUEL used: 39
+Axis air sorties: 88
+Axis max fuel 25212 used by air group 967 (12 planes)
+Axis air AMMO used: 5
+Axis flak AMMO used: 46
+Soviet air FUEL used: 1606
+Soviet air sorties: 1239
+Soviet max fuel 35758 used by air group 2504 flight (12 planes)
+Soviet air AMMO used: 61
+Soviet flak AMMO used: 0
+
+Air phase execution time 1 min 22 sec
+_________________________________
+

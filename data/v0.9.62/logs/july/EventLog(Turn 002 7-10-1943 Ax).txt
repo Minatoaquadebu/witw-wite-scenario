@@ -1,0 +1,2077 @@
+Scenario: 'WITW+WITE v0.9.62'
+Turn 002 7-10-1943 Axis
+
+                      Logistic Phase Report
+_____________________________________________________________________
+
+
+ 
+ARMY FREIGHT DATA
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+ 
+     953       7706        243      14086      92843          7    OKH  
+      59        401          0        206       1364          0    Hungarian High Command  
+     280       1628         57       3811      20595          1    Rumanian High Command  
+       7         81          0          0          0          0    Slovakian High Command  
+      68        420         51          0          0          0    OKW  
+      76        263         91        249       1798          0    Italian High Command  
+      29       1306        208        493       3058          2    Army Group South  
+     101       1549        124       1278       8587          0    Army Group Center  
+      37        693         57        397       3180          0    Army Group A  
+      29        573         92        277       2220          0    Army Group North  
+     198        283         45       1421       3895          0    Army Group C  
+     570       1758        361        997       2251          0    OB West  
+      88          0          0          0          0          0    Ital. Southeast Army Group 
+     414       5088        307        919       1960          0    Kempf Detachment Army 
+     875       6919       1035       1036        978         13    9th Army 
+     539       4867        647       2656        834          0    4th Panzer Army 
+     161       2263        416        190       1342          0    1st Panzer Army 
+     269       4243         46       1319       5174          0    17th Army 
+     582       8709         20        950       3834          0    18th Army 
+     134       3141        181        394       2283          0    6th Army 
+     150       2185        172        471       3071          0    2nd Army 
+     192       3505        544       4901      31582          5    16th Army 
+     159       3181        450        232       1122          0    2nd Panzer Army 
+     165       2594        300        595       2230          3    3rd Panzer Army 
+      87        455         29        110        520          0    3rd Hun. Army 
+      37        409         13         64        282          0    1st Hun. Army 
+      49        142         78        270       1661          2    8th Ital. Army 
+      28        536         21        171        990          0    3rd Rum. Army 
+     298       3656        299        264       1069          0    4th Army 
+      93        174         61         81        350          0    1st Army 
+     149        115          7        114        328          0    7th Ital. Army 
+      51        380         16       2188        422          0    15th Army 
+     203        347         25        465       2008          3    7th Army 
+      23        218          0       3126       3399          0    2nd Hun. Army 
+       3          7          0          0          0          0    4th Rum. Army 
+       0         21          0          0          0          0    WMBef. Holland  
+     353        147         46        151        216          2    6th Ital. Army 
+      53         33         16       1425        594          0    Rome Defense Ital. Army 
+     101         98         18        853       1189          0    4th Ital. Army 
+      39        123         41        139        980          0    5th Ital. Army 
+     335        172          7        129        552          0    Sardinia Ital. Army 
+      26          6          1          0          0          0    WMBef. Belgium  
+     183        127         11        490       3779          0    WMBef. France  
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+    8265      70540       6149      46929     212540         43     GROUND COMMAND TOTALS  
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+    2305       4122         56       1420      10696          1     AIR COMMAND TOTALS  
+ 
+ 
+DEPOT FREIGHT DATA
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+ 2499981       3367      84134        388          1      Berlin               (139 , 172)
+ 2499960       1979      47541        240         97      Vienna               (153 , 203)
+ 2500045        187      26109         41         37      Essen                (112 , 179)
+ 2499400        610      17082        410        681      Frankfurt            (119 , 190)
+ 2500000          0          0          0          0      Helsinki             (175 , 105)
+ 2506318        112      27763       1628       3557      Milan                (120 , 227)
+ 2498900       2067       9043          0          0      Prague               (144 , 190)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   25000       1697        119        244          0      Hamburg              (124 , 163)
+   25000       3249         40         82          0      Stettin              (143 , 164)
+   25000       2547          9         19          0      Rostock              (133 , 159)
+   24999       2324       3266        265          0      Bremen               (120 , 167)
+   18750       3917        242        491          0      Kiel                 (125 , 157)
+    9994       5060         60        125          0      Flensburg            (123 , 154)
+   12498       6739      10747       1050          0      Constanta            (216 , 224)
+   12500       1352       9428        210          0      Gdynia               (158 , 154)
+    6088       1342         63        132          0      Genichesk            (240 , 198)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   25000       1761         20         41          0      Danzig               (159 , 155)
+    1000       1854          0          0          0      Memel                (168 , 142)
+   25000       2211         48        102          0      Koenigsberg          (166 , 151)
+    3750       5187          3          6          0      Pillau               (164 , 151)
+    2500       7937         91        187          0      Stralsund            (137 , 158)
+   10000       1703          0          0          0      Elbing               (163 , 156)
+   12493        937        110        510         66      Bremerhaven          (119 , 163)
+    2500      10144          0          0          0      Sassnitz             (138 , 155)
+   18746       5187         58        120          0      Wismar               (130 , 161)
+    4684       1498         37         80          0      Luebeck              (127 , 161)
+    2446       4803        115        279          5      Sylt                 (119 , 153)
+   12500       3638         12         25          0      Brunsbuettel         (121 , 160)
+    5000       2346          0          0          0      Heiligenbeil         (165 , 153)
+   23622      10580       8784        860       2184      Naples               (147 , 263)
+   24805       8522        876        860        224      Genoa                (119 , 235)
+       0       3247       2889        355        621      Taranto              (163 , 264)
+   24996         62       2244        159        948      Palermo              (143 , 286)
+       0       2982       1311        406          3      Bari                 (161 , 260)
+    6250         62          4          8        185      Sulina               (219 , 216)
+       0       3135       2189        454        361      Antwerp              (100 , 181)
+       0       9000       4000        485          0      Rotterdam            (101 , 175)
+    2500       3488          0          0          0      Hel                  (159 , 152)
+    6190       5113       3816         43        188      Tallinn              (176 , 111)
+   18750       5897       1390       2739          0      Novorossiysk         (257 , 203)
+   12254       9513        114        344        252      Riga                 (177 , 130)
+    9858       1146        701       1420          0      Kerch                (250 , 201)
+    3511      10232       4526       1158         22      Mariupol             (250 , 187)
+       0        745          0          2          0      Nikolaev             (226 , 197)
+    6197        622          0        104         27      Kherson              (230 , 198)
+   31250       2187       7377          0          0      Odessa               (221 , 203)
+   31250       1559        150        401          1      Sevastopol           (238 , 212)
+    1250       3532          0          0          0      Ventspils            (167 , 129)
+    6250       3224       4000         15        173      Parnu                (176 , 119)
+    1250       2576          0          0          0      Liepaja              (166 , 136)
+    2500          2        654       1311         23      Taganrog             (256 , 182)
+    6250       1825       2186          0          0      Osipenko             (248 , 190)
+   10000          8        514       1037          0      Temryuk              (254 , 200)
+    2500       1376         44        451          0      Yevpatoriya          (236 , 208)
+    2500       1534        227        545         38      Feodosiya            (246 , 206)
+    1250         12          0          0          0      Kuressaare           (169 , 122)
+    6167         62          0          0        188      Ochakov              (225 , 200)
+       0       2540        654       1341          0      Piraeus              (200 , 279)
+       0       1987          0          0          0      Thessaloniki         (193 , 258)
+       0       3689          0          0          0      Split                (157 , 241)
+       0       7423       2668        309        643      Marseille            (101 , 243)
+    3507       3054       6102        459       1244      Bordeaux             ( 73 , 228)
+       0       5828         55        112          0      Cherbourg            ( 73 , 189)
+    2497         25         36         73          0      Ronne                (143 , 151)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   25000       2161         98        197          0      Leipzig              (135 , 180)
+   24994        890        161        514        166      Hannover             (123 , 173)
+    5990       1066        119        242          0      Magdeburg            (131 , 175)
+    3750       1037         10         20          0      Chemnitz             (137 , 184)
+   25000       1128          2          5          0      Breslau              (155 , 181)
+    5000        641         30         60          0      Nuremberg            (129 , 195)
+   62492         94      16985        171          5      Tilsit               (171 , 147)
+   25000       1279         29        291        757      Munich               (132 , 206)
+    5000       1050          0          0          0      Dresden              (140 , 182)
+   10000        184          8         16          0      Liegnitz             (151 , 180)
+    5000       1050          0          0          0      Cottbus              (143 , 177)
+    5000        824          2          4          0      Oppeln               (159 , 184)
+    5000        885          0          0          0      Linz                 (144 , 204)
+   15000        864          0          0          0      Graz                 (149 , 213)
+   10000        100          0          0          0      Frankfurt an der Oder (144 , 172)
+   18750        518        152        304          0      Brandenburg          (135 , 173)
+       0       2000       1279        407        494      Cologne              (111 , 184)
+   30000       1209         15        171        511      Kassel               (122 , 181)
+       0       4000         57        144          0      Stuttgart            (121 , 201)
+    4996        716        147        497          2      Braunschweig         (126 , 173)
+   37500       1375          4          9          0      NE Berlin            (139 , 171)
+   37500       1375         11         23          0      W Berlin             (138 , 171)
+    1250       1167        591          0          0      Suwalki              (176 , 154)
+    5000       1050         21         43          0      Halle                (133 , 179)
+    5000       4050       2000          0          0      Boehlen              (135 , 181)
+   18750        974          9         18          0      Plauen               (134 , 187)
+   18750       1095          0          0          0      Bautzen              (144 , 181)
+    4994       2050         94        197          0      Rathenow             (134 , 171)
+   10000        100        113        238          0      Zossen               (139 , 174)
+    5000       1050         11         22          0      Ruhland              (141 , 180)
+    3750       1099          0          0          0      St Poelten           (150 , 204)
+   25000       2305         12         25          0      Wiener Neustadt      (153 , 208)
+   25000        698          2          5          0      Beuthen              (164 , 186)
+   15000       1968          0          0          0      Steyr                (145 , 206)
+    3719        577         47        132         61      Ingolstadt           (131 , 202)
+   25000       1516          0          0          0      Regensburg           (134 , 199)
+   24999       4250          8        179        326      Schweinfurt          (125 , 191)
+    4927       1000        888         86        617      Darmstadt            (118 , 193)
+    5000       3859        212        429          0      Zeitz                (133 , 183)
+    5000        825          8         16          0      Erfurt               (128 , 183)
+    6249       1014          9         18          0      Muecheln             (132 , 181)
+    5000        802          0          0          0      Halberstadt          (129 , 176)
+       0       1000          0          0          0      Dortmund             (114 , 179)
+    3750        662          0          0          0      Lehrte               (125 , 173)
+   18750       1020          0          0          0      Bruck an der Mur     (149 , 211)
+   20906       4000      23711       1194       5846      Rome                 (137 , 255)
+   23842       2000      11049        379       3961      Bologna              (131 , 235)
+       0       1000        999          0        222      Verona               (129 , 227)
+   25000       4244        251        510          0      Ploesti              (201 , 221)
+    1250       1052         50        123         13      Iasi                 (206 , 202)
+    5000       2540        257        516          0      Timisoara            (178 , 220)
+    5000        842        112        228          0      Galati               (210 , 215)
+    2498       1763         61        510        105      Craiova              (192 , 229)
+   40000       4549        132        268          0      Bucharest            (203 , 225)
+    5000       3601          0          1          0      Brasov               (199 , 216)
+    2500       3195        627       1258          0      Pitesti              (197 , 223)
+    2500       1046          0          0          0      Buzau                (205 , 219)
+   12500       1157         19         40          0      Focsani              (206 , 215)
+    1250        148          0        326         23      Suceava              (199 , 200)
+    2500        661          0          0          0      Tulcea               (215 , 216)
+    2500       1145          0          0          0      Barlad               (208 , 210)
+    2500       1117         63        128          0      Sibiu                (192 , 217)
+    3750       2508        327        719         18      Arad                 (178 , 217)
+    1250        857        401         43         13      Dorohoi              (199 , 197)
+    5000       1724          7         15          0      Dacia Romana         (202 , 221)
+    3750        946          0          0          0      Campina              (201 , 220)
+    5000       4056          0          0          0      Resita               (181 , 223)
+   37488       1170       1823       3734         42      Budapest             (167 , 208)
+    5000       1055          0          0          0      Kassa                (175 , 196)
+    3750        859         36         74          0      Miskolc              (173 , 202)
+   12500       3229         72        144          0      Nyiregyhasa          (178 , 202)
+    2500        410         13         30          0      Debrecen             (178 , 206)
+    2500        377        108        218          0      Szolnok              (172 , 210)
+    2500       2776         14         31          0      Szeged               (172 , 217)
+    2500       4027         38         77          0      Szombathely          (155 , 211)
+    2500       1017         39        187          8      Gyor                 (160 , 208)
+    2500        394         54        110          0      Kaposvar             (161 , 217)
+    2493       2454         56        116          0      Pecs                 (164 , 220)
+    2500       3148        118        239          0      Cluj                 (189 , 210)
+    3750       3373          0          0          0      Oradea               (181 , 210)
+      62        697         42         84          0      Sighet               (187 , 201)
+      62       1239         15         31          0      Ungvar               (180 , 196)
+    2500       2090         36         72          0      Targu Mures          (193 , 211)
+   25000         62          0          0          0      Satu Mare            (184 , 202)
+    5000       1050         40         81          0      Bratislava           (157 , 204)
+       0       2702         52        109          0      Sofia                (192 , 242)
+    3750        865          0          0          0      Ostrava              (161 , 191)
+    3750       1039          0          0          0      Brunn                (154 , 196)
+    3750        963          0          0          0      Pilsen               (139 , 193)
+    6219       4062          0          0          0      Floridsdorf          (154 , 202)
+   24470       1000      14324        938       1408      Brussels             (100 , 183)
+   25000        782          0          0          0      Bydgoszcz            (157 , 165)
+   37500       1375          0          0          0      Warsaw               (171 , 170)
+   25000        891          0          0          0      Lodz                 (165 , 174)
+    5000        689          3         11          0      Katowice             (165 , 186)
+   62500         21          0          0          0      Krakow               (168 , 187)
+   25000        996          5         11          0      Poznan               (153 , 171)
+   18750        452          0          0          0      Lublin               (178 , 176)
+   10000        100          0          0          0      Radom                (173 , 176)
+   12500       3274          0          0          0      Nowy Sacz            (172 , 190)
+    2500        588       1944          0          0      Wyszkow              (172 , 166)
+   15000       1465      14197          0          0      Biala Podlaska       (180 , 170)
+    2500        649       2517          0          0      Chelm                (182 , 176)
+    2500       1075          0          0          0      Rzeszow              (177 , 186)
+   15000        547      14332          0          0      Zamosc               (182 , 180)
+   24134       8577       2639      10132          0      Orel                 (230 , 146)
+    6250       3821        341        731          8      Novgorod             (199 , 111)
+    6250       1025          0          0          0      Kaunas               (179 , 147)
+    6250        497       4021         12        104      Daugavpils           (188 , 136)
+    6250      17002        930       2257         33      Vitebsk              (203 , 138)
+    5000       1095         49         43        230      Vilnius              (184 , 147)
+   31250        825       8019        267        831      Minsk                (194 , 151)
+    6250        350       2739         55         63      Gomel                (211 , 158)
+   31250       3802        880       2794         20      Smolensk             (210 , 138)
+    6250        479       4957          0          0      Brest Litovsk        (182 , 168)
+    6250        247       6318          0          0      Grodno               (181 , 156)
+    6250        424       4849        127          1      Mogilev              (205 , 147)
+    6250        286       2983          0          0      Bialystok            (178 , 161)
+   11678       2751        750       1862          0      Bryansk              (222 , 147)
+    6250       4007       1785       3511          1      Staraya Russa        (201 , 115)
+   25000       4105        690       1575        139      Pskov                (191 , 120)
+    5695        965       1116       3141          6      Sumy                 (229 , 163)
+    3569          3       1186       2372         64      Belgorod             (237 , 162)
+   37500       2375          0        176        833      Kiev                 (212 , 173)
+   12500        562          0         29        159      Zhitomir             (205 , 177)
+   31250       1075          0          0          0      Lvov                 (186 , 186)
+   29715      13168       2152       8980          0      Kharkov              (237 , 167)
+     276       7460        244        676        690      Poltava              (231 , 173)
+    3750       1140        962         43        167      Cherkassy            (221 , 178)
+    7500        841          0          0          0      Vinnitsa             (206 , 185)
+   26916        289        350        773        570      Dnepropetrovsk       (236 , 181)
+    2500       2388         22         46          0      Chernovtsy           (197 , 196)
+   24345      20009        470       1595          0      Stalino              (249 , 179)
+       0        949         17        678        988      Krivoi Rog           (229 , 188)
+   14525        271      14132        559        318      Zaporozhye           (238 , 185)
+    3750        279          0          0          0      Kishinev             (212 , 202)
+    3750        217        184        411         20      Kremenchug           (228 , 179)
+    6250        996          0         47         97      Baranovichi          (190 , 158)
+   15000        498       2086         78        391      Fastov               (211 , 177)
+   10000          8        363        628         24      Torkovichi           (196 , 109)
+   10000          8       1525       3059          0      Mga                  (197 , 102)
+   10000        115       1127       2261          0      Chudovo              (200 , 106)
+    2500       4186        711       1407          0      Pushkin              (194 , 103)
+    6250        320       3131         55        189      Orsha                (204 , 143)
+    5000       1669        534       1062          8      Nevel                (200 , 132)
+   10000       1388       4083         56        321      Valga                (183 , 123)
+    6250        381         41         91          0      Siauliai             (175 , 139)
+    6250        956          0          0          0      Kovel                (188 , 174)
+   10000        658         33          0         28      Tarnopol             (194 , 186)
+    7500       2321          0          0          0      Rovno                (195 , 178)
+    6250        463          0          0          0      Proskurov            (199 , 186)
+    6250        596          0          0          0      Stanislav            (190 , 192)
+    5000        376         35        130          0      Kirovograd           (224 , 184)
+    6250        814       4162         29        229      Sonda                (183 , 109)
+    3750        616       1381         37        103      Chernigov            (214 , 164)
+    6250        223          0          9         34      Jelgava              (176 , 134)
+    5495        141       4799        174         19      Melitopol            (241 , 192)
+   14999         44        971       1941          0      Krasnogvardeysk      (193 , 105)
+   10000       2008       8092        334        109      Gorlovka             (249 , 177)
+    3750       1461          9         60        113      Idritsa              (195 , 131)
+   10000        184        406        886         57      Soltsy               (197 , 115)
+    4774       4002       1177       2386          0      Volot                (199 , 117)
+    6250       1418       1475       2850        115      Novosokolniki        (199 , 129)
+    3750       1794       1249       2975          1      Spas-Demensk         (218 , 138)
+    6250        978       3476          0          0      Kobrin               (184 , 167)
+   10000       3745       8571       1471          2      Papasnaya            (250 , 174)
+    6250          5        419        847          7      Varenikovskaya       (255 , 201)
+    5000       1362       2721       1174          1      Vorozhba             (227 , 162)
+    5000       2186       3815       3207          8      Lopan                (236 , 165)
+    6250        297       3906         53          0      Tiraspol             (216 , 202)
+    6250        117       6032          0          0      Beltsy               (206 , 197)
+    6250        290       5937          0          0      Sambor               (182 , 189)
+   10000       1021       2178       1252          3      Kramatorskaya        (246 , 174)
+    6250        147       5852          0          0      Bessarabskaya        (213 , 207)
+   18750        249          0        244        191      Nikopol (e)          (235 , 188)
+    6250        531          0          0          0      Shepetovka           (199 , 180)
+   25000         76          0          0          0      Belgrade             (176 , 228)
+       0       4000          0          0          0      Sarajevo             (166 , 237)
+   24888       4000       5331        236        512      Lyon                 (100 , 224)
+       0       1289        417         53         39      Dijon                (102 , 212)
+   21570       2000      23200        367       2787      Paris                ( 90 , 198)
+   24598       4000       5880        368        794      Rouen                ( 85 , 193)
+   24532       4291       4092        437       1088      Rennes               ( 71 , 201)
+   23714       1163      13631       1121       1259      Lille                ( 94 , 185)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+       0          0       4310        648         31      Avignon              ( 99 , 238)
+       0        268      22186        445          4      Venice               (136 , 227)
+       0         70       4007        391         34      Nantes               ( 71 , 208)
+       0         98         49        162          0      Brest                ( 59 , 196)
+       0         57       6319        858          5      Argentan             ( 79 , 197)
+       0         45       1129        323         44      Utrecht              (104 , 174)
+       0          0        221        552         40      Trapani              (138 , 287)
+       0        226         31        145         43      Messina              (155 , 284)
+       0         70       4038        135         41      Cosenza              (158 , 275)
+       0        198       2049       2533          0      Amiens               ( 91 , 190)
+       0          0         31        158         53      Porto Vecchio        (121 , 257)
+       0         50          0          0          0      Lappeenranta         (185 ,  96)
+       0         50          0          0          0      Savonlinna           (185 ,  89)
+       0        100          0          0          0      Hanko                (169 , 109)
+       0        250         55        124          0      Reggio Calabria      (156 , 285)
+       0        147        958        692          0      Foggia               (154 , 258)
+       0         99        861       1730          0      Cagliari             (119 , 277)
+       0         96        198        406          0      Ozieri               (119 , 266)
+       0        100          0          0          0      Suojarvi             (195 ,  83)
+       0        150          0          0          0      Kirkenes             (174 ,  26)
+       0        371      23214          8          0      Zagreb               (153 , 223)
+       0        119       5227          0          0      Dubrovnik            (166 , 247)
+       0        100       4000          0          0      Drvar                (157 , 234)
+       0        100       1013        207         15      Limoges              ( 82 , 221)
+       0        100          0          0          0      Gedser               (132 , 155)
+       0        100          0         17          0      Aarhus               (125 , 144)
+       0          0         65        136          0      Montpellier          ( 94 , 240)
+       0          0        174        404          0      Toulouse             ( 81 , 239)
+       0          0        180        388          0      Deventer             (108 , 173)
+       0          0          0         68         11      Tours                ( 81 , 209)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+20060496      521937     680753     124007       40462            TOTALS
+ 
+Unit Trucks Used          13796
+Trucks Lost in Freight    0
+Total Freight Losses      91993
+ 
+Axis Trucks Captured      0
+Soviet Trucks Captured    0
+ 
+ 
+FREIGHT USAGE TYPES
+ 
+  561222   other depots
+    5744   depot fuel
+    7172   depot trucks
+       0   economy
+       0   repairs
+  108121   misc
+ 
+Baltic:   Cargo Ships Unused     55
+Baltic:   Cargo Ships Used       44
+ 
+Black:    Cargo Ships Unused     43
+Black:    Cargo Ships Used       7
+ 
+ 
+CIVILIAN CONSUMPTION
+-----------------------Turn--------Game----- 
+Axis Supply Tons        88485        88485        
+Soviet Supply Tons          0            0        
+-----------------------Turn--------Game----- 
+Axis Fuel Tons          79710        79710        
+Soviet Fuel Tons            0            0        
+------------------------------------------ 
+ 
+
+ 
+1 tons of fuel were consumed in RB pilot training
+0 aircraft were lost in RB training accidents
+ 
+ 
+0 tons of fuel were consumed in TB pilot training
+0 aircraft were lost in TB training accidents
+ 
+
+Western Europe LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+Western Europe AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Italy LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+Italy AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+North Africa LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+North Africa AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Norway LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+
+Norway AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Balkans LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+Balkans AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Finland LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+       2                    2              7.62mm Maxim Machine Gun (Fin)
+       4                    4              Rifle Squad 41 (Fin)
+       1                    1              Engineer Squad 41 (Fin)
+       1                    1              Jaeger Squad (Fin)
+       2                    2              20mm L-39 AT-Rifle (Fin)
+       4                    4              Panzer 35-S 739(f) (Ger)
+     149                  149              Vehicle (-)
+       1                    1              Support (Fin)
+
+Finland AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       3                    3              Fw 190A-5 (Ger)
+       2                    2              Bf 110F-2 (Ger)
+       5                    5              TOTALS 
+
+Finland MANPOWER LOSSES 
+    LOST                      16
+    CAPTURED                   0
+    DAMAGED                   84
+
+Axis Reserves LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+       5                    5              7.92mm MG42 Machine Gun (Ger)
+       1                    1              Panhard 178-P204(f) Armored Car (Ger)
+       7                    7              Vehicle (-)
+
+Axis Reserves AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+Axis Reserves MANPOWER LOSSES 
+    LOST                      16
+    CAPTURED                   0
+    DAMAGED                    8
+
+Soviet Union Garrison LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+       5                    5              75mm leIG18 Infantry Gun (Ger)
+       1                    1              150mm sIG33 Infantry Gun (Ger)
+       3                    3              50mm GrW 36 Mortar (Ger)
+       7                    7              7.92mm MG34 Machine Gun (Ger)
+       5                    5              Pioneer Squad 39 (Ger)
+       3                    3              Cavalry Squad 39 (Ger)
+       2                    2              Motorcycle Squad (Ger)
+      13                   13              7.92mm PzB 39 AT-Rifle (Ger)
+       3                    3              28mm sPzB41 AT Gun (Ger)
+       7                    7              Motorized Rifle Squad 40 (Ger)
+       7                    7              Security Squad 39 (Ger)
+      16                   16              50mm 39M Mortar (Hun)
+       1                    1              81mm 36/39M Mortar (Hun)
+      15                   15              8mm 31M Machine Gun (Hun)
+      16                   16              Rifle Squad 39 (Hun)
+       3                    3              Pioneer Squad 39 (Hun)
+       1                    1              Cavalry Squad 39 (Hun)
+      13                   13              20mm 36M AT-Rifle (Hun)
+       3                    3              8mm Schwarzlose AAMG (Hun)
+       2                    2              149mm vz.25 Howitzer (Hun)
+       1                    1              50mm 38M AT Gun (Hun)
+       4                    4              Panzer 35-S 739(f) (Ger)
+       1                    1              Panzer 39H 735(f) (Ger)
+     205                  205              Vehicle (-)
+       2                    2              Support (Ger)
+       3                    3              Support (Hun)
+
+Soviet Union Garrison AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+Soviet Union Garrison MANPOWER LOSSES 
+    LOST                     247
+    CAPTURED                   5
+    DAMAGED                  633
+
+__________ Night 1 _________
+__________ Day 1 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 12
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[149,292]. INTERDICT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 0 ***
+Axis planes repaired: 19
+Soviet planes repaired: 120
+Planes in repair with 0 damage: 15
+ Germany: 6 new pilot(s) arrived. Left in pool 744.
+ Italy: 2 new pilot(s) arrived. Left in pool 498.
+__________ Night 2 _________
+__________ Day 2 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[147,289]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[149,289]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[147,290]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 1 ***
+Axis planes repaired: 18
+Soviet planes repaired: 90
+Planes in repair with 0 damage: 5
+ Germany: 5 new pilot(s) arrived. Left in pool 739.
+ Italy: 2 new pilot(s) arrived. Left in pool 496.
+__________ Night 3 _________
+__________ Day 3 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 12
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 2 ***
+Axis planes repaired: 18
+Soviet planes repaired: 113
+Planes in repair with 0 damage: 8
+ Germany: 8 new pilot(s) arrived. Left in pool 731.
+__________ Night 4 _________
+__________ Day 4 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[148,289]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[149,290]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[149,291]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 3 ***
+Axis planes repaired: 18
+Soviet planes repaired: 111
+Planes in repair with 0 damage: 5
+ Germany: 5 new pilot(s) arrived. Left in pool 726.
+ Italy: 2 new pilot(s) arrived. Left in pool 494.
+__________ Night 5 _________
+__________ Day 5 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 12
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 4 ***
+Axis planes repaired: 20
+Soviet planes repaired: 115
+Planes in repair with 0 damage: 5
+ Germany: 5 new pilot(s) arrived. Left in pool 721.
+ Italy: 2 new pilot(s) arrived. Left in pool 492.
+__________ Night 6 _________
+__________ Day 6 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[147,291]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[148,290]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[148,291]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 5 ***
+Axis planes repaired: 28
+Soviet planes repaired: 68
+Planes in repair with 0 damage: 3
+ Germany: 8 new pilot(s) arrived. Left in pool 713.
+ Italy: 2 new pilot(s) arrived. Left in pool 490.
+__________ Night 7 _________
+__________ Day 7 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 11
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 6 ***
+Axis planes repaired: 19
+Soviet planes repaired: 103
+Planes in repair with 0 damage: 2
+ Germany: 6 new pilot(s) arrived. Left in pool 707.
+ Italy: 1 new pilot(s) arrived. Left in pool 489.
+
+AIRCRAFT PERFORMANCE STATISTICS       DESTROYED     DAMAGED     DAMAGE POINTS      SORTIES
+____________________________________________________________________________________________
+F R I E N D L Y
+___________________________________
+       P-40N Warhawk                    1             1          186              270
+                          Bf 109G-2        1             1          186               -
+___________________________________
+               TOTAL                    1             1          186
+
+_____________________________________________________________________________
+E  N  E  M  Y
+___________________________________
+           Bf 109G-2                   29            50         4102               -
+                         Boston III        8            11          892              187
+                      P-40N Warhawk        1             1           74              270
+                       A-36A Apache       20            24         1793              447
+___________________________________
+                FLAK                   95           257         3466               -
+                         Boston III       30            68          806               -
+                      Baltimore III        2            12           62               -
+                      P-40N Warhawk        2             6           32               -
+                       A-36A Apache       40           103         1804               -
+                      A-20G-K Havoc       16            50          540               -
+                     B-25C Mitchell        5            18          222               -
+___________________________________
+               TOTAL                  124           293         6225
+_____________________________________________________________________________
+
+Axis air FUEL used: 8
+Axis air sorties: 23
+Axis max fuel 2912 used by air group 223 (4 planes)
+Axis air AMMO used: 1
+Axis flak AMMO used: 243
+Soviet air FUEL used: 1215
+Soviet air sorties: 1199
+Soviet max fuel 182910 used by air group 3600 flight (30 planes)
+Soviet air AMMO used: 687
+Soviet flak AMMO used: 0
+
+Air phase execution time 1 min 4 sec
+_________________________________
+
+
+
+AIR BASE REPLACEMENT DETAILS
+20mm Flak38 AA Gun: 1110 men
+88mm Flak18 AA Gun: 1161 men
+20mm Quad Flak38 AA Gun: 2448 men
+37mm Flak36 AA Gun: 980 men
+Support: 9440 men
+Air Support: 58090 men
+Air Support: 130 men
+Total: 73359 men
+
+Comiso Air Base: 30 men
+Catania Air Base: 120 men
+Gerbini Air Base: 24 men
+Reggio Calabria Air Base: 782 men
+Manduria Air Base: 652 men
+Grottaglie Air Base: 1040 men
+San Vito Dei Normanni Air Base: 442 men
+Gioia del Colle Air Base: 702 men
+Piazzolla di Nola Air Base: 278 men
+Grazzanise Air Base: 642 men
+Capua Air Base: 448 men
+Foggia Air Base: 4610 men
+Cisterna di Littoria Air Base: 178 men
+Pomezia Air Base: 384 men
+Lido di Roma Air Base: 208 men
+Ciampino Air Base: 420 men
+Rome Air Base: 234 men
+Guidonia Air Base: 240 men
+Marcigliana Air Base: 250 men
+Casale Air Base: 154 men
+Fabrica di Roma Air Base: 154 men
+Genoa Air Base: 394 men
+Lonate Pozzolo Air Base: 1042 men
+Venegono Air Base: 1690 men
+Treviso Air Base: 384 men
+Marignane Air Base: 682 men
+Salon-de-Provence Air Base: 1080 men
+Orange Air Base: 588 men
+Montpellier Air Base: 732 men
+Toulouse Air Base: 294 men
+Cazaux Air Base: 672 men
+Merignac Air Base: 1630 men
+Landes-des-Bussac Air Base: 334 men
+Montdidier Air Base: 1100 men
+Bretigny Air Base: 352 men
+South Paris Air Base: 392 men
+Villacoublay Air Base: 238 men
+Pontoise Air Base: 262 men
+Beaumont  Air Base: 372 men
+Creil Air Base: 178 men
+Aulnay sous Bois Air Base: 232 men
+Monchy-Breton Air Base: 558 men
+Bethune Air Base: 1032 men
+Arnhem Air Base: 1330 men
+Enschede Air Base: 722 men
+Zeist Air Base: 304 men
+Utrecht Air Base: 1120 men
+Amsterdam Air Base: 702 men
+Cagliari Air Base: 528 men
+Sa Zeppara Air Base: 1230 men
+Ozieri Air Base: 682 men
+Alghero Air Base: 962 men
+Castelvetrano Air Base: 692 men
+Naples Air Base: 578 men
+Woensdrecht Air Base: 702 men
+Braunschweig Air Base: 1480 men
+Burg Air Base: 662 men
+Celle Air Base: 772 men
+Doeberitz Air Base: 170 men
+Garz Air Base: 642 men
+Giebelstadt Air Base: 140 men
+Grossenbrode Air Base: 782 men
+Hangelar Air Base: 672 men
+Husum Air Base: 672 men
+Ingolstadt Air Base: 588 men
+Jena Air Base: 2120 men
+Jever Air Base: 876 men
+Langenhagen Air Base: 538 men
+Lobau Air Base: 588 men
+Luebeck Air Base: 248 men
+Moenchen-Gladbach Air Base: 856 men
+Neuruppin Air Base: 394 men
+Niebuell Air Base: 468 men
+Nordholz Air Base: 672 men
+Oldenburg Air Base: 812 men
+Parchim Air Base: 538 men
+Schleswig Air Base: 538 men
+Stade Air Base: 782 men
+Stendal Air Base: 538 men
+Stuttgart Air Base: 692 men
+Vechta Air Base: 538 men
+Wunstorf Air Base: 140 men
+Insterburg Air Base: 538 men
+Viterbo Air Base: 8 men
+Veszprem Hun. Air Base: 120 men
+Budaors Hun. Air Base: 10 men
+Athens Air Base: 2150 men
+Eleusis Air Base: 2490 men
+Riga Air Base: 1460 men
+Siauliai Air Base: 70 men
+Orel Air Base: 43 men
+Bryansk Air Base: 1648 men
+Belgorod Air Base: 48 men
+Kharkov Air Base: 1305 men
+Poltava Air Base: 23 men
+Kerch Air Base: 760 men
+Dnepropetrovsk Air Base: 36 men
+Stalino Air Base: 1400 men
+Krivoi Rog Air Base: 198 men
+Zaporozhye Air Base: 16 men
+Kremenchug Air Base: 1390 men
+Sevastopol Air Base: 722 men
+Smolensk Air Base: 8 men
+Kirovograd Air Base: 320 men
+Dno Air Base: 70 men
+Karachev Air Base: 38 men
+Dubrovka Air Base: 28 men
+Tamanskaya Air Base: 20 men
+Anapa Air Base: 10 men
+Genichesk Air Base: 58 men
+Konstantinovka Air Base: 372 men
+Chuguev Air Base: 106 men
+Staraya Russa Air Base: 360 men
+Korovye Selo Air Base: 168 men
+Pskov Air Base: 16 men
+Valuets Air Base: 15 men
+Vitebsk Air Base: 220 men
+Tiraspol Air Base: 16 men
+Lebedin Air Base: 135 men
+Bogodukhov Air Base: 1513 men
+Mariupol Air Base: 605 men
+Sofia Air Base: 598 men
+Aix-en-Provence Air Base: 548 men
+Total: 73359 men
+__________________________________________
+
+2 damaged AFVs were returned to the pool
+
+AIR BASE REPLACEMENT DETAILS
+20mm Flak38 AA Gun: 12 men
+88mm Flak18 AA Gun: 9 men
+20mm Quad Flak38 AA Gun: 24 men
+37mm Flak36 AA Gun: 7 men
+Support: 120 men
+Air Support: 690 men
+Total: 862 men
+
+Rheine Air Base: 812 men
+Bryansk Air Base: 30 men
+Smolensk Air Base: 10 men
+Mariupol Air Base: 10 men
+Total: 862 men
+2 x Stug IIIg exported from Germany to Finland as Stug IIIg
+4 x 75mm Pak40 AT Gun exported from Germany to Finland as 75mm K/40 AT Gun
+2 x 88mm Flak18 AA Gun exported from Germany to Finland as 88mm ItK/37 AA Gun
+2 x SdKfz-250 Chassis exported from Germany to Rumania as Armored Recon Section
+3 x 50mm Pak38 AT Gun exported from Germany to Rumania as 50mm Pak38 AT Gun
+2 x 105mm leFH18 Howitzer exported from Germany to Rumania as 105mm leFH18 Howitzer
+2 x 50mm Pak38 AT Gun exported from Germany to Hungary as 50mm 38M AT Gun
+1 x 105mm leFH18 Howitzer exported from Germany to Slovakia as 105mm leFH18 Howitzer
+2 x 75mm Pak40 AT Gun exported from Germany to Rumania as 75mm Pak40 AT Gun
+1 x 105mm leFH18 Howitzer exported from Germany to Finland as 105mm H/33 Howitzer
+3 x 20mm Flak38 AA Gun exported from Germany to Rumania as 20mm Flak38 AA Gun
+2 x 20mm Flak38 AA Gun exported from Germany to Finland as 20mm ItK/38 AA Gun
+6 x SM.82 Airframe exported from Italy to Germany as SM.82 (GE)
+2 x Bf 109G-6 exported from Germany to Finland as Bf 109G-6 (FI)
+13 x Bf 109G-6 exported from Germany to Italy as Bf 109G-6 (IT)
+3 x Hs 129B exported from Germany to Rumania as Hs 129B (RU)
+2 x Ju 87D-3 exported from Germany to Rumania as Ju 87D (RU)
+2 x Ju 88A-4 exported from Germany to Rumania as Ju 88A-4 (RU)
+1 x Bf 110G-4 exported from Germany to Rumania as Bf 110G-4 (RU)
+1 x Fw 189A exported from Germany to Hungary as Fw 189A (HU)
+3 x Ju 87D-3 exported from Germany to Hungary as Ju 87D (HU)
+3 x Ju 88A-4 exported from Germany to Hungary as Ju 88A-4 (HU)
+2 x Me 210Ca-1 (HU) exported from Hungary to Germany as Me 210Ca-1
+2 x Bf 109G-2 exported from Germany to Bulgaria as Bf 109G-2 Strela (BU)
+
+Air Operation Group 'Fliegerfuehrer 1' RENAMED TO '3. Flieger-Division'
+'1.(H)/AufklarGr 12 (Fw 189A)' RENAMED TO '11.(H)/AufklarGr 12 (Fw 189A)'
+'II./4th Hun. Bomb Group (Ju 86K-2 (HU))' RENAMED TO '2./102nd Hun. Bomb Sqn (Ju 88A-4 (HU))'
+
+
+Stab/KG 3 (Ju 88A-4) TRANSFERRED (rdy 3, dam 0, res 0) from MAP to Axis Reserves
+I./KG 3 (Ju 88A-4) TRANSFERRED (rdy 30, dam 0, res 0) from MAP to Axis Reserves
+II./KG 27 (He 111H-11) TRANSFERRED (rdy 30, dam 0, res 0) from MAP to Axis Reserves
+
+Air Operational Group JGr 25 Wing ARRIVED
+6th Rum. Infantry Division ARRIVED to 'Soviet Union Garrison' (men 14505, guns 207, afv 0)
+665th Mot. Heavy Panzerjaeger Battalion ARRIVED (men 580, guns 0, afv 0)
+666th Mot. Heavy Panzerjaeger Battalion ARRIVED (men 580, guns 0, afv 0)
+667th Mot. Heavy Panzerjaeger Battalion ARRIVED (men 580, guns 0, afv 0)
+110th LW Flak Regiment ARRIVED (men 4044, guns 137, afv 0)
+209th Ital. Coastal Division ARRIVED to 'Axis Reserves' (men 2036, guns 0, afv 0)
+JGr 25 (Bf 109G-6) ARRIVED to the Axis Reserves
+JGr 50 (Bf 109G-6) ARRIVED to the Axis Reserves
+LXVIII zbV Corps TRANSFERRED (men 4540, guns 0, afv 0) from Axis Reserves to Axis Reserves
+1st Panzer Division TRANSFERRED (men 15297, guns 122, afv 166) from Axis Reserves to Axis Reserves
+36th Pz Rgt Flammpanzer Company TRANSFERRED (men 301, guns 0, afv 7) from Axis Reserves to Axis Reserves
+24th Pz Rgt Flammpanzer Battalion TRANSFERRED (men 443, guns 0, afv 35) from Axis Reserves to Axis Reserves
+1st Mountain Division TRANSFERRED (men 8584, guns 89, afv 0) from Axis Reserves to Axis Reserves
+100th Jaeger Division TRANSFERRED (men 6503, guns 78, afv 0) from Axis Reserves to Axis Reserves
+389th Infantry Division TRANSFERRED (men 8224, guns 77, afv 0) from Axis Reserves to Axis Reserves
+11th SS Panzergrenadier Division TRANSFERRED (men 14881, guns 205, afv 31) from Axis Reserves to Axis Reserves
+I/53rd LW Mot. Mixed Flak Battalion TRANSFERRED (men 1408, guns 42, afv 0) from Axis Reserves to Axis Reserves
+2nd Fallschirmjaeger Division TRANSFERRED (men 7860, guns 144, afv 4) from Axis Reserves to Axis Reserves
+13th SS Mountain Division TRANSFERRED (men 4369, guns 52, afv 4) from Axis Reserves to Axis Reserves
+355th Infantry Division TRANSFERRED (men 12053, guns 130, afv 0) from Axis Reserves to Axis Reserves
+356th Infantry Division TRANSFERRED (men 8207, guns 76, afv 0) from Axis Reserves to Axis Reserves
+715th Static Infantry Division TRANSFERRED (men 13076, guns 54, afv 0) from Axis Reserves to Axis Reserves
+Netherlands SS Grenadier Regiment TRANSFERRED (men 4066, guns 35, afv 0) from Axis Reserves to Axis Reserves
+279th Stug Battalion TRANSFERRED (men 404, guns 0, afv 31) from Axis Reserves to Axis Reserves
+280th Stug Battalion TRANSFERRED (men 416, guns 0, afv 29) from Axis Reserves to Axis Reserves
+325th Stug Battalion TRANSFERRED (men 200, guns 0, afv 15) from Axis Reserves to Axis Reserves
+8th Construction Battalion TRANSFERRED (men 1152, guns 0, afv 0) from Axis Reserves to Axis Reserves
+17th Coastal Fortress Construction Battalion TRANSFERRED (men 1141, guns 0, afv 0) from Axis Reserves to Axis Reserves
+Rhodos Sturm Division TRANSFERRED (men 12672, guns 240, afv 53) from Axis Reserves to Axis Reserves
+117th Jaeger Division TRANSFERRED (men 12573, guns 147, afv 0) from Axis Reserves to Axis Reserves
+118th Jaeger Division TRANSFERRED (men 12573, guns 147, afv 0) from Axis Reserves to Axis Reserves
+II/12th LW Mot. Mixed Flak Battalion TRANSFERRED (men 1408, guns 42, afv 0) from Axis Reserves to Axis Reserves
+92nd Mot. Sturm Brigade TRANSFERRED (men 1928, guns 32, afv 14) from Axis Reserves to Axis Reserves
+201st Stug Battalion TRANSFERRED (men 400, guns 0, afv 30) from Axis Reserves to Axis Reserves
+
+
+******************* LIGHT WEAPONS POOL UPGRADES ************************
+38 x 7.92mm MG34 Machine Gun in pool upgrade to 7.92mm MG42 Machine Gun
+145 x Panzer Pioneer Squad 40 in pool upgrade to Panzer Pioneer Squad 43
+80 x Rifle Squad 39 in pool upgrade to Rifle Squad 42
+************************************************************************
+ 
+Finland: I./KG 30 air group upgraded planes from Ju 88A to Ju 88A-4
+Finland: 1.(H)/AufklarGr 32 air group upgraded planes from Hs 126B-1 to Fw 189A
+Finland: 13.(Z)/JG 5 air group upgraded planes from Bf 110F-2 to Bf 110G-2
+Angers School Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+5th Rum. Infantry Division (Rum) upgrades to 42b Rum. Infantry Division TOE 
+Finland: LeLv 42 air group changed planes from Blenheim IV (FI) to Ju 88A-4 (FI)
+Finland: LeLv 44 air group changed planes from Do 17Z-2 (FI) to Ju 88A-4 (FI)
+Norway: 1./KuFlGr 406 air group changed planes from He 115 to Ju 88C-6a
+Finland: Stab/JG 5 air group changed planes from Bf 109E-7 to Bf 109G-6
+Finland: 14.(Jabo)/JG 5 air group changed planes from Fw 190A-5 to Bf 109G-6
+Finland: Stab/ZG 76 air group changed planes from Bf 110F-2 to Me 410A
+Finland: I./StG 5 air group changed planes from Ju 87D-1 to Fw 190G
+AIRCRAFT SWAP SUMMARY
+  4 x Bf 109E-7 to 4 x Bf 109G-6
+  12 x Fw 190A-5 to 12 x Bf 109G-6
+  9 x He 115 to 9 x Ju 88C-6a
+  8 x Do 17Z-2 (FI) to 8 x Ju 88A-4 (FI)
+  9 x Blenheim IV (FI) to 9 x Ju 88A-4 (FI)
+  3 x Bf 110F-2 to 3 x Me 410A
+  30 x Ju 87D-1 to 30 x Fw 190G
+58 x Panzer IV Chassis (Oct 1937) upgraded to Panzer IVh (May 1943) in pool (Ger)
+39 x Panzer V Chassis (Mar 1943) upgraded to Panther D (Apr 1943) in pool (Ger)
+3 x Panzer IV Chassis (Oct 1937) upgraded to Sturmpanzer IV (Apr 1943) in pool (Ger)
+12 x Panzer III Chassis (May 1937) upgraded to StuH42 (Mar 1943) in pool (Ger)
+21 x Panzer 38(t) Chassis (Jan 1938) upgraded to Marder III (Jul 1943) in pool (Ger)
+5 x Panzer IV Chassis (Oct 1937) upgraded to Nashorn (Mar 1943) in pool (Ger)
+10 x Panzer II Chassis (May 1936) upgraded to Wespe (Mar 1943) in pool (Ger)
+6 x Panzer IV Chassis (Oct 1937) upgraded to Hummel (Feb 1943) in pool (Ger)
+12 x SdKfz-251 Chassis (Jun 1939) upgraded to Panzer Pioneer Squad 43 (Feb 1943) in pool (Ger)
+6 x SdKfz-4 Chassis (Mar 1943) upgraded to SdKfz-4 Panzerwerfer (Apr 1943) in pool (Ger)
+6 x M15 Chassis (Dec 1942) upgraded to M-15/42 (Jan 1943) in pool (Ita)
+1 x M15 Chassis (Dec 1942) upgraded to Semovente M43 da 105 (Mar 1943) in pool (Ita)
+2 x M15 Chassis (Dec 1942) upgraded to Semovente M42 da 75 (Mar 1943) in pool (Ita)
+1 x T-60 M1941 (Oct 1941) upgraded to TACAM T-60 (Feb 1943) in pool (Rum)
+2 x Turan Chassis (Oct 1941) upgraded to Turan II (Feb 1943) in pool (Hun)
+1 x Turan Chassis (Oct 1941) upgraded to Zrinyi II (May 1943) in pool (Hun)
+3 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/16 Halftrack (Jan 1943) in pool (Ger)
+12 x Panzer III Chassis (May 1937) upgraded to Panzer IIIn (Jul 1942) in pool (Ger)
+13 x Panzer VI Chassis (Aug 1942) upgraded to Tiger (Sep 1942) in pool (Ger)
+65 x Panzer III Chassis (May 1937) upgraded to Stug IIIg (Dec 1942) in pool (Ger)
+4 x SdKfz-250 Chassis (Dec 1941) upgraded to SdKfz-250/7 Mortar Carrier (Jan 1942) in pool (Ger)
+3 x SdKfz-231 Chassis (Jan 1936) upgraded to SdKfz-233 Armored Car (Dec 1942) in pool (Ger)
+7 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/9 Halftrack (Sep 1942) in pool (Ger)
+7 x SdKfz-7 Chassis (Apr 1940) upgraded to SdKfz-7/2 Flak36 (Jun 1942) in pool (Ger)
+8 x SdKfz-250 Chassis (Dec 1941) upgraded to SdKfz-250/9 Halftrack (Nov 1942) in pool (Ger)
+12 x SdKfz-250 Chassis (Dec 1941) upgraded to Panzer Recon Section 42 (Mar 1942) in pool (Ger)
+15 x 37mm Pak36 AT Gun (Mar 1936) upgraded to 160mm Stielgranate AT Gun (Feb 1942) in pool (Ger)
+3 x SdKfz-221 Chassis (Jan 1935) upgraded to SdKfz-223B Armored Car (Jul 1942) in pool (Ger)
+5 x SdKfz-231 Chassis (Jan 1936) upgraded to SdKfz-232B Armored Car (Jul 1942) in pool (Ger)
+4 x SdKfz-250 Chassis (Dec 1941) upgraded to SdKfz-250/10 Halftrack (Apr 1942) in pool (Ger)
+3 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/10 Halftrack (Apr 1940) in pool (Ger)
+12 x SdKfz-251 Chassis (Jun 1939) upgraded to Panzer Grenadier Squad 40 (May 1940) in pool (Ger)
+4 x SdKfz-7 Chassis (Apr 1940) upgraded to SdKfz-7/1 Flak38 (Apr 1940) in pool (Ger)
+2 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/2 Mortar Carrier (Jun 1939) in pool (Ger)
+28 x He 111 Airframe (Jan 1937) upgraded to He 111H-16/R1 (Nov 1942) in pool (Ger)
+134 x Bf 109 Airframe (Jan 1937) upgraded to Bf 109G-6 (May 1943) in pool (Ger)
+6 x Bf 109 Airframe (Jan 1937) upgraded to Bf 109G-4/R3 (Feb 1943) in pool (Ger)
+14 x Bf 110 Airframe (Aug 1940) upgraded to Bf 110G-2 (Jan 1943) in pool (Ger)
+17 x Bf 110 Airframe (Aug 1940) upgraded to Bf 110G-4 (Jan 1943) in pool (Ger)
+6 x Do 217 Airframe (Mar 1941) upgraded to Do 217N (Mar 1943) in pool (Ger)
+4 x Fw 189 Airframe (Sep 1940) upgraded to Fw 189A (Sep 1940) in pool (Ger)
+14 x Fw 190 Airframe (Sep 1941) upgraded to Fw 190F (Jan 1943) in pool (Ger)
+17 x Fw 190 Airframe (Sep 1941) upgraded to Fw 190G (Oct 1942) in pool (Ger)
+9 x Go 244 Airframe (May 1941) upgraded to Go 244 (Jun 1941) in pool (Ger)
+33 x Fw 190 Airframe (Sep 1941) upgraded to Fw 190A-6 (Jul 1943) in pool (Ger)
+10 x He 177 Airframe (Dec 1941) upgraded to He 177A-3 (Nov 1942) in pool (Ger)
+8 x Hs 129 Airframe (Nov 1941) upgraded to Hs 129B (Nov 1941) in pool (Ger)
+18 x Ju 52 Airframe (Sep 1939) upgraded to Ju 52/3m (Sep 1939) in pool (Ger)
+4 x Ju 87 Airframe (Sep 1939) upgraded to Ju 87G (Apr 1943) in pool (Ger)
+46 x Ju 88 Airframe (Sep 1939) upgraded to Ju 88A-4 (Oct 1941) in pool (Ger)
+13 x Ju 88 Airframe (Sep 1939) upgraded to Ju 88C-6 (Feb 1942) in pool (Ger)
+1 x Ju 290 Airframe (Dec 1942) upgraded to Ju 290A (Jan 1943) in pool (Ger)
+4 x Me 323 Airframe (Aug 1941) upgraded to Me 323 (Sep 1941) in pool (Ger)
+19 x Me 210 Airframe (Jul 1941) upgraded to Me 410A (Jan 1943) in pool (Ger)
+9 x Ju 88A-4 (Oct 1941) upgraded to Ju 88A-17 (Jun 1943) in pool (Ger)
+25 x Ju 87 Airframe (Sep 1939) upgraded to Ju 87D-5 (Jul 1943) in pool (Ger)
+13 x Do 217 Airframe (Mar 1941) upgraded to Do 217K-M (Jan 1943) in pool (Ger)
+2 x Ar 196 Airframe (Aug 1939) upgraded to Ar 196A-3 (Oct 1940) in pool (Ger)
+2 x BV 138 Airframe (Mar 1941) upgraded to BV 138C (Mar 1941) in pool (Ger)
+3 x Ca.314 Airframe (Feb 1942) upgraded to Ca.314C (Feb 1942) in pool (Ita)
+1 x Ca.314 Airframe (Feb 1942) upgraded to Ca.314A (Mar 1942) in pool (Ita)
+3 x G.55 Airframe (Apr 1943) upgraded to G.55/I Centauro (May 1943) in pool (Ita)
+11 x C.200 Airframe (Apr 1941) upgraded to C.202CB Folgore (Oct 1942) in pool (Ita)
+7 x C.200 Airframe (Apr 1941) upgraded to C.205V Veltro (Jan 1943) in pool (Ita)
+2 x Re.2000 Airframe (Aug 1940) upgraded to Re.2001CB Falco II (Jun 1942) in pool (Ita)
+2 x Re.2000 Airframe (Aug 1940) upgraded to Re.2002 Ariete (Feb 1942) in pool (Ita)
+3 x Re.2000 Airframe (Aug 1940) upgraded to Re.2005 Sagittario (Apr 1943) in pool (Ita)
+2 x SM.79 Sparviero (Oct 1936) upgraded to SM.79bis Sparviero (Jul 1943) in pool (Ita)
+4 x BR.20M Cicogna (Feb 1940) upgraded to BR.20 Rcn (Jan 1943) in pool (Ita)
+2 x Z.501 Airframe (Jan 1935) upgraded to Z.501 Gabbiano (Jan 1935) in pool (Ita)
+2 x RS.14 Airframe (Sep 1941) upgraded to RS.14B (Oct 1941) in pool (Ita)
+7 x CR.42 Airframe (Jan 1939) upgraded to CR.42AS Falco (Jan 1939) in pool (Ita)
+1 x IAR 39 Airframe (Aug 1939) upgraded to IAR 39 (Aug 1939) in pool (Rum)
+3 x IAR 80 Airframe (Oct 1940) upgraded to IAR 81C (Jun 1943) in pool (Rum)
+1 x JRS 79B1 Airframe (Mar 1943) upgraded to JRS 79B1 (Apr 1943) in pool (Rum)
+4 x Me 210 Airframe (Jan 1943) upgraded to Me 210Ca-1 (HU) (Feb 1943) in pool (Hun)
+3 x Re.2000 Airframe (Jul 1942) upgraded to Re.2000 Heja II (Aug 1942) in pool (Hun)
+10 x He 111H-6 (Jun 1941) upgraded to He 111H-6 T (Dec 1942) in pool (Ger)
+3 x Bf 110 Airframe (Aug 1940) upgraded to Bf 110G-3 (Jun 1942) in pool (Ger)
+3 x Bf 109G-2 (May 1942) upgraded to Bf 109G-2/R2 (Jan 1943) in pool (Ger)
+5 x Ju 88C-6 (Feb 1942) upgraded to Ju 88C-6a (Feb 1942) in pool (Ger)
+
+ 
+Berlin sends 480 trucks to Breslau
+Berlin sends 432 trucks to Tilsit
+Berlin sends 389 trucks to Liegnitz
+Berlin sends 350 trucks to Oppeln
+Berlin sends 315 trucks to Suwalki
+Berlin sends 284 trucks to St Poelten
+Berlin sends 255 trucks to Wiener Neustadt
+Berlin sends 230 trucks to Beuthen
+Berlin sends 207 trucks to Ploesti
+Berlin sends 186 trucks to Iasi
+Berlin sends 168 trucks to Timisoara
+Berlin sends 151 trucks to Galati
+Berlin sends 136 trucks to Craiova
+Berlin sends 122 trucks to Bucharest
+Berlin sends 110 trucks to Brasov
+Berlin sends 99 trucks to Pitesti
+Berlin sends 89 trucks to Buzau
+Berlin sends 80 trucks to Focsani
+Berlin sends 72 trucks to Suceava
+Berlin sends 65 trucks to Tulcea
+Berlin sends 58 trucks to Barlad
+Berlin sends 53 trucks to Sibiu
+Berlin sends 47 trucks to Arad
+Berlin sends 43 trucks to Dorohoi
+Berlin sends 38 trucks to Dacia Romana
+Berlin sends 35 trucks to Campina
+Berlin sends 31 trucks to Resita
+Berlin sends 28 trucks to Budapest
+Berlin sends 25 trucks to Kassa
+Berlin sends 23 trucks to Miskolc
+Berlin sends 20 trucks to Nyiregyhasa
+Berlin sends 18 trucks to Debrecen
+Berlin sends 17 trucks to Szolnok
+Berlin sends 15 trucks to Szeged
+Berlin sends 13 trucks to Szombathely
+Berlin sends 12 trucks to Gyor
+Berlin sends 11 trucks to Kaposvar
+Leipzig sends 1 trucks to Satu Mare
+Leipzig sends 100 trucks to Krakow
+Leipzig sends 1 trucks to Biala Podlaska
+Leipzig sends 1 trucks to Zamosc
+Leipzig sends 1 trucks to Orel
+Leipzig sends 1 trucks to Kaunas
+Leipzig sends 90 trucks to Daugavpils
+Leipzig sends 81 trucks to Gomel
+Leipzig sends 1 trucks to Brest Litovsk
+Leipzig sends 1 trucks to Mogilev
+Leipzig sends 1 trucks to Lvov
+Leipzig sends 1 trucks to Stalino
+Leipzig sends 1 trucks to Siauliai
+Leipzig sends 1 trucks to Kovel
+Leipzig sends 72 trucks to Proskurov
+Leipzig sends 1 trucks to Shepetovka
+Leipzig sends 65 trucks to Belgrade
+Hamburg sends 100 trucks to Leipzig
+Leipzig sends 25 trucks to Jelgava
+Hamburg sends 1 trucks to Steyr
+Hamburg sends 90 trucks to Rome
+Hamburg sends 1 trucks to Floridsdorf
+Hamburg sends 1 trucks to Vitebsk
+Hamburg sends 1 trucks to Smolensk
+Hamburg sends 1 trucks to Bryansk
+Hamburg sends 1 trucks to Pskov
+Hamburg sends 1 trucks to Kiev
+Hamburg sends 1 trucks to Kharkov
+Hamburg sends 1 trucks to Torkovichi
+Hamburg sends 1 trucks to Nevel
+Hamburg sends 1 trucks to Krasnogvardeysk
+Hamburg sends 1 trucks to Gorlovka
+Hamburg sends 1 trucks to Idritsa
+Hamburg sends 1 trucks to Soltsy
+Hamburg sends 1 trucks to Volot
+Hamburg sends 1 trucks to Spas-Demensk
+Hamburg sends 1 trucks to Papasnaya
+Hamburg sends 1 trucks to Vorozhba
+Hamburg sends 1 trucks to Lopan
+Hamburg sends 1 trucks to Kramatorskaya
+Danzig sends 1 trucks to Warsaw
+Danzig sends 1 trucks to Bialystok
+Danzig sends 1 trucks to Dnepropetrovsk
+Danzig sends 1 trucks to Kobrin
+Danzig sends 1 trucks to Beltsy
+Danzig sends 1 trucks to Sambor
+Stettin sends 1 trucks to Minsk
+Hannover sends 1 trucks to NE Berlin
+Hannover sends 1 trucks to Rathenow
+Hannover sends 1 trucks to Regensburg
+Magdeburg sends 1 trucks to Cottbus
+Magdeburg sends 1 trucks to Graz
+Magdeburg sends 1 trucks to Frankfurt an der Oder
+Magdeburg sends 1 trucks to Bautzen
+Magdeburg sends 1 trucks to Bruck an der Mur
+Magdeburg sends 1 trucks to Bydgoszcz
+Magdeburg sends 1 trucks to Lodz
+Magdeburg sends 1 trucks to Poznan
+Magdeburg sends 1 trucks to Lublin
+Magdeburg sends 1 trucks to Radom
+Magdeburg sends 1 trucks to Nowy Sacz
+Vienna sends 480 trucks to Pecs
+Vienna sends 432 trucks to Cluj
+Vienna sends 389 trucks to Oradea
+Vienna sends 350 trucks to Targu Mures
+Vienna sends 315 trucks to Katowice
+Vienna sends 284 trucks to Wyszkow
+Vienna sends 255 trucks to Chelm
+Vienna sends 230 trucks to Rzeszow
+Vienna sends 207 trucks to Vilnius
+Vienna sends 186 trucks to Grodno
+Vienna sends 168 trucks to Zhitomir
+Vienna sends 151 trucks to Poltava
+Vienna sends 136 trucks to Cherkassy
+Vienna sends 122 trucks to Vinnitsa
+Vienna sends 110 trucks to Chernovtsy
+Vienna sends 99 trucks to Zaporozhye
+Vienna sends 89 trucks to Kishinev
+Vienna sends 80 trucks to Kremenchug
+Vienna sends 72 trucks to Baranovichi
+Vienna sends 65 trucks to Fastov
+Vienna sends 58 trucks to Orsha
+Vienna sends 53 trucks to Valga
+Vienna sends 47 trucks to Tarnopol
+Vienna sends 43 trucks to Rovno
+Vienna sends 38 trucks to Stanislav
+Vienna sends 35 trucks to Kirovograd
+Vienna sends 31 trucks to Sonda
+Vienna sends 28 trucks to Chernigov
+Vienna sends 25 trucks to Melitopol
+Vienna sends 23 trucks to Tiraspol
+Vienna sends 20 trucks to Bessarabskaya
+Vienna sends 18 trucks to Nikopol (e)
+Chemnitz sends 1 trucks to Bratislava
+Hannover sends 1 trucks to Chemnitz
+Stralsund sends 10 trucks to Ostrava
+Bremerhaven sends 50 trucks to Magdeburg
+Magdeburg sends 12 trucks to Linz
+Magdeburg sends 9 trucks to Brunn
+Bremerhaven sends 45 trucks to Munich
+Bremerhaven sends 1 trucks to Dresden
+Bremerhaven sends 1 trucks to Brandenburg
+Bremerhaven sends 1 trucks to W Berlin
+Bremerhaven sends 1 trucks to Halle
+Bremerhaven sends 1 trucks to Boehlen
+Bremerhaven sends 1 trucks to Plauen
+Bremerhaven sends 1 trucks to Zossen
+Bremerhaven sends 1 trucks to Ruhland
+Bremerhaven sends 1 trucks to Ingolstadt
+Bremerhaven sends 1 trucks to Zeitz
+Bremerhaven sends 1 trucks to Muecheln
+Bremerhaven sends 40 trucks to Bologna
+Bremerhaven sends 1 trucks to Pilsen
+Bordeaux sends 1 trucks to Hannover
+Bordeaux sends 1 trucks to Nuremberg
+Bordeaux sends 1 trucks to Kassel
+Bordeaux sends 1 trucks to Braunschweig
+Bordeaux sends 1 trucks to Schweinfurt
+Bordeaux sends 1 trucks to Darmstadt
+Bordeaux sends 1 trucks to Erfurt
+Bordeaux sends 1 trucks to Halberstadt
+Bordeaux sends 1 trucks to Lehrte
+Bordeaux sends 15 trucks to Brussels
+Bordeaux sends 13 trucks to Lyon
+Bordeaux sends 12 trucks to Paris
+Bordeaux sends 11 trucks to Rouen
+0 trucks have been lost during the campaign due to unit movement
+Zaporozhye ships 1223 supply from pool to Lopan
+Kramatorskaya ships 1175 supply from pool to Kramatorskaya
+Bologna ships 454 supply from pool to Florence
+Rome ships 375 supply from pool to Orvieto
+Rome ships 650 supply from pool to Perugia
+Rome ships 375 supply from pool to Siena
+Bologna ships 350 supply from pool to Ravenna
+Bologna ships 325 supply from pool to Lucca
+Bologna ships 375 supply from pool to Bologna
+Genoa ships 400 supply from pool to Carrara
+Bologna ships 300 supply from pool to Reggio Emilia
+Milan ships 300 supply from pool to Parma
+Milan ships 600 supply from pool to Piacenza
+Bologna ships 475 supply from pool to Verona
+Milan ships 442 supply from pool to Bergamo
+Rome ships 650 supply from pool to Rieti
+Rome ships 525 supply from pool to Frosinone
+Rome ships 350 supply from pool to Littoria
+Bologna ships 606 supply from pool to Pisa
+Palermo ships 500 supply from pool to Baglio Rizzo
+Naples ships 500 supply from pool to Capaccio
+Naples ships 500 supply from pool to Montecorvino
+Naples ships 750 supply from pool to Grazzanise
+Naples ships 750 supply from pool to Aquino
+Rome ships 500 supply from pool to Cisterna di Littoria
+Rome ships 750 supply from pool to Guidonia
+Rome ships 500 supply from pool to Casale
+Rome ships 750 supply from pool to Marcigliana
+Rome ships 750 supply from pool to Tarquinia
+Bologna ships 750 supply from pool to Pontedera
+Milan ships 1000 supply from pool to Venegono
+Milan ships 750 supply from pool to Lonate Pozzolo
+Rome ships 750 supply from pool to Pomezia
+Brussels ships 750 supply from pool to Ghent
+Lille ships 250 supply from pool to Bruges
+Brussels ships 250 supply from pool to Charleroi
+Lille ships 1000 supply from pool to Ypres
+Lille ships 1000 supply from pool to Chievres
+Brussels ships 500 supply from pool to Nivelles
+Brussels ships 500 supply from pool to Schaffen
+Lyon ships 197 supply from pool to Valence
+Lyon ships 750 supply from pool to Lyon
+Darmstadt ships 59 supply from pool to Haguenau
+Paris ships 231 supply from pool to St Dizier
+Paris ships 500 supply from pool to Etampes
+Paris ships 1000 supply from pool to South Paris
+Paris ships 1000 supply from pool to Aulnay sous Bois
+Paris ships 750 supply from pool to Pontoise
+Rennes ships 82 supply from pool to Laval
+Rouen ships 500 supply from pool to Evreux
+Lille ships 1000 supply from pool to Bethune
+Lille ships 500 supply from pool to Fort Rouge
+Lille ships 500 supply from pool to Monchy-Breton
+Rouen ships 500 supply from pool to Tricqueville
+Rouen ships 1000 supply from pool to Tille
+Paris ships 1000 supply from pool to Creil
+Paris ships 500 supply from pool to Poissy
+Paris ships 750 supply from pool to Beaumont 
+Rouen ships 228 supply from pool to Conches
+Paris ships 750 supply from pool to Villacoublay
+Rennes ships 500 supply from pool to Gael
+Paris ships 1000 supply from pool to Bretigny
+Bordeaux ships 92 supply from pool to Corme-Ecluse
+Bordeaux ships 750 supply from pool to Cazaux
+Bordeaux ships 500 supply from pool to Landes-des-Bussac
+Bologna ships 500 supply from pool to Poggio Renatico
+Rome ships 500 supply from pool to Fabrica di Roma
+Rome ships 1000 supply from pool to Ciampino
+Naples ships 500 supply from pool to Piazzolla di Nola
+Palermo ships 500 supply from pool to Torrazzo
+Naples ships 500 supply from pool to Capua
+Milan ships 750 supply from pool to Oleggio
+Brussels ships 500 supply from pool to Waasmunster
+Brussels ships 500 supply from pool to Goetsenhoven
+Brussels ships 1000 supply from pool to Beauvechain/Le Culot
+Lyon ships 750 supply from pool to Loyettes
+Lyon ships 500 supply from pool to Francheville
+Paris ships 500 supply from pool to Dammartin-en-Goele
+Paris ships 500 supply from pool to Ballancourt-sur-Esonne
+Tarnopol ships 15 supply from pool to Hranivka
+ 
+Berlin ships 1001 freight to Hamburg
+Berlin ships 2000 freight to Stettin
+Berlin ships 1627 freight to Rostock
+Essen ships 1334 freight to Bremen
+Frankfurt ships 2204 freight to Kiel
+Berlin ships 3434 freight to Flensburg
+Berlin ships 2516 freight to Constanta
+Wyszkow ships 846 freight to Gdynia *****
+Vienna ships 1022 freight to Genichesk
+Venice ships 8000 freight to Naples *****
+Bremen ships 2174 freight to Antwerp
+Constanta ships 5882 freight to Novorossiysk !!!!!
+Gdynia ships 5388 freight to Riga !!!!!
+Constanta ships 4412 freight to Mariupol !!!!!
+Venice ships 6685 freight to Marseille *****
+Prague ships 922 freight to Danzig
+Frankfurt ships 1601 freight to Memel
+Biala Podlaska ships 1163 freight to Koenigsberg *****
+Biala Podlaska ships 3629 freight to Pillau *****
+Biala Podlaska ships 889 freight to Elbing *****
+Berlin ships 4445 freight to Wismar
+Berlin ships 948 freight to Luebeck
+Grodno ships 1924 freight to Heiligenbeil *****
+Venice ships 4522 freight to Genoa *****
+Vienna ships 2524 freight to Taranto
+Vienna ships 2223 freight to Bari
+Essen ships 8000 freight to Rotterdam
+Biala Podlaska ships 2194 freight to Hel *****
+Berlin ships 2241 freight to Tallinn
+Frankfurt ships 699 freight to Kerch
+Beltsy ships 551 freight to Nikolaev *****
+Beltsy ships 481 freight to Kherson *****
+Bessarabskaya ships 1755 freight to Odessa *****
+Berlin ships 815 freight to Sevastopol
+Berlin ships 1933 freight to Ventspils
+Vienna ships 1594 freight to Parnu
+Vienna ships 1878 freight to Liepaja
+Zamosc ships 1418 freight to Osipenko *****
+Berlin ships 1014 freight to Yevpatoriya
+Vienna ships 1237 freight to Feodosiya
+Berlin ships 1806 freight to Piraeus
+Essen ships 1291 freight to Thessaloniki
+Milan ships 3126 freight to Split
+Vienna ships 1636 freight to Bordeaux
+Milan ships 4325 freight to Cherbourg
+Berlin ships 7548 freight to Stralsund
+Essen ships 572 freight to Bremerhaven
+Berlin ships 7620 freight to Sassnitz
+Berlin ships 3293 freight to Sylt
+Essen ships 3306 freight to Brunsbuettel
+Vorozhba ships 2298 freight to Orel *****
+Lopan ships 2410 freight to Kharkov *****
+Gorlovka ships 4000 freight to Stalino *****
+Pushkin ships 6 freight to Krasnogvardeysk *****
+Minsk ships 1861 freight to Orel *****
+Zaporozhye ships 2878 freight to Kharkov *****
+Gorlovka ships 4000 freight to Stalino *****
+Pushkin ships 4 freight to Krasnogvardeysk *****
+Minsk ships 1717 freight to Orel *****
+Zaporozhye ships 2740 freight to Kharkov *****
+Papasnaya ships 4000 freight to Stalino *****
+Minsk ships 1370 freight to Orel *****
+Zaporozhye ships 2615 freight to Kharkov *****
+Papasnaya ships 4000 freight to Stalino *****
+Minsk ships 1279 freight to Orel *****
+Zaporozhye ships 2501 freight to Kharkov *****
+Mariupol ships 4000 freight to Stalino
+Boehlen ships 2000 freight to Leipzig *****
+Frankfurt ships 1037 freight to Munich
+Essen ships 2000 freight to Cologne
+Berlin ships 2000 freight to Rathenow
+Vienna ships 2000 freight to Wiener Neustadt
+Vienna ships 1819 freight to Steyr
+Prague ships 1266 freight to Regensburg
+Venice ships 2581 freight to Naples *****
+Milan ships 2000 freight to Bologna
+Tiraspol ships 3884 freight to Ploesti *****
+Vienna ships 4000 freight to Floridsdorf
+Bremen ships 962 freight to Antwerp
+Tallinn ships 3817 freight to Novgorod
+Gdynia ships 4000 freight to Riga !!!!!
+Tilsit ships 16986 freight to Vitebsk *****
+Mogilev ships 3774 freight to Smolensk *****
+Gomel ships 2740 freight to Bryansk *****
+Daugavpils ships 3982 freight to Staraya Russa *****
+Valga ships 4000 freight to Pskov *****
+Cherkassy ships 962 freight to Sumy *****
+Fastov ships 2000 freight to Kiev *****
+Odessa ships 7378 freight to Poltava
+Berlin ships 5812 freight to Mariupol
+Sonda ships 108 freight to Chudovo *****
+Sonda ships 4000 freight to Pushkin *****
+Orsha ships 1667 freight to Nevel *****
+Zaporozhye ships 2000 freight to Gorlovka *****
+Mogilev ships 1076 freight to Idritsa *****
+Daugavpils ships 41 freight to Soltsy *****
+Parnu ships 4000 freight to Volot
+Orsha ships 1419 freight to Novosokolniki *****
+Minsk ships 1794 freight to Spas-Demensk *****
+Melitopol ships 3739 freight to Papasnaya *****
+Chernigov ships 1361 freight to Vorozhba *****
+Osipenko ships 2186 freight to Lopan
+Melitopol ships 1015 freight to Kramatorskaya *****
+Vienna ships 739 freight to Marseille
+Argentan ships 2000 freight to Paris *****
+Berlin ships 501 freight to Hamburg
+Suwalki ships 592 freight to Danzig *****
+Berlin ships 1000 freight to Stettin
+Essen ships 642 freight to Hannover
+Berlin ships 1000 freight to Magdeburg
+Prague ships 1000 freight to Chemnitz
+Prague ships 776 freight to Breslau
+Prague ships 592 freight to Nuremberg
+Berlin ships 245 freight to Memel
+Wyszkow ships 758 freight to Koenigsberg *****
+Prague ships 1000 freight to Dresden
+Brest Litovsk ships 1521 freight to Pillau *****
+Berlin ships 1000 freight to Cottbus
+Vienna ships 700 freight to Oppeln
+Vienna ships 834 freight to Linz
+Vienna ships 715 freight to Graz
+Berlin ships 672 freight to Rostock
+Berlin ships 332 freight to Brandenburg
+Bialystok ships 715 freight to Elbing *****
+Essen ships 741 freight to Bremen
+Frankfurt ships 910 freight to Kassel
+Frankfurt ships 4000 freight to Stuttgart
+Essen ships 1527 freight to Kiel
+Berlin ships 667 freight to Braunschweig
+Berlin ships 1000 freight to NE Berlin
+Berlin ships 1000 freight to W Berlin
+Berlin ships 556 freight to Wismar
+Berlin ships 1000 freight to Halle
+Berlin ships 4000 freight to Boehlen
+Prague ships 788 freight to Plauen
+Prague ships 909 freight to Bautzen
+Berlin ships 1000 freight to Ruhland
+Vienna ships 1000 freight to St Poelten
+Vienna ships 650 freight to Beuthen
+Frankfurt ships 541 freight to Ingolstadt
+Frankfurt ships 4000 freight to Schweinfurt
+Frankfurt ships 1000 freight to Darmstadt
+Berlin ships 3810 freight to Zeitz
+Frankfurt ships 776 freight to Erfurt
+Berlin ships 953 freight to Muecheln
+Berlin ships 752 freight to Halberstadt
+Essen ships 1000 freight to Dortmund
+Berlin ships 626 freight to Lehrte
+Berlin ships 501 freight to Luebeck
+Berlin ships 1527 freight to Flensburg
+Vienna ships 834 freight to Bruck an der Mur
+Berlin ships 374 freight to Heiligenbeil
+Milan ships 4000 freight to Genoa
+Cosenza ships 4000 freight to Rome *****
+Essen ships 724 freight to Taranto
+Vienna ships 761 freight to Bari
+Milan ships 1000 freight to Verona
+Beltsy ships 1000 freight to Iasi *****
+Vienna ships 2454 freight to Timisoara
+Beltsy ships 4000 freight to Bucharest *****
+Bessarabskaya ships 4000 freight to Constanta *****
+Zagreb ships 3449 freight to Brasov *****
+Zagreb ships 3150 freight to Pitesti *****
+Berlin ships 1082 freight to Sibiu
+Zamosc ships 1667 freight to Dacia Romana *****
+Berlin ships 901 freight to Campina
+Drvar ships 4000 freight to Resita *****
+Vienna ships 788 freight to Budapest
+Sambor ships 1000 freight to Kassa *****
+Vienna ships 685 freight to Miskolc
+Zamosc ships 3201 freight to Nyiregyhasa *****
+Vienna ships 4000 freight to Szombathely
+Vienna ships 991 freight to Gyor
+Zagreb ships 3031 freight to Cluj *****
+Sambor ships 3253 freight to Oradea *****
+Sambor ships 685 freight to Sighet *****
+Zagreb ships 1991 freight to Targu Mures *****
+Vienna ships 1000 freight to Bratislava
+Zagreb ships 2703 freight to Sofia *****
+Vienna ships 827 freight to Ostrava
+Vienna ships 1000 freight to Brunn
+Prague ships 926 freight to Pilsen
+Utrecht ships 1000 freight to Brussels *****
+Essen ships 1000 freight to Rotterdam
+Berlin ships 532 freight to Bydgoszcz
+Biala Podlaska ships 1000 freight to Warsaw *****
+Biala Podlaska ships 642 freight to Lodz *****
+Vienna ships 572 freight to Katowice
+Berlin ships 747 freight to Poznan
+Chelm ships 266 freight to Lublin *****
+Biala Podlaska ships 3150 freight to Nowy Sacz *****
+Biala Podlaska ships 382 freight to Gdynia *****
+Kobrin ships 1270 freight to Hel *****
+Sambor ships 1000 freight to Rzeszow *****
+Grodno ships 2396 freight to Tallinn *****
+Grodno ships 1000 freight to Kaunas *****
+Biala Podlaska ships 484 freight to Daugavpils *****
+Grodno ships 1000 freight to Vilnius *****
+Biala Podlaska ships 667 freight to Minsk *****
+Bialystok ships 338 freight to Gomel *****
+Bialystok ships 363 freight to Mogilev *****
+Dorohoi ships 402 freight to Zhitomir *****
+Chelm ships 1000 freight to Lvov *****
+Zamosc ships 1115 freight to Cherkassy *****
+Vienna ships 741 freight to Vinnitsa
+Vienna ships 440 freight to Kerch
+Chelm ships 169 freight to Dnepropetrovsk *****
+Zamosc ships 2340 freight to Chernovtsy *****
+Zamosc ships 761 freight to Krivoi Rog *****
+Chelm ships 151 freight to Zaporozhye *****
+Zamosc ships 224 freight to Kishinev *****
+Vienna ships 134 freight to Nikolaev
+Berlin ships 92 freight to Kherson
+Berlin ships 122 freight to Odessa
+Zamosc ships 196 freight to Kremenchug *****
+Vienna ships 433 freight to Sevastopol
+Kobrin ships 918 freight to Baranovichi *****
+Zamosc ships 335 freight to Fastov *****
+Brest Litovsk ships 1588 freight to Ventspils *****
+Bialystok ships 1569 freight to Parnu *****
+Zamosc ships 291 freight to Orsha *****
+Kobrin ships 1289 freight to Valga *****
+Wyszkow ships 342 freight to Siauliai *****
+Chelm ships 932 freight to Kovel *****
+Zamosc ships 553 freight to Tarnopol *****
+Zamosc ships 2238 freight to Rovno *****
+Brest Litovsk ships 435 freight to Proskurov *****
+Brest Litovsk ships 527 freight to Stanislav *****
+Brest Litovsk ships 196 freight to Kirovograd *****
+Vienna ships 540 freight to Sonda
+Berlin ships 599 freight to Chernigov
+Vienna ships 687 freight to Liepaja
+Berlin ships 194 freight to Jelgava
+Bessarabskaya ships 98 freight to Melitopol *****
+Vienna ships 389 freight to Osipenko
+Berlin ships 338 freight to Yevpatoriya
+Frankfurt ships 288 freight to Feodosiya
+Milan ships 292 freight to Genichesk
+Vienna ships 185 freight to Tiraspol
+Brest Litovsk ships 173 freight to Nikopol (e) *****
+Brest Litovsk ships 520 freight to Shepetovka *****
+Milan ships 734 freight to Piraeus
+Berlin ships 697 freight to Thessaloniki
+Dubrovnik ships 4000 freight to Sarajevo *****
+Essen ships 565 freight to Split
+Avignon ships 4000 freight to Lyon *****
+Limoges ships 1000 freight to Dijon *****
+Essen ships 1419 freight to Bordeaux
+Argentan ships 4000 freight to Rouen *****
+Nantes ships 4000 freight to Rennes *****
+Amiens ships 1000 freight to Lille *****
+Essen ships 1504 freight to Cherbourg
+Berlin ships 368 freight to Stralsund
+Essen ships 278 freight to Bremerhaven
+Zagreb ships 715 freight to Suwalki *****
+Berlin ships 2501 freight to Sassnitz
+Berlin ships 1487 freight to Sylt
+Essen ships 208 freight to Brunsbuettel
+Prague ships 761 freight to Galati
+Zagreb ships 1710 freight to Craiova *****
+Vienna ships 1003 freight to Buzau
+Vienna ships 891 freight to Focsani
+Vienna ships 121 freight to Suceava
+Foggia ships 623 freight to Tulcea *****
+Zagreb ships 1109 freight to Barlad *****
+Zagreb ships 2340 freight to Arad *****
+Berlin ships 690 freight to Dorohoi
+Vienna ships 247 freight to Debrecen
+Zagreb ships 350 freight to Szolnok *****
+Zagreb ships 2667 freight to Szeged *****
+Vienna ships 288 freight to Kaposvar
+Vienna ships 2248 freight to Pecs
+Dubrovnik ships 1227 freight to Ungvar *****
+Venice ships 74 freight to Wyszkow *****
+Berlin ships 127 freight to Biala Podlaska
+Vienna ships 130 freight to Chelm
+Venice ships 85 freight to Zamosc *****
+Vienna ships 111 freight to Brest Litovsk
+Prague ships 107 freight to Grodno
+Vienna ships 112 freight to Bialystok
+Berlin ships 916 freight to Kobrin
+Vienna ships 93 freight to Beltsy
+Vienna ships 154 freight to Sambor
+Venice ships 73 freight to Bessarabskaya *****
+ 
+Rail points BEFORE moving resources:  61,722,950
+
+***** City to City *****
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY NEED 114,336
+TOTAL SUPPLY STORE 2,549,193 (POOL 1,400,938)
+AFTER
+TOTAL SUPPLY NEED 37,133
+TOTAL SUPPLY STORE 2,471,960 (POOL 1,400,938)
+
++++++ MOVING FUEL +++++
+TOTAL FUEL NEED 128,724
+TOTAL FUEL STORE 215,905 (POOL 432,379)
+AFTER
+TOTAL FUEL NEED 74,958
+TOTAL FUEL STORE 162,122 (POOL 432,379)
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE NEED 2,926,145
+TOTAL RESOURCE STORE 9,233 (POOL 11,000,000)
+AFTER
+TOTAL RESOURCE NEED 2,925,770
+TOTAL RESOURCE STORE 8,858 (POOL 11,000,000)
+
++++++ MOVING OIL +++++
+TOTAL OIL NEED 227,550
+TOTAL OIL STORE 68,150 (POOL 40,000)
+AFTER
+TOTAL OIL NEED 165,075
+TOTAL OIL STORE 5,675 (POOL 40,000)
+
+***** City to Pool *****
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY STORE 2,471,960 (POOL 1,400,938)
+AFTER
+TOTAL SUPPLY STORE 384,038 (POOL 3,488,986)
+
++++++ MOVING FUEL +++++
+TOTAL FUEL STORE 161,110 (POOL 432,379)
+AFTER
+TOTAL FUEL STORE 32,821 (POOL 560,689)
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE STORE 8,858 (POOL 11,000,000)
+AFTER
+TOTAL RESOURCE STORE 1,393 (POOL 11,007,465)
+
++++++ MOVING OIL +++++
+TOTAL OIL STORE 5,675 (POOL 40,000)
+AFTER
+TOTAL OIL STORE 0 (POOL 45,675)
+
+***** Pool to City *****
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY NEED 37,133
+AFTER
+TOTAL SUPPLY NEED 6,236
+
++++++ MOVING FUEL +++++
+TOTAL FUEL NEED 75,053
+AFTER
+TOTAL FUEL NEED 3,660
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE NEED 2,925,770
+AFTER
+TOTAL RESOURCE NEED 0
+
++++++ MOVING OIL +++++
+TOTAL OIL NEED 165,075
+AFTER
+TOTAL OIL NEED 119,400
+Rail points AFTER moving resources:  39,281,531
+Rome ships 662 supply from pool to Florence
+Rome ships 87 supply from pool to Rome
+Taranto ships 712 supply from pool to Lecce
+Taranto ships 693 supply from pool to Brindisi
+Rome ships 487 supply from pool to Orvieto
+Rome ships 718 supply from pool to Perugia
+Rome ships 425 supply from pool to Siena
+Bologna ships 450 supply from pool to Ravenna
+Bologna ships 462 supply from pool to Lucca
+Bologna ships 631 supply from pool to Bologna
+Verona ships 308 supply from pool to Reggio Emilia
+Milan ships 700 supply from pool to Piacenza
+Verona ships 635 supply from pool to Verona
+Bologna ships 27 supply from pool to Verona
+Milan ships 418 supply from pool to Bergamo
+Rome ships 725 supply from pool to Rieti
+Bologna ships 592 supply from pool to Pisa
+Palermo ships 500 supply from pool to Licata
+Taranto ships 750 supply from pool to Grottaglie
+Naples ships 500 supply from pool to Capaccio
+Naples ships 500 supply from pool to Montecorvino
+Naples ships 750 supply from pool to Grazzanise
+Naples ships 750 supply from pool to Aquino
+Rome ships 462 supply from pool to Anzio
+Rome ships 500 supply from pool to Cisterna di Littoria
+Rome ships 475 supply from pool to Lido di Roma
+Rome ships 750 supply from pool to Guidonia
+Rome ships 500 supply from pool to Casale
+Bologna ships 750 supply from pool to Pontedera
+Milan ships 500 supply from pool to Caselle
+Milan ships 750 supply from pool to Lonate Pozzolo
+Milan ships 1000 supply from pool to Airasca
+Rome ships 750 supply from pool to Pomezia
+Milan ships 750 supply from pool to Ghedi
+Bari ships 750 supply from pool to Gioia del Colle
+Brussels ships 443 supply from pool to Ghent
+Lille ships 918 supply from pool to Bruges
+Lille ships 412 supply from pool to Ostend
+Brussels ships 387 supply from pool to Charleroi
+Lille ships 500 supply from pool to Coxyde
+Antwerp ships 750 supply from pool to Maldegem
+Lille ships 1000 supply from pool to Chievres
+Brussels ships 500 supply from pool to Nivelles
+Brussels ships 1000 supply from pool to St Trond
+Brussels ships 750 supply from pool to Ursel
+Brussels ships 1000 supply from pool to Florennes
+Brussels ships 500 supply from pool to Schaffen
+Rotterdam ships 956 supply from pool to Breda
+Rotterdam ships 625 supply from pool to The Hague
+Rotterdam ships 175 supply from pool to Amsterdam
+Antwerp ships 750 supply from pool to Woensdrecht
+Cologne ships 500 supply from pool to Venlo
+Lyon ships 731 supply from pool to Valence
+Lyon ships 281 supply from pool to Lyon
+Dijon ships 371 supply from pool to Dole
+Darmstadt ships 675 supply from pool to Haguenau
+Paris ships 993 supply from pool to St Dizier
+Paris ships 468 supply from pool to Reims
+Paris ships 462 supply from pool to Etampes
+Paris ships 731 supply from pool to Chartres
+Paris ships 712 supply from pool to South Paris
+Paris ships 975 supply from pool to Aulnay sous Bois
+Paris ships 968 supply from pool to Dreux
+Paris ships 718 supply from pool to Pontoise
+Rennes ships 481 supply from pool to Laval
+Rouen ships 475 supply from pool to Evreux
+Rennes ships 956 supply from pool to Vannes
+Lille ships 950 supply from pool to Bethune
+Rennes ships 450 supply from pool to St Brieuc
+Lille ships 431 supply from pool to Calais
+Lille ships 500 supply from pool to Fort Rouge
+Lille ships 500 supply from pool to Longuenesse
+Paris ships 1000 supply from pool to Creil
+Paris ships 375 supply from pool to Poissy
+Rouen ships 521 supply from pool to Conches
+Rennes ships 500 supply from pool to Gael
+Rouen ships 1000 supply from pool to St Andre-de-l'Eure
+Bordeaux ships 407 supply from pool to Corme-Ecluse
+Bordeaux ships 1000 supply from pool to Chateau-Bernard
+Bordeaux ships 750 supply from pool to Cazaux
+Bordeaux ships 1000 supply from pool to Merignac
+Marseille ships 750 supply from pool to Cogolin
+Marseille ships 500 supply from pool to Cuers
+Cologne ships 425 supply from pool to Luxembourg
+Bologna ships 500 supply from pool to Poggio Renatico
+Rome ships 500 supply from pool to Fabrica di Roma
+Rome ships 1000 supply from pool to Ciampino
+Milan ships 750 supply from pool to Bettola
+Bologna ships 500 supply from pool to Metato
+Naples ships 500 supply from pool to Capua
+Brussels ships 500 supply from pool to Waasmunster
+Brussels ships 1000 supply from pool to Beauvechain/Le Culot
+Rotterdam ships 750 supply from pool to Valkenburg
+Marseille ships 500 supply from pool to Marignane
+Lyon ships 500 supply from pool to Francheville
+Marseille ships 250 supply from pool to Airfield #1
+Tarnopol ships 15 supply from pool to Hranivka
+Lehrte ships 247 resource to Hamburg
+Bydgoszcz ships 160 resource to Danzig
+Ulm ships 71 resource to Nuremberg
+Oppeln ships 37 resource to Koenigsberg
+Ruhland ships 160 resource to Dresden
+Essen ships 38 resource to Rostock
+W Berlin ships 80 resource to Brandenburg
+Essen ships 43 resource to Bremerhaven
+Essen ships 31 resource to Kiel
+Essen ships 37 resource to Bergedorf
+Waren ships 80 resource to Wismar
+Essen ships 37 resource to Wedel
+Komotau ships 80 resource to Freiberg
+Boehlen ships 80 resource to Doebeln
+Essen ships 90 resource to Plauen
+Aussig ships 80 resource to Bautzen
+Lehrte ships 67 resource to Harburg
+Ostrava ships 80 resource to Troppau
+Komotau ships 80 resource to Saaz
+Olomouc ships 80 resource to Zwittau
+Miskolc ships 27 resource to St Poelten
+Szombathely ships 120 resource to Wiener Neustadt
+Knittelfeld ships 80 resource to Steyr
+Ulm ships 80 resource to Ingolstadt
+Pilsen ships 154 resource to Regensburg
+Mulhouse ships 80 resource to Freiburg
+Zeitz ships 80 resource to Zwickau
+Wiesbaden ships 80 resource to Mainz
+Wiesbaden ships 80 resource to Limburg
+Gelsenkirchen ships 80 resource to Duelmen
+Dortmund ships 360 resource to Hamm
+Bochum ships 80 resource to Muenster
+Krefeld ships 240 resource to Kleve
+Lehrte ships 80 resource to Nienhagen
+Waren ships 73 resource to Luebeck
+Ulm ships 80 resource to Aalen
+Knittelfeld ships 240 resource to Bruck an der Mur
+Trieste ships 80 resource to Fiume
+Mestre ships 76 resource to Florence
+Bari ships 80 resource to Taranto
+Bari ships 120 resource to Cosenza
+Bari ships 80 resource to Brindisi
+Pescara ships 69 resource to Salerno
+Pescara ships 72 resource to Foggia
+Pescara ships 62 resource to San Severo
+Mestre ships 33 resource to Ancona
+Savona ships 56 resource to Livorno
+Mestre ships 51 resource to Ravenna
+Mestre ships 182 resource to Bologna
+Bergamo ships 74 resource to Modena
+Mestre ships 120 resource to Ferrara
+Mestre ships 80 resource to Rovigo
+Bergamo ships 120 resource to Parma
+Mestre ships 80 resource to Padova
+Bergamo ships 80 resource to Mantova
+Mestre ships 80 resource to Udine
+Bergamo ships 80 resource to Piacenza
+Mestre ships 160 resource to Verona
+Mestre ships 80 resource to Bassano del Grappa
+Bergamo ships 160 resource to Brescia
+Savona ships 120 resource to Cuneo
+Bergamo ships 80 resource to Lovere
+Alessandria ships 80 resource to Vercelli
+Mestre ships 21 resource to Frosinone
+Mestre ships 54 resource to Forli
+Mestre ships 80 resource to Venice
+Anina ships 80 resource to Timisoara
+Craiova ships 44 resource to Constanta
+Craiova ships 80 resource to Pitesti
+Craiova ships 33 resource to Buzau
+Craiova ships 29 resource to Focsani
+Craiova ships 79 resource to Dacia Romana
+Craiova ships 62 resource to Gaesti
+Craiova ships 79 resource to Brazi
+Craiova ships 110 resource to Campina
+Craiova ships 80 resource to Zimnicea
+Anina ships 80 resource to Resita
+Debrecen ships 80 resource to Oradea
+Craiova ships 17 resource to Plovdiv
+Craiova ships 17 resource to Petrich
+Craiova ships 15 resource to Vrattsa
+Waldenburg ships 120 resource to Pardubitz
+Charleroi ships 80 resource to Namur
+Maastricht ships 80 resource to Hasselt
+Ghent ships 240 resource to Brussels
+Krefeld ships 80 resource to Eindhoven
+Krefeld ships 80 resource to Nijmegen
+Krefeld ships 80 resource to s-Hertogenbosch
+Krefeld ships 80 resource to Arnhem
+Emmen ships 80 resource to Deventer
+Eupen ships 51 resource to Dordrecht
+Emmen ships 80 resource to Zwolle
+Krefeld ships 80 resource to Utrecht
+Roubaix ships 86 resource to Rotterdam
+Roubaix ships 56 resource to The Hague
+Emmen ships 120 resource to Amsterdam
+Emmen ships 80 resource to Haarlem
+Krakow ships 80 resource to Nowy Sacz
+Krakow ships 73 resource to Rzeszow
+Lublin ships 80 resource to Brest Litovsk
+Lopan ships 8 resource to Belgorod
+Chernigov ships 43 resource to Zhitomir
+Lublin ships 178 resource to Lvov
+Gorlovka ships 60 resource to Kharkov
+Kirovograd ships 80 resource to Cherkassy
+Kirovograd ships 27 resource to Vinnitsa
+Nikopol (e) ships 201 resource to Dnepropetrovsk
+Nyiregyhasa ships 21 resource to Chernovtsy
+Makeevka ships 120 resource to Stalino
+Nikopol (e) ships 120 resource to Zaporozhye
+Makeevka ships 80 resource to Mariupol
+Kirovograd ships 24 resource to Kishinev
+Krivoi Rog ships 65 resource to Odessa
+Kerch ships 72 resource to Sevastopol
+Kirovograd ships 41 resource to Fastov
+Lublin ships 36 resource to Tarnopol
+Kirovograd ships 22 resource to Proskurov
+Nyiregyhasa ships 28 resource to Stanislav
+Krivoi Rog ships 13 resource to Chernigov
+Makeevka ships 66 resource to Osipenko
+Kerch ships 71 resource to Yevpatoriya
+Kerch ships 80 resource to Feodosiya
+Nikopol (e) ships 42 resource to Genichesk
+Craiova ships 12 resource to Piraeus
+Craiova ships 23 resource to Athens
+Craiova ships 21 resource to Thessaloniki
+Zenica ships 80 resource to Sarajevo
+Turnu Severin ships 36 resource to Pristina
+Anina ships 63 resource to Kragujevac
+Pecs ships 80 resource to Osijek
+Zenica ships 80 resource to Tuzla
+Cannes ships 80 resource to Nice
+Avignon ships 120 resource to Marseille
+Montauban ships 160 resource to Toulouse
+Digoin ships 240 resource to Lyon
+Montceau les Mines ships 120 resource to Bourg-en-Bresse
+Montlucon ships 80 resource to Clermont-Ferrand
+Mulhouse ships 120 resource to Besancon
+Castres ships 120 resource to Bayonne
+Limoges ships 80 resource to Perigueux
+Montlucon ships 120 resource to Moulins
+Limoges ships 120 resource to Bordeaux
+Montlucon ships 120 resource to Vierzon
+Angers ships 120 resource to Poitiers
+Pontoise ships 120 resource to Fontainebleau
+Angers ships 120 resource to Tours
+Pontoise ships 120 resource to Orleans
+Charleville ships 120 resource to Epernay
+Charleville ships 120 resource to Reims
+Charleville ships 120 resource to Sedan
+Pontoise ships 80 resource to South Paris
+Pontoise ships 360 resource to Paris
+Pontoise ships 120 resource to Dreux
+Valenciennes ships 80 resource to Noyon
+Hesdin ships 200 resource to Amiens
+Vire ships 80 resource to Argentan
+Le Havre ships 120 resource to Rouen
+Vire ships 160 resource to Rennes
+Hesdin ships 120 resource to Abbeville
+Vire ships 80 resource to Avranches
+Vire ships 80 resource to Granville
+Hesdin ships 80 resource to Calais
+Vire ships 80 resource to Cherbourg
+18479 trucks were repaired and returned to the logistics pool
+
+
+
+BUILDING GENERIC GROUND ELEMENTS
+68 x 50mm Pak38 AT Gun [50mm Pak38 L/60 Gun] built (GE)
+134 x 75mm Pak40 AT Gun [75mm Pak40 L/46 Gun] built (GE)
+30 x 88mm Pak43 AT Gun [88mm Pak43 L/71 Gun] built (GE)
+110 x 20mm Flak38 AA Gun [20mm Flak38 L/65 Gun] built (GE)
+53 x 88mm Flak18 AA Gun [88mm Flak18 L/56 Gun] built (GE)
+31 x 75mm leIG18 Infantry Gun [75mm leIG18 L/11 Gun] built (GE)
+18 x 150mm sIG33 Infantry Gun [150mm sIG33 L/11 Gun] built (GE)
+190 x 81mm GrW 34 Mortar [81mm GrW 34 Mortar] built (GE)
+71 x 120mm GrW 42 Mortar [120mm GrW 42 Mortar] built (GE)
+19 x 28mm sPzB41 AT Gun [28mm sPzB41 L/45 Gun] built (GE)
+8 x 105mm sK18 Field Gun [105mm sK18 L/52 Gun] built (GE)
+13 x 20mm Quad Flak38 AA Gun [20mm Quad Flak38 L/65 Gun] built (GE)
+22 x 150mm sFH18 Howitzer [150mm sFH18 L/30 Howitzer] built (GE)
+25 x 150mm Nebelwerfer [150mm NbW 41 Rocket] built (GE)
+1 x 210mm M18 Howitzer [210mm M18 L/31 Howitzer] built (GE)
+1 x 170mm K18 Field Gun [170mm K18 L/50 Gun] built (GE)
+60 x 37mm Flak36 AA Gun [37mm Flak36 L/57 Gun] built (GE)
+17 x 105mm Flak39 AA Gun [105mm Flak39 L/63 Gun] built (GE)
+2 x 81mm Krh/35 Mortar [81mm Krh/35 Mortar] built (FI)
+3 x 120mm Krh/40 Mortar [120mm Krh/40 Mortar] built (FI)
+8 x 20mm L-39 AT-Rifle [20mm L-39 AT-Rifle] built (FI)
+8 x 210mm Nebelwerfer [210mm NbW 42 Rocket] built (GE)
+8 x 300mm Nebelwerfer [300mm NbW 42 Rocket] built (GE)
+5 x 75mm M34 Mountain Gun [75mm M34 L/20.8 Gun] built (IT)
+10 x 47mm M35 AT Gun [47mm M35 L/32 Gun] built (IT)
+15 x 20mm M35 AA Gun [20mm M35 L/65 Gun] built (IT)
+3 x 90mm M41C AA Gun [90mm M41C L/53 Gun] built (IT)
+26 x 81mm M35 Mortar [81mm M35 Mortar] built (IT)
+2 x 105mm M18 Howitzer [105mm M18 L/14 Howitzer] built (IT)
+2 x 149mm M37 Howitzer [149mm M37 L/20.4 Howitzer] built (IT)
+1 x 210mm M35 Howitzer [210mm M35 L/23.8 Howitzer] built (IT)
+1 x 75mm M37 AT Gun [75mm M37 L/34.3 Gun] built (IT)
+2 x 149mm M01 Field Gun [149mm M01 L/38.7 Gun] built (IT)
+4 x 20mm Oerlikon AA Gun [20mm Oerlikon L/70 Gun] built (RU)
+4 x 47mm Breda AT Gun [47mm M35 L/32 Gun] built (RU)
+2 x 81mm Mle 27/31 Mortar [81mm Mle 27/31 Mortar] built (RU)
+6 x 120mm Resita Mortar [120mm Resita M42 Mortar] built (RU)
+3 x 37mm M1939 AA Gun [37mm M1939 L/57 Gun] built (RU)
+1 x 25mm Mle 1939 AA Gun [25mm Mle 1939 L/60 Gun] built (RU)
+4 x 75mm Mle 1897 Field Gun [75mm Mle 1897 L/36 Gun] built (RU)
+6 x 100mm vz.30 Howitzer [100mm vz.30 L/25 Howitzer] built (RU)
+1 x 75mm Vickers AA Gun [75mm Vickers L/43 Gun] built (RU)
+4 x 81mm 36/39M Mortar [81mm Mle 27/31 Mortar] built (HU)
+2 x 8mm Schwarzlose AAMG [8mm Schwarzlose M7 AAMG] built (HU)
+1 x 80mm 29M AA Gun [80mm 29M L/50 Gun] built (HU)
+2 x 149mm vz.25 Howitzer [149mm vz.25 L/18 Howitzer] built (HU)
+2 x 105mm 37M Howitzer [105mm FH18 L/25 Howitzer] built (HU)
+2 x 75mm 15M Mountain Gun [75mm vz.15 L/15 Gun] built (HU)
+5 x 81mm vz.36 Mortar [81mm vz.36 Mortar] built (SL)
+4 x 20mm vz.36 AA Gun [20mm vz.36 L/70 Gun] built (SL)
+7 x 128mm Flak40 AA Gun [128mm Flak40 L/61 Gun] built (GE)
+8 x 40mm 40M AT Gun [40mm 40/41M L/51 Gun] built (HU)
+5 x 75mm GebG36 Mountain Gun [75mm GebG36 L/19.5 Gun] built (GE)
+1 x 75mm M37 Field Gun [75mm M37 L/32 Gun] built (IT)
+1 x 47mm M35 Infantry Gun [47mm M35 L/32 Gun] built (IT)
+2 x 47mm M1936 AT Gun [47mm Mle 1936 L/44 Gun] built (RU)
+2 x 47mm M35 Infantry Gun [47mm M35 L/32 Gun] built (RU)
+60 x 105mm leFH18M Howitzer [105mm FH18M L/31 Howitzer] built (GE)
+5 x 7.62mm ItKk/31 Twin AAMG [7.62mm ItKk/31 Twin AAMG] built (FI)
+
+LOW OIL in Harburg for 19 x FUEL (92 %) Need: 9500, City: 8800, Pool 5000
+NO OIL in Pardubitz for 8 x FUEL Need: 4000, City: 0, Pool 5000
+LOW OIL in Mestre for 8 x FUEL (15 %) Need: 4000, City: 600, Pool 5000
+LOW OIL in Trieste for 8 x FUEL (58 %) Need: 4000, City: 2325, Pool 5000
+LOW OIL in Budapest for 7 x FUEL (23 %) Need: 3500, City: 825, Pool 5000
+LOW OIL in Livorno for 6 x FUEL (15 %) Need: 3000, City: 450, Pool 5000
+LOW OIL in Bratislava for 6 x FUEL (15 %) Need: 3000, City: 450, Pool 5000
+LOW OIL in Brunsbuettel for 6 x FUEL (15 %) Need: 3000, City: 450, Pool 5000
+NO OIL in Rotterdam for 6 x FUEL Need: 3000, City: 0, Pool 5000
+LOW OIL in Krems for 6 x FUEL (17 %) Need: 3000, City: 525, Pool 5000
+LOW OIL in Zeitz for 5 x FUEL (15 %) Need: 2500, City: 375, Pool 5000
+LOW OIL in Almasfuzito for 5 x FUEL (15 %) Need: 2500, City: 375, Pool 5000
+LOW OIL in Bari for 5 x FUEL (15 %) Need: 2500, City: 375, Pool 5000
+LOW OIL in Oslebshausen for 5 x FUEL (15 %) Need: 2500, City: 375, Pool 5000
+LOW OIL in Monheim for 5 x FUEL (15 %) Need: 2500, City: 375, Pool 5000
+LOW OIL in Naples for 4 x FUEL (15 %) Need: 2000, City: 300, Pool 5000
+NO OIL in Trieste for 4 x FUEL Need: 2000, City: 0, Pool 5000
+LOW OIL in Fiume for 4 x FUEL (15 %) Need: 2000, City: 300, Pool 5000
+LOW OIL in Lobau for 4 x FUEL (30 %) Need: 2000, City: 600, Pool 5000
+NO OIL in Lobau for 4 x FUEL Need: 2000, City: 0, Pool 5000
+LOW OIL in Floridsdorf for 4 x FUEL (56 %) Need: 2000, City: 1125, Pool 5000
+NO OIL in Brod for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Katowice for 4 x FUEL Need: 2000, City: 0, Pool 5000
+LOW OIL in Veszprem for 4 x FUEL (15 %) Need: 2000, City: 300, Pool 5000
+LOW OIL in Komarom for 4 x FUEL (15 %) Need: 2000, City: 300, Pool 5000
+NO OIL in Debica for 3 x FUEL Need: 1500, City: 0, Pool 5000
+LOW OIL in Jaslo for 3 x FUEL (33 %) Need: 1500, City: 500, Pool 5000
+NO OIL in Bielsko for 3 x FUEL Need: 1500, City: 0, Pool 5000
+LOW OIL in Duesseldorf for 3 x FUEL (15 %) Need: 1500, City: 225, Pool 5000
+LOW OIL in Lehrte for 3 x FUEL (15 %) Need: 1500, City: 225, Pool 5000
+LOW OIL in Emmerich for 3 x FUEL (15 %) Need: 1500, City: 225, Pool 5000
+LOW OIL in Voesendorf for 2 x FUEL (37 %) Need: 1000, City: 375, Pool 5000
+LOW OIL in Schwechat for 2 x FUEL (37 %) Need: 1000, City: 375, Pool 5000
+LOW OIL in Rheine for 2 x FUEL (15 %) Need: 1000, City: 150, Pool 5000
+LOW OIL in La Spezia for 2 x FUEL (15 %) Need: 1000, City: 150, Pool 5000
+NO OIL in Velika Plana for 2 x FUEL Need: 1000, City: 0, Pool 5000
+LOW OIL in Korneuburg for 2 x FUEL (37 %) Need: 1000, City: 375, Pool 5000
+NO OIL in Floridsdorf for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Ostrava for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Ostrava for 2 x FUEL Need: 1000, City: 0, Pool 5000
+LOW OIL in Ruse for 2 x FUEL (15 %) Need: 1000, City: 150, Pool 5000
+LOW OIL in Nemecka for 2 x FUEL (15 %) Need: 1000, City: 150, Pool 5000
+NO OIL in Budapest for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Budapest for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Marseille for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Marseille for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Marseille for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Balaruc for 1 x FUEL Need: 500, City: 0, Pool 5000
+LOW OIL in Alfeld for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in St Poelten for 1 x FUEL (30 %) Need: 500, City: 150, Pool 5000
+NO OIL in St Poelten for 1 x FUEL Need: 500, City: 0, Pool 5000
+LOW OIL in Brilon for 1 x FUEL (30 %) Need: 500, City: 150, Pool 5000
+NO OIL in Brilon for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Krems for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Bordeaux for 1 x FUEL Need: 500, City: 0, Pool 5000
+LOW OIL in Northeim for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Ibbenbueren for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Kamen for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Minden for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Moers for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+NO OIL in St Nazaire for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Rouen for 1 x FUEL Need: 500, City: 0, Pool 5000
+LOW OIL in Stockerau for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Pirna for 1 x FUEL (30 %) Need: 500, City: 150, Pool 5000
+NO OIL in Le Havre for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Pirna for 1 x FUEL Need: 500, City: 0, Pool 5000
+LOW OIL in Ebensee for 1 x FUEL (60 %) Need: 500, City: 300, Pool 5000
+NO OIL in Ebensee for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ebensee for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ebensee for 1 x FUEL Need: 500, City: 0, Pool 5000
+LOW OIL in Melk for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+NO OIL in Pauillac for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ghent for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Antwerp for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Kolin for 1 x FUEL Need: 500, City: 0, Pool 5000
+LOW OIL in Parma for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Munkacs for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Nyiregyhasa for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+LOW OIL in Brasov for 1 x FUEL (15 %) Need: 500, City: 75, Pool 5000
+
+                                                     _______________________FACTORIES___________________________
+                         PRODUCED     CONSUMED       AVAIL      ACTIVE     DAMAGED   LOW RES    NO RES  ISOLATED
+
+      MANPOWER[ 99%]      28,623            -       28,632      28,623           9         -         -         0
+
+     RESOURCES[100%]       3,415K           -        1,366       1,366           0         -         -         0
+
+           OIL[ 99%]         232K           -          233         232           1         -         -         0
+
+HEAVY INDUSTRY[ 99%]         379K       2,658K       1,522       1,519           3         0         0         0
+
+          FUEL[ 67%]          90K         181K         540         473           0       157        67         0
+
+SYNTHETIC FUEL[100%]         106K         424K         212         212           0         0         0         0
+
+     ARMAMENTS[100%]     162,000       40,500          810         810           0         0         0         0
+
+      VEHICLES[100%]       2,050       10,250          205         205           0         0         0         0
+
+GROUND CHASSIS[100%]         505        4,839          505         505           0         0         0         0
+
+      AIRFRAME[100%]         824       22,164          824         824           0         0         0         0
+
+
+
+AXIS ATTRITION LOSSES
+____________________________________________________
+                                 TURN        TOTAL
+       Elements Destroyed         225         225
+        Elements Captured          40          40
+        Elements Disabled         419         419
+         Elements Damaged         196         196
+Support Elements Destroyed         101         101
+Support Elements Captured          13          13
+Support Elements Disabled         172         172
+ Support Elements Damaged          82          82
+            Men Destroyed       3,022       3,022
+             Men Captured         480         480
+             Men Disabled       5,508       5,508
+              Men Damaged       2,590       2,590
+    Support Men Destroyed       2,020       2,020
+     Support Men Captured         260         260
+     Support Men Disabled       3,440       3,440
+      Support Men Damaged       1,640       1,640
+
+LOSSES BY TYPE
+___________________________________________
+Axis Combat_________0
+Axis Retreat________0
+Axis Attrition______3502
+Axis Surrender______0
+Axis Misc.__________346
+Soviet Combat_______0
+Soviet Retreat______0
+Soviet Attrition____0
+Soviet Surrender____0
+Soviet Misc.________0
+
+
+___________________________________________
+File Version: 1.05.02
+
+

@@ -1,0 +1,1515 @@
+{
+ "game_version": "1.05.02",
+ "fresh_game": "WITW+WITE v0.9.62",
+ "saves": {
+  "Save turn 002 7-10-1943 Ax.sav": "a57ec861848e993972eeb4e6a89b255318369341667e805d1e2fb333efae2246",
+  "Save turn 002 7-10-1943 So.sav": "21ce15e6477d52d5e4767a154d5eef72fdd2794ef0390d9117fc226304007b73"
+ },
+ "logs": {
+  "AirExecLog(Turn 001 7-3-1943 So).txt": "84c576537357c406aabc50d7e96a8616921fa1636a784f6a2b62cdd311c85b07",
+  "AirExecLog(Turn 002 7-10-1943 Ax).txt": "f79d573d56aa151c2d5132bf886c389ccd8349f2c4685faec074d869f8804892",
+  "DebugLog(Turn 002 7-10-1943 Ax).txt": "6d8db2b44e1e2be22a22660d61393653aa39ff750509998be7b46e138bb06098",
+  "DebugLog(Turn 002 7-10-1943 So).txt": "580dbf9c0a31b9ab5088db6548de21bda2d2fec04e8607c3822389f6f8581b5a",
+  "EventLog(Turn 002 7-10-1943 Ax).txt": "90e1cb0ba9905ede46b4519037b0e0237a95020b76dbec83a37772d1b2509be7",
+  "EventLog(Turn 002 7-10-1943 So).txt": "bedc6d2b1709b1c93d0f1df8b0847d3a3b0cd4b13f7189b21097759cb8551e88"
+ },
+ "july_10_restored_groups": [
+  {
+   "group": "91st USAAF LB Grp",
+   "planes": 41,
+   "crew": 48,
+   "base": "Bassingbourn"
+  },
+  {
+   "group": "92nd USAAF LB Grp",
+   "planes": 45,
+   "crew": 48,
+   "base": "Alconbury"
+  },
+  {
+   "group": "306th USAAF LB Grp",
+   "planes": 44,
+   "crew": 48,
+   "base": "Podington"
+  },
+  {
+   "group": "381st USAAF LB Grp",
+   "planes": 39,
+   "crew": 48,
+   "base": "Sudbury"
+  },
+  {
+   "group": "No.210 RAF Pa Sqn",
+   "planes": 6,
+   "crew": 9,
+   "base": "Poole"
+  },
+  {
+   "group": "No.333 (NO) Pa Sqn",
+   "planes": 8,
+   "crew": 9,
+   "base": "Leuchars"
+  }
+ ],
+ "axis_opening_on_map_after_axis_logistics": 181,
+ "axis_opening_originally_deployed": 181,
+ "rail_after_first_axis_logistics": [
+  {
+   "name": "FBD - Wehrmachttransportleitung Paris",
+   "tested_label": "FBD - Wehrmachttransportleitung Paris",
+   "xy": [
+    89,
+    199
+   ],
+   "remaining_delay": 0,
+   "capacity": 2124
+  },
+  {
+   "name": "FBD - WVD Italien",
+   "tested_label": "FBD - WVD Italien",
+   "xy": [
+    0,
+    0
+   ],
+   "remaining_delay": 11,
+   "capacity": 2169
+  }
+ ],
+ "british_home_divisions_found": 9,
+ "allied_later_air_groups": [
+  {
+   "id": 3181,
+   "name": "No.3 SAAF FB Sqn",
+   "delay": 4,
+   "model": 545
+  },
+  {
+   "id": 3185,
+   "name": "No.7 SAAF FB Sqn",
+   "delay": 41,
+   "model": 545
+  },
+  {
+   "id": 3186,
+   "name": "No.11 SAAF FB Sqn",
+   "delay": 52,
+   "model": 549
+  },
+  {
+   "id": 3192,
+   "name": "No.33 RAF FB Sqn",
+   "delay": 41,
+   "model": 550
+  },
+  {
+   "id": 3203,
+   "name": "No.74 RAF FB Sqn",
+   "delay": 43,
+   "model": 550
+  },
+  {
+   "id": 3204,
+   "name": "No.80 RAF FB Sqn",
+   "delay": 43,
+   "model": 550
+  },
+  {
+   "id": 3209,
+   "name": "No.92 RAF FB Sqn",
+   "delay": 2,
+   "model": 532
+  },
+  {
+   "id": 3214,
+   "name": "No.112 RAF FB Sqn",
+   "delay": 2,
+   "model": 564
+  },
+  {
+   "id": 3220,
+   "name": "No.127 RAF FB Sqn",
+   "delay": 41,
+   "model": 550
+  },
+  {
+   "id": 3235,
+   "name": "No.169 RAF NF Sqn",
+   "delay": 15,
+   "model": 584
+  },
+  {
+   "id": 3248,
+   "name": "No.208 RAF FB Sqn",
+   "delay": 37,
+   "model": 667
+  },
+  {
+   "id": 3255,
+   "name": "No.237 RAF FB Sqn",
+   "delay": 23,
+   "model": 545
+  },
+  {
+   "id": 3256,
+   "name": "No.238 RAF FB Sqn",
+   "delay": 37,
+   "model": 545
+  },
+  {
+   "id": 3263,
+   "name": "No.250 RAF FB Sqn",
+   "delay": 2,
+   "model": 564
+  },
+  {
+   "id": 3268,
+   "name": "No.260 RAF FB Sqn",
+   "delay": 2,
+   "model": 564
+  },
+  {
+   "id": 3279,
+   "name": "No.309 (PO) RAF FB Sqn",
+   "delay": 41,
+   "model": 569
+  },
+  {
+   "id": 3287,
+   "name": "No.327 (FF) RAF FB Sqn",
+   "delay": 23,
+   "model": 549
+  },
+  {
+   "id": 3288,
+   "name": "No.328 (FF) RAF FB Sqn",
+   "delay": 23,
+   "model": 550
+  },
+  {
+   "id": 3289,
+   "name": "No.329 (FF) RAF FB Sqn",
+   "delay": 29,
+   "model": 549
+  },
+  {
+   "id": 3294,
+   "name": "No.345 (FF) RAF FB Sqn",
+   "delay": 33,
+   "model": 550
+  },
+  {
+   "id": 3309,
+   "name": "No.438 RCAF FB Sqn",
+   "delay": 19,
+   "model": 669
+  },
+  {
+   "id": 3310,
+   "name": "No.439 RCAF FB Sqn",
+   "delay": 23,
+   "model": 669
+  },
+  {
+   "id": 3311,
+   "name": "No.440 RCAF FB Sqn",
+   "delay": 33,
+   "model": 669
+  },
+  {
+   "id": 3312,
+   "name": "No.441 RCAF FB Sqn",
+   "delay": 33,
+   "model": 549
+  },
+  {
+   "id": 3313,
+   "name": "No.442 RCAF FB Sqn",
+   "delay": 33,
+   "model": 549
+  },
+  {
+   "id": 3314,
+   "name": "No.443 RCAF FB Sqn",
+   "delay": 33,
+   "model": 549
+  },
+  {
+   "id": 3315,
+   "name": "No.450 RAAF FB Sqn",
+   "delay": 2,
+   "model": 564
+  },
+  {
+   "id": 3316,
+   "name": "No.451 RAAF FB Sqn",
+   "delay": 41,
+   "model": 545
+  },
+  {
+   "id": 3333,
+   "name": "No.613 RAF FB Sqn",
+   "delay": 2,
+   "model": 569
+  },
+  {
+   "id": 3336,
+   "name": "GC I/4 FFr FB Sqn",
+   "delay": 2,
+   "model": 683
+  },
+  {
+   "id": 3337,
+   "name": "GC I/5 FFr FB Sqn",
+   "delay": 2,
+   "model": 683
+  },
+  {
+   "id": 3341,
+   "name": "GC III/3 FFr FB Sqn",
+   "delay": 19,
+   "model": 683
+  },
+  {
+   "id": 3349,
+   "name": "No.15 SAAF TacB Sqn",
+   "delay": 54,
+   "model": 610
+  },
+  {
+   "id": 3354,
+   "name": "No.30 SAAF LB Sqn",
+   "delay": 57,
+   "model": 618
+  },
+  {
+   "id": 3355,
+   "name": "No.31 SAAF LB Sqn",
+   "delay": 45,
+   "model": 624
+  },
+  {
+   "id": 3356,
+   "name": "No.34 SAAF LB Sqn",
+   "delay": 41,
+   "model": 624
+  },
+  {
+   "id": 3389,
+   "name": "No.128 RAF LB Sqn",
+   "delay": 62,
+   "model": 589
+  },
+  {
+   "id": 3397,
+   "name": "No.162 RAF FB Sqn",
+   "delay": 77,
+   "model": 587
+  },
+  {
+   "id": 3399,
+   "name": "No.171 RAF LB Sqn",
+   "delay": 63,
+   "model": 634
+  },
+  {
+   "id": 3402,
+   "name": "No.189 RAF LB Sqn",
+   "delay": 67,
+   "model": 643
+  },
+  {
+   "id": 3409,
+   "name": "No.223 RAF LB Sqn",
+   "delay": 59,
+   "model": 616
+  },
+  {
+   "id": 3411,
+   "name": "No.227 RAF LB Sqn",
+   "delay": 53,
+   "model": 643
+  },
+  {
+   "id": 3416,
+   "name": "No.346 (FF) RAF LB Sqn",
+   "delay": 45,
+   "model": 638
+  },
+  {
+   "id": 3417,
+   "name": "No.347 (FF) RAF LB Sqn",
+   "delay": 51,
+   "model": 638
+  },
+  {
+   "id": 3430,
+   "name": "No.433 RCAF LB Sqn",
+   "delay": 9,
+   "model": 638
+  },
+  {
+   "id": 3432,
+   "name": "No.454 RAAF LB Sqn",
+   "delay": 53,
+   "model": 616
+  },
+  {
+   "id": 3435,
+   "name": "No.463 RAAF LB Sqn",
+   "delay": 19,
+   "model": 643
+  },
+  {
+   "id": 3436,
+   "name": "No.464 RAAF FB Sqn",
+   "delay": 12,
+   "model": 587
+  },
+  {
+   "id": 3439,
+   "name": "No.487 RNZAF FB Sqn",
+   "delay": 12,
+   "model": 587
+  },
+  {
+   "id": 3441,
+   "name": "No.514 RAF LB Sqn",
+   "delay": 11,
+   "model": 643
+  },
+  {
+   "id": 3442,
+   "name": "No.550 RAF LB Sqn",
+   "delay": 19,
+   "model": 643
+  },
+  {
+   "id": 3443,
+   "name": "No.571 RAF LB Sqn",
+   "delay": 41,
+   "model": 589
+  },
+  {
+   "id": 3444,
+   "name": "No.576 RAF LB Sqn",
+   "delay": 19,
+   "model": 643
+  },
+  {
+   "id": 3445,
+   "name": "No.578 RAF LB Sqn",
+   "delay": 29,
+   "model": 638
+  },
+  {
+   "id": 3446,
+   "name": "No.582 RAF LB Sqn",
+   "delay": 29,
+   "model": 643
+  },
+  {
+   "id": 3451,
+   "name": "No.622 RAF LB Sqn",
+   "delay": 6,
+   "model": 634
+  },
+  {
+   "id": 3452,
+   "name": "No.623 RAF LB Sqn",
+   "delay": 6,
+   "model": 634
+  },
+  {
+   "id": 3453,
+   "name": "No.625 RAF LB Sqn",
+   "delay": 15,
+   "model": 643
+  },
+  {
+   "id": 3454,
+   "name": "No.626 RAF LB Sqn",
+   "delay": 19,
+   "model": 643
+  },
+  {
+   "id": 3455,
+   "name": "No.627 RAF LB Sqn",
+   "delay": 19,
+   "model": 588
+  },
+  {
+   "id": 3456,
+   "name": "No.630 RAF LB Sqn",
+   "delay": 19,
+   "model": 643
+  },
+  {
+   "id": 3457,
+   "name": "No.640 RAF LB Sqn",
+   "delay": 29,
+   "model": 638
+  },
+  {
+   "id": 3458,
+   "name": "No.692 RAF LB Sqn",
+   "delay": 29,
+   "model": 588
+  },
+  {
+   "id": 3460,
+   "name": "GB I/19 FFr LB Sqn",
+   "delay": 11,
+   "model": 712
+  },
+  {
+   "id": 3461,
+   "name": "GB I/32 FFr LB Sqn",
+   "delay": 11,
+   "model": 712
+  },
+  {
+   "id": 3462,
+   "name": "GB I/22 FFr LB Sqn",
+   "delay": 11,
+   "model": 712
+  },
+  {
+   "id": 3463,
+   "name": "GB I/34 FFr LB Sqn",
+   "delay": 33,
+   "model": 713
+  },
+  {
+   "id": 3464,
+   "name": "GB II/20 FFr LB Sqn",
+   "delay": 33,
+   "model": 713
+  },
+  {
+   "id": 3465,
+   "name": "GB II/52 FFr LB Sqn",
+   "delay": 33,
+   "model": 713
+  },
+  {
+   "id": 3466,
+   "name": "GB II/63 FFr LB Sqn",
+   "delay": 33,
+   "model": 713
+  },
+  {
+   "id": 3468,
+   "name": "No.28 SAAF TR Sqn",
+   "delay": 2,
+   "model": 664
+  },
+  {
+   "id": 3469,
+   "name": "No.44 SAAF TR Sqn",
+   "delay": 37,
+   "model": 664
+  },
+  {
+   "id": 3470,
+   "name": "No.48 RAF TR Sqn",
+   "delay": 33,
+   "model": 664
+  },
+  {
+   "id": 3471,
+   "name": "No.117 RAF TR Sqn",
+   "delay": 9,
+   "model": 664
+  },
+  {
+   "id": 3472,
+   "name": "No.147 RAF TR Sqn",
+   "delay": 62,
+   "model": 664
+  },
+  {
+   "id": 3473,
+   "name": "No.148 RAF TR Sqn",
+   "delay": 27,
+   "model": 645
+  },
+  {
+   "id": 3475,
+   "name": "No.190 RAF TR Sqn",
+   "delay": 29,
+   "model": 645
+  },
+  {
+   "id": 3476,
+   "name": "No.233 RAF TR Sqn",
+   "delay": 33,
+   "model": 664
+  },
+  {
+   "id": 3477,
+   "name": "No.267 RAF TR Sqn",
+   "delay": 19,
+   "model": 664
+  },
+  {
+   "id": 3478,
+   "name": "No.271 RAF TR Sqn",
+   "delay": 29,
+   "model": 664
+  },
+  {
+   "id": 3482,
+   "name": "No.298 RAF TR Sqn",
+   "delay": 19,
+   "model": 646
+  },
+  {
+   "id": 3483,
+   "name": "No.299 RAF TR Sqn",
+   "delay": 19,
+   "model": 645
+  },
+  {
+   "id": 3484,
+   "name": "No.437 RCAF TR Sqn",
+   "delay": 62,
+   "model": 664
+  },
+  {
+   "id": 3486,
+   "name": "No.525 RAF TR Sqn",
+   "delay": 9,
+   "model": 664
+  },
+  {
+   "id": 3487,
+   "name": "No.570 RAF TR Sqn",
+   "delay": 19,
+   "model": 646
+  },
+  {
+   "id": 3488,
+   "name": "No.575 RAF TR Sqn",
+   "delay": 33,
+   "model": 664
+  },
+  {
+   "id": 3489,
+   "name": "No.644 RAF TR Sqn",
+   "delay": 33,
+   "model": 671
+  },
+  {
+   "id": 3492,
+   "name": "10th USAAF Rec Sqn",
+   "delay": 89,
+   "model": 700
+  },
+  {
+   "id": 3498,
+   "name": "15th USAAF Rec Sqn",
+   "delay": 26,
+   "model": 701
+  },
+  {
+   "id": 3501,
+   "name": "22nd USAAF Rec Sqn",
+   "delay": 91,
+   "model": 700
+  },
+  {
+   "id": 3502,
+   "name": "23rd USAAF PR Sqn",
+   "delay": 10,
+   "model": 688
+  },
+  {
+   "id": 3503,
+   "name": "27th USAAF PR Sqn",
+   "delay": 18,
+   "model": 689
+  },
+  {
+   "id": 3504,
+   "name": "30th USAAF PR Sqn",
+   "delay": 31,
+   "model": 689
+  },
+  {
+   "id": 3505,
+   "name": "31st USAAF PR Sqn",
+   "delay": 37,
+   "model": 689
+  },
+  {
+   "id": 3506,
+   "name": "31st USAAF Rec Sqn",
+   "delay": 91,
+   "model": 700
+  },
+  {
+   "id": 3507,
+   "name": "32nd USAAF PR Sqn",
+   "delay": 43,
+   "model": 689
+  },
+  {
+   "id": 3508,
+   "name": "33rd USAAF PR Sqn",
+   "delay": 47,
+   "model": 689
+  },
+  {
+   "id": 3509,
+   "name": "34th USAAF PR Sqn",
+   "delay": 39,
+   "model": 689
+  },
+  {
+   "id": 3510,
+   "name": "37th USAAF PR Sqn",
+   "delay": 72,
+   "model": 689
+  },
+  {
+   "id": 3511,
+   "name": "39th USAAF PR Sqn",
+   "delay": 82,
+   "model": 689
+  },
+  {
+   "id": 3515,
+   "name": "155th USAAF PR Sqn",
+   "delay": 41,
+   "model": 747
+  },
+  {
+   "id": 3516,
+   "name": "160th USAAF Rec Sqn",
+   "delay": 24,
+   "model": 701
+  },
+  {
+   "id": 3517,
+   "name": "161st USAAF Rec Sqn",
+   "delay": 24,
+   "model": 701
+  },
+  {
+   "id": 3518,
+   "name": "162nd USAAF Rec Sqn",
+   "delay": 24,
+   "model": 701
+  },
+  {
+   "id": 3523,
+   "name": "20th USAAF FB Grp",
+   "delay": 23,
+   "model": 686
+  },
+  {
+   "id": 3526,
+   "name": "36th USAAF FB Grp",
+   "delay": 45,
+   "model": 692
+  },
+  {
+   "id": 3527,
+   "name": "48th USAAF FB Grp",
+   "delay": 40,
+   "model": 692
+  },
+  {
+   "id": 3528,
+   "name": "50th USAAF FB Grp",
+   "delay": 41,
+   "model": 692
+  },
+  {
+   "id": 3530,
+   "name": "55th USAAF FB Grp",
+   "delay": 9,
+   "model": 686
+  },
+  {
+   "id": 3539,
+   "name": "332nd USAAF FB Grp",
+   "delay": 26,
+   "model": 683
+  },
+  {
+   "id": 3543,
+   "name": "354th USAAF FB Grp",
+   "delay": 23,
+   "model": 695
+  },
+  {
+   "id": 3545,
+   "name": "356th USAAF FB Grp",
+   "delay": 15,
+   "model": 691
+  },
+  {
+   "id": 3546,
+   "name": "357th USAAF FB Grp",
+   "delay": 29,
+   "model": 696
+  },
+  {
+   "id": 3547,
+   "name": "358th USAAF FB Grp",
+   "delay": 19,
+   "model": 692
+  },
+  {
+   "id": 3548,
+   "name": "359th USAAF FB Grp",
+   "delay": 23,
+   "model": 691
+  },
+  {
+   "id": 3549,
+   "name": "361st USAAF FB Grp",
+   "delay": 29,
+   "model": 692
+  },
+  {
+   "id": 3550,
+   "name": "362nd USAAF FB Grp",
+   "delay": 31,
+   "model": 692
+  },
+  {
+   "id": 3551,
+   "name": "363rd USAAF FB Grp",
+   "delay": 29,
+   "model": 696
+  },
+  {
+   "id": 3552,
+   "name": "364th USAAF FB Grp",
+   "delay": 33,
+   "model": 687
+  },
+  {
+   "id": 3553,
+   "name": "365th USAAF FB Grp",
+   "delay": 33,
+   "model": 692
+  },
+  {
+   "id": 3554,
+   "name": "366th USAAF FB Grp",
+   "delay": 37,
+   "model": 692
+  },
+  {
+   "id": 3555,
+   "name": "367th USAAF FB Grp",
+   "delay": 41,
+   "model": 687
+  },
+  {
+   "id": 3556,
+   "name": "368th USAAF FB Grp",
+   "delay": 37,
+   "model": 692
+  },
+  {
+   "id": 3557,
+   "name": "370th USAAF FB Grp",
+   "delay": 44,
+   "model": 687
+  },
+  {
+   "id": 3558,
+   "name": "371st USAAF FB Grp",
+   "delay": 41,
+   "model": 692
+  },
+  {
+   "id": 3559,
+   "name": "373rd USAAF FB Grp",
+   "delay": 45,
+   "model": 692
+  },
+  {
+   "id": 3560,
+   "name": "474th USAAF FB Grp",
+   "delay": 41,
+   "model": 687
+  },
+  {
+   "id": 3561,
+   "name": "479th USAAF FB Grp",
+   "delay": 45,
+   "model": 687
+  },
+  {
+   "id": 3567,
+   "name": "422nd USAAF NF Sqn",
+   "delay": 37,
+   "model": 704
+  },
+  {
+   "id": 3568,
+   "name": "425th USAAF NF Sqn",
+   "delay": 45,
+   "model": 704
+  },
+  {
+   "id": 3572,
+   "name": "339th USAAF FB Grp",
+   "delay": 41,
+   "model": 696
+  },
+  {
+   "id": 3573,
+   "name": "404th USAAF FB Grp",
+   "delay": 41,
+   "model": 692
+  },
+  {
+   "id": 3574,
+   "name": "405th USAAF FB Grp",
+   "delay": 41,
+   "model": 692
+  },
+  {
+   "id": 3575,
+   "name": "406th USAAF FB Grp",
+   "delay": 45,
+   "model": 692
+  },
+  {
+   "id": 3580,
+   "name": "34th USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3601,
+   "name": "344th USAAF LB Grp",
+   "delay": 37,
+   "model": 712
+  },
+  {
+   "id": 3612,
+   "name": "391st USAAF LB Grp",
+   "delay": 36,
+   "model": 712
+  },
+  {
+   "id": 3613,
+   "name": "392nd USAAF LB Grp",
+   "delay": 6,
+   "model": 720
+  },
+  {
+   "id": 3614,
+   "name": "394th USAAF LB Grp",
+   "delay": 37,
+   "model": 713
+  },
+  {
+   "id": 3615,
+   "name": "397th USAAF LB Grp",
+   "delay": 41,
+   "model": 713
+  },
+  {
+   "id": 3616,
+   "name": "398th USAAF LB Grp",
+   "delay": 41,
+   "model": 718
+  },
+  {
+   "id": 3617,
+   "name": "401st USAAF LB Grp",
+   "delay": 19,
+   "model": 718
+  },
+  {
+   "id": 3618,
+   "name": "409th USAAF LB Grp",
+   "delay": 40,
+   "model": 707
+  },
+  {
+   "id": 3619,
+   "name": "416th USAAF LB Grp",
+   "delay": 37,
+   "model": 707
+  },
+  {
+   "id": 3620,
+   "name": "445th USAAF LB Grp",
+   "delay": 19,
+   "model": 721
+  },
+  {
+   "id": 3621,
+   "name": "446th USAAF LB Grp",
+   "delay": 19,
+   "model": 721
+  },
+  {
+   "id": 3622,
+   "name": "447th USAAF LB Grp",
+   "delay": 19,
+   "model": 718
+  },
+  {
+   "id": 3623,
+   "name": "448th USAAF LB Grp",
+   "delay": 19,
+   "model": 721
+  },
+  {
+   "id": 3624,
+   "name": "449th USAAF LB Grp",
+   "delay": 29,
+   "model": 721
+  },
+  {
+   "id": 3625,
+   "name": "450th USAAF LB Grp",
+   "delay": 28,
+   "model": 721
+  },
+  {
+   "id": 3626,
+   "name": "451st USAAF LB Grp",
+   "delay": 28,
+   "model": 721
+  },
+  {
+   "id": 3627,
+   "name": "452nd USAAF LB Grp",
+   "delay": 28,
+   "model": 718
+  },
+  {
+   "id": 3628,
+   "name": "453rd USAAF LB Grp",
+   "delay": 24,
+   "model": 721
+  },
+  {
+   "id": 3629,
+   "name": "454th USAAF LB Grp",
+   "delay": 28,
+   "model": 721
+  },
+  {
+   "id": 3630,
+   "name": "455th USAAF LB Grp",
+   "delay": 33,
+   "model": 721
+  },
+  {
+   "id": 3631,
+   "name": "456th USAAF LB Grp",
+   "delay": 28,
+   "model": 721
+  },
+  {
+   "id": 3632,
+   "name": "457th USAAF LB Grp",
+   "delay": 28,
+   "model": 718
+  },
+  {
+   "id": 3633,
+   "name": "458th USAAF LB Grp",
+   "delay": 28,
+   "model": 721
+  },
+  {
+   "id": 3634,
+   "name": "459th USAAF LB Grp",
+   "delay": 33,
+   "model": 721
+  },
+  {
+   "id": 3635,
+   "name": "460th USAAF LB Grp",
+   "delay": 33,
+   "model": 721
+  },
+  {
+   "id": 3636,
+   "name": "461st USAAF LB Grp",
+   "delay": 40,
+   "model": 721
+  },
+  {
+   "id": 3637,
+   "name": "463rd USAAF LB Grp",
+   "delay": 37,
+   "model": 718
+  },
+  {
+   "id": 3638,
+   "name": "464th USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3639,
+   "name": "465th USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3640,
+   "name": "466th USAAF LB Grp",
+   "delay": 37,
+   "model": 721
+  },
+  {
+   "id": 3641,
+   "name": "467th USAAF LB Grp",
+   "delay": 37,
+   "model": 721
+  },
+  {
+   "id": 3642,
+   "name": "482nd USAAF LB Grp",
+   "delay": 11,
+   "model": 718
+  },
+  {
+   "id": 3643,
+   "name": "483rd USAAF LB Grp",
+   "delay": 41,
+   "model": 718
+  },
+  {
+   "id": 3644,
+   "name": "485th USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3645,
+   "name": "486th USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3646,
+   "name": "487th USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3647,
+   "name": "489th USAAF LB Grp",
+   "delay": 46,
+   "model": 721
+  },
+  {
+   "id": 3648,
+   "name": "490th USAAF LB Grp",
+   "delay": 50,
+   "model": 718
+  },
+  {
+   "id": 3649,
+   "name": "491st USAAF LB Grp",
+   "delay": 50,
+   "model": 721
+  },
+  {
+   "id": 3650,
+   "name": "492nd USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3651,
+   "name": "493rd USAAF LB Grp",
+   "delay": 41,
+   "model": 721
+  },
+  {
+   "id": 3661,
+   "name": "349th USAAF TR Grp",
+   "delay": 87,
+   "model": 731
+  },
+  {
+   "id": 3662,
+   "name": "434th USAAF TR Grp",
+   "delay": 15,
+   "model": 731
+  },
+  {
+   "id": 3663,
+   "name": "435th USAAF TR Grp",
+   "delay": 15,
+   "model": 731
+  },
+  {
+   "id": 3664,
+   "name": "436th USAAF TR Grp",
+   "delay": 29,
+   "model": 731
+  },
+  {
+   "id": 3665,
+   "name": "437th USAAF TR Grp",
+   "delay": 33,
+   "model": 731
+  },
+  {
+   "id": 3666,
+   "name": "438th USAAF TR Grp",
+   "delay": 33,
+   "model": 731
+  },
+  {
+   "id": 3667,
+   "name": "439th USAAF TR Grp",
+   "delay": 33,
+   "model": 731
+  },
+  {
+   "id": 3668,
+   "name": "440th USAAF TR Grp",
+   "delay": 37,
+   "model": 731
+  },
+  {
+   "id": 3669,
+   "name": "441st USAAF TR Grp",
+   "delay": 37,
+   "model": 731
+  },
+  {
+   "id": 3670,
+   "name": "442nd USAAF TR Grp",
+   "delay": 37,
+   "model": 731
+  },
+  {
+   "id": 3687,
+   "name": "No.179 RAF Pa Sqn",
+   "delay": 43,
+   "model": 633
+  },
+  {
+   "id": 3689,
+   "name": "No.202 RAF Pa Sqn",
+   "delay": 62,
+   "model": 662
+  },
+  {
+   "id": 3696,
+   "name": "No.246 RAF TR Sqn",
+   "delay": 68,
+   "model": 671
+  },
+  {
+   "id": 3711,
+   "name": "No.517 RAF Pa Sqn",
+   "delay": 7,
+   "model": 639
+  },
+  {
+   "id": 3712,
+   "name": "No.524 RAF Pa Sqn",
+   "delay": 17,
+   "model": 633
+  },
+  {
+   "id": 3723,
+   "name": "VP-63 USN Pa Sqn",
+   "delay": 3,
+   "model": 729
+  },
+  {
+   "id": 3800,
+   "name": "82a WAI Pa Grp",
+   "delay": 52,
+   "model": 491
+  },
+  {
+   "id": 3801,
+   "name": "83a WAI Pa Grp",
+   "delay": 52,
+   "model": 490
+  },
+  {
+   "id": 3802,
+   "name": "84a WAI Pa Grp",
+   "delay": 52,
+   "model": 491
+  },
+  {
+   "id": 3803,
+   "name": "85a WAI Pa Grp",
+   "delay": 52,
+   "model": 487
+  },
+  {
+   "id": 3747,
+   "name": "1st Bra FB Sqn",
+   "delay": 67,
+   "model": 693
+  },
+  {
+   "id": 3804,
+   "name": "410th USAAF LB Grp",
+   "delay": 40,
+   "model": 707
+  }
+ ],
+ "july_equipment_file": "july-equipment.json",
+ "july_models_produced": 146,
+ "july_models_gained_by_existing_formation": 65,
+ "full_campaign_playthrough": false,
+ "september_scenario_sha256_before_german_truck_rebalance": "780a535677f381e01d40467849159eac5334bc065371689a63e8fe8fcde20bcf",
+ "july_tested_scenario_sha256": "a8379907a7d8d34db3025b0c208c69e77bdf1c6180ca07897ddfc9dbe43e10d6",
+ "release_sha256": "a8379907a7d8d34db3025b0c208c69e77bdf1c6180ca07897ddfc9dbe43e10d6",
+ "july_comparison_to_release": "Fresh game from the final campaign with the new truck factories. The September test contains the final Allied equipment and FBD settings. Only Axis generic truck factory capacity differs.",
+ "separate_nationality_trial": {
+  "start_sha256": "afd3a94756de39c099804ecf1f6f5bbacb3a9e5f2d45a2ce774c11b535d02d30",
+  "end_sha256": "bbf7a9fef70c0e7f739b6160c53e43ce645db9ce3dc2f24a614f29da884e95d9",
+  "groups": [
+   {
+    "group": "4th USAAF FB Grp",
+    "model": "P-51B-10 Mustang",
+    "model_supply_country": 12,
+    "opening": 0,
+    "after": 67
+   },
+   {
+    "group": "81st USAAF FB Grp",
+    "model": "P-51D Mustang",
+    "model_supply_country": 38,
+    "opening": 0,
+    "after": 0
+   }
+  ]
+ },
+ "german_trucks": {
+  "start_pool": 5946,
+  "before_gross_in_first_axis_logistics": 3280,
+  "after_gross_in_first_axis_logistics": 2050,
+  "native_first_week_pool": 45323,
+  "repaired_returns": 18479
+ },
+ "fresh_native_opening": {
+  "sha256": "7e6cef9773b4fc513ca64a42f574b384be66cc17a4a2a0495bf610431587d308",
+  "matching_groups": 373,
+  "assigned_aircraft": 8832,
+  "model_count": 66,
+  "all_groups_have_pilots": true,
+  "B17F_in_groups": 860,
+  "B17F_available": 170,
+  "matching_pool_rows": 117,
+  "matching_reinforcement_teams": 198
+ },
+ "examples_existing_ground_units": [
+  {
+   "model": "Sherman III",
+   "unit": "3/2nd CA Armoured Brigade",
+   "unit_id": 11717,
+   "opening_week_before": 53,
+   "after": 152,
+   "net_gain": 99
+  }
+ ],
+ "first_week_western_air_model_isolation": true,
+ "opening_western_air_model_isolation": true,
+ "us_2nd_armored_after_first_week": {
+  "M4 Sherman": 92,
+  "M4A1 Sherman": 122
+ },
+ "unreleased_ground_groups_with_unchanged_kit": 126,
+ "july_wet_shermans": {
+  "M4A3(75)W Sherman": {
+   "produced": 0,
+   "end_pool": 0
+  },
+  "M4A1(76)W Sherman": {
+   "produced": 0,
+   "end_pool": 0
+  },
+  "M4A3(76)W Sherman": {
+   "produced": 0,
+   "end_pool": 0
+  }
+ },
+ "july_late_armored_divisions": [
+  {
+   "id": 11558,
+   "remaining_delay": 72,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11559,
+   "remaining_delay": 59,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11560,
+   "remaining_delay": 63,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11561,
+   "remaining_delay": 65,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11562,
+   "remaining_delay": 64,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11563,
+   "remaining_delay": 81,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11564,
+   "remaining_delay": 68,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11565,
+   "remaining_delay": 83,
+   "xy": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11566,
+   "remaining_delay": 84,
+   "xy": [
+    0,
+    0
+   ]
+  }
+ ],
+ "september_saves": {
+  "000 September 1944.sav": "1f2b5f6d6e7a1870fedb88442a722d1b8469bc6daaa25866fb49a842170b57e6",
+  "Save turn 002 9-23-1944 So.sav": "6eb1f5e86fa931fe56469bfcd10c689918d057905b4fc5e89d574c0bc78ae94c"
+ },
+ "september_equipment_file": "september-equipment.json",
+ "september_setup": "Calendar moved to September 23, 1944 on the July Axis save with the final release equipment categories. The 8th Armored Division and WVD Italien with its three supports were set one logistics cycle from arrival. The 81st USAAF group was assigned P-51Ds with no planes, keeping pilots and base. Its previous planes were returned to the test pool, and 46 P-51Ds were seeded, the previous September trial weekly output. No factory settings were changed.",
+ "september_test_2nd_armored": {
+  "fixture": "Understrength US 2nd Armored, own 44f establishment, two each of M4 and M4A1, starting wet stock 32/31/31.",
+  "wet_shermans": {
+   "M4A3(75)W Sherman": [
+    0,
+    18
+   ],
+   "M4A1(76)W Sherman": [
+    0,
+    0
+   ],
+   "M4A3(76)W Sherman": [
+    0,
+    11
+   ]
+  }
+ },
+ "september_8th_armored_wet_on_map": {
+  "M4A3(75)W Sherman": 50,
+  "M4A1(76)W Sherman": 0,
+  "M4A3(76)W Sherman": 33
+ },
+ "september_81st_p51d_receipt": 46,
+ "september_arrivals": [
+  {
+   "id": 11558,
+   "name": "8th",
+   "xy": [
+    72,
+    158
+   ],
+   "remaining_delay": 0,
+   "attached_to": 11418
+  },
+  {
+   "id": 1891,
+   "name": "FBD - WVD Italien",
+   "xy": [
+    0,
+    0
+   ],
+   "remaining_delay": 1,
+   "attached_to": 3240
+  },
+  {
+   "id": 1911,
+   "name": "Italien Rail construction",
+   "xy": [
+    0,
+    0
+   ],
+   "remaining_delay": 1,
+   "attached_to": 1891
+  },
+  {
+   "id": 1938,
+   "name": "Italien Rail labor",
+   "xy": [
+    0,
+    0
+   ],
+   "remaining_delay": 1,
+   "attached_to": 1891
+  },
+  {
+   "id": 1976,
+   "name": "Italien Railway engineers",
+   "xy": [
+    0,
+    0
+   ],
+   "remaining_delay": 1,
+   "attached_to": 1891
+  }
+ ],
+ "september_wvd_italien": {
+  "save": "Save turn 003 9-30-1944 Ax.sav",
+  "sha256": "932706be92e80e14fa73ed9691c90a1301e295623b80a5d7a160aa48573dcc48",
+  "xy": [
+   136,
+   227
+  ],
+  "native_rail_capacity": 2313,
+  "attached_supports": [
+   1911,
+   1938,
+   1976
+  ]
+ }
+}

@@ -1,0 +1,2654 @@
+Scenario: '000 Final 62 Sherman Supply'
+Turn 003 9-30-1944 Axis
+
+                      Logistic Phase Report
+_____________________________________________________________________
+
+
+ 
+ARMY FREIGHT DATA
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+ 
+    1879      17460       2309      14314      98330         23    OKH  
+     377        687          0        187       1309          0    Hungarian High Command  
+     640       1420         34       2010       5041          0    Rumanian High Command  
+     106         81          0          0          0          0    Slovakian High Command  
+      74        385         52          0          0          0    OKW  
+      15        754        103       8464       8961         29    Army Group South  
+      27        857         53       3197       3158          5    Army Group Center  
+      39        504         29        213       1637          0    Army Group A  
+      11        352         46        380       2992          1    Army Group North  
+     677        708         78        728        819          0    Army Group C  
+     698       2009        414       1053       1432          0    OB West  
+     128       1313         78       5638      18972         21    Kempf Detachment Army 
+     213       2215        283      13118      33503          6    9th Army 
+     284       1661        257      11446      12112         21    4th Panzer Army 
+      69       1001        122       5673      38453         16    1st Panzer Army 
+     186       2375          0       9205      35149          1    17th Army 
+     329       3358         20      12856      71997          3    18th Army 
+      97       1147        127       7163      39832         17    6th Army 
+      90        744        202       4382      28450         22    2nd Army 
+     163       1687        177       4648      28941         14    16th Army 
+     288       1891        184       7102      39177         12    2nd Panzer Army 
+     106       1109         94       4139      23079          4    3rd Panzer Army 
+     156        551         42       1205       8366          1    3rd Hun. Army 
+      81        382         18        908       6374          0    1st Hun. Army 
+      79        312         45        265       1694          0    3rd Rum. Army 
+     175       1354        326       4578      29383         19    4th Army 
+     427        662        251          7         43          0    1st Army 
+     403        745         90        557       3270          0    15th Army 
+     442        739        123       1977      14453          7    7th Army 
+     170        125          0       1408       1678          0    2nd Hun. Army 
+       1         14          0          0          0          0    4th Rum. Army 
+       4         31          0          0          0          0    WMBef. Holland  
+      18         11          4          0          0          0    WMBef. Belgium  
+     211        192         19        421       3374          0    WMBef. France  
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+    8676      48849       5590     127253     561979        229     GROUND COMMAND TOTALS  
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+    2512       3157         57        480       3206          0     AIR COMMAND TOTALS  
+ 
+ 
+DEPOT FREIGHT DATA
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+ 2505880       4182      98939        350          1      Berlin               (139 , 172)
+ 2512279       3478      84674        104         76      Vienna               (153 , 203)
+ 2505870        700      27678        125        292      Essen                (112 , 179)
+ 2512739        817      49258        291        305      Frankfurt            (119 , 190)
+ 2500000          0          0          0          0      Helsinki             (175 , 105)
+ 2504320         76      15042        383       4599      Milan                (120 , 227)
+ 2502500       2716      52556          0          0      Prague               (144 , 190)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   26200       8719         68        137          0      Hamburg              (124 , 163)
+   28154       9000         31         64          0      Stettin              (143 , 164)
+   27476       9000         12         24          0      Rostock              (133 , 159)
+   23578       8829       9614         54          0      Bremen               (120 , 167)
+   21854      10425         28         57          0      Kiel                 (125 , 157)
+   14293       9774          0          0          0      Flensburg            (123 , 154)
+    9057       9048        140        416          0      Constanta            (216 , 224)
+    4520       8365       9319        188          0      Gdynia               (158 , 154)
+    7427       2934       4761          3          0      Genichesk            (240 , 198)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   26900          0         49        100          0      Danzig               (159 , 155)
+    2946          0          5         19          0      Memel                (168 , 142)
+   26635          0         10         21          0      Koenigsberg          (166 , 151)
+    8970          0          2          5          0      Pillau               (164 , 151)
+    8518        188       6536         73          0      Stralsund            (137 , 158)
+   11534          0          0          0          0      Elbing               (163 , 156)
+   12764          0        235        159         49      Bremerhaven          (119 , 163)
+   12644          0       6600          0          0      Sassnitz             (138 , 155)
+   23635          0          0          0          0      Wismar               (130 , 161)
+    5843          0         25         52          0      Luebeck              (127 , 161)
+    6102          0        911         95         31      Sylt                 (119 , 153)
+   16177         94       4232         61         42      Brunsbuettel         (121 , 160)
+    7796          0          0          0          0      Heiligenbeil         (165 , 153)
+   28545        152       6346        526       2684      Naples               (147 , 263)
+   32509          0       6178          5       1320      Genoa                (119 , 235)
+       1        772        773          0        368      Taranto              (163 , 264)
+   23734          0        509        136        815      Palermo              (143 , 286)
+    2787        804       3136        417       1528      Bari                 (161 , 260)
+    6299          0          4          5        169      Sulina               (219 , 216)
+     527       9587       4129        813         87      Antwerp              (100 , 181)
+    4446          0       3555        737        430      Rotterdam            (101 , 175)
+    6535          0          0          0          0      Hel                  (159 , 152)
+    1542         24       1269         70         28      Tallinn              (176 , 111)
+   22253          0       2218       4445          0      Novorossiysk         (257 , 203)
+   20392       9349         18        247          0      Riga                 (177 , 130)
+    8662       2094       2617       5252          0      Kerch                (250 , 201)
+    5343      13905       8311        673          0      Mariupol             (250 , 187)
+     772       1109          0          0          1      Nikolaev             (226 , 197)
+    5559       2441         95         14         74      Kherson              (230 , 198)
+   25783       3190      17803        267        146      Odessa               (221 , 203)
+   31603       1773         43        156         13      Sevastopol           (238 , 212)
+    4800          1       3703          2          0      Ventspils            (167 , 129)
+    5485          0       4424       1058          0      Parnu                (176 , 119)
+    3877          0          0          3          0      Liepaja              (166 , 136)
+     530          0        175        352         21      Taganrog             (256 , 182)
+    7719       1879       4000          0          0      Osipenko             (248 , 190)
+    8564          0        427        863          0      Temryuk              (254 , 200)
+    3664       1465         76        249          2      Yevpatoriya          (236 , 208)
+    2747       1370        197        425          8      Feodosiya            (246 , 206)
+    1262          0          0         15          0      Kuressaare           (169 , 122)
+    6229          0        254       1001        491      Ochakov              (225 , 200)
+      15       1506         66        134         13      Piraeus              (200 , 279)
+    2141       1870          0          0          0      Thessaloniki         (193 , 258)
+    4577          0          0          0          0      Split                (157 , 241)
+    5945          2       4125         61        677      Marseille            (101 , 243)
+    3049          0        901        256        243      Cherbourg            ( 73 , 189)
+    2405          0         38         78          0      Ronne                (143 , 151)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   26860       4000        131        263          0      Leipzig              (135 , 180)
+   24120       1000         23         97         92      Hannover             (123 , 173)
+    6166       4000         18         36          0      Magdeburg            (131 , 175)
+    4689       4000          4          8          0      Chemnitz             (137 , 184)
+   26038       3961          2          5          0      Breslau              (155 , 181)
+    5631       4000         17         36          0      Nuremberg            (129 , 195)
+   45209          0       2501          0          0      Tilsit               (171 , 147)
+   25791       4000         57         98          0      Munich               (132 , 206)
+    6047       1000          0          0          0      Dresden              (140 , 182)
+   10155          0         12         26          0      Liegnitz             (151 , 180)
+    6047       4000          0          0          0      Cottbus              (143 , 177)
+    5832       4000          4          9          0      Oppeln               (159 , 184)
+    5883       4000         12         25          0      Linz                 (144 , 204)
+   16029       3970          0          3         19      Graz                 (149 , 213)
+   10098          0          0          0          0      Frankfurt an der Oder (144 , 172)
+   18808       1911        370        742          0      Brandenburg          (135 , 173)
+     227       4000       1768        512       1184      Cologne              (111 , 184)
+   30906       4000         14        106        285      Kassel               (122 , 181)
+    3123       4049          0        194        185      Stuttgart            (121 , 201)
+    4577       4128         16         34          0      Braunschweig         (126 , 173)
+   38833       4000         32         65          0      NE Berlin            (139 , 171)
+   38843       1000         36         73          0      W Berlin             (138 , 171)
+    2004       1212          0          0          0      Suwalki              (176 , 154)
+    5984       4000         25         51          0      Halle                (133 , 179)
+    7049       4080       4000          0          0      Boehlen              (135 , 181)
+   19712       4000          4          9          0      Plauen               (134 , 187)
+   19820        179          3          6          0      Bautzen              (144 , 181)
+    6431       1784          0          0          0      Rathenow             (134 , 171)
+    9781         54        105        217          0      Zossen               (139 , 174)
+    6017       4000          4          9          0      Ruhland              (141 , 180)
+    4848       1000          0          0          0      St Poelten           (150 , 204)
+   27304       2696         22         45          0      Wiener Neustadt      (153 , 208)
+   25795       3738         17         36          0      Beuthen              (164 , 186)
+   16968       3031          0          0          0      Steyr                (145 , 206)
+    3576       4079          0          9          4      Ingolstadt           (131 , 202)
+   26598       4000          0          0          0      Regensburg           (134 , 199)
+   24579       4000          0          4         11      Schweinfurt          (125 , 191)
+    4931       4000        831        336        865      Darmstadt            (118 , 193)
+    5894       4000          4          9          0      Zeitz                (133 , 183)
+    5797       4000          6         14          0      Erfurt               (128 , 183)
+    6069       4000         13         28          0      Muecheln             (132 , 181)
+    5800       4000          0          0          0      Halberstadt          (129 , 176)
+     996       4000          0         49        140      Dortmund             (114 , 179)
+    4412       4001          3         57         17      Lehrte               (125 , 173)
+   19770       4000          0          0          0      Bruck an der Mur     (149 , 211)
+     905       2999       3746        134       5994      Rome                 (137 , 255)
+   17382       4001      10730        100       4999      Bologna              (131 , 235)
+       0       4000       3414         39       1331      Verona               (129 , 227)
+   28745       4061        226        456          0      Ploesti              (201 , 221)
+    2124       4000         29         98         12      Iasi                 (206 , 202)
+    8953       4000         36         72          0      Timisoara            (178 , 220)
+    6157        760       4124        252          0      Galati               (210 , 215)
+    4187       1127       2354        130          7      Craiova              (192 , 229)
+   43983       4168         91        184          0      Bucharest            (203 , 225)
+    8513       1487          0          0          0      Brasov               (199 , 216)
+    5777       1487        724       1483         32      Pitesti              (197 , 223)
+    3832        210       1487          0          0      Buzau                (205 , 219)
+   13291        266      12645          0          0      Focsani              (206 , 215)
+    1307        563        909         87         22      Suceava              (199 , 200)
+    3784        557          0          0          0      Tulcea               (215 , 216)
+    3193       1024       1788         35        134      Barlad               (208 , 210)
+    4038        383         28         57          0      Sibiu                (192 , 217)
+    4508       1973       4267        537          0      Arad                 (178 , 217)
+    1484        939        612          0          0      Dorohoi              (199 , 197)
+    6574       1000          2          4          0      Dacia Romana         (202 , 221)
+    5026       1445       4000          0          0      Campina              (201 , 220)
+    7636       4000          0          0          0      Resita               (181 , 223)
+   33103       4000        909       2152         43      Budapest             (167 , 208)
+    6007       3278          0          0          0      Kassa                (175 , 196)
+    4468       4000        226        452          0      Miskolc              (173 , 202)
+   14430       4000         29         59          0      Nyiregyhasa          (178 , 202)
+    2864       2260         21         43          0      Debrecen             (178 , 206)
+    2581       1818        439        938          6      Szolnok              (172 , 210)
+    4347       2138       3073         41          0      Szeged               (172 , 217)
+    6419       4000         40         83          0      Szombathely          (155 , 211)
+    3089       4000         72        265         29      Gyor                 (160 , 208)
+    2923       2312        225        450          0      Kaposvar             (161 , 217)
+    6488       2259       4075        155          0      Pecs                 (164 , 220)
+    3108       3053         78        159          0      Cluj                 (189 , 210)
+    5649        588          0          0          0      Oradea               (181 , 210)
+     759       1000         43         86          0      Sighet               (187 , 201)
+    1009       1393         55        111          0      Ungvar               (180 , 196)
+    3156       1398        268        559         31      Targu Mures          (193 , 211)
+   25062        343      23265          0          0      Satu Mare            (184 , 202)
+    6048       1001         40         81          0      Bratislava           (157 , 204)
+    3838        827         31         69         96      Sofia                (192 , 242)
+    4671        893          0          0          0      Ostrava              (161 , 191)
+    4785       4000          0          0          0      Brunn                (154 , 196)
+    4676       4000          0          0          0      Pilsen               (139 , 193)
+   10279       4000          0          0          0      Floridsdorf          (154 , 202)
+    9326       3513       8223       1423       1672      Brussels             (100 , 183)
+   25821       4000         18         36          0      Bydgoszcz            (157 , 165)
+   38874       2597          0          0          0      Warsaw               (171 , 170)
+   25935       2684          0          0          0      Lodz                 (165 , 174)
+    5720       2941          5         16          0      Katowice             (165 , 186)
+   62520          0       9111          0          0      Krakow               (168 , 187)
+   25921       1000          7         15          0      Poznan               (153 , 171)
+   19201        798          0          0          0      Lublin               (178 , 176)
+   10099          0          0          0          0      Radom                (173 , 176)
+   13444       2454          0          0          0      Nowy Sacz            (172 , 190)
+     756       2051          0          0          0      Wyszkow              (172 , 166)
+    2211        309        798          0          0      Biala Podlaska       (180 , 170)
+    1348        694          0          0          0      Chelm                (182 , 176)
+    3572       2285          0          0          0      Rzeszow              (177 , 186)
+    5782       1503       3500          0          0      Zamosc               (182 , 180)
+   19148      16244       8664      24886         91      Orel                 (230 , 146)
+    9068        932        796       1596         14      Novgorod             (199 , 111)
+    5937       2010       2500         84         73      Kaunas               (179 , 147)
+    2881        847          1         19        103      Daugavpils           (188 , 136)
+   20528      20222       4156       8542          0      Vitebsk              (203 , 138)
+    5963       1754       4113         49        192      Vilnius              (184 , 147)
+   25615        933      24743        923        883      Minsk                (194 , 151)
+    3609        714       2000         15         38      Gomel                (211 , 158)
+   30946       4000       4944       3722         28      Smolensk             (210 , 138)
+    3439        225       2357          0          0      Brest Litovsk        (182 , 168)
+    1218       1492       1057         56        194      Grodno               (181 , 156)
+    2591       1031        904       2707         25      Mogilev              (205 , 147)
+    3764        434       3416          0          0      Bialystok            (178 , 161)
+   10840       1825       9149       3234        224      Bryansk              (222 , 147)
+    5349       4107        962       1877         14      Staraya Russa        (201 , 115)
+   26397       4071       1245       2691         70      Pskov                (191 , 120)
+    1545       2000       1295       2224       1100      Sumy                 (229 , 163)
+   39521       4000       2621        203        491      Kiev                 (212 , 173)
+   13054        864          0         41          1      Zhitomir             (205 , 177)
+   32321       1000          0          0          0      Lvov                 (186 , 186)
+   26756      17590       6382      23222          9      Kharkov              (237 , 167)
+    6341      15349       3363       3857        893      Poltava              (231 , 173)
+    2235        512          2         68        119      Cherkassy            (221 , 178)
+    8329        851          1         54          9      Vinnitsa             (206 , 185)
+   25785        833       4445        700        217      Dnepropetrovsk       (236 , 181)
+    4382        803         36         73          0      Chernovtsy           (197 , 196)
+   41360       9940       3207       4032          1      Stalino              (249 , 179)
+       0        485          0        413        149      Krivoi Rog           (229 , 188)
+     239        254        235        245        331      Zaporozhye           (238 , 185)
+    4441        789          0         30         42      Kishinev             (212 , 202)
+    3258        286        146        283         17      Kremenchug           (228 , 179)
+    7027       1001       4002         36        189      Baranovichi          (190 , 158)
+   13241        458       7813        122        325      Fastov               (211 , 177)
+    9058        990        279        510          4      Torkovichi           (196 , 109)
+    5500          0       1844       3634          2      Mga                  (197 , 102)
+    6563       3436       2334       4640         13      Chudovo              (200 , 106)
+    4585       3703       4478       2614          5      Pushkin              (194 , 103)
+    3171        534       2397       1291          2      Orsha                (204 , 143)
+    5101       4000       1343       2652          4      Nevel                (200 , 132)
+    5095        621       4548       1091        302      Valga                (183 , 123)
+    7507       1431       3703         13          0      Siauliai             (175 , 139)
+    7205       2794          0          0          0      Kovel                (188 , 174)
+   10487        909          0          0          0      Tarnopol             (194 , 186)
+    9205        795          0          0          0      Rovno                (195 , 178)
+    6755        393          0          9         25      Proskurov            (199 , 186)
+    9469        871          0          0          0      Stanislav            (190 , 192)
+    5036        438        257       1099          3      Kirovograd           (224 , 184)
+    6808        983       5925         37        214      Sonda                (183 , 109)
+    4986        532       3683        152          8      Chernigov            (214 , 164)
+    6458       1072       3436         85         50      Jelgava              (176 , 134)
+     535        325        151        149        247      Melitopol            (241 , 192)
+   12101       3260       1704       3419          0      Krasnogvardeysk      (193 , 105)
+    3430       4025       2815       1295         19      Gorlovka             (249 , 177)
+    5743       4000         50        130         97      Idritsa              (195 , 131)
+    8817       1237        720       1474         41      Soltsy               (197 , 115)
+    5280       3703        449        885         16      Volot                (199 , 117)
+    4033       3883       2438       4266        205      Novosokolniki        (199 , 129)
+     570       2234        746       2036        472      Spas-Demensk         (218 , 138)
+    5460       1493       4791          0          0      Kobrin               (184 , 167)
+    3432       2963       1703       4645        276      Papasnaya            (250 , 174)
+    5045          0        641       1290          0      Varenikovskaya       (255 , 201)
+    2060       3603       2682       2712       1461      Vorozhba             (227 , 162)
+       0       2381        467       1912        312      Lopan                (236 , 165)
+    2474        767          0         59          0      Tiraspol             (216 , 202)
+     382        117          0         36          0      Beltsy               (206 , 197)
+     649        131          0          0          0      Sambor               (182 , 189)
+    7543       3960       5796       4900        213      Kramatorskaya        (246 , 174)
+    1335         79        654        111          0      Bessarabskaya        (213 , 207)
+   17464        245      16068       1630        103      Nikopol (e)          (235 , 188)
+    6830        847       2234          7          0      Shepetovka           (199 , 180)
+   25076          0          0          0          0      Belgrade             (176 , 228)
+    4000       1219          0          0          0      Sarajevo             (166 , 237)
+   23724       3444       1503        246        574      Lyon                 (100 , 224)
+     579       3915       3347        249       1319      Dijon                (102 , 212)
+       1       3570       3554         12       1584      Paris                ( 90 , 198)
+   22005       3660       6059       1733       2440      Rouen                ( 85 , 193)
+   24251       3714       4595       2980       3069      Rennes               ( 71 , 201)
+    9667       1826      11047        401       3960      Lille                ( 94 , 185)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+       0         18          0          0          0      Zagreb               (153 , 223)
+       0         29       9152        296          0      Avignon              ( 99 , 238)
+       0          1       7649        845         31      Argentan             ( 79 , 197)
+       0        512      10791        767        306      Amiens               ( 91 , 190)
+       0       1300      12819        511        528      Limoges              ( 82 , 221)
+       0         32         12        218          6      Nantes               ( 71 , 208)
+       0          6         79        320         18      Brest                ( 59 , 196)
+       0         24         81        191        305      Messina              (155 , 284)
+       0         30        247        492          0      Cosenza              (158 , 275)
+       0         44          1          3          0      Trapani              (138 , 287)
+       0          4        196        397          0      Venice               (136 , 227)
+       0        399        987        182          1      Utrecht              (104 , 174)
+       0         46         36         95         88      Porto Vecchio        (121 , 257)
+       0          9          3         66          2      Tours                ( 81 , 209)
+       0        231       3730         97         63      Reggio Calabria      (156 , 285)
+       0        153       1629          0          0      Dubrovnik            (166 , 247)
+       0        302       2323        169         11      Toulouse             ( 81 , 239)
+       0          0       1130        662          1      Bogodukhov           (233 , 167)
+       0        250        254          0          0      Drvar                (157 , 234)
+       0         53        617        102         40      Foggia               (154 , 258)
+       0          0         77        159          0      Korovye Selo         (191 , 122)
+       0          0          6         12          0      Ozieri               (119 , 266)
+       0          0         10         19          0      Deventer             (108 , 173)
+       0          0        149        299          0      Castelvetrano        (140 , 289)
+       0          0        141        282          0      Cagliari             (119 , 277)
+       0          0         92        222         10      Valuets              (220 , 151)
+       0          0         10         21          0      Montpellier          ( 94 , 240)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+20101339      613810     827225     182029       56015            TOTALS
+ 
+Unit Trucks Used          32317
+Trucks Lost in Freight    146
+Total Freight Losses      73843
+ 
+Axis Trucks Captured      0
+Soviet Trucks Captured    0
+ 
+ 
+FREIGHT USAGE TYPES
+ 
+  656644   other depots
+   92784   depot fuel
+   12308   depot trucks
+       0   economy
+       0   repairs
+   88328   misc
+ 
+Baltic:   Cargo Ships Unused     43
+Baltic:   Cargo Ships Used       54
+ 
+Black:    Cargo Ships Unused     50
+Black:    Cargo Ships Used       0
+ 
+ 
+CIVILIAN CONSUMPTION
+-----------------------Turn--------Game----- 
+Axis Supply Tons        90682       180265        
+Soviet Supply Tons     101881       101881        
+-----------------------Turn--------Game----- 
+Axis Fuel Tons          81702       162409        
+Soviet Fuel Tons        92117        92117        
+------------------------------------------ 
+ 
+
+ 
+1 tons of fuel were consumed in RB pilot training
+0 aircraft were lost in RB training accidents
+ 
+ 
+0 tons of fuel were consumed in TB pilot training
+0 aircraft were lost in TB training accidents
+ 
+
+Western Europe LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+Western Europe AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Italy LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+Italy AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+North Africa LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+North Africa AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Norway LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+
+Norway AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       9                    9              BV 138C (Ger)
+       3                    3              Ju 88C-6a (Ger)
+      12                   12              TOTALS 
+
+
+Balkans LOSSES (INACTIVE)
+    TURN                TOTAL              GROUND ELEMENT
+
+Balkans AIR LOSSES (INACTIVE)
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Finland LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+       1                    1              50mm Pak38 AT Gun (Ger)
+       1                    1              150mm sIG33 Infantry Gun (Ger)
+       1                    1              50mm GrW 36 Mortar (Ger)
+       2                    2              7.92mm MG42 Machine Gun (Ger)
+       5                    5              Rifle Squad 40 (Ger)
+       6                    6              Pioneer Squad 39 (Ger)
+       0                    1              81mm Krh/35 Mortar (Fin)
+       3                   10              7.62mm Maxim Machine Gun (Fin)
+       1                    1              Rifle Squad 43 (Fin)
+      20                   35              Rifle Squad 41 (Fin)
+       3                    8              Engineer Squad 41 (Fin)
+      10                   13              Jaeger Squad (Fin)
+       7                   15              20mm L-39 AT-Rifle (Fin)
+       2                    4              Flamethrower Squad (Fin)
+       0                    2              7.62mm ItKk/31 Twin AAMG (Fin)
+     217                  291              Vehicle (-)
+       8                    8              Support (Ger)
+       7                    7              Support (Fin)
+
+Finland AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       3                    3              B-239 (Fl) (Fin)
+       4                    7              Hawk 75A (FI) (Fin)
+       0                    2              Hurricane I (FI) (Fin)
+      11                   11              M.S. 406 (FI) (Fin)
+       0                    3              Bf 110F-2 (Ger)
+      18                   26              TOTALS 
+
+Finland MANPOWER LOSSES 
+    LOST                     303
+    CAPTURED                  14
+    DAMAGED                  745
+
+Axis Reserves LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+       6                    8              Vehicle (-)
+       2                    2              Support (Ger)
+
+Axis Reserves AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    1              LeO 451 T (Ger)
+       0                    1              TOTALS 
+
+Axis Reserves MANPOWER LOSSES 
+    LOST                      20
+    CAPTURED                   0
+    DAMAGED                   20
+
+Soviet Union Garrison LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+       0                    1              SdKfz-222 Armored Car (Ger)
+       2                    2              50mm Pak38 AT Gun (Ger)
+       4                    6              75mm leIG18 Infantry Gun (Ger)
+       3                    5              50mm GrW 36 Mortar (Ger)
+       3                    3              81mm GrW 34 Mortar (Ger)
+       0                    4              7.92mm MG34 Machine Gun (Ger)
+       2                    3              Pioneer Squad 39 (Ger)
+       6                    6              Cavalry Squad 39 (Ger)
+       3                    5              Motorcycle Squad (Ger)
+       7                    7              7.92mm PzB 39 AT-Rifle (Ger)
+       0                    1              28mm sPzB41 AT Gun (Ger)
+       0                    5              Motorized Rifle Squad 40 (Ger)
+     106                  106              Security Squad 39 (Ger)
+       0                   21              50mm 39M Mortar (Hun)
+       0                    6              81mm 36/39M Mortar (Hun)
+       0                   21              8mm 31M Machine Gun (Hun)
+       0                   95              Rifle Squad 39 (Hun)
+       0                    3              Pioneer Squad 39 (Hun)
+       0                    7              Cavalry Squad 39 (Hun)
+       0                   17              20mm 36M AT-Rifle (Hun)
+       0                   11              8mm Schwarzlose AAMG (Hun)
+       6                    6              80mm 29M AA Gun (Hun)
+       0                    9              149mm vz.25 Howitzer (Hun)
+       0                    1              105mm 37M Howitzer (Hun)
+      11                   11              Panzer 39H 735(f) (Ger)
+       0                    1              75mm Pak97/38 AT Gun (Hun)
+      31                  213              Vehicle (-)
+      17                   18              Support (Ger)
+       0                    2              Support (Rum)
+       0                   10              Support (Hun)
+
+Soviet Union Garrison AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+Soviet Union Garrison MANPOWER LOSSES 
+    LOST                     925
+    CAPTURED                  52
+    DAMAGED                 2628
+
+__________ Night 1 _________
+__________ Day 1 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+2nd Air Army. RECON hex[236,163]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[234,166]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[237,162]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[237,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,118]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,119]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,124]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,120]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[202,120]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[255,201]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[254,200]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[257,200]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[253,200]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,147]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[228,147]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,152]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[200,112]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,116]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[200,116]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,117]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[200,117]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[201,117]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[248,176]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[248,174]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[247,175]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[252,175]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[250,176]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[189,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[194,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[196,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[188,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[192,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[193,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[196,104]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[198,104]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[197,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[198,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[200,105]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[194,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[224,151]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[221,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[222,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[223,154]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[226,154]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[227,159]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[238,167]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[239,167]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[240,167]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[244,172]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[215,138]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[216,142]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[220,140]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[217,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[218,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 0 ***
+Axis planes repaired: 107
+Soviet planes repaired: 109
+Planes in repair with 0 damage: 486
+ Germany: 1 new pilot(s) arrived. Left in pool 121.
+ Soviet Union: 3 new pilot(s) arrived. Left in pool 0.
+__________ Night 2 _________
+__________ Day 2 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 1 ***
+Axis planes repaired: 29
+Soviet planes repaired: 78
+Planes in repair with 0 damage: 300
+ Germany: 2 new pilot(s) arrived. Left in pool 119.
+ Soviet Union: 5 new pilot(s) arrived. Left in pool 0.
+__________ Night 3 _________
+__________ Day 3 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 2 ***
+Axis planes repaired: 20
+Soviet planes repaired: 38
+Planes in repair with 0 damage: 220
+ Germany: 4 new pilot(s) arrived. Left in pool 115.
+ Soviet Union: 9 new pilot(s) arrived. Left in pool 0.
+__________ Night 4 _________
+__________ Day 4 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+2nd Air Army. RECON hex[233,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[234,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[235,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+2nd Air Army. RECON hex[234,164]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,125]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[199,126]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[198,122]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[201,122]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[201,118]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+3rd Air Army. RECON hex[200,119]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[253,202]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[257,203]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[253,201]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+4th Air Army. RECON hex[256,201]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,155]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+5th Air Army. RECON hex[226,148]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,114]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,115]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[199,112]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[202,116]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+6th Air Army. RECON hex[198,113]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[249,177]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[247,173]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[248,175]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+8th Air Army. RECON hex[253,177]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[190,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[192,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[193,107]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[188,108]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+13th Air Army. RECON hex[191,108]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[197,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[200,106]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[196,103]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+14th Air Army. RECON hex[194,103]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[223,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[224,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+15th Air Army. RECON hex[226,149]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[223,160]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[225,160]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+16th Air Army. RECON hex[223,155]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[245,172]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+17th Air Army. RECON hex[238,173]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[219,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[222,142]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[222,141]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[215,136]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+1st Air Army. RECON hex[217,137]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 3 ***
+Axis planes repaired: 11
+Soviet planes repaired: 50
+Planes in repair with 0 damage: 210
+ Germany: 2 new pilot(s) arrived. Left in pool 113.
+ Soviet Union: 2 new pilot(s) arrived. Left in pool 0.
+__________ Night 5 _________
+__________ Day 5 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 4 ***
+Axis planes repaired: 13
+Soviet planes repaired: 22
+Planes in repair with 0 damage: 173
+ Germany: 1 new pilot(s) arrived. Left in pool 112.
+__________ Night 6 _________
+__________ Day 6 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 5 ***
+Axis planes repaired: 8
+Soviet planes repaired: 18
+Planes in repair with 0 damage: 160
+ Germany: 1 new pilot(s) arrived. Left in pool 111.
+__________ Night 7 _________
+__________ Day 7 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 6 ***
+Axis planes repaired: 5
+Soviet planes repaired: 21
+Planes in repair with 0 damage: 149
+ Germany: 2 new pilot(s) arrived. Left in pool 109.
+ Soviet Union: 1 new pilot(s) arrived. Left in pool 0.
+
+AIRCRAFT PERFORMANCE STATISTICS       DESTROYED     DAMAGED     DAMAGE POINTS      SORTIES
+____________________________________________________________________________________________
+F R I E N D L Y
+___________________________________
+               TOTAL                    0             0            0
+
+_____________________________________________________________________________
+E  N  E  M  Y
+___________________________________
+           Bf 109G-2                   20            26         1986               -
+                         Pe-2R 1943       20            24         1864              964
+___________________________________
+           Bf 110G-4                    3             3          331               -
+                         Pe-2R 1943        3             3          331              964
+___________________________________
+           Fw 190A-5                    3             3          568               -
+                         Pe-2R 1943        3             3          568              964
+___________________________________
+                FLAK                    5            46          104               -
+                              Pe-2R        1             6           15               -
+                         Pe-2R 1943        4            39           88               -
+                       F-6A Mustang        0             1            1               -
+___________________________________
+               TOTAL                   31            76         2867
+_____________________________________________________________________________
+
+Axis air FUEL used: 39
+Axis air sorties: 88
+Axis max fuel 25212 used by air group 967 (12 planes)
+Axis air AMMO used: 5
+Axis flak AMMO used: 46
+Soviet air FUEL used: 1606
+Soviet air sorties: 1239
+Soviet max fuel 35758 used by air group 2504 flight (12 planes)
+Soviet air AMMO used: 61
+Soviet flak AMMO used: 0
+
+Air phase execution time 1 min 22 sec
+_________________________________
+
+
+
+AIR BASE REPLACEMENT DETAILS
+20mm Flak38 AA Gun: 690 men
+88mm Flak18 AA Gun: 738 men
+20mm Quad Flak38 AA Gun: 1368 men
+37mm Flak36 AA Gun: 602 men
+Support: 6380 men
+Air Support: 66160 men
+Total: 75938 men
+
+Palermo Air Base: 652 men
+Comiso Air Base: 180 men
+Catania Air Base: 672 men
+Gerbini Air Base: 160 men
+Vibo Valentia Air Base: 672 men
+Leverano Air Base: 672 men
+Grottaglie Air Base: 390 men
+San Vito Dei Normanni Air Base: 490 men
+Foggia Air Base: 460 men
+Aquino Air Base: 1520 men
+Frosinone Air Base: 1230 men
+Ciampino Air Base: 210 men
+Fabrica di Roma Air Base: 100 men
+Florence Air Base: 218 men
+Parma Air Base: 294 men
+Piacenza Air Base: 1960 men
+Airasca Air Base: 732 men
+Merignac Air Base: 360 men
+Vannes Air Base: 672 men
+St Brieuc Air Base: 732 men
+St Dizier Air Base: 538 men
+Bretigny Air Base: 340 men
+Villacoublay Air Base: 1552 men
+St Andre-de-l'Eure Air Base: 672 men
+Pontoise Air Base: 370 men
+Beaumont  Air Base: 250 men
+Creil Air Base: 10 men
+Coulommiers Air Base: 1042 men
+Juvincourt Air Base: 538 men
+Bethune Air Base: 488 men
+St Trond Air Base: 642 men
+Utrecht Air Base: 60 men
+Venlo Air Base: 652 men
+Valence Air Base: 812 men
+Essen Air Base: 558 men
+Fassberg Air Base: 110 men
+Argos Air Base: 130 men
+Tartu Air Base: 2790 men
+Mogilev Air Base: 8460 men
+Dnepropetrovsk Air Base: 150 men
+Stalino Air Base: 640 men
+Kremenchug Air Base: 470 men
+Krasnoarmeyskoe Air Base: 2640 men
+Orsha Air Base: 3520 men
+Smolensk Air Base: 780 men
+Ostrov Air Base: 3100 men
+Kirovograd Air Base: 1240 men
+Konotop Air Base: 1330 men
+Pochinok Air Base: 26 men
+Bykhov Air Base: 2560 men
+Apostolovo Air Base: 3480 men
+Aleksandriya Air Base: 1520 men
+Voznesensk Air Base: 3340 men
+Bagerovo Air Base: 548 men
+Balbasava Air Base: 3940 men
+Gigant Air Base: 1830 men
+Kamary Air Base: 2210 men
+Vitebsk Air Base: 1364 men
+Zhodzina Air Base: 1470 men
+Valmiera Air Base: 1230 men
+Zubovo Air Base: 1870 men
+Berezino Air Base: 384 men
+Parnu Air Base: 2200 men
+Lebedin Air Base: 1260 men
+Karlovo Air Base: 208 men
+Plovdiv Air Base: 238 men
+Total: 75938 men
+__________________________________________
+
+3 damaged AFVs were returned to the pool
+
+AIR BASE REPLACEMENT DETAILS
+Air Support: 110 men
+Total: 110 men
+
+Ostrov Air Base: 100 men
+Berezino Air Base: 10 men
+Total: 110 men
+4 x SdKfz-250 Chassis exported from Germany to Rumania as SdKfz-250/9 Halftrack
+9 x 75mm Pak40 AT Gun exported from Germany to Hungary as 75mm Pak40 AT Gun
+2 x Stug IIIg exported from Germany to Hungary as Stug IIIg
+1 x Tiger exported from Germany to Hungary as Tiger
+2 x Panzer IVh exported from Germany to Hungary as Panzer IVh
+21 x Panzerschreck Team exported from Germany to Finland as Panzerschreck Team
+5 x L6/40 exported from Italy to Germany as Panzer L6 733(i)
+5 x L3/35 exported from Italy to Germany as Panzer L3 731(i)
+2 x 88mm Flak18 AA Gun exported from Germany to Finland as 88mm ItK/37 AA Gun
+6 x Semovente L40 da 47 exported from Italy to Germany as StuG L6 47/32 630(i)
+5 x AB41 Armored Car exported from Italy to Germany as AB41 201(i) Armored Car
+1 x Semovente M43 da 105 exported from Italy to Germany as Stug M43 853(i)
+2 x Semovente M42 da 75 exported from Italy to Germany as Stug M42 851(i)
+3 x Semovente M40 da 75 exported from Italy to Germany as Stug M42 850(i)
+5 x M-15/42 exported from Italy to Germany as Panzer M15/42 738(i)
+5 x M-13/40 exported from Italy to Germany as Panzer M13/40 735(i)
+4 x 75mm Pak40 AT Gun exported from Germany to Finland as 75mm K/40 AT Gun
+2 x 50mm Pak38 AT Gun exported from Germany to Hungary as 50mm 38M AT Gun
+4 x SM.82 Airframe exported from Italy to Germany as SM.82 (GE)
+10 x Bf 109G-14 exported from Germany to Italy as Bf 109G-14 (IT)
+1 x Bf 109G-8 exported from Germany to Hungary as Bf 109G-8 (HU)
+1 x Bf 110G-4 exported from Germany to Hungary as Bf 110G-4 (HU)
+3 x Ju 87D-3 exported from Germany to Hungary as Ju 87D (HU)
+2 x Me 210Ca-1 (HU) exported from Hungary to Germany as Me 210Ca-1
+5 x Ju 87D-5 exported from Germany to Bulgaria as Ju 87D-5 (BU)
+2 x Bf 109G-14 exported from Germany to Bulgaria as Bf 109G-14 Strela (BU)
+
+'IV./NJG 4 (Bf 110F-4)' RENAMED TO 'I./NJG 6 (Bf 110G-4)'
+
+
+
+2nd Panzer Army in hex 222,147 is no longer frozen
+4th Army in hex 215,138 is no longer frozen
+LIII Corps in hex 226,145 is no longer frozen
+LV Corps in hex 223,145 is no longer frozen
+197th Infantry Division in hex 209,134 is no longer frozen
+253rd Infantry Division in hex 213,135 is no longer frozen
+XXVII Corps in hex 209,137 is no longer frozen
+95th Infantry Division in hex 214,134 is no longer frozen
+129th Infantry Division in hex 212,134 is no longer frozen
+XXXIX Panzer Corps in hex 212,135 is no longer frozen
+183rd Infantry Division in hex 215,138 is no longer frozen
+IX Corps in hex 213,138 is no longer frozen
+252nd Infantry Division in hex 215,136 is no longer frozen
+35th Infantry Division in hex 214,135 is no longer frozen
+342nd Infantry Division in hex 215,137 is no longer frozen
+XII Corps in hex 218,138 is no longer frozen
+260th Infantry Division in hex 217,137 is no longer frozen
+268th Infantry Division in hex 216,137 is no longer frozen
+267th Infantry Division in hex 218,137 is no longer frozen
+LVI Panzer Corps in hex 218,141 is no longer frozen
+1/131st Infantry Division in hex 219,139 is no longer frozen
+707th Static Infantry Division in hex 222,147 is no longer frozen
+1/14th Infantry Division in hex 219,138 is no longer frozen
+2/14th Infantry Division in hex 219,138 is no longer frozen
+3/14th Infantry Division in hex 219,139 is no longer frozen
+52nd Infantry Division in hex 210,134 is no longer frozen
+256th Infantry Division in hex 208,134 is no longer frozen
+FBD - WVD Italien  ARRIVED at 136,227 (men 20000, guns 0, afv 0)
+Italien Rail construction Construction Battalion ARRIVED (men 1224, guns 0, afv 0)
+Italien Rail labor Construction Battalion ARRIVED (men 1224, guns 0, afv 0)
+Italien Railway engineers R.A.D. Labor Group ARRIVED (men 1368, guns 0, afv 0)
+246th Infantry Division in hex 211,134 is no longer frozen
+1/321st Infantry Division in hex 219,141 is no longer frozen
+2/321st Infantry Division in hex 220,142 is no longer frozen
+337th Infantry Division in hex 213,134 is no longer frozen
+91st LW Flak Regiment ARRIVED to 'Axis Reserves' (men 4060, guns 137, afv 0)
+137th LW Flak Regiment ARRIVED to 'Axis Reserves' (men 4060, guns 137, afv 0)
+1.(F)/AufklarGr 122 (Bf 110E-3) ARRIVED to the Axis Reserves
+III./JG 53 (Bf 109G-2) ARRIVED to the Axis Reserves
+II./JG 77 (Bf 109G-2) ARRIVED to the Axis Reserves
+Stab/ZG 26 (Bf 110F-2) ARRIVED to the Axis Reserves
+II./ZG 26 (Bf 110G-2) ARRIVED to the Axis Reserves
+Stab/KG 53 (He 111H-16/R1) ARRIVED to the Axis Reserves
+I./KG 53 (He 111H-16/R1) ARRIVED to the Axis Reserves
+III./KG 53 (He 111H-11) ARRIVED to the Axis Reserves
+I./KG 54 (Ju 88A-4) ARRIVED to the Axis Reserves
+II./KG 54 (Ju 88A-4) ARRIVED to the Axis Reserves
+II./KG 100 (Ju 88A-4) ARRIVED to the Axis Reserves
+3.(F)/AufklarGr 122 (Ju 88D-1) ARRIVED to the Axis Reserves
+Air Operational Group AufklarGr 123 ARRIVED
+Stab/AufklarGr 123 (Ju 88D-1) ARRIVED to the Axis Reserves
+5.(F)/AufklarGr 123 (Fw 190A-3/U4) ARRIVED to the Axis Reserves
+II./JG 2 (Bf 109G-6) ARRIVED to the Axis Reserves
+I./JG 26 (Fw 190A-5) ARRIVED to the Axis Reserves
+III./JG 26 (Bf 109G-6) ARRIVED to the Axis Reserves
+III./NJG 3 (Bf 110F-4) ARRIVED to the Axis Reserves
+I./KG 1 (Ju 88A-4) ARRIVED to the Axis Reserves
+IV./KG 2 (Do 217E-4) ARRIVED to the Axis Reserves
+III./KG 26 (He 111H-11 LT) ARRIVED to the Axis Reserves
+IV./KG 26 (He 111H-11 LT) ARRIVED to the Axis Reserves
+IV./KG 30 (Ju 88A) ARRIVED to the Axis Reserves
+II./KG 40 (Do 217E-4) ARRIVED to the Axis Reserves
+IV./KG 53 (He 111H-6) ARRIVED to the Axis Reserves
+IV./KG 55 (He 111H-6) ARRIVED to the Axis Reserves
+IV./KG 77 (Ju 88A-4) ARRIVED to the Axis Reserves
+IV./KG 100 (He 111H-6) ARRIVED to the Axis Reserves
+1./BoFlGr 196 (Ar 196A-3) ARRIVED to the Axis Reserves
+SAGr 128 (Ar 196A-3) ARRIVED to the Axis Reserves
+1./SAGr 129 (BV 222C) ARRIVED to the Axis Reserves
+II./LLG 1 (Go 244) ARRIVED to the Axis Reserves
+III./JG 1 (Bf 109G-6) ARRIVED to the Axis Reserves
+I./JG 11 (Fw 190A-5) ARRIVED to the Axis Reserves
+II./JG 11 (Bf 109G-2) ARRIVED to the Axis Reserves
+III./JG 11 (Bf 109G-6) ARRIVED to the Axis Reserves
+I./JG 300 (Bf 109G-6) ARRIVED to the Axis Reserves
+III./NJG 1 (Bf 110F-4) ARRIVED to the Axis Reserves
+IV./NJG 1 (Bf 110F-4) ARRIVED to the Axis Reserves
+III./NJG 2 (Ju 88C-6) ARRIVED to the Axis Reserves
+I./NJG 3 (Bf 110F-4) ARRIVED to the Axis Reserves
+II./NJG 3 (Bf 110F-4) ARRIVED to the Axis Reserves
+IV./NJG 3 (Ju 88C-6) ARRIVED to the Axis Reserves
+I./NJG 6 (Bf 110G-4) ARRIVED to the Axis Reserves
+Air Operational Group NJG 5 ARRIVED
+Stab/NJG 5 (Bf 110F-4) ARRIVED to the Axis Reserves
+II./NJG 5 (Bf 110F-4) ARRIVED to the Axis Reserves
+IV./NJG 5 (Ju 88C-6) ARRIVED to the Axis Reserves
+1.(F)/AufklarGr 121 (Ju 88D-1) ARRIVED to the Axis Reserves
+I./KG 102 (Ju 88A-4 LT) ARRIVED to the Axis Reserves
+II./KG 102 (He 111H-11 LT) ARRIVED to the Axis Reserves
+III./TG 1 (SM.82 (GE)) ARRIVED to the Axis Reserves
+II./StG 3 (Ju 87D-3) ARRIVED to the Axis Reserves
+II./KG 30 (Ju 88A) ARRIVED to the Axis Reserves
+Aufklaerstaffel Kroatien (Hs 126B-1) ARRIVED to the Axis Reserves
+2.(F)/AufklarGr 123 (Ju 88D-1) ARRIVED to the Axis Reserves
+IV./JG 27 (Bf 109G-6) ARRIVED to the Axis Reserves
+11./ZG 26 (Ju 88C-6) ARRIVED to the Axis Reserves
+III./KG 100 (He 111H-6) ARRIVED to the Axis Reserves
+Air Operational Group LG 1 ARRIVED
+Stab/LG 1 (Ju 88A) ARRIVED to the Axis Reserves
+I./LG 1 (Ju 88A) ARRIVED to the Axis Reserves
+SAGr 126 (Ar 196A-3) ARRIVED to the Axis Reserves
+1.(H)/AufklarGr 14 (Fw 189A) ARRIVED to the Axis Reserves
+Air Operational Group ZG 2 ARRIVED
+Stab/ZG 2 (Bf 110F-2) ARRIVED to the Axis Reserves
+I./NJG 5 (Bf 110F-4) ARRIVED to the Axis Reserves
+III./SKG 10 (Fw 190A-4) ARRIVED to the Axis Reserves
+15./KG 53 (Croat) (Do 217E-4) ARRIVED to the Axis Reserves
+IV./KG 76 (Ju 88A) ARRIVED to the Axis Reserves
+I./TG 5 (Me 323) ARRIVED to the Axis Reserves
+I./TG 2 (Ju 52/3m) ARRIVED to the Axis Reserves
+
+
+******************* LIGHT WEAPONS POOL UPGRADES ************************
+55 x 7.92mm MG34 Machine Gun in pool upgrade to 7.92mm MG42 Machine Gun
+1249 x Rifle Squad 40 in pool upgrade to Rifle Squad 43
+2021 x Pioneer Squad 39 in pool upgrade to Pioneer Squad 43
+1175 x Cavalry Squad 39 in pool upgrade to Cavalry Squad 43
+1525 x 7.92mm PzB 39 AT-Rifle in pool upgrade to Panzerschreck Team
+905 x Motorized Rifle Squad 40 in pool upgrade to Motorized Rifle Squad 43
+685 x Motorized Rifle Squad (+) in pool upgrade to Motorized Rifle Squad 43
+200 x Panzer Grenadier Squad 40 in pool upgrade to Panzer Grenadier Squad 43
+72 x Panzer Pioneer Squad 40 in pool upgrade to Panzer Pioneer Squad 43
+108 x Panzer Pioneer Squad 43 in pool upgrade to Panzer Pioneer Squad 44
+1304 x Fallschirmjaeger Squad 40 in pool upgrade to Fallschirmjaeger Squad 43
+325 x Security Squad 39 in pool upgrade to Security Squad 43
+34 x Engineer Squad 41 in pool upgrade to Engineer Squad 43
+1365 x Rifle Squad 42 in pool upgrade to Rifle Squad 43
+68 x Rifle Squad 39 in pool upgrade to Rifle Squad 42
+215 x Pioneer Squad 39 in pool upgrade to Pioneer Squad 43
+58 x Motor Squad 39 in pool upgrade to Motor Squad 43
+298 x 8mm 31M Machine Gun in pool upgrade to 7.92mm MG42 Machine Gun
+602 x Rifle Squad 39 in pool upgrade to Rifle Squad 43
+160 x Pioneer Squad 39 in pool upgrade to Pioneer Squad 43
+101 x Cavalry Squad 39 in pool upgrade to Cavalry Squad 43
+66 x Rifle Squad 39 in pool upgrade to Rifle Squad 43
+31 x Motorcycle Squad 39 in pool upgrade to Motorcycle Squad 43
+55 x Panzer Recon Section 42 in pool upgrade to Panzer Recon Section 43
+184 x Bicycle Recon Squad 40 in pool upgrade to Bicycle Recon Squad 43
+179 x Mot. Recon Section 42 in pool upgrade to Mot. Recon Section 43
+79 x Rifle Squad 42 in pool upgrade to Rifle Squad 43
+25 x Pioneer Squad 42 in pool upgrade to Pioneer Squad 43
+25 x 7.92mm PzB 39 AT-Rifle in pool upgrade to Panzerschreck Team
+************************************************************************
+ 
+1st Panzer Division (Ger) upgrades to 43b Tier 1 Panzer Division TOE 
+IV/109th Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+632nd Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+22nd Airlanding Division (Ger) upgrades to 44 Airlanding Division TOE 
+1st Mountain Division (Ger) upgrades to 43b Mountain Division TOE 
+100th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+297th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+South Cavalry Regiment (Ger) upgrades to 44 Cavalry Regiment TOE 
+44th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+207th Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+84th LW SP Light Flak Battalion (Ger) upgrades to 43 LW SP Light Flak Battalion TOE 
+373rd Croat. Infantry Division (AG) upgrades to 43b 17th Wave Infantry Division TOE 
+389th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+11th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+963rd Fortress Infantry Brigade (Ger) upgrades to 43 Fortress Infantry Brigade TOE 
+239th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+242nd Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+259th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+276th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+277th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+909th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+11th SS Panzergrenadier Division (Ger) upgrades to 43b SS Type 2 Panzergrenadier Division TOE 
+3rd SS Estonian Motorized Brigade (Ger) upgrades to 43b 1st RFSS Motorized Brigade TOE 
+I/101st Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+2nd Fallschirmjaeger Division (Ger) upgrades to 43b Fallschirmjaeger Division TOE 
+13th SS Mountain Division (AG) upgrades to 43b SS Type 2 Mountain Division TOE 
+326th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+355th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+715th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+20th Schnelle Brigade (Ger) upgrades to 43b Schnelle Brigade TOE 
+West Schnelle Division (Ger) upgrades to 43b Tier 2 Panzergrenadier Division TOE 
+508th Heavy Panzer Battalion (Ger) upgrades to 44 Heavy Panzer Battalion TOE 
+200th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+279th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+280th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+325th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+6th SS Flan. Mot. Sturm Brigade (Ger) upgrades to 43b SS Type 2 Panzergrenadier Division TOE 
+7 AOK Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+456th Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+510th Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+900th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+7th SS Mountain Division (Ger) upgrades to 43b Nord SS Mountain Division TOE 
+104th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+114th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+117th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+118th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+1st Kreta Fortress Infantry Brigade (Ger) upgrades to 43 Fortress Infantry Brigade TOE 
+2nd Kreta Fortress Infantry Brigade (Ger) upgrades to 43 Fortress Infantry Brigade TOE 
+125th Mot. Grenadier Regiment (Ger) upgrades to 44a Mot. Grenadier Regiment TOE 
+48th Mountain Mot. Panzerjaeger Battalion (Ger) upgrades to 44 Mot. Heavy Panzerjaeger Battalion TOE 
+659th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+936th Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+Angers School Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+Crete Fortress Infantry Brigade (Ger) upgrades to 43 Fortress Infantry Brigade TOE 
+969th Fortress Infantry Brigade (Ger) upgrades to 43 Fortress Infantry Brigade TOE 
+201st Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+201st Security Division (Ger) upgrades to 44a Security Division TOE 
+270th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+French Volunteer Grenadier Regiment (Ger) upgrades to 43c SS Volunteer Grenadier Regiment TOE 
+660th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+32nd Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+30th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+126th Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+290th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+81st Infantry Division (Ger) upgrades to 43b 6th Wave Infantry Division TOE 
+123rd Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+1st Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+5th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+18th Panzergrenadier Division (Ger) upgrades to 43b Tier 2 Panzergrenadier Division TOE 
+657th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+184th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+8th Panzer Division (Ger) upgrades to 43b Tier 4 Panzer Division TOE 
+1/3rd Mountain Division (Ger) upgrades to 43b Mountain Division TOE 
+185th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+505th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+205th Infantry Division (Ger) upgrades to 43b 3rd Wave Infantry Division TOE 
+2nd Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+1st Panzer Division (Ger) upgrades to 44 Tier 1 Panzer Division TOE 
+12th Panzer Division (Ger) upgrades to 43b Tier 4 Panzer Division TOE 
+Grossdeutschland Panzergrenadier Division (Ger) upgrades to 43c GD Panzergrenadier Division TOE 
+189th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+561st SP Panzerjaeger Battalion (Ger) upgrades to 43 Marder SP Panzerjaeger Battalion TOE 
+9th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+19th Panzer Division (Ger) upgrades to 43b Tier 4 Panzer Division TOE 
+183rd Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+342nd Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+2nd Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+260th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+1/263rd Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+2/263rd Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+3/263rd Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+267th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+10th Panzergrenadier Division (Ger) upgrades to 43b Tier 2 Panzergrenadier Division TOE 
+1/131st Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+2/131st Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+3/131st Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+331st Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+1/291st Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+2/291st Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+3/291st Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+6th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+58th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+707th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+20th Panzergrenadier Division (Ger) upgrades to 43b Tier 2 Panzergrenadier Division TOE 
+3rd Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+4th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+7th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+11th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+13th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+14th Panzer Division (Ger) upgrades to 43b Tier 3 Panzer Division TOE 
+16th Panzer Division (Ger) upgrades to 43b Tier 3 Panzer Division TOE 
+17th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+18th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+Das Reich SS Panzergrenadier Division (Ger) upgrades to 43 SS Panzer Division TOE 
+Totenkopf SS Panzergrenadier Division (Ger) upgrades to 43 SS Panzer Division TOE 
+Wiking SS Panzergrenadier Division (Ger) upgrades to 43 SS Panzer Division TOE 
+1/14th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+2/14th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+3/14th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+16th Panzergrenadier Division (Ger) upgrades to 43b Tier 1 Panzergrenadier Division TOE 
+29th Panzergrenadier Division (Ger) upgrades to 43b Tier 1 Panzergrenadier Division TOE 
+Feldherrnhalle Panzergrenadier Division (Ger) upgrades to 43b Tier 2 Panzergrenadier Division TOE 
+24th Panzer Division (Ger) upgrades to 43b Tier 3 Panzer Division TOE 
+4th Mountain Division (Ger) upgrades to 43b Mountain Division TOE 
+97th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+101st Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+1st Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+9th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+12th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+17th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+23rd Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+26th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+28th Jaeger Division (Ger) upgrades to 43b Jaeger Division TOE 
+44th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+1/56th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+2/56th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+3/56th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+57th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+61st Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+1/62nd Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+2/62nd Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+3/62nd Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+75th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+79th Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+111th Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+113th Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+121st Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+125th Infantry Division (Ger) upgrades to 43 nA Type 3 Infantry Division TOE 
+1/161st Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+2/161st Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+3/161st Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+170th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+250th 'Blue' Infantry Division (Ger) upgrades to 43 nA Type 1 Infantry Division TOE 
+254th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+269th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+295th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+297th Infantry Division (Ger) upgrades to 44 Type 3 Infantry Division TOE 
+299th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+2nd Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+4th Rum. Infantry Division (Rum) upgrades to 42b Rum. Infantry Division TOE 
+5th Rum. Infantry Division (Rum) upgrades to 43 Rum. Infantry Division TOE 
+6th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+7th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+9th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+10th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+11th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+13th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+14th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+15th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+18th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+19th Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+21st Rum. Infantry Division (Rum) upgrades to 44 Rum. Infantry Division TOE 
+2nd Slov. Security Division (Slo) upgrades to 43 Slov. Security Division TOE 
+213th Security Division (Ger) upgrades to 44a Security Division TOE 
+285th Security Division (Ger) upgrades to 44a Security Division TOE 
+403rd Security Division (Ger) upgrades to 44a Security Division TOE 
+444th Security Division (Ger) upgrades to 44a Security Division TOE 
+454th Security Division (Ger) upgrades to 44a Security Division TOE 
+1st Hun. Armored Division (Hun) upgrades to 43a Hun. Armored Division TOE 
+North Cavalry Regiment (Ger) upgrades to 44 Cavalry Regiment TOE 
+1st Rum. Cavalry Division (Rum) upgrades to 44 Rum. Cavalry Division TOE 
+5th Rum. Cavalry Division (Rum) upgrades to 44 Rum. Cavalry Division TOE 
+8th Rum. Cavalry Division (Rum) upgrades to 44 Rum. Cavalry Division TOE 
+1st Hun. Mountain Brigade (Hun) upgrades to 43 Hun. Mountain Brigade TOE 
+1st Rum. Mountain Division (Rum) upgrades to 44 Rum. Mountain Division TOE 
+2nd Rum. Mountain Division (Rum) upgrades to 44 Rum. Mountain Division TOE 
+3rd Rum. Mountain Division (Rum) upgrades to 44 Rum. Mountain Division TOE 
+4th Rum. Mountain Division (Rum) upgrades to 44 Rum. Mountain Division TOE 
+1st Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+5th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+6th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+7th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+8th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+9th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+10th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+13th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+15th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+16th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+19th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+20th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+23rd Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+24th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+25th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+27th Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+1st Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+2nd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+3rd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+203rd Security Division (Ger) upgrades to 44a Security Division TOE 
+2nd Hun. Light Division (Hun) upgrades to 44a Hun. Reserve Infantry Division TOE 
+8th Hun. Border Guard Brigade (Hun) upgrades to 44 Hun. Border Guard Brigade TOE 
+9th Hun. Border Guard Brigade (Hun) upgrades to 44 Hun. Border Guard Brigade TOE 
+10th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+11th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+13th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+14th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+15th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+16th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+Dirlewanger SS Infantry Regiment (Ger) upgrades to 44a Grenadier Regiment TOE 
+18th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+19th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+20th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+23rd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+24th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+191st Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+203rd Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+210th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+226th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+243rd Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+600th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+28th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+29th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+521st SP Panzerjaeger Battalion (Ger) upgrades to 43 Marder SP Panzerjaeger Battalion TOE 
+30th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+31st Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+32nd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+559th SP Panzerjaeger Battalion (Ger) upgrades to 43 Marder SP Panzerjaeger Battalion TOE 
+33rd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+34th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+35th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+36th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+37th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+563rd SP Panzerjaeger Battalion (Ger) upgrades to 43 Marder SP Panzerjaeger Battalion TOE 
+38th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+616th SP Panzerjaeger Battalion (Ger) upgrades to 43 Marder SP Panzerjaeger Battalion TOE 
+39th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+40th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+41st Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+42nd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+46th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+50th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+51st Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+51st Rum. Mot. Anti-tank Company (Rum) upgrades to 41b Rum. Mot. Anti-tank Company TOE 
+52nd Rum. Mot. Anti-tank Company (Rum) upgrades to 41b Rum. Mot. Anti-tank Company TOE 
+53rd Rum. Mot. Anti-tank Company (Rum) upgrades to 41b Rum. Mot. Anti-tank Company TOE 
+54th Rum. Mot. Anti-tank Company (Rum) upgrades to 41b Rum. Mot. Anti-tank Company TOE 
+55th Rum. Mot. Anti-tank Company (Rum) upgrades to 41b Rum. Mot. Anti-tank Company TOE 
+52nd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+53rd Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+54th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+55th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+56th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+57th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+4 AOK Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+58th Fortified Zone (Ger) upgrades to 43 Fortified Zone TOE 
+6 AOK Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+8 AOK Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+9 AOK Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+16 AOK Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+186th Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+393rd Sturm Infantry Battalion (Ger) upgrades to 43 Sturm Infantry Battalion TOE 
+II/40th Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+II/51st Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+II/71st Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+I/106th Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+I/3rd Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+I/2nd Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+II/70th Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+I/1st Lehr Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+II/2nd Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+III/1st Lehr Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+1st Lehr Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+48th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+50th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+60th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+70th Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+73rd Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+74th Mountain Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+85th Mountain Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+127th Pioneer Battalion (Ger) upgrades to 43a Pioneer Battalion TOE 
+207th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+213th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+215th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+255th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+627th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+651st Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+658th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+672nd Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+745th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+753rd Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+75th LW SP Light Flak Battalion (Ger) upgrades to 43 LW SP Light Flak Battalion TOE 
+76th LW Mot. Light Flak Battalion (Ger) upgrades to 43 LW Mot. Light Flak Battalion TOE 
+77th LW SP Light Flak Battalion (Ger) upgrades to 43 LW SP Light Flak Battalion TOE 
+92nd LW SP Light Flak Battalion (Ger) upgrades to 43 LW SP Light Flak Battalion TOE 
+101st Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+102nd Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+104th Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+105th Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+201st Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+202nd Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+203rd Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+204th Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+205th Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+I Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+II Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+V Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+VI Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+VII Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+VIII Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+IX Hun. Mot. AA Battalion (Hun) upgrades to 43 Hun. Mot. AA Battalion TOE 
+667th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+383rd Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+1/387th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+2/387th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+3/387th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+416th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+1/9th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+2/9th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+3/9th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+1/10th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+2/10th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+3/10th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+11th Luftwaffe Field Division (Ger) upgrades to 44b Luftwaffe Field Division TOE 
+13th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+1/16th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+2/16th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+3/16th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+20th Sturm Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+505th Heavy Panzer Battalion (Ger) upgrades to 44 Heavy Panzer Battalion TOE 
+52nd Panzer Battalion (Ger) upgrades to 44 Panther Panzer Battalion TOE 
+177th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+209th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+237th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+239th Stug Battalion (Ger) upgrades to 44 Stug Brigade TOE 
+242nd Stug Battalion (Ger) upgrades to 44 Stug Brigade TOE 
+249th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+904th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+909th Stug Battalion (Ger) upgrades to 44 Stug Brigade TOE 
+911th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+912th Stug Battalion (Ger) upgrades to 44a Stug Battalion TOE 
+II/1st Lehr Mot. Heavy Werfer Battalion (Ger) upgrades to 43a 300mm Mot. Heavy Werfer Battalion TOE 
+2nd Lehr Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+110th LW Flak Regiment (Ger) upgrades to 42 LW Flak Regiment TOE 
+99th LW SP Light Flak Battalion (Ger) upgrades to 43 LW SP Light Flak Battalion TOE 
+851st LW SP Light Flak Battalion (Ger) upgrades to 43 LW SP Light Flak Battalion TOE 
+26th Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+9th SS Panzergrenadier Division (Ger) upgrades to 43 SS Panzer Division TOE 
+16th SS Panzergrenadier Division (Ger) upgrades to 43b SS Type 2 Panzergrenadier Division TOE 
+157th Reserve Mountain Division (Ger) upgrades to 43b Mountain Division TOE 
+1/38th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+2/38th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+3/38th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+1/39th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+2/39th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+3/39th Infantry Division (Ger) upgrades to 43 nA Type 2 Infantry Division TOE 
+88th Infantry Division (Ger) upgrades to 43b 6th Wave Infantry Division TOE 
+96th Infantry Division (Ger) upgrades to 43b 5th Wave Infantry Division TOE 
+98th Infantry Division (Ger) upgrades to 43b 5th Wave Infantry Division TOE 
+148th Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+165th Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+1/182nd Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+2/182nd Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+3/182nd Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+1/282nd Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+2/282nd Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+3/282nd Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+189th Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+1/191st Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+2/191st Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+3/191st Reserve Infantry Division (Ger) upgrades to 43b 17th Wave Infantry Division TOE 
+212th Infantry Division (Ger) upgrades to 43b 3rd Wave Infantry Division TOE 
+215th Infantry Division (Ger) upgrades to 43b 3rd Wave Infantry Division TOE 
+216th Infantry Division (Ger) upgrades to 43b 3rd Wave Infantry Division TOE 
+304th Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+320th Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+1/321st Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+2/321st Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+3/321st Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+323rd Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+326th Static Infantry Division (Ger) upgrades to 44 Type 3 Infantry Division TOE 
+1/335th Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+2/335th Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+3/335th Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+336th Infantry Division (Ger) upgrades to 43 13th/14th Wave Infantry Division TOE 
+1/343rd Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+2/343rd Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+3/343rd Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+1/348th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+2/348th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+3/348th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+355th Infantry Division (Ger) upgrades to 44 Type 3 Infantry Division TOE 
+356th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+1/371st Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+2/371st Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+3/371st Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+1/376th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+2/376th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+3/376th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+1/709th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+2/709th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+3/709th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+1/711th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+2/711th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+3/711th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+18th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+325th Security Division (Ger) upgrades to 44a Security Division TOE 
+West Panzergrenadier Division (Ger) upgrades to 44 Tier 2 Panzergrenadier Division TOE 
+1/HG Fallschirm Nr.1 Panzer Division (Ger) upgrades to 44 HG Panzer Division TOE 
+2/HG Fallschirm Nr.1 Panzer Division (Ger) upgrades to 44 HG Panzer Division TOE 
+3/HG Fallschirm Nr.1 Panzer Division (Ger) upgrades to 44 HG Panzer Division TOE 
+Netherlands SS Grenadier Regiment (Ger) upgrades to 43c SS Volunteer Grenadier Regiment TOE 
+200th Stug Battalion (Ger) upgrades to 44 Stug Brigade TOE 
+280th Stug Battalion (Ger) upgrades to 44 Stug Brigade TOE 
+6th SS Flan. Panzergrenadier Division (Ger) upgrades to 44 SS Type 2 Panzergrenadier Division TOE 
+16th Machine Gun Battalion (Ger) upgrades to 44 Corps Machine Gun Battalion TOE 
+937th Mot. Mixed Artillery Battalion (Ger) upgrades to 44 Mot. Mixed Artillery Battalion TOE 
+81st LW Mot. Light Flak Battalion (Ger) upgrades to 43 LW Mot. Light Flak Battalion TOE 
+96th LW SP Light Flak Battalion (Ger) upgrades to 43 LW SP Light Flak Battalion TOE 
+4th Fallschirmjaeger Division (Ger) upgrades to 43b Fallschirmjaeger Division TOE 
+21st Panzer Division (Ger) upgrades to 43b Tier 2 Panzer Division TOE 
+90th Panzergrenadier Division (Ger) upgrades to 43b Tier 2 Panzergrenadier Division TOE 
+69th Infantry Division (Ger) upgrades to 43 1st/2nd Wave Infantry Division TOE 
+163rd Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+196th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+199th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+214th Infantry Division (Ger) upgrades to 43b 3rd Wave Infantry Division TOE 
+274th Fortress Infantry Division (Ger) upgrades to 43 Fortress Infantry Division TOE 
+280th Fortress Infantry Division (Ger) upgrades to 43 Fortress Infantry Division TOE 
+702nd Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+710th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+14th Luftwaffe Field Division (Ger) upgrades to 44a Luftwaffe Field Division TOE 
+388th Infantry Regiment (Ger) upgrades to 44a Grenadier Regiment TOE 
+25th Panzer Division (Ger) upgrades to 43b Tier 4 Panzer Division TOE 
+14th Mot. Machine Gun Battalion (Ger) upgrades to 44 Mot. Machine Gun Battalion TOE 
+Nord SS Mountain Division (Ger) upgrades to 43b Nord SS Mountain Division TOE 
+169th Infantry Division (Ger) upgrades to 43 nA Type 4 Infantry Division TOE 
+210th Fortress Infantry Division (Ger) upgrades to 43 Fortress Infantry Division TOE 
+1st Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+2nd Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+3rd Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+4th Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+5th Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+12th Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+14th Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+17th Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+19th Fin. Infantry Division (Fin) upgrades to 44 Fin. Infantry Division TOE 
+15th Fin. Infantry Brigade (Fin) upgrades to 44 Fin. Infantry Brigade TOE 
+1st Fin. Engineer Battalion (Fin) upgrades to 44 Fin. Engineer Battalion TOE 
+3rd Fin. Engineer Battalion (Fin) upgrades to 44 Fin. Engineer Battalion TOE 
+6th Fin. Engineer Battalion (Fin) upgrades to 44 Fin. Engineer Battalion TOE 
+11th Fin. Engineer Battalion (Fin) upgrades to 44 Fin. Engineer Battalion TOE 
+12th Fin. Engineer Battalion (Fin) upgrades to 44 Fin. Engineer Battalion TOE 
+13th Fin. Engineer Battalion (Fin) upgrades to 44 Fin. Engineer Battalion TOE 
+14 Fin. Engineer Battalion (Fin) upgrades to 44 Fin. Engineer Battalion TOE 
+5th Mountain Division (Ger) upgrades to 43b Mountain Division TOE 
+6th Mountain Division (Ger) upgrades to 43b Mountain Division TOE 
+Rhodos Sturm Division (Ger) upgrades to 43b Sturm Division TOE 
+713th Static Infantry Division (Ger) upgrades to 43b 15th Wave Static Infantry Division TOE 
+125th Mot. Grenadier Regiment (Ger) upgrades to 44b Mot. Grenadier Regiment TOE 
+666th Pioneer Battalion (Ger) upgrades to 43b Pioneer Battalion TOE 
+192nd Infantry Security Regiment (Ger) upgrades to 43 Infantry Security Regiment TOE 
+193rd Infantry Security Regiment (Ger) upgrades to 43 Infantry Security Regiment TOE 
+194th Infantry Security Regiment (Ger) upgrades to 43 Infantry Security Regiment TOE 
+195th Infantry Security Regiment (Ger) upgrades to 43 Infantry Security Regiment TOE 
+200th Infantry Security Regiment (Ger) upgrades to 43 Infantry Security Regiment TOE 
+201st Stug Battalion (Ger) upgrades to 44 Stug Brigade TOE 
+2./NAGr 2 air group upgraded planes from Bf 109G-4/R3 to Bf 109G-8
+I./JG 77 air group upgraded planes from Bf 109G-6 to Bf 109G-14
+Stab/JG 51 air group upgraded planes from Fw 190A-5 to Fw 190A-6
+PzJ/ZG 1 air group upgraded planes from Bf 110G-2 to Me 410A
+II./ZG 26 air group upgraded planes from Bf 110G-2 to Me 410A
+14./KG 55 (Eis) air group upgraded planes from He 111H-11 to He 111H-16/R1
+II./KG 2 air group upgraded planes from Do 217E-4 to Do 217K-M
+Stab/KG 4 air group upgraded planes from He 111H-11 to He 111H-16/R1
+Stab/NJG 3 air group upgraded planes from Bf 110F-4 to Bf 110G-4
+Stab/NJG 4 air group upgraded planes from Bf 110F-4 to Bf 110G-4
+Stab/KG 102 air group upgraded planes from Ju 88A-4 LT to Ju 88A-17
+Stab/StG 3 air group upgraded planes from Bf 110G-2 to Me 410A
+II./KG 26 air group upgraded planes from He 111H-11 LT to Ju 88A-17
+Stab/NAGr 2 air group changed planes from Bf 109G-4/R3 to Bf 109G-2/R2
+Stab/NAGr 3 air group changed planes from Bf 109G-4/R3 to Bf 109G-2/R2
+Stab/NAGr 4 air group changed planes from Bf 109G-4/R3 to Bf 109G-2/R2
+Stab/NAGr 5 air group changed planes from Bf 109G-4/R3 to Bf 109G-2/R2
+Stab/NAGr 6 air group changed planes from Bf 109G-4/R3 to Fw 189A
+Stab/NAGr 8 air group changed planes from Bf 109G-4/R3 to Fw 189A
+Stab/NAGr 11 air group changed planes from Bf 109G-4/R3 to Fw 189A
+Stab/NAGr 12 air group changed planes from Bf 109G-4/R3 to Fw 189A
+Stab/NAGr 14 air group changed planes from Bf 109G-4/R3 to Bf 109G-2/R2
+Stab/NAGr 16 air group changed planes from Bf 109G-4/R3 to Fw 189A
+1./NAGr 16 air group changed planes from Bf 109G-4/R3 to Fw 189A
+2./NAGr 16 air group changed planes from Bf 109G-4/R3 to Fw 189A
+3.(H)/AufklarGr 11 air group changed planes from Bf 110E-3 to Bf 110G-3
+Axis Reserves: 4.(H)/AufklarGr 33 air group changed planes from Bf 110C-5 to Ju 88D-1
+Axis Reserves: 1.(F)/Nacht AufklarGr air group changed planes from He 111P to Ju 88D-1
+Axis Reserves: 3.(F)/Nacht AufklarGr air group changed planes from Do 215B-4 to Ju 88D-1
+4.(F)/Nacht AufklarGr air group changed planes from Do 17P to Ju 88D-1
+I./Sch.G 1 air group changed planes from Fw 190F to Hs 129B
+I./JG 51 air group changed planes from Fw 190A-5 to Bf 109F-4
+III./JG 51 air group changed planes from Fw 190A-5 to Bf 109F-4
+15./JG 51 (Span) air group changed planes from Fw 190A-4 to Fw 190A
+Stab/JG 54 air group changed planes from Fw 190A-5 to Fw 190A
+Axis Reserves: Stab/ZG 26 air group changed planes from Bf 110F-2 to Me 210Ca-1
+Stab/StG 1 air group changed planes from Ju 87D-3 to Fw 190G
+II./StG 1 air group changed planes from Ju 87D-3 to Fw 190G
+III./StG 1 air group changed planes from Ju 87D-3 to Fw 190G
+PzJ/StG 1 air group changed planes from Ju 87G to Hs 129B
+Stab/StG 2 air group changed planes from Ju 87D-3 to Fw 190G
+I./StG 2 air group changed planes from Ju 87D-3 to Fw 190G
+III./StG 2 air group changed planes from Ju 87D-3 to Hs 129B
+10.(PzJ)/StG 2 air group changed planes from Ju 87G to Hs 129B
+Stab/StG 77 air group changed planes from Ju 87D-3 to Hs 129B
+I./StG 77 air group changed planes from Ju 87D-3 to Hs 129B
+II./StG 77 air group changed planes from Ju 87D-3 to Hs 129B
+Stab/KG 77 air group changed planes from Ju 88A-4 LT to He 111H-6 LT
+4.(F)/AufklarGr 123 air group changed planes from Bf 109F-4/R3 to Fw 189A
+Stab/JG 2 air group changed planes from Fw 190A-4 to Fw 190A
+Stab/JG 26 air group changed planes from Fw 190A-5 to Bf 109G-2
+Stab/SKG 10 air group changed planes from Fw 190A-5 to Bf 109G-2
+Stab/KG 40 air group changed planes from Fw 200C-3/U4 to Ju 88C-6a
+I./KG 40 air group changed planes from Fw 200C-3/U4 to Ju 88C-6a
+Stab/LLG 1 air group changed planes from Ju 52/3m to SM.82 (GE)
+Stab/JG 1 air group changed planes from Fw 190A-5 to Bf 109F-4
+Stab/JG 300 air group changed planes from Fw 190A-5 to Bf 109G-2
+Stab/TG 3 air group changed planes from Ju 52/3m to SM.82 (GE)
+Stab/TG 2 air group changed planes from Ju 52/3m to SM.82 (GE)
+Axis Reserves: Stab/ZG 2 air group changed planes from Bf 110F-2 to Me 210Ca-1
+Axis Reserves: Stab/Sch.G 2 air group changed planes from Fw 190A-5 to Bf 109G-2
+Axis Reserves: I./KG 50 air group changed planes from He 177A-1 to He 177A-3
+Stab/TG 1 air group changed planes from Ju 52/3m to SM.82 (GE)
+TGr. 30 air group changed planes from LeO 451 T to Go 244
+Stab/TG 4 air group changed planes from Ju 52/3m to SM.82 (GE)
+Stab/TG 5 air group changed planes from Ju 52/3m to SM.82 (GE)
+AIRCRAFT SWAP SUMMARY
+  30 x Bf 109G-4/R3 to 30 x Fw 189A
+  8 x Bf 109G-4/R3 to 8 x Bf 109G-2/R2
+  10 x Bf 110C-5 to 10 x Ju 88D-1
+  4 x Do 17P to 4 x Ju 88D-1
+  9 x Do 215B-4 to 9 x Ju 88D-1
+  80 x Fw 190A-5 to 80 x Bf 109F-4
+  9 x Fw 190A-5 to 9 x Bf 109G-2
+  4 x Fw 190A-5 to 4 x Fw 190A
+  12 x Fw 190A-4 to 12 x Fw 190A
+  38 x Fw 190F to 38 x Hs 129B
+  31 x Fw 200C-3/U4 to 31 x Ju 88C-6a
+  10 x Ju 52/3m to 10 x SM.82 (GE)
+  118 x Ju 87D-3 to 118 x Fw 190G
+  103 x Ju 87D-3 to 103 x Hs 129B
+  20 x Ju 87G to 20 x Hs 129B
+  3 x Ju 88A-4 LT to 3 x He 111H-6 LT
+  5 x Bf 110E-3 to 5 x Bf 110G-3
+  4 x Bf 110F-2 to 4 x Me 210Ca-1
+  6 x Bf 109F-4/R3 to 6 x Fw 189A
+  30 x He 177A-1 to 30 x He 177A-3
+  9 x He 111P to 9 x Ju 88D-1
+  29 x LeO 451 T to 29 x Go 244
+6 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251 Panzerwerfer (May 1944) in pool (Ger)
+13 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/9D Halftrack (Jan 1944) in pool (Ger)
+12 x SdKfz-7 Chassis (Apr 1940) upgraded to SdKfz-7/2 Flak43 (Mar 1944) in pool (Ger)
+13 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/21 AAMG (Aug 1944) in pool (Ger)
+1 x Tiger (Sep 1942) upgraded to Sturmmoerser (Aug 1944) in pool (Ger)
+48 x SdKfz-251 Chassis (Jun 1939) upgraded to Panzer Grenadier Squad 44 (Apr 1944) in pool (Ger)
+58 x Panzer IV Chassis (Oct 1937) upgraded to Panzer IVj (Mar 1944) in pool (Ger)
+5 x Panzer IV Chassis (Oct 1937) upgraded to Moebelwagen (Mar 1944) in pool (Ger)
+5 x Panzer IV Chassis (Oct 1937) upgraded to Wirbelwind (Jul 1944) in pool (Ger)
+2 x Panzer VI Chassis (Aug 1942) upgraded to Jagdtiger (Jul 1944) in pool (Ger)
+6 x Panzer V Chassis (Mar 1943) upgraded to Jagdpanther (Jan 1944) in pool (Ger)
+35 x Panzer IV Chassis (Oct 1937) upgraded to Jagdpanzer IV/70(V) (Aug 1944) in pool (Ger)
+61 x Panzer 38(t) Chassis (Jan 1938) upgraded to Jagdpanzer 38 Hetzer (Jun 1944) in pool (Ger)
+18 x Panzer IV Chassis (Oct 1937) upgraded to Jagdpanzer IV (Jan 1944) in pool (Ger)
+8 x Panzer VI Chassis (Aug 1942) upgraded to King Tiger (Jan 1944) in pool (Ger)
+62 x Panzer V Chassis (Mar 1943) upgraded to Panther G (May 1944) in pool (Ger)
+12 x 75mm Pak97/38 AT Gun (Apr 1942) upgraded to 75mm FK97/38(f) Field Gun (Jan 1943) in pool (Ger)
+12 x SdKfz-10 Chassis (Jun 1938) upgraded to SdKfz-10/5 Flak38 (Aug 1943) in pool (Ger)
+1 x SdKfz-250 Chassis (Dec 1941) upgraded to SdKfz-250/8 Halftrack (Dec 1943) in pool (Ger)
+3 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/16 Halftrack (Jan 1943) in pool (Ger)
+24 x SdKfz-250 Chassis (Dec 1941) upgraded to Panzer Recon Section 43 (Oct 1943) in pool (Ger)
+6 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/2D Mortar Carrier (Oct 1943) in pool (Ger)
+17 x Panzer IV Chassis (Oct 1937) upgraded to Stug IV (Dec 1943) in pool (Ger)
+15 x SdKfz-251 Chassis (Jun 1939) upgraded to Panzer Pioneer Squad 44 (Oct 1943) in pool (Ger)
+12 x SdKfz-251 Chassis (Jun 1939) upgraded to SdKfz-251/17 Halftrack (Oct 1943) in pool (Ger)
+6 x Panzer IV Chassis (Oct 1937) upgraded to Hummel (Feb 1943) in pool (Ger)
+5 x Panzer IV Chassis (Oct 1937) upgraded to Nashorn (Mar 1943) in pool (Ger)
+12 x Panzer III Chassis (May 1937) upgraded to StuH42 (Mar 1943) in pool (Ger)
+3 x Panzer IV Chassis (Oct 1937) upgraded to Sturmpanzer IV (Apr 1943) in pool (Ger)
+8 x SdKfz-250 Chassis (Dec 1941) upgraded to SdKfz-250/9 Halftrack (Nov 1942) in pool (Ger)
+4 x SdKfz-250 Chassis (Dec 1941) upgraded to SdKfz-250/7 Mortar Carrier (Jan 1942) in pool (Ger)
+65 x Panzer III Chassis (May 1937) upgraded to Stug IIIg (Dec 1942) in pool (Ger)
+4 x SdKfz-7 Chassis (Apr 1940) upgraded to SdKfz-7/1 Flak38 (Apr 1940) in pool (Ger)
+177 x Bf 109 Airframe (Jan 1937) upgraded to Bf 109G-14 (Jun 1944) in pool (Ger)
+66 x Bf 109 Airframe (Jan 1937) upgraded to Bf 109G-14/AS (Jul 1944) in pool (Ger)
+19 x Bf 109 Airframe (Jan 1937) upgraded to Bf 109G-8 (Oct 1943) in pool (Ger)
+28 x Bf 110 Airframe (Aug 1940) upgraded to Bf 110G-4/R8 (Aug 1944) in pool (Ger)
+63 x Fw 190 Airframe (Sep 1941) upgraded to Fw 190D-9 (Sep 1944) in pool (Ger)
+8 x Hs 129 Airframe (Nov 1941) upgraded to Hs 129B (Nov 1941) in pool (Ger)
+11 x Ju 88 Airframe (Sep 1939) upgraded to Ju 188A-E (Aug 1943) in pool (Ger)
+25 x Ju 87 Airframe (Sep 1939) upgraded to Ju 87D-5 (Jul 1943) in pool (Ger)
+110 x Fw 190 Airframe (Sep 1941) upgraded to Fw 190A-8 (Apr 1944) in pool (Ger)
+55 x Fw 190 Airframe (Sep 1941) upgraded to Fw 190F-8 (Apr 1944) in pool (Ger)
+9 x Ju 88 Airframe (Sep 1939) upgraded to Ju 188D-F (Aug 1943) in pool (Ger)
+2 x Ar 196 Airframe (Aug 1939) upgraded to Ar 196A-3 (Oct 1940) in pool (Ger)
+1 x IAR 39 (Aug 1939) upgraded to IAR 39 Rcn (Jun 1943) in pool (Rum)
+1 x IAR 39 Airframe (Aug 1939) upgraded to IAR 39 (Aug 1939) in pool (Rum)
+28 x Fw 190 Airframe (Sep 1941) upgraded to Fw 190A-9 1944 (Sep 1944) in pool (Ger)
+37 x Bf 109 Airframe (Jan 1937) upgraded to Bf 109G-14/U4 (Aug 1944) in pool (Ger)
+6 x Me 410A (Jan 1943) upgraded to Me 410A-3 (Aug 1943) in pool (Ger)
+24 x Ju 88 Airframe (Sep 1939) upgraded to Ju 88S (Jan 1944) in pool (Ger)
+3 x Ju 188A-E (Aug 1943) upgraded to Ju 188A-3 (Jan 1944) in pool (Ger)
+2 x Ju 188D-F (Aug 1943) upgraded to Ju 188F-2 (Jul 1943) in pool (Ger)
+36 x Ju 88 Airframe (Sep 1939) upgraded to Ju 88G-6 (Aug 1944) in pool (Ger)
+20 x Fw 190A-8 (Apr 1944) upgraded to Fw 190A-8/R8 (Apr 1944) in pool (Ger)
+
+ 
+Leipzig sends 49 trucks to Tilsit
+Leipzig sends 44 trucks to Beuthen
+Leipzig sends 1 trucks to Nyiregyhasa
+Leipzig sends 39 trucks to Sofia
+Leipzig sends 36 trucks to Krakow
+Leipzig sends 32 trucks to Orel
+Leipzig sends 29 trucks to Vitebsk
+Leipzig sends 26 trucks to Smolensk
+Leipzig sends 1 trucks to Mogilev
+Leipzig sends 23 trucks to Bryansk
+Leipzig sends 1 trucks to Lvov
+Leipzig sends 21 trucks to Kharkov
+Leipzig sends 19 trucks to Stalino
+Leipzig sends 17 trucks to Nevel
+Leipzig sends 15 trucks to Volot
+Leipzig sends 1 trucks to Papasnaya
+Leipzig sends 1 trucks to Vorozhba
+Leipzig sends 13 trucks to Kramatorskaya
+Leipzig sends 1 trucks to Sarajevo
+Hamburg sends 70 trucks to Leipzig
+Leipzig sends 17 trucks to Shepetovka
+Hamburg sends 1 trucks to Breslau
+Hamburg sends 1 trucks to Cottbus
+Hamburg sends 1 trucks to Graz
+Hamburg sends 1 trucks to Frankfurt an der Oder
+Hamburg sends 1 trucks to NE Berlin
+Hamburg sends 1 trucks to W Berlin
+Hamburg sends 62 trucks to Boehlen
+Hamburg sends 1 trucks to Bautzen
+Hamburg sends 1 trucks to Zossen
+Hamburg sends 1 trucks to Ruhland
+Hamburg sends 1 trucks to Steyr
+Hamburg sends 1 trucks to Bruck an der Mur
+Hamburg sends 1 trucks to Ploesti
+Hamburg sends 1 trucks to Campina
+Hamburg sends 1 trucks to Budapest
+Hamburg sends 1 trucks to Szombathely
+Hamburg sends 1 trucks to Gyor
+Hamburg sends 1 trucks to Satu Mare
+Hamburg sends 1 trucks to Ostrava
+Hamburg sends 1 trucks to Floridsdorf
+Hamburg sends 1 trucks to Bydgoszcz
+Hamburg sends 1 trucks to Warsaw
+Hamburg sends 1 trucks to Lodz
+Hamburg sends 1 trucks to Poznan
+Hamburg sends 1 trucks to Lublin
+Hamburg sends 1 trucks to Radom
+Hamburg sends 1 trucks to Nowy Sacz
+Hamburg sends 1 trucks to Kaunas
+Hamburg sends 1 trucks to Gomel
+Hamburg sends 1 trucks to Brest Litovsk
+Hamburg sends 54 trucks to Pskov
+Hamburg sends 1 trucks to Kiev
+Hamburg sends 1 trucks to Zhitomir
+Hamburg sends 1 trucks to Chernovtsy
+Hamburg sends 1 trucks to Kremenchug
+Hamburg sends 48 trucks to Torkovichi
+Hamburg sends 43 trucks to Siauliai
+Hamburg sends 39 trucks to Kovel
+Hamburg sends 1 trucks to Tarnopol
+Hamburg sends 1 trucks to Proskurov
+Hamburg sends 1 trucks to Stanislav
+Hamburg sends 1 trucks to Jelgava
+Hamburg sends 1 trucks to Krasnogvardeysk
+Hamburg sends 34 trucks to Gorlovka
+Hamburg sends 1 trucks to Soltsy
+Hamburg sends 1 trucks to Belgrade
+Danzig sends 1 trucks to Rovno
+Hannover sends 80 trucks to Rathenow
+Magdeburg sends 1 trucks to Liegnitz
+Magdeburg sends 1 trucks to Linz
+Magdeburg sends 1 trucks to Wiener Neustadt
+Magdeburg sends 1 trucks to Timisoara
+Magdeburg sends 1 trucks to Bucharest
+Magdeburg sends 1 trucks to Brasov
+Magdeburg sends 1 trucks to Pitesti
+Magdeburg sends 1 trucks to Sibiu
+Magdeburg sends 1 trucks to Dacia Romana
+Magdeburg sends 1 trucks to Resita
+Magdeburg sends 1 trucks to Kassa
+Magdeburg sends 1 trucks to Miskolc
+Magdeburg sends 1 trucks to Bratislava
+Magdeburg sends 1 trucks to Brunn
+Magdeburg sends 1 trucks to Zamosc
+Magdeburg sends 1 trucks to Bialystok
+Magdeburg sends 1 trucks to Vinnitsa
+Magdeburg sends 1 trucks to Dnepropetrovsk
+Magdeburg sends 1 trucks to Kishinev
+Magdeburg sends 1 trucks to Kirovograd
+Magdeburg sends 1 trucks to Chernigov
+Magdeburg sends 1 trucks to Idritsa
+Magdeburg sends 1 trucks to Kobrin
+Vienna sends 30 trucks to Suwalki
+Vienna sends 24 trucks to Iasi
+Vienna sends 18 trucks to Galati
+Nuremberg sends 1 trucks to Dresden
+Oppeln sends 1 trucks to Baranovichi
+Oppeln sends 1 trucks to Fastov
+Bremerhaven sends 28 trucks to Regensburg
+Bremen sends 1 trucks to Magdeburg
+Bremen sends 1 trucks to Chemnitz
+Bremen sends 1 trucks to Munich
+Bremen sends 1 trucks to Brandenburg
+Bremen sends 1 trucks to Halle
+Bremen sends 1 trucks to Plauen
+Bremen sends 1 trucks to Ingolstadt
+Bremen sends 1 trucks to Zeitz
+Bremen sends 1 trucks to Muecheln
+Bremen sends 1 trucks to Pilsen
+Bremen sends 1 trucks to Katowice
+Cologne sends 126 trucks to Hannover
+Cologne sends 95 trucks to Nuremberg
+Nuremberg sends 23 trucks to Oppeln
+Nuremberg sends 18 trucks to Arad
+Nuremberg sends 13 trucks to Biala Podlaska
+Nuremberg sends 10 trucks to Rzeszow
+Oppeln sends 5 trucks to Sonda
+Cologne sends 72 trucks to Kassel
+Cologne sends 53 trucks to Braunschweig
+Cologne sends 40 trucks to St Poelten
+Cologne sends 31 trucks to Schweinfurt
+Cologne sends 23 trucks to Erfurt
+Frankfurt sends 168 trucks to Bologna
+Frankfurt sends 135 trucks to Craiova
+Frankfurt sends 111 trucks to Buzau
+Frankfurt sends 91 trucks to Focsani
+Frankfurt sends 76 trucks to Suceava
+Frankfurt sends 62 trucks to Tulcea
+Frankfurt sends 52 trucks to Barlad
+Frankfurt sends 45 trucks to Dorohoi
+Frankfurt sends 38 trucks to Debrecen
+Frankfurt sends 33 trucks to Szolnok
+Frankfurt sends 29 trucks to Szeged
+Frankfurt sends 24 trucks to Kaposvar
+Frankfurt sends 21 trucks to Pecs
+Frankfurt sends 20 trucks to Cluj
+Frankfurt sends 17 trucks to Oradea
+Frankfurt sends 14 trucks to Sighet
+Frankfurt sends 13 trucks to Ungvar
+Frankfurt sends 12 trucks to Targu Mures
+Frankfurt sends 11 trucks to Wyszkow
+Suwalki sends 19 trucks to Daugavpils
+Suwalki sends 16 trucks to Minsk
+Suwalki sends 4 trucks to Poltava
+Suwalki sends 3 trucks to Cherkassy
+Suwalki sends 2 trucks to Orsha
+Suwalki sends 11 trucks to Tiraspol
+St Poelten sends 10 trucks to Vilnius
+Darmstadt sends 166 trucks to Halberstadt
+Darmstadt sends 120 trucks to Valga
+Darmstadt sends 90 trucks to Nikopol (e)
+Milan sends 558 trucks to Chelm
+Milan sends 504 trucks to Grodno
+Milan sends 204 trucks to Melitopol
+Milan sends 240 trucks to Spas-Demensk
+Milan sends 171 trucks to Beltsy
+Milan sends 270 trucks to Sambor
+Milan sends 433 trucks to Bessarabskaya
+Brussels sends 437 trucks to Stuttgart
+Brussels sends 329 trucks to Darmstadt
+Brussels sends 248 trucks to Dortmund
+Dortmund sends 62 trucks to Lehrte
+Bordeaux sends 275 trucks to Brussels
+Bordeaux sends 206 trucks to Lyon
+Bordeaux sends 155 trucks to Dijon
+Bordeaux sends 116 trucks to Rouen
+Bordeaux sends 87 trucks to Lille
+380 trucks have been lost during the campaign due to unit movement
+Bologna ships 98 supply from pool to Reggio Emilia
+Milan ships 431 supply from pool to Parma
+Milan ships 38 supply from pool to Bergamo
+Naples ships 706 supply from pool to Frosinone
+Taranto ships 1 supply from pool to Grottaglie
+Bari ships 373 supply from pool to Grottaglie
+Rome ships 832 supply from pool to Tarquinia
+Essen ships 500 supply from pool to Venlo
+Stalino ships 500 supply from pool to Krasnoarmeyskoe
+Nikopol (e) ships 493 supply from pool to Apostolovo
+Vorozhba ships 500 supply from pool to Konotop
+Stalino ships 500 supply from pool to Gigant
+Vitebsk ships 500 supply from pool to Kamary
+Dijon ships 372 supply from pool to Dole
+Dijon ships 102 supply from pool to Chaumont
+Lille ships 431 supply from pool to Boulogne
+Lille ships 750 supply from pool to Athies
+Paris ships 1 supply from pool to Poissy
+Rouen ships 298 supply from pool to Poissy
+Lille ships 750 supply from pool to Champagne
+Rouen ships 375 supply from pool to Villacoublay
+Rouen ships 1000 supply from pool to Bretigny
+Rouen ships 1000 supply from pool to Melun
+Bologna ships 750 supply from pool to Arlena di Castro
+Milan ships 500 supply from pool to Castiglione del Lago
+Bari ships 750 supply from pool to Leverano
+Bologna ships 500 supply from pool to Fiano
+Milan ships 500 supply from pool to Cecina
+Milan ships 500 supply from pool to Lagnasco
+Bologna ships 500 supply from pool to Metato
+Genoa ships 750 supply from pool to Levaldigi
+Bologna ships 500 supply from pool to Bovolone
+Bologna ships 500 supply from pool to Bolsena
+Bologna ships 500 supply from pool to Foiana della Chiana
+Bari ships 322 supply from pool to Manduria
+Rotterdam ships 750 supply from pool to Tilburg
+Lille ships 500 supply from pool to Audembert
+Cherbourg ships 750 supply from pool to Lessay
+Brussels ships 500 supply from pool to Cerfontaines
+Rouen ships 500 supply from pool to Oysonville
+Rouen ships 500 supply from pool to Nogent-le-Roi
+Rouen ships 500 supply from pool to Mondesir
+Bologna ships 250 supply from pool to Airfield #1
+ 
+Berlin ships 8000 freight to Hamburg
+Berlin ships 8000 freight to Stettin
+Berlin ships 8000 freight to Rostock
+Frankfurt ships 8000 freight to Bremen
+Berlin ships 7548 freight to Kiel
+Essen ships 7408 freight to Flensburg
+Focsani ships 6646 freight to Constanta *****
+Prague ships 6061 freight to Gdynia
+Satu Mare ships 2100 freight to Genichesk *****
+Bremen ships 8000 freight to Antwerp
+Gdynia ships 5291 freight to Riga !!!!!
+Genichesk ships 4762 freight to Mariupol
+Satu Mare ships 1554 freight to Kerch *****
+Barlad ships 619 freight to Nikolaev *****
+Satu Mare ships 1896 freight to Kherson *****
+Satu Mare ships 2632 freight to Odessa *****
+Satu Mare ships 1229 freight to Sevastopol *****
+Satu Mare ships 1514 freight to Osipenko *****
+Satu Mare ships 1133 freight to Yevpatoriya *****
+Satu Mare ships 1049 freight to Feodosiya *****
+Reggio Calabria ships 1506 freight to Piraeus *****
+Reggio Calabria ships 1320 freight to Thessaloniki *****
+Bryansk ships 4000 freight to Orel *****
+Poltava ships 3167 freight to Kharkov *****
+Mariupol ships 3812 freight to Stalino
+Pushkin ships 2293 freight to Krasnogvardeysk *****
+Bryansk ships 4000 freight to Orel *****
+Kramatorskaya ships 4000 freight to Kharkov *****
+Mariupol ships 3806 freight to Stalino
+Pushkin ships 857 freight to Krasnogvardeysk *****
+Smolensk ships 4000 freight to Orel *****
+Nikopol (e) ships 4000 freight to Kharkov *****
+Gorlovka ships 2323 freight to Stalino *****
+Chernigov ships 3538 freight to Orel *****
+Kiev ships 2615 freight to Kharkov *****
+Bryansk ships 319 freight to Orel *****
+Nikopol (e) ships 3810 freight to Kharkov *****
+Boehlen ships 4000 freight to Leipzig *****
+Prague ships 4000 freight to Munich
+Essen ships 4000 freight to Cologne
+Berlin ships 1784 freight to Rathenow
+Vienna ships 2696 freight to Wiener Neustadt
+Vienna ships 3032 freight to Steyr
+Prague ships 4000 freight to Regensburg
+Genoa ships 4000 freight to Bologna
+Campina ships 4000 freight to Ploesti *****
+Vienna ships 4000 freight to Floridsdorf
+Bremen ships 1588 freight to Antwerp
+Sonda ships 932 freight to Novgorod *****
+Gdynia ships 4000 freight to Riga !!!!!
+Minsk ships 20223 freight to Vitebsk *****
+Minsk ships 4000 freight to Smolensk *****
+Orsha ships 1786 freight to Bryansk *****
+Sonda ships 4000 freight to Staraya Russa *****
+Parnu ships 4000 freight to Pskov
+Gomel ships 2000 freight to Sumy *****
+Fastov ships 4000 freight to Kiev *****
+Odessa ships 15303 freight to Poltava
+Krakow ships 9112 freight to Mariupol *****
+Sonda ships 991 freight to Torkovichi *****
+Jelgava ships 3437 freight to Chudovo *****
+Siauliai ships 3704 freight to Pushkin *****
+Valga ships 4000 freight to Nevel *****
+Osipenko ships 4000 freight to Gorlovka
+Baranovichi ships 4000 freight to Idritsa *****
+Tallinn ships 1238 freight to Soltsy
+Ventspils ships 3704 freight to Volot
+Vilnius ships 3884 freight to Novosokolniki *****
+Shepetovka ships 2235 freight to Spas-Demensk *****
+Nikopol (e) ships 2963 freight to Papasnaya *****
+Fastov ships 3604 freight to Vorozhba *****
+Nikopol (e) ships 2381 freight to Lopan *****
+Dnepropetrovsk ships 3961 freight to Kramatorskaya *****
+Amiens ships 3548 freight to Paris *****
+Berlin ships 720 freight to Hamburg
+Berlin ships 1000 freight to Stettin
+Essen ships 1000 freight to Hannover
+Berlin ships 4000 freight to Magdeburg
+Prague ships 4000 freight to Chemnitz
+Prague ships 3962 freight to Breslau
+Frankfurt ships 4000 freight to Nuremberg
+Prague ships 1000 freight to Dresden
+Berlin ships 4000 freight to Cottbus
+Vienna ships 4000 freight to Oppeln
+Vienna ships 4000 freight to Linz
+Vienna ships 3971 freight to Graz
+Berlin ships 1000 freight to Rostock
+Berlin ships 1911 freight to Brandenburg
+Utrecht ships 821 freight to Bremen *****
+Frankfurt ships 4000 freight to Kassel
+Frankfurt ships 4000 freight to Stuttgart
+Essen ships 2878 freight to Kiel
+Berlin ships 4000 freight to Braunschweig
+Berlin ships 4000 freight to NE Berlin
+Berlin ships 1000 freight to W Berlin
+Berlin ships 4000 freight to Halle
+Berlin ships 4000 freight to Boehlen
+Prague ships 4000 freight to Plauen
+Prague ships 180 freight to Bautzen
+Berlin ships 55 freight to Zossen
+Berlin ships 4000 freight to Ruhland
+Vienna ships 1000 freight to St Poelten
+Vienna ships 3739 freight to Beuthen
+Frankfurt ships 4000 freight to Ingolstadt
+Frankfurt ships 4000 freight to Schweinfurt
+Frankfurt ships 4000 freight to Darmstadt
+Berlin ships 4000 freight to Zeitz
+Frankfurt ships 4000 freight to Erfurt
+Berlin ships 4000 freight to Muecheln
+Berlin ships 4000 freight to Halberstadt
+Essen ships 4000 freight to Dortmund
+Berlin ships 4000 freight to Lehrte
+Essen ships 2367 freight to Flensburg
+Vienna ships 4000 freight to Bruck an der Mur
+Milan ships 2837 freight to Rome
+Dubrovnik ships 773 freight to Taranto *****
+Dubrovnik ships 708 freight to Bari *****
+Milan ships 4000 freight to Verona
+Focsani ships 4000 freight to Iasi *****
+Arad ships 4000 freight to Timisoara *****
+Galati ships 4000 freight to Bucharest *****
+Craiova ships 2299 freight to Constanta *****
+Buzau ships 1487 freight to Brasov *****
+Satu Mare ships 1487 freight to Pitesti *****
+Vienna ships 384 freight to Sibiu
+Focsani ships 1000 freight to Dacia Romana *****
+Focsani ships 1000 freight to Campina *****
+Pecs ships 4000 freight to Resita *****
+Vienna ships 4000 freight to Budapest
+Satu Mare ships 3279 freight to Kassa *****
+Vienna ships 4000 freight to Miskolc
+Satu Mare ships 4000 freight to Nyiregyhasa *****
+Vienna ships 4000 freight to Szombathely
+Vienna ships 4000 freight to Gyor
+Szeged ships 3054 freight to Cluj *****
+Vienna ships 589 freight to Oradea
+Satu Mare ships 1000 freight to Sighet *****
+Vienna ships 1399 freight to Targu Mures
+Vienna ships 1000 freight to Bratislava
+Sassnitz ships 827 freight to Sofia
+Vienna ships 893 freight to Ostrava
+Vienna ships 4000 freight to Brunn
+Prague ships 4000 freight to Pilsen
+Amiens ships 3514 freight to Brussels *****
+Stralsund ships 4000 freight to Bydgoszcz
+Prague ships 2598 freight to Warsaw
+Prague ships 2685 freight to Lodz
+Vienna ships 2942 freight to Katowice
+Berlin ships 1000 freight to Poznan
+Biala Podlaska ships 799 freight to Lublin *****
+Prague ships 2454 freight to Nowy Sacz
+Prague ships 2299 freight to Gdynia
+Prague ships 2286 freight to Rzeszow
+Sassnitz ships 2011 freight to Kaunas
+Kobrin ships 848 freight to Daugavpils *****
+Sassnitz ships 1755 freight to Vilnius
+Kobrin ships 926 freight to Minsk *****
+Brest Litovsk ships 715 freight to Gomel *****
+Sassnitz ships 1031 freight to Mogilev
+Brunsbuettel ships 864 freight to Zhitomir
+Zamosc ships 1000 freight to Lvov *****
+Argentan ships 513 freight to Cherkassy *****
+Sylt ships 852 freight to Vinnitsa
+Toulouse ships 361 freight to Kerch *****
+Bogodukhov ships 801 freight to Dnepropetrovsk *****
+Brunsbuettel ships 804 freight to Chernovtsy
+Limoges ships 486 freight to Krivoi Rog *****
+Bessarabskaya ships 229 freight to Zaporozhye *****
+Vienna ships 789 freight to Kishinev
+Bessarabskaya ships 410 freight to Nikolaev *****
+Vienna ships 546 freight to Kherson
+Dorohoi ships 559 freight to Odessa *****
+Barlad ships 287 freight to Kremenchug *****
+Vienna ships 413 freight to Sevastopol
+Grodno ships 1000 freight to Baranovichi *****
+Barlad ships 459 freight to Fastov *****
+Kobrin ships 519 freight to Orsha *****
+Bialystok ships 622 freight to Valga *****
+Prague ships 1316 freight to Siauliai
+Bialystok ships 2795 freight to Kovel *****
+Suceava ships 910 freight to Tarnopol *****
+Brest Litovsk ships 795 freight to Rovno *****
+Satu Mare ships 394 freight to Proskurov *****
+Brunsbuettel ships 872 freight to Stanislav
+Argentan ships 439 freight to Kirovograd *****
+Sassnitz ships 978 freight to Sonda
+Argentan ships 533 freight to Chernigov *****
+Prague ships 1073 freight to Jelgava
+Barlad ships 185 freight to Melitopol *****
+Toulouse ships 365 freight to Osipenko *****
+Toulouse ships 333 freight to Yevpatoriya *****
+Toulouse ships 322 freight to Feodosiya *****
+Vienna ships 465 freight to Genichesk
+Argentan ships 459 freight to Tiraspol *****
+Barlad ships 240 freight to Nikopol (e) *****
+Brest Litovsk ships 848 freight to Shepetovka *****
+Reggio Calabria ships 551 freight to Thessaloniki *****
+Prague ships 1220 freight to Sarajevo
+Avignon ships 3445 freight to Lyon *****
+Limoges ships 3635 freight to Dijon *****
+Limoges ships 3623 freight to Rouen *****
+Limoges ships 3602 freight to Rennes *****
+Brunsbuettel ships 1681 freight to Lille
+Vienna ships 1213 freight to Suwalki
+Vienna ships 94 freight to Galati
+Prague ships 933 freight to Craiova
+Drvar ships 100 freight to Buzau *****
+Prague ships 96 freight to Focsani
+Foggia ships 513 freight to Suceava *****
+Frankfurt ships 558 freight to Tulcea
+Vienna ships 94 freight to Barlad
+Vienna ships 1844 freight to Arad
+Berlin ships 939 freight to Dorohoi
+Vienna ships 2260 freight to Debrecen
+Prague ships 1819 freight to Szolnok
+Vienna ships 1952 freight to Szeged
+Vienna ships 2313 freight to Kaposvar
+Vienna ships 2174 freight to Pecs
+Berlin ships 1394 freight to Ungvar
+Berlin ships 138 freight to Satu Mare
+Berlin ships 2052 freight to Wyszkow
+Frankfurt ships 135 freight to Biala Podlaska
+Toulouse ships 694 freight to Chelm *****
+Berlin ships 1434 freight to Zamosc
+Vienna ships 161 freight to Brest Litovsk
+Berlin ships 1493 freight to Grodno
+Vienna ships 164 freight to Bialystok
+Berlin ships 1325 freight to Kobrin
+Berlin ships 100 freight to Beltsy
+Drvar ships 132 freight to Sambor *****
+Prague ships 80 freight to Bessarabskaya
+ 
+Rail points BEFORE moving resources:  69,624,362
+
+***** City to City *****
+
++++++ MOVING FUEL +++++
+TOTAL FUEL NEED 61,773
+TOTAL FUEL STORE 329,245 (POOL 380,496)
+AFTER
+TOTAL FUEL NEED 46,358
+TOTAL FUEL STORE 313,816 (POOL 380,496)
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE NEED 2,735,089
+TOTAL RESOURCE STORE 1,338,952 (POOL 8,077,695)
+AFTER
+TOTAL RESOURCE NEED 1,397,635
+TOTAL RESOURCE STORE 1,507 (POOL 8,077,695)
+
++++++ MOVING OIL +++++
+TOTAL OIL NEED 163,625
+TOTAL OIL STORE 89,450 (POOL 5,000)
+AFTER
+TOTAL OIL NEED 76,325
+TOTAL OIL STORE 2,150 (POOL 5,000)
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY NEED 96,493
+TOTAL SUPPLY STORE 809,615 (POOL 3,225,164)
+AFTER
+TOTAL SUPPLY NEED 39,825
+TOTAL SUPPLY STORE 752,932 (POOL 3,225,164)
+
+***** City to Pool *****
+
++++++ MOVING FUEL +++++
+TOTAL FUEL STORE 313,816 (POOL 380,496)
+AFTER
+TOTAL FUEL STORE 26,515 (POOL 667,544)
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE STORE 1,507 (POOL 8,077,695)
+AFTER
+TOTAL RESOURCE STORE 871 (POOL 8,078,336)
+
++++++ MOVING OIL +++++
+TOTAL OIL STORE 2,150 (POOL 5,000)
+AFTER
+TOTAL OIL STORE 2,000 (POOL 5,150)
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY STORE 752,932 (POOL 3,225,164)
+AFTER
+TOTAL SUPPLY STORE 373,780 (POOL 3,604,389)
+
+***** Pool to City *****
+
++++++ MOVING FUEL +++++
+TOTAL FUEL NEED 46,376
+AFTER
+TOTAL FUEL NEED 3,648
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE NEED 1,397,635
+AFTER
+TOTAL RESOURCE NEED 0
+
++++++ MOVING OIL +++++
+TOTAL OIL NEED 76,325
+AFTER
+TOTAL OIL NEED 71,175
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY NEED 39,825
+AFTER
+TOTAL SUPPLY NEED 6,859
+Rail points AFTER moving resources:  53,609,013
+Rome ships 137 supply from pool to Rome
+Taranto ships 712 supply from pool to Lecce
+Taranto ships 60 supply from pool to Brindisi
+Bari ships 633 supply from pool to Brindisi
+Rome ships 487 supply from pool to Orvieto
+Bologna ships 631 supply from pool to Bologna
+Verona ships 456 supply from pool to Carrara
+Verona ships 308 supply from pool to Reggio Emilia
+Verona ships 431 supply from pool to Parma
+Milan ships 700 supply from pool to Piacenza
+Verona ships 662 supply from pool to Verona
+Milan ships 418 supply from pool to Bergamo
+Verona ships 468 supply from pool to Vicenza
+Bari ships 187 supply from pool to Grottaglie
+Naples ships 500 supply from pool to Capaccio
+Naples ships 500 supply from pool to Montecorvino
+Naples ships 750 supply from pool to Grazzanise
+Naples ships 750 supply from pool to Aquino
+Rome ships 462 supply from pool to Anzio
+Rome ships 500 supply from pool to Cisterna di Littoria
+Rome ships 475 supply from pool to Lido di Roma
+Rome ships 155 supply from pool to Guidonia
+Rome ships 37 supply from pool to Casale
+Milan ships 750 supply from pool to Lonate Pozzolo
+Milan ships 1000 supply from pool to Airasca
+Rome ships 27 supply from pool to Pomezia
+Bari ships 375 supply from pool to Gioia del Colle
+Brussels ships 443 supply from pool to Ghent
+Lille ships 918 supply from pool to Bruges
+Lille ships 412 supply from pool to Ostend
+Brussels ships 387 supply from pool to Charleroi
+Lille ships 750 supply from pool to Maldegem
+Lille ships 1000 supply from pool to Chievres
+Brussels ships 500 supply from pool to Nivelles
+Lille ships 750 supply from pool to Ursel
+Brussels ships 1000 supply from pool to Florennes
+Antwerp ships 500 supply from pool to Schaffen
+Antwerp ships 956 supply from pool to Breda
+Rotterdam ships 625 supply from pool to The Hague
+Rotterdam ships 175 supply from pool to Amsterdam
+Antwerp ships 750 supply from pool to Woensdrecht
+Cologne ships 1000 supply from pool to Venlo
+Stalino ships 493 supply from pool to Krasnoarmeyskoe
+Nikopol (e) ships 493 supply from pool to Apostolovo
+Vorozhba ships 500 supply from pool to Konotop
+Lyon ships 731 supply from pool to Valence
+Dijon ships 743 supply from pool to Dole
+Darmstadt ships 675 supply from pool to Haguenau
+Dijon ships 487 supply from pool to Chaumont
+Paris ships 993 supply from pool to St Dizier
+Paris ships 462 supply from pool to Etampes
+Paris ships 731 supply from pool to Chartres
+Paris ships 487 supply from pool to South Paris
+Paris ships 397 supply from pool to Aulnay sous Bois
+Rennes ships 481 supply from pool to Laval
+Rouen ships 475 supply from pool to Evreux
+Lille ships 975 supply from pool to Cambrai
+Rennes ships 956 supply from pool to Vannes
+Lille ships 950 supply from pool to Bethune
+Rennes ships 450 supply from pool to St Brieuc
+Lille ships 431 supply from pool to Boulogne
+Lille ships 215 supply from pool to Calais
+Lille ships 125 supply from pool to Fort Rouge
+Rouen ships 150 supply from pool to Poissy
+Rennes ships 500 supply from pool to Gael
+Dijon ships 187 supply from pool to Toul
+Dijon ships 500 supply from pool to Romilly-sur-Seine
+Marseille ships 750 supply from pool to Salon-de-Provence
+Marseille ships 750 supply from pool to Cogolin
+Marseille ships 500 supply from pool to Cuers
+Cologne ships 425 supply from pool to Luxembourg
+Bologna ships 500 supply from pool to Poggio Renatico
+Rome ships 40 supply from pool to Ciampino
+Genoa ships 750 supply from pool to Levaldigi
+Naples ships 500 supply from pool to Capua
+Brussels ships 500 supply from pool to Waasmunster
+Brussels ships 1000 supply from pool to Beauvechain/Le Culot
+Brussels ships 500 supply from pool to Dinant
+Rotterdam ships 750 supply from pool to Valkenburg
+Marseille ships 500 supply from pool to Marignane
+Brussels ships 500 supply from pool to Cerfontaines
+Lyon ships 500 supply from pool to Francheville
+Marseille ships 250 supply from pool to Airfield #1
+Lehrte ships 261 resource to Hamburg
+Lodz ships 97 resource to Danzig
+Ulm ships 63 resource to Nuremberg
+Warsaw ships 77 resource to Koenigsberg
+Ruhland ships 160 resource to Dresden
+Essen ships 39 resource to Rostock
+W Berlin ships 80 resource to Brandenburg
+Essen ships 46 resource to Bremerhaven
+Lehrte ships 66 resource to Bergedorf
+Waren ships 80 resource to Wismar
+Lehrte ships 61 resource to Wedel
+Komotau ships 80 resource to Freiberg
+Ruhland ships 80 resource to Doebeln
+Zeitz ships 240 resource to Plauen
+Aussig ships 80 resource to Bautzen
+Lehrte ships 71 resource to Harburg
+Ostrava ships 80 resource to Troppau
+Komotau ships 80 resource to Saaz
+Waldenburg ships 73 resource to Zwittau
+Miskolc ships 27 resource to St Poelten
+Szombathely ships 120 resource to Wiener Neustadt
+Knittelfeld ships 80 resource to Steyr
+Ulm ships 80 resource to Ingolstadt
+Pilsen ships 200 resource to Regensburg
+Mulhouse ships 80 resource to Freiburg
+Zeitz ships 80 resource to Zwickau
+Gelsenkirchen ships 80 resource to Duelmen
+Wuppertal ships 160 resource to Hagen
+Dortmund ships 360 resource to Hamm
+Bochum ships 80 resource to Muenster
+Bottrop ships 240 resource to Kleve
+Lehrte ships 80 resource to Nienhagen
+Waren ships 74 resource to Luebeck
+Ulm ships 80 resource to Aalen
+Knittelfeld ships 240 resource to Bruck an der Mur
+Trieste ships 80 resource to Fiume
+Bergamo ships 64 resource to Florence
+Bari ships 80 resource to Taranto
+Bari ships 94 resource to Cosenza
+Bari ships 80 resource to Brindisi
+Pescara ships 45 resource to Salerno
+Pescara ships 78 resource to Foggia
+Pescara ships 80 resource to San Severo
+Trieste ships 26 resource to Ancona
+Savona ships 54 resource to Livorno
+Trieste ships 36 resource to Ravenna
+Bergamo ships 145 resource to Bologna
+Bergamo ships 75 resource to Modena
+Bergamo ships 117 resource to Ferrara
+Bergamo ships 80 resource to Rovigo
+Bergamo ships 120 resource to Parma
+Bergamo ships 68 resource to Padova
+Bergamo ships 80 resource to Mantova
+Knittelfeld ships 50 resource to Udine
+Bergamo ships 80 resource to Piacenza
+Bergamo ships 160 resource to Verona
+Bergamo ships 59 resource to Bassano del Grappa
+Bergamo ships 160 resource to Brescia
+Cannes ships 120 resource to Cuneo
+Bergamo ships 80 resource to Lovere
+Zenica ships 10 resource to Frosinone
+Bergamo ships 45 resource to Forli
+Bergamo ships 57 resource to Venice
+Anina ships 80 resource to Timisoara
+Craiova ships 44 resource to Constanta
+Craiova ships 80 resource to Pitesti
+Craiova ships 36 resource to Buzau
+Craiova ships 31 resource to Focsani
+Craiova ships 84 resource to Dacia Romana
+Craiova ships 62 resource to Gaesti
+Craiova ships 94 resource to Brazi
+Craiova ships 105 resource to Campina
+Craiova ships 80 resource to Zimnicea
+Anina ships 80 resource to Resita
+Debrecen ships 80 resource to Oradea
+Craiova ships 17 resource to Plovdiv
+Craiova ships 15 resource to Petrich
+Craiova ships 15 resource to Vrattsa
+Waldenburg ships 120 resource to Pardubitz
+Charleroi ships 80 resource to Namur
+Maastricht ships 80 resource to Hasselt
+Ghent ships 240 resource to Brussels
+Moenchen-Gladbach ships 80 resource to Eindhoven
+Moenchen-Gladbach ships 80 resource to Nijmegen
+Moenchen-Gladbach ships 80 resource to s-Hertogenbosch
+Moenchen-Gladbach ships 80 resource to Arnhem
+Emmen ships 80 resource to Deventer
+Eupen ships 53 resource to Dordrecht
+Emmen ships 80 resource to Zwolle
+Moenchen-Gladbach ships 80 resource to Utrecht
+Roubaix ships 83 resource to Rotterdam
+Roubaix ships 54 resource to The Hague
+Emmen ships 120 resource to Amsterdam
+Emmen ships 79 resource to Haarlem
+Oswiecim ships 71 resource to Nowy Sacz
+Lublin ships 62 resource to Rzeszow
+Kharkov ships 43 resource to Orel
+Vilnius ships 8 resource to Kaunas
+Nevel ships 8 resource to Vitebsk
+Voronovo ships 16 resource to Vilnius
+Voronovo ships 24 resource to Minsk
+Kirovograd ships 22 resource to Gomel
+Kharkov ships 38 resource to Smolensk
+Lublin ships 80 resource to Brest Litovsk
+Kharkov ships 37 resource to Bryansk
+Gdov ships 8 resource to Pskov
+Vorozhba ships 8 resource to Sumy
+Kharkov ships 40 resource to Belgorod
+Kirovograd ships 89 resource to Kiev
+Kirovograd ships 31 resource to Zhitomir
+Lublin ships 162 resource to Lvov
+Gorlovka ships 101 resource to Kharkov
+Kirovograd ships 51 resource to Poltava
+Kirovograd ships 80 resource to Cherkassy
+Kirovograd ships 28 resource to Vinnitsa
+Nikopol (e) ships 240 resource to Dnepropetrovsk
+Nyiregyhasa ships 30 resource to Chernovtsy
+Makeevka ships 120 resource to Stalino
+Nikopol (e) ships 120 resource to Zaporozhye
+Makeevka ships 80 resource to Mariupol
+Kirovograd ships 29 resource to Kishinev
+Krivoi Rog ships 100 resource to Odessa
+Kerch ships 48 resource to Sevastopol
+Kirovograd ships 41 resource to Fastov
+Krasnogvardeysk ships 12 resource to Pushkin
+Lublin ships 34 resource to Tarnopol
+Kirovograd ships 21 resource to Proskurov
+Nyiregyhasa ships 43 resource to Stanislav
+Mustvee ships 8 resource to Sonda
+Krivoi Rog ships 21 resource to Chernigov
+Makeevka ships 62 resource to Osipenko
+Kerch ships 40 resource to Yevpatoriya
+Kerch ships 80 resource to Feodosiya
+Nikopol (e) ships 36 resource to Genichesk
+Craiova ships 13 resource to Piraeus
+Craiova ships 25 resource to Athens
+Craiova ships 22 resource to Thessaloniki
+Zenica ships 80 resource to Sarajevo
+Turnu Severin ships 37 resource to Pristina
+Anina ships 60 resource to Kragujevac
+Pecs ships 80 resource to Osijek
+Zenica ships 80 resource to Tuzla
+Cannes ships 80 resource to Nice
+Avignon ships 120 resource to Marseille
+Montauban ships 160 resource to Toulouse
+Digoin ships 240 resource to Lyon
+Montceau les Mines ships 120 resource to Bourg-en-Bresse
+Montlucon ships 80 resource to Clermont-Ferrand
+Montceau les Mines ships 120 resource to Besancon
+Castres ships 88 resource to Bayonne
+Limoges ships 80 resource to Perigueux
+Montlucon ships 120 resource to Moulins
+Limoges ships 118 resource to Bordeaux
+Montlucon ships 120 resource to Vierzon
+Angers ships 120 resource to Poitiers
+Pontoise ships 120 resource to Fontainebleau
+Angers ships 120 resource to Tours
+Pontoise ships 120 resource to Orleans
+Charleville ships 120 resource to Epernay
+Charleville ships 120 resource to Reims
+Charleville ships 120 resource to Sedan
+Pontoise ships 80 resource to South Paris
+Pontoise ships 360 resource to Paris
+Pontoise ships 120 resource to Dreux
+Valenciennes ships 80 resource to Noyon
+Hesdin ships 200 resource to Amiens
+Vire ships 80 resource to Argentan
+Le Havre ships 120 resource to Rouen
+Vire ships 160 resource to Rennes
+Hesdin ships 120 resource to Abbeville
+Vire ships 80 resource to Avranches
+Vire ships 80 resource to Granville
+Hesdin ships 80 resource to Calais
+Vire ships 80 resource to Cherbourg
+16664 trucks were repaired and returned to the logistics pool
+
+
+Factory 'Buessing-NAG' 2 x SdKfz-250 Chassis in Berlin. CHANGING TYPE to SdKfz-7 Chassis [size 2 damage 0 delay 0].
+Factory 'Daimler-Benz' 17 x Panzer V Chassis in Berlin. RESIZING to 17 [damage 0 delay 0].
+Factory 'Weserflug Tempelhof' 6 x Ju 87 Airframe in Berlin. CHANGING TYPE to Fw 190 Airframe [size 6 damage 0 delay 0].
+Factory 'Henschel Schoenefeld' 18 x Ju 88 Airframe in Berlin. RESIZING to 18 [damage 0 delay 0].
+Factory 'Buessing-NAG' 3 x SdKfz-231 Chassis in Leipzig. CHANGING TYPE to SdKfz-234 Chassis [size 3 damage 0 delay 0].
+Factory 'Buessing-NAG' 10 x SdKfz-234 Chassis in Leipzig. RESIZING to 10 [damage 0 delay 0].
+Factory 'ATG' 11 x Ju 88 Airframe in Leipzig. RESIZING to 11 [damage 0 delay 0].
+Factory 'ATG' 6 x Ju 88 Airframe in Leipzig. RESIZING to 6 [damage 0 delay 0].
+Factory 'Erla' 28 x Bf 109 Airframe in Leipzig. RESIZING to 28 [damage 0 delay 0].
+Factory 'ATG' 2 x Ju 52 Airframe in Leipzig. CHANGING TYPE to Ta 152 Airframe [size 2 damage 0 delay 0].
+Factory 'MNH' 11 x Panzer V Chassis in Hannover. RESIZING to 11 [damage 0 delay 0].
+Factory 'MNH' 11 x Panzer V Chassis in Hannover. RESIZING to 11 [damage 0 delay 0].
+Factory 'Grusonwerk' 14 x Panzer IV Chassis in Magdeburg. RESIZING to 14 [damage 0 delay 0].
+Factory 'MAN' 25 x Panzer V Chassis in Nuremberg. RESIZING to 25 [damage 0 delay 0].
+Factory 'MAN' 6 x Panzer III Chassis in Nuremberg. CHANGING TYPE to Panzer II Chassis [size 6 damage 0 delay 0].
+Factory 'MAN' 1 x Panzer II Chassis in Nuremberg. CHANGING TYPE to Panzer V Chassis [size 1 damage 0 delay 0].
+Factory 'Dornier' 6 x Do 217 Airframe in Munich. RESIZING to 6 [damage 0 delay 0].
+Factory 'Dornier' 2 x Do 217 Airframe in Munich. CHANGING TYPE to Do 335 Airframe [size 2 damage 0 delay 0].
+Factory 'Dornier' 3 x Me 210 Airframe in Munich. CHANGING TYPE to Me 262 Airframe [size 3 damage 0 delay 0].
+Factory 'Focke-Wulf' 20 x Fw 190 Airframe in Cottbus. RESIZING to 20 [damage 0 delay 0].
+Factory 'Focke-Wulf' 25 x Fw 190 Airframe in Cottbus. RESIZING to 25 [damage 0 delay 0].
+Factory 'MWC' 20 x Vehicle in Cottbus. CHANGING TYPE to SdKfz-10 Chassis [size 20 damage 0 delay 0].
+Factory 'MWC' 11 x SdKfz-10 Chassis in Cottbus. RESIZING to 11 [damage 0 delay 0].
+Factory 'Heinkel-Nord' 9 x He 111 Airframe in Rostock. RESIZING to 9 [damage 0 delay 0].
+Factory 'Heinkel-Nord' 4 x He 111 Airframe in Rostock. CHANGING TYPE to He 219 Airframe [size 4 damage 0 delay 0].
+Factory 'Heinkel-Nord' 22 x He 111 Airframe in Rostock. RESIZING to 22 [damage 0 delay 0].
+Factory 'Heinkel-Nord' 1 x He 111 Airframe in Rostock. CHANGING TYPE to He 162 Airframe [size 1 damage 0 delay 0].
+Factory 'Arado Warnemuende' 2 x Ar 196 Airframe in Rostock. CHANGING TYPE to Fw 190 Airframe [size 2 damage 0 delay 0].
+Factory 'Arado Warnemuende' 25 x Fw 190 Airframe in Rostock. RESIZING to 25 [damage 0 delay 0].
+Factory 'Arado' 8 x He 177 Airframe in Brandenburg. RESIZING to 8 [damage 0 delay 0].
+Factory 'Arado' 6 x He 177 Airframe in Brandenburg. CHANGING TYPE to Fw 190 Airframe [size 6 damage 0 delay 0].
+Factory 'Weserflug Lemwerder' 4 x Ju 87 Airframe in Bremen. CHANGING TYPE to Fw 190 Airframe [size 4 damage 0 delay 0].
+Factory 'Borgward' 11 x SdKfz-7 Chassis in Bremen. RESIZING to 11 [damage 0 delay 0].
+Factory 'Focke-Wulf' 4 x Fw 200 Airframe in Bremen. CHANGING TYPE to Fw 190 Airframe [size 4 damage 0 delay 0].
+Factory 'Focke-Wulf' 6 x Fw 190 Airframe in Bremen. RESIZING to 6 [damage 0 delay 0].
+Factory 'Henschel' 11 x Panzer VI Chassis in Kassel. RESIZING to 11 [damage 0 delay 0].
+Factory 'Henschel' 5 x Panzer VI Chassis in Kassel. RESIZING to 5 [damage 0 delay 0].
+Factory 'Wegmann' 11 x Panzer VI Chassis in Kassel. RESIZING to 11 [damage 0 delay 0].
+Factory 'Wegmann' 5 x Panzer VI Chassis in Kassel. RESIZING to 5 [damage 0 delay 0].
+Factory 'Adler' 20 x SdKfz-250 Chassis in Frankfurt. CHANGING TYPE to SdKfz-251 Chassis [size 20 damage 0 delay 0].
+Factory 'Klemm' 3 x Me 163 Airframe in Stuttgart. RESIZING to 3 [damage 0 delay 0].
+Factory 'Klemm' 13 x Me 163 Airframe in Stuttgart. RESIZING to 13 [damage 0 delay 0].
+Factory 'MIAG' 21 x Panzer III Chassis in Braunschweig. RESIZING to 21 [damage 0 delay 0].
+Factory 'MIAG' 8 x Panzer V Chassis in Braunschweig. RESIZING to 8 [damage 0 delay 0].
+Factory 'Messerschmitt Leipheim' 5 x Bf 109 Airframe in Ulm. CHANGING TYPE to Me 262 Airframe [size 5 damage 0 delay 0].
+Factory 'Alkett' 5 x Panzer IV Chassis in W Berlin. CHANGING TYPE to Panzer III Chassis [size 5 damage 0 delay 0].
+Factory 'Focke-Wulf' 18 x Fw 190 Airframe in Marienburg. RESIZING to 18 [damage 0 delay 0].
+Factory 'Dornier' 1 x Do 217 Airframe in Wismar. CHANGING TYPE to Fw 190 Airframe [size 1 damage 0 delay 0].
+Factory 'Dornier' 20 x Fw 190 Airframe in Wismar. RESIZING to 20 [damage 0 delay 0].
+Factory 'Junkers' 1 x Ju 52 Airframe in Dessau. CHANGING TYPE to He 162 Airframe [size 1 damage 0 delay 0].
+Factory 'Siebel' 16 x Ju 88 Airframe in Halle. RESIZING to 16 [damage 0 delay 0].
+Factory 'Siebel' 6 x Ju 88 Airframe in Halle. RESIZING to 6 [damage 0 delay 0].
+Factory 'Vomag' 27 x Panzer IV Chassis in Plauen. RESIZING to 27 [damage 0 delay 0].
+Factory 'Heinkel' 6 x He 177 Airframe in Oranienburg. CHANGING TYPE to Fw 190 Airframe [size 6 damage 0 delay 0].
+Factory  2 x BV 138 Airframe in Harburg. CHANGING TYPE to Bf 109 Airframe [size 2 damage 0 delay 0].
+Factory 'Grusonwerk' 14 x Panzer IV Chassis in Buckau. RESIZING to 14 [damage 0 delay 0].
+Factory 'Heinkel-Sued' 2 x He 219 Airframe in Schwechat. RESIZING to 2 [damage 0 delay 0].
+Factory 'Nibelungenwerk' 3 x Panzer IV Chassis in Steyr. CHANGING TYPE to Panzer VI Chassis [size 3 damage 0 delay 0].
+Factory 'Dornier' 1 x Do 217 Airframe in Friedrichshafen. CHANGING TYPE to Do 335 Airframe [size 1 damage 0 delay 0].
+Factory 'Messerschmitt' 10 x Me 262 Airframe in Augsburg. RESIZING to 10 [damage 0 delay 0].
+Factory 'Messerschmitt' 15 x Me 210 Airframe in Augsburg. RESIZING to 15 [damage 0 delay 0].
+Factory 'Messerschmitt' 5 x Me 210 Airframe in Augsburg. CHANGING TYPE to Me 262 Airframe [size 5 damage 0 delay 0].
+Factory 'Messerschmitt' 28 x Bf 109 Airframe in Regensburg. RESIZING to 28 [damage 0 delay 0].
+Factory 'Messerschmitt' 20 x Me 323 Airframe in Regensburg. CHANGING TYPE to Bf 109 Airframe [size 20 damage 0 delay 0].
+Factory 'Auto Union - Horch' 3 x SdKfz-221 Chassis in Zwickau. RESIZING to 3 [damage 0 delay 0].
+Factory 'Auto Union - Horch' 10 x SdKfz-221 Chassis in Zwickau. CHANGING TYPE to SdKfz-10 Chassis [size 10 damage 0 delay 0].
+Factory 'Focke-Wulf' 10 x Fw 190 Airframe in Sorau. RESIZING to 10 [damage 0 delay 0].
+Factory  6 x Ju 88 Airframe in Bernburg. RESIZING to 6 [damage 0 delay 0].
+Factory 'Junkers' 2 x Ju 52 Airframe in Bernburg. CHANGING TYPE to Ju 88 Airframe [size 2 damage 0 delay 0].
+Factory 'Junkers' 6 x Ju 88 Airframe in Bernburg. RESIZING to 6 [damage 0 delay 0].
+Factory 'Demag' 26 x SdKfz-250 Chassis in Hagen. RESIZING to 26 [damage 0 delay 0].
+Factory 'Demag' 39 x SdKfz-250 Chassis in Hagen. RESIZING to 39 [damage 0 delay 0].
+Factory 'IAR' 1 x IAR 80 Airframe in Brasov. CHANGING TYPE to Bf 109 Airframe [size 1 damage 0 delay 0].
+Factory 'IAR' 1 x JRS 79B1 Airframe in Brasov. CHANGING TYPE to Bf 109 Airframe [size 1 damage 0 delay 0].
+Factory 'Dunai' 2 x Me 210 Airframe in Budapest. CHANGING TYPE to Bf 109 Airframe [size 2 damage 0 delay 0].
+Factory 'MAVAG' 3 x Re.2000 Airframe in Budapest. RESIZING to 3 [damage 0 delay 0].
+Factory 'MAVAG' 3 x Re.2000 Airframe in Budapest. CHANGING TYPE to Bf 109 Airframe [size 3 damage 0 delay 0].
+Factory 'BMM' 14 x Panzer 38(t) Chassis in Prague. RESIZING to 14 [damage 0 delay 0].
+Factory 'BMM' 16 x Panzer 38(t) Chassis in Prague. RESIZING to 16 [damage 0 delay 0].
+Factory 'BMM' 17 x Panzer 38(t) Chassis in Prague. RESIZING to 17 [damage 0 delay 0].
+Factory 'Letov' 2 x Ju 290 Airframe in Prague. CHANGING TYPE to Ju 88 Airframe [size 2 damage 0 delay 0].
+Factory 'Famo-Ursus' 11 x Panzer II Chassis in Warsaw. RESIZING to 11 [damage 0 delay 0].
+Factory 'Heinkel-Mielec' 4 x He 111 Airframe in Debica. RESIZING to 4 [damage 0 delay 0].
+Factory 'Heinkel-Mielec' 2 x He 111 Airframe in Debica. CHANGING TYPE to He 162 Airframe [size 2 damage 0 delay 0].
+
+BUILDING GENERIC GROUND ELEMENTS
+88 x 20mm (3) MG151 AA Gun [20mm (3) MG151 L/55 Gun] built (GE)
+13 x 37mm Twin Flak43 AA Gun [37mm Twin Flak43 L/57 Gun] built (GE)
+136 x 75mm Pak40 AT Gun [75mm Pak40 L/46 Gun] built (GE)
+30 x 88mm Pak43 AT Gun [88mm Pak43 L/71 Gun] built (GE)
+110 x 20mm Flak38 AA Gun [20mm Flak38 L/65 Gun] built (GE)
+55 x 88mm Flak18 AA Gun [88mm Flak18 L/56 Gun] built (GE)
+30 x 75mm leIG18 Infantry Gun [75mm leIG18 L/11 Gun] built (GE)
+15 x 150mm sIG33 Infantry Gun [150mm sIG33 L/11 Gun] built (GE)
+190 x 81mm GrW 34 Mortar [81mm GrW 34 Mortar] built (GE)
+70 x 120mm GrW 42 Mortar [120mm GrW 42 Mortar] built (GE)
+8 x 105mm sK18 Field Gun [105mm sK18 L/52 Gun] built (GE)
+12 x 20mm Quad Flak38 AA Gun [20mm Quad Flak38 L/65 Gun] built (GE)
+22 x 150mm sFH18 Howitzer [150mm sFH18 L/30 Howitzer] built (GE)
+27 x 150mm Nebelwerfer [150mm NbW 41 Rocket] built (GE)
+2 x 210mm M18 Howitzer [210mm M18 L/31 Howitzer] built (GE)
+1 x 170mm K18 Field Gun [170mm K18 L/50 Gun] built (GE)
+18 x 105mm Flak39 AA Gun [105mm Flak39 L/63 Gun] built (GE)
+1 x 81mm Krh/35 Mortar [81mm Krh/35 Mortar] built (FI)
+7 x 20mm L-39 AT-Rifle [20mm L-39 AT-Rifle] built (FI)
+9 x 210mm Nebelwerfer [210mm NbW 42 Rocket] built (GE)
+9 x 300mm Nebelwerfer [300mm NbW 42 Rocket] built (GE)
+6 x 75mm DT-UDR 26 AT Gun [75mm DT-UDR 26 L/48 Gun] built (RU)
+4 x 81mm Mle 27/31 Mortar [81mm Mle 27/31 Mortar] built (RU)
+5 x 120mm Resita Mortar [120mm Resita M42 Mortar] built (RU)
+2 x 37mm M1939 AA Gun [37mm M1939 L/57 Gun] built (RU)
+1 x 75mm Mle 1897 Field Gun [75mm Mle 1897 L/36 Gun] built (RU)
+1 x 75mm Vickers AA Gun [75mm Vickers L/43 Gun] built (RU)
+2 x 81mm 36/39M Mortar [81mm Mle 27/31 Mortar] built (HU)
+2 x 120mm GrW 42 Mortar [120mm GrW 42 Mortar] built (HU)
+4 x 8mm Schwarzlose AAMG [8mm Schwarzlose M7 AAMG] built (HU)
+2 x 105mm 37M Howitzer [105mm FH18 L/25 Howitzer] built (HU)
+2 x 75mm 15M Mountain Gun [75mm vz.15 L/15 Gun] built (HU)
+8 x 128mm Flak40 AA Gun [128mm Flak40 L/61 Gun] built (GE)
+6 x 75mm GebG36 Mountain Gun [75mm GebG36 L/19.5 Gun] built (GE)
+2 x 47mm M1936 AT Gun [47mm Mle 1936 L/44 Gun] built (RU)
+2 x 210mm 39M Howitzer [210mm 39M L/23.8 Howitzer] built (HU)
+60 x 37mm Flak43 AA Gun [37mm Flak43 L/57 Gun] built (GE)
+59 x 75mm IG37 Infantry Gun [75mm IG37 L/24 Gun] built (GE)
+60 x 105mm leFH18M Howitzer [105mm FH18M L/31 Howitzer] built (GE)
+
+NO OIL in Almasfuzito for 5 x FUEL Need: 2500, City: 0, Pool 5000
+NO OIL in Bari for 5 x FUEL Need: 2500, City: 0, Pool 5000
+LOW OIL in Oslebshausen for 5 x FUEL (6 %) Need: 2500, City: 150, Pool 5000
+NO OIL in Naples for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Fiume for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Bucharest for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Brod for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Katowice for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Veszprem for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Komarom for 4 x FUEL Need: 2000, City: 0, Pool 5000
+NO OIL in Debica for 3 x FUEL Need: 1500, City: 0, Pool 5000
+LOW OIL in Jaslo for 3 x FUEL (95 %) Need: 1500, City: 1425, Pool 5000
+NO OIL in Bielsko for 3 x FUEL Need: 1500, City: 0, Pool 5000
+NO OIL in Duesseldorf for 3 x FUEL Need: 1500, City: 0, Pool 5000
+NO OIL in Lehrte for 3 x FUEL Need: 1500, City: 0, Pool 5000
+NO OIL in Emmerich for 3 x FUEL Need: 1500, City: 0, Pool 5000
+NO OIL in Voesendorf for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Schwechat for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Rheine for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in La Spezia for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Velika Plana for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Korneuburg for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Ostrava for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Ostrava for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Ruse for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Nemecka for 2 x FUEL Need: 1000, City: 0, Pool 5000
+NO OIL in Marseille for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Marseille for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Marseille for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Balaruc for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Alfeld for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in St Poelten for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in St Poelten for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Brilon for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Brilon for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Bordeaux for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Regensburg for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Northeim for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ibbenbueren for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Kamen for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Minden for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Moers for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in St Nazaire for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Rouen for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Stockerau for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Pirna for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Le Havre for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Pirna for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ebensee for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ebensee for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ebensee for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ebensee for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Melk for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Pauillac for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Ghent for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Antwerp for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Kolin for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Parma for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Munkacs for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Nyiregyhasa for 1 x FUEL Need: 500, City: 0, Pool 5000
+NO OIL in Brasov for 1 x FUEL Need: 500, City: 0, Pool 5000
+
+                                                     _______________________FACTORIES___________________________
+                         PRODUCED     CONSUMED       AVAIL      ACTIVE     DAMAGED   LOW RES    NO RES  ISOLATED
+
+      MANPOWER[100%]      33,103            -       33,103      33,103           0         -         -         0
+
+     RESOURCES[100%]       3,637K           -        1,455       1,455           0         -         -         0
+
+           OIL[ 99%]         216K           -          217         216           1         -         -         0
+
+HEAVY INDUSTRY[ 99%]         470K       3,290K       1,886       1,880           6         0         0         0
+
+          FUEL[ 79%]         106K         213K         540         432           0         8       108         0
+
+SYNTHETIC FUEL[100%]         106K         424K         212         212           0         0         0         0
+
+     ARMAMENTS[100%]     231,600       57,900        1,158       1,158           0         0         0         0
+
+      VEHICLES[100%]       3,380       16,900          338         338           0         0         0         0
+
+GROUND CHASSIS[100%]         531        5,569          531         531           0         0         0         0
+
+      AIRFRAME[100%]         841       20,626          841         841           0         0         0         0
+
+
+
+AXIS ATTRITION LOSSES
+____________________________________________________
+                                 TURN        TOTAL
+       Elements Destroyed         188         384
+        Elements Captured          40          77
+        Elements Disabled         375         794
+         Elements Damaged         191         383
+Support Elements Destroyed          60         138
+Support Elements Captured          15          32
+Support Elements Disabled          96         237
+ Support Elements Damaged          59         134
+            Men Destroyed       2,349       4,819
+             Men Captured         537       1,034
+             Men Disabled       4,467       9,458
+              Men Damaged       2,335       4,786
+    Support Men Destroyed       1,200       2,760
+     Support Men Captured         300         640
+     Support Men Disabled       1,920       4,740
+      Support Men Damaged       1,180       2,680
+
+LOSSES BY TYPE
+___________________________________________
+Axis Combat_________0
+Axis Retreat________0
+Axis Attrition______5853
+Axis Surrender______0
+Axis Misc.__________844
+Soviet Combat_______0
+Soviet Retreat______0
+Soviet Attrition____9268
+Soviet Surrender____0
+Soviet Misc.________0
+
+
+___________________________________________
+File Version: 1.05.02
+
+

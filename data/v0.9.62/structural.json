@@ -1,0 +1,21 @@
+{
+ "rail": {
+  "1890": 2025,
+  "1891": 2169,
+  "180": 1512,
+  "1889": 2994,
+  "1892": 1170,
+  "1893": 1848
+ },
+ "edition_differences": 754,
+ "verified_reference_baseline": true,
+ "release_scenario": "a8379907a7d8d34db3025b0c208c69e77bdf1c6180ca07897ddfc9dbe43e10d6",
+ "verified_western_reserve_models": 117,
+ "scheduled_air": {
+  "total": 198,
+  "carried_aircraft": 5659,
+  "changed_strength": 68,
+  "changed_model": 23,
+  "earliest_changed_delay": 2
+ }
+}

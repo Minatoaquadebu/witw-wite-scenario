@@ -1,0 +1,155 @@
+Scenario: 'WITW+WITE v0.9.62'
+Turn 001 7-3-1943 Soviet
+
+                      Air Execution Log
+_____________________________________________________________________
+
+__________ Night 1 _________
+__________ Day 1 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 12
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[149,292]. INTERDICT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 0 ***
+Axis planes repaired: 19
+Soviet planes repaired: 120
+Planes in repair with 0 damage: 15
+ Germany: 6 new pilot(s) arrived. Left in pool 744.
+ Italy: 2 new pilot(s) arrived. Left in pool 498.
+__________ Night 2 _________
+__________ Day 2 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[147,289]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[149,289]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[147,290]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 1 ***
+Axis planes repaired: 18
+Soviet planes repaired: 90
+Planes in repair with 0 damage: 5
+ Germany: 5 new pilot(s) arrived. Left in pool 739.
+ Italy: 2 new pilot(s) arrived. Left in pool 496.
+__________ Night 3 _________
+__________ Day 3 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 12
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 2 ***
+Axis planes repaired: 18
+Soviet planes repaired: 113
+Planes in repair with 0 damage: 8
+ Germany: 8 new pilot(s) arrived. Left in pool 731.
+__________ Night 4 _________
+__________ Day 4 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[148,289]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[149,290]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[149,291]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 3 ***
+Axis planes repaired: 18
+Soviet planes repaired: 111
+Planes in repair with 0 damage: 5
+ Germany: 5 new pilot(s) arrived. Left in pool 726.
+ Italy: 2 new pilot(s) arrived. Left in pool 494.
+__________ Night 5 _________
+__________ Day 5 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 12
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[149,292]. UNIT. Bmr 30 Esc 10 (fwd5,ret5)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[146,291]. UNIT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Tactical Air Force. RECON hex[143,288]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 4 ***
+Axis planes repaired: 20
+Soviet planes repaired: 115
+Planes in repair with 0 damage: 5
+ Germany: 5 new pilot(s) arrived. Left in pool 721.
+ Italy: 2 new pilot(s) arrived. Left in pool 492.
+__________ Night 6 _________
+__________ Day 6 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Tactical Air Force. GND ATTACK hex[147,291]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[148,290]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+Tactical Air Force. GND ATTACK hex[148,291]. INTERDICT. Bmr 30 Esc 10 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 5 ***
+Axis planes repaired: 28
+Soviet planes repaired: 68
+Planes in repair with 0 damage: 3
+ Germany: 8 new pilot(s) arrived. Left in pool 713.
+ Italy: 2 new pilot(s) arrived. Left in pool 490.
+__________ Night 7 _________
+__________ Day 7 _________
+Coastal Air Force. SUPERIORITY hex[140,299]. Ftr 11
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 6 ***
+Axis planes repaired: 19
+Soviet planes repaired: 103
+Planes in repair with 0 damage: 2
+ Germany: 6 new pilot(s) arrived. Left in pool 707.
+ Italy: 1 new pilot(s) arrived. Left in pool 489.
+
+AIRCRAFT PERFORMANCE STATISTICS       DESTROYED     DAMAGED     DAMAGE POINTS      SORTIES
+____________________________________________________________________________________________
+F R I E N D L Y
+___________________________________
+       P-40N Warhawk                    1             1          186              270
+                          Bf 109G-2        1             1          186               -
+___________________________________
+               TOTAL                    1             1          186
+
+_____________________________________________________________________________
+E  N  E  M  Y
+___________________________________
+           Bf 109G-2                   29            50         4102               -
+                         Boston III        8            11          892              187
+                      P-40N Warhawk        1             1           74              270
+                       A-36A Apache       20            24         1793              447
+___________________________________
+                FLAK                   95           257         3466               -
+                         Boston III       30            68          806               -
+                      Baltimore III        2            12           62               -
+                      P-40N Warhawk        2             6           32               -
+                       A-36A Apache       40           103         1804               -
+                      A-20G-K Havoc       16            50          540               -
+                     B-25C Mitchell        5            18          222               -
+___________________________________
+               TOTAL                  124           293         6225
+_____________________________________________________________________________
+
+Axis air FUEL used: 8
+Axis air sorties: 23
+Axis max fuel 2912 used by air group 223 (4 planes)
+Axis air AMMO used: 1
+Axis flak AMMO used: 243
+Soviet air FUEL used: 1215
+Soviet air sorties: 1199
+Soviet max fuel 182910 used by air group 3600 flight (30 planes)
+Soviet air AMMO used: 687
+Soviet flak AMMO used: 0
+
+Air phase execution time 1 min 4 sec
+_________________________________
+

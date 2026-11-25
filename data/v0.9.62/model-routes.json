@@ -1,0 +1,11297 @@
+[
+ {
+  "category": "g",
+  "model": 1000,
+  "name": "Grant",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 210
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1014,
+  "name": "Sherman I",
+  "production_window": [
+   [
+    1942,
+    7
+   ],
+   [
+    1944,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 195
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1017,
+  "name": "Sherman II",
+  "production_window": [
+   [
+    1942,
+    5
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 295
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "43": 161
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1023,
+  "name": "Sherman IIA",
+  "production_window": [
+   [
+    1944,
+    2
+   ],
+   [
+    1944,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1027,
+  "name": "Sherman III",
+  "production_window": [
+   [
+    1942,
+    7
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 920
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "45": 188,
+   "41": 218,
+   "0": 1160,
+   "22": 152,
+   "43": 109,
+   "13": 73,
+   "30": 136
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1032,
+  "name": "Sherman V",
+  "production_window": [
+   [
+    1942,
+    8
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 2620
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 863,
+   "43": 54
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1035,
+  "name": "Daimler Armored Car",
+  "production_window": [
+   [
+    1941,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 615
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1035,
+    "opening_capacity": 9
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 322,
+   "43": 35,
+   "10": 22,
+   "37": 22,
+   "83": 60
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1036,
+  "name": "Staghound I Armored Car",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 570
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1036,
+    "opening_capacity": 23
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 244,
+   "22": 60,
+   "17": 56,
+   "78": 56,
+   "9": 56,
+   "30": 56
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1037,
+  "name": "Morris CS9 Armored Car",
+  "production_window": [
+   [
+    1938,
+    1
+   ],
+   [
+    1941,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1038,
+  "name": "2 Pdr Mk IX AT Gun",
+  "production_window": [
+   [
+    1936,
+    7
+   ],
+   [
+    1942,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 200
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1039,
+  "name": "6 Pdr Mk V AT Gun",
+  "production_window": [
+   [
+    1943,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 400
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 2474,
+   "45": 40,
+   "41": 60,
+   "22": 92,
+   "23": 68,
+   "43": 92,
+   "35": 68,
+   "10": 86,
+   "37": 86,
+   "63": 24,
+   "86": 48,
+   "82": 24,
+   "66": 48,
+   "18": 11,
+   "9": 6,
+   "56": 24,
+   "65": 18,
+   "32": 18,
+   "17": 64,
+   "30": 64,
+   "54": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1040,
+  "name": "20mm Oerlikon AA Gun",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 280
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 122
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1041,
+  "name": "40mm Bofors AA Gun",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 240
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 5046,
+   "45": 36,
+   "41": 36,
+   "22": 54,
+   "23": 54,
+   "43": 54,
+   "35": 18,
+   "10": 54,
+   "37": 54,
+   "63": 12,
+   "86": 24,
+   "82": 12,
+   "66": 24,
+   "9": 584,
+   "26": 48,
+   "65": 48,
+   "70": 144,
+   "4": 96,
+   "57": 48,
+   "48": 48,
+   "87": 48,
+   "17": 48,
+   "30": 144
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1042,
+  "name": "2in Mk II Mortar",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 3495,
+   "45": 26,
+   "41": 56,
+   "22": 70,
+   "23": 65,
+   "43": 111,
+   "35": 65,
+   "10": 109,
+   "37": 241,
+   "63": 54,
+   "86": 108,
+   "82": 54,
+   "66": 108,
+   "18": 21,
+   "9": 21,
+   "17": 12,
+   "78": 12,
+   "30": 12,
+   "83": 12,
+   "56": 51,
+   "65": 39,
+   "32": 39,
+   "54": 38
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1043,
+  "name": "3in MK II Mortar",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 480
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 221,
+   "63": 24,
+   "86": 48,
+   "82": 24,
+   "66": 48,
+   "18": 12,
+   "56": 24,
+   "37": 8,
+   "54": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1044,
+  "name": ".303in Mk I Machine Gun",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 978,
+   "23": 24,
+   "43": 36,
+   "10": 36,
+   "37": 44,
+   "63": 24,
+   "86": 48,
+   "82": 24,
+   "66": 48,
+   "18": 8,
+   "65": 12,
+   "32": 12,
+   "54": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1045,
+  "name": "Rifle Section",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1940,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1046,
+  "name": "Rifle Section",
+  "production_window": [
+   [
+    1940,
+    7
+   ],
+   [
+    1941,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1047,
+  "name": "Rifle Section",
+  "production_window": [
+   [
+    1941,
+    7
+   ],
+   [
+    1942,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1048,
+  "name": "Rifle Section",
+  "production_window": [
+   [
+    1942,
+    5
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1049,
+  "name": "Rifle Section",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 10166,
+   "45": 123,
+   "41": 246,
+   "22": 269,
+   "23": 251,
+   "43": 374,
+   "35": 251,
+   "10": 374,
+   "37": 374,
+   "63": 216,
+   "86": 432,
+   "82": 216,
+   "66": 432,
+   "56": 163,
+   "65": 123,
+   "32": 123,
+   "54": 123
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1050,
+  "name": "Pioneer Section",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 477,
+   "17": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1051,
+  "name": "Pioneer Section",
+  "production_window": [
+   [
+    1944,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 100,
+   "45": 9,
+   "41": 18,
+   "35": 18,
+   "18": 11,
+   "56": 12,
+   "37": 3
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1052,
+  "name": ".55in Boys AT-Rifle",
+  "production_window": [
+   [
+    1939,
+    9
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1053,
+  "name": "25mm SA-L 34 AT Gun",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1940,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1054,
+  "name": "18 Pdr Mk IV Field Gun",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1940,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1055,
+  "name": "25 Pdr Mk II Gun-Howitzer",
+  "production_window": [
+   [
+    1940,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 240
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 1960,
+   "45": 24,
+   "41": 48,
+   "22": 72,
+   "23": 72,
+   "43": 72,
+   "35": 72,
+   "10": 72,
+   "37": 72,
+   "63": 40,
+   "86": 32,
+   "82": 16,
+   "66": 32,
+   "9": 16,
+   "56": 24,
+   "52": 24,
+   "57": 48,
+   "15": 24,
+   "87": 24
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1056,
+  "name": "PIAT",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 3534,
+   "45": 120,
+   "41": 218,
+   "22": 67,
+   "23": 56,
+   "43": 87,
+   "35": 190,
+   "10": 85,
+   "37": 129,
+   "63": 54,
+   "86": 108,
+   "82": 54,
+   "66": 108,
+   "18": 23,
+   "9": 32,
+   "17": 12,
+   "78": 12,
+   "30": 12,
+   "83": 12,
+   "56": 130,
+   "65": 34,
+   "32": 34,
+   "54": 98
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1057,
+  "name": "75mm M1A1 Pack Howitzer",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 56,
+   "18": 5,
+   "13": 16,
+   "35": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1058,
+  "name": "Staghound T17E3 Armored Car",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 3
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "43": 8,
+   "10": 8,
+   "37": 8
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1059,
+  "name": "6 Pdr Mk III AT Gun",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1943,
+    1
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1060,
+  "name": "M4A2 Sherman",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 165
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1060,
+    "opening_capacity": 27
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "48": 95,
+   "39": 95,
+   "56": 95
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1061,
+  "name": "M4A4 Sherman",
+  "production_window": [
+   [
+    1942,
+    7
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 85
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1061,
+    "opening_capacity": 86
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "48": 64,
+   "39": 64,
+   "56": 64
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1062,
+  "name": "M4A2(76)W Sherman",
+  "production_window": [
+   [
+    1944,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1060,
+    "opening_capacity": 27
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1063,
+  "name": "Rifle Squad (+)",
+  "production_window": [
+   [
+    1944,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "81": 243
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1064,
+  "name": "105mm M3 Light Howitzer",
+  "production_window": [
+   [
+    1943,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 120
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 36,
+   "0": 138,
+   "16": 18,
+   "30": 18,
+   "5": 18,
+   "24": 36,
+   "62": 36,
+   "15": 18,
+   "34": 18,
+   "47": 24,
+   "81": 72,
+   "63": 18,
+   "80": 24,
+   "76": 36,
+   "84": 18,
+   "73": 18,
+   "77": 18,
+   "69": 18,
+   "41": 18,
+   "53": 18,
+   "42": 36,
+   "65": 18,
+   "26": 18,
+   "87": 36,
+   "71": 18,
+   "40": 24,
+   "67": 36,
+   "58": 18,
+   "59": 18,
+   "68": 36,
+   "64": 24,
+   "72": 18,
+   "56": 18,
+   "38": 18,
+   "18": 28,
+   "44": 18,
+   "48": 6,
+   "89": 12,
+   "32": 6,
+   "79": 6
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1065,
+  "name": "Rifle Squad",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 95
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1066,
+  "name": "Rifle Squad",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 189,
+   "18": 162
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1067,
+  "name": "20mm Oerlikon AA Gun",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1068,
+  "name": "25mm SA-34 AT Gun",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1069,
+  "name": "60mm Mle 1935 Mortar",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1070,
+  "name": "81mm Mle 27/31 Mortar",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1071,
+  "name": "65mm Mle 06 Mountain Gun",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1072,
+  "name": "155mm M17 Howitzer",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1073,
+  "name": "Mk VIB",
+  "production_window": [
+   [
+    1936,
+    1
+   ],
+   [
+    1938,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1074,
+  "name": "Mk VIC",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1941,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1075,
+  "name": "Stuart I",
+  "production_window": [
+   [
+    1941,
+    7
+   ],
+   [
+    1942,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1076,
+  "name": "Stuart III",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1942,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 450
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 99,
+   "9": 22,
+   "30": 28
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1077,
+  "name": "Stuart V",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1943,
+    11
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 510
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 99
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1078,
+  "name": "Stuart VI",
+  "production_window": [
+   [
+    1942,
+    12
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 165
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 173
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1079,
+  "name": "Tetrarch I",
+  "production_window": [
+   [
+    1940,
+    11
+   ],
+   [
+    1941,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 148
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1080,
+  "name": "A9",
+  "production_window": [
+   [
+    1937,
+    7
+   ],
+   [
+    1938,
+    11
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1081,
+  "name": "A10",
+  "production_window": [
+   [
+    1938,
+    7
+   ],
+   [
+    1940,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1082,
+  "name": "A13",
+  "production_window": [
+   [
+    1938,
+    12
+   ],
+   [
+    1939,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1083,
+  "name": "A13 Mk II",
+  "production_window": [
+   [
+    1939,
+    7
+   ],
+   [
+    1940,
+    2
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1084,
+  "name": "Crusader I",
+  "production_window": [
+   [
+    1940,
+    3
+   ],
+   [
+    1940,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1085,
+  "name": "Crusader I-CS",
+  "production_window": [
+   [
+    1941,
+    5
+   ],
+   [
+    1941,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1086,
+  "name": "Crusader II",
+  "production_window": [
+   [
+    1941,
+    1
+   ],
+   [
+    1942,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1087,
+  "name": "Crusader II-CS",
+  "production_window": [
+   [
+    1941,
+    11
+   ],
+   [
+    1943,
+    10
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 75
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1087,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 24,
+   "9": 22
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1088,
+  "name": "Crusader III",
+  "production_window": [
+   [
+    1942,
+    5
+   ],
+   [
+    1943,
+    10
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 800
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1088,
+    "opening_capacity": 22
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "41": 30,
+   "9": 168
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1089,
+  "name": "Cromwell I",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 50
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1089,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 215
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1090,
+  "name": "Cromwell IV",
+  "production_window": [
+   [
+    1943,
+    10
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1089,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1091,
+  "name": "Cromwell VI-CS",
+  "production_window": [
+   [
+    1943,
+    11
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1091,
+    "opening_capacity": 4
+   },
+   {
+    "site": "Liverpool",
+    "initial_model": 1087,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1092,
+  "name": "Cromwell VII",
+  "production_window": [
+   [
+    1945,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1089,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1093,
+  "name": "Challenger",
+  "production_window": [
+   [
+    1944,
+    3
+   ],
+   [
+    1944,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1093,
+    "opening_capacity": 1
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1094,
+  "name": "Comet",
+  "production_window": [
+   [
+    1945,
+    3
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1094,
+    "opening_capacity": 5
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1095,
+  "name": "A10-CS",
+  "production_window": [
+   [
+    1938,
+    7
+   ],
+   [
+    1940,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1096,
+  "name": "Sherman IIC Firefly",
+  "production_window": [
+   [
+    1944,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1097,
+  "name": "Sherman IB 105",
+  "production_window": [
+   [
+    1943,
+    11
+   ],
+   [
+    1945,
+    3
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1098,
+  "name": "Sherman VC Firefly",
+  "production_window": [
+   [
+    1944,
+    2
+   ],
+   [
+    1945,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "30": 30
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1099,
+  "name": "Matilda II",
+  "production_window": [
+   [
+    1938,
+    6
+   ],
+   [
+    1943,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 285
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1099,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1100,
+  "name": "Matilda II-CS",
+  "production_window": [
+   [
+    1941,
+    1
+   ],
+   [
+    1943,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 40
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1100,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1101,
+  "name": "Valentine IX",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1943,
+    11
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 375
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1101,
+    "opening_capacity": 17
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1102,
+  "name": "Valentine XI",
+  "production_window": [
+   [
+    1943,
+    12
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 1101,
+    "opening_capacity": 17
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1103,
+  "name": "Churchill I",
+  "production_window": [
+   [
+    1941,
+    6
+   ],
+   [
+    1942,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1104,
+  "name": "Churchill IV",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 800
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 521,
+   "43": 88
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1105,
+  "name": "Churchill V-CS",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 95
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 78,
+   "43": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1106,
+  "name": "Churchill VII",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 45
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1106,
+    "opening_capacity": 9
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 112,
+   "78": 1
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1107,
+  "name": "Churchill VIII-CS",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 10
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1107,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1108,
+  "name": "Sherman Crab",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1109,
+  "name": "Churchill Crocodile",
+  "production_window": [
+   [
+    1943,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1109,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1110,
+  "name": "Wolverine",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 610
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 108,
+   "41": 24
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1111,
+  "name": "Achilles",
+  "production_window": [
+   [
+    1944,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1112,
+  "name": "Bishop",
+  "production_window": [
+   [
+    1941,
+    11
+   ],
+   [
+    1942,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 96,
+   "31": 24,
+   "72": 24
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1113,
+  "name": "Priest",
+  "production_window": [
+   [
+    1942,
+    7
+   ],
+   [
+    1945,
+    7
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 130
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "45": 24,
+   "41": 24,
+   "0": 72,
+   "22": 24,
+   "43": 48
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1114,
+  "name": "Sexton",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 215
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1114,
+    "opening_capacity": 15
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 144
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1115,
+  "name": "Humber Mk III Armored Car",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1942,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 565
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 659,
+   "23": 24,
+   "35": 24,
+   "9": 50
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1116,
+  "name": "Carrier Section",
+  "production_window": [
+   [
+    1936,
+    12
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 68
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1117,
+  "name": "17 Pdr Mk IV AT Gun",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 200
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 592,
+   "45": 8,
+   "41": 8,
+   "22": 12,
+   "23": 24,
+   "43": 24,
+   "35": 27,
+   "10": 24,
+   "37": 24,
+   "63": 8,
+   "86": 16,
+   "82": 8,
+   "66": 16,
+   "9": 6,
+   "61": 2
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1118,
+  "name": "3.7in Mk I AA Gun",
+  "production_window": [
+   [
+    1938,
+    1
+   ],
+   [
+    1944,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 120
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 1544,
+   "9": 192,
+   "17": 16,
+   "26": 16,
+   "48": 16,
+   "31": 16,
+   "83": 96,
+   "35": 16,
+   "30": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1119,
+  "name": "4.2in Mk III Mortar",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 130
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 556,
+   "41": 24,
+   "23": 16,
+   "43": 24,
+   "35": 16,
+   "10": 24,
+   "37": 24,
+   "65": 8,
+   "32": 8,
+   "54": 4
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1120,
+  "name": "Motor Section",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1942,
+    7
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1121,
+  "name": "Motor Section",
+  "production_window": [
+   [
+    1942,
+    8
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1122,
+  "name": "Motor Section",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1944,
+    3
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 667,
+   "22": 43,
+   "23": 12,
+   "43": 45,
+   "10": 12,
+   "37": 12,
+   "9": 42,
+   "17": 12,
+   "78": 12,
+   "30": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1123,
+  "name": "Motor Section",
+  "production_window": [
+   [
+    1944,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "45": 30,
+   "41": 30,
+   "0": 12,
+   "35": 12,
+   "83": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1124,
+  "name": "Parachute Section",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1944,
+    2
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 473,
+   "18": 69
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1125,
+  "name": "Parachute Section",
+  "production_window": [
+   [
+    1944,
+    3
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 99
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1126,
+  "name": "Air Landing Section",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 192
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1127,
+  "name": "Air Landing Section (-)",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 96
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1128,
+  "name": "Commando Sub-Section A",
+  "production_window": [
+   [
+    1940,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 81,
+   "37": 33
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1129,
+  "name": "Commando Sub-Section B",
+  "production_window": [
+   [
+    1940,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 81,
+   "37": 33
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1130,
+  "name": "RM Commando Sub-Section",
+  "production_window": [
+   [
+    1944,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 192,
+   "37": 66
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1131,
+  "name": "4.5in Mk II Field Gun",
+  "production_window": [
+   [
+    1941,
+    3
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 560,
+   "52": 16,
+   "31": 16,
+   "39": 16,
+   "41": 48,
+   "67": 16,
+   "37": 16,
+   "17": 48,
+   "30": 80
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1132,
+  "name": "5.5in Mk III Field Gun",
+  "production_window": [
+   [
+    1942,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 60
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 24,
+   "20": 4,
+   "45": 4
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1133,
+  "name": "7.2in Mk III Howitzer",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 8
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 72,
+   "20": 12,
+   "45": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1134,
+  "name": "Motorcycle Section",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1135,
+  "name": "Bren Mortar Carrier",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 2115
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1135,
+    "opening_capacity": 15
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 1232,
+   "45": 24,
+   "41": 42,
+   "22": 42,
+   "23": 42,
+   "43": 66,
+   "35": 42,
+   "10": 60,
+   "37": 60,
+   "9": 6,
+   "65": 18,
+   "32": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1136,
+  "name": "AAMG Truck",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1941,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 48
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1137,
+  "name": "Daimler Dingo Scout Car",
+  "production_window": [
+   [
+    1940,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 1645
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1137,
+    "opening_capacity": 15
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 736,
+   "45": 45,
+   "41": 44,
+   "22": 45,
+   "43": 108,
+   "10": 8,
+   "37": 8,
+   "13": 11,
+   "30": 77,
+   "17": 49,
+   "78": 49,
+   "9": 49,
+   "83": 53
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1138,
+  "name": "8in Mk VII Howitzer",
+  "production_window": [
+   [
+    1939,
+    9
+   ],
+   [
+    1941,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1139,
+  "name": "Mk II AA",
+  "production_window": [
+   [
+    1940,
+    12
+   ],
+   [
+    1942,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1140,
+  "name": "Crusader III Mk 1 AA",
+  "production_window": [
+   [
+    1942,
+    5
+   ],
+   [
+    1942,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1141,
+  "name": "AAMG Truck",
+  "production_window": [
+   [
+    1941,
+    7
+   ],
+   [
+    1943,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1142,
+  "name": "Carrier Section",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 899,
+   "45": 23,
+   "41": 36,
+   "22": 36,
+   "23": 32,
+   "43": 52,
+   "35": 44,
+   "10": 42,
+   "37": 42,
+   "9": 10,
+   "56": 17,
+   "65": 7,
+   "32": 7,
+   "54": 13
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1143,
+  "name": "240mm M1 Howitzer",
+  "production_window": [
+   [
+    1944,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1144,
+  "name": "Universal MG Carrier",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 25
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1144,
+    "opening_capacity": 5
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 144,
+   "45": 8,
+   "41": 44,
+   "22": 56,
+   "35": 36,
+   "43": 8,
+   "9": 8
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1145,
+  "name": "Recce Section",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 19
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1146,
+  "name": "Morris C9/B SPAA",
+  "production_window": [
+   [
+    1943,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1146,
+    "opening_capacity": 10
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 72,
+   "45": 18,
+   "35": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1147,
+  "name": "Humber Mk IV Armored Car",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 90
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1147,
+    "opening_capacity": 8
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 502,
+   "23": 28,
+   "43": 4,
+   "35": 28,
+   "10": 4,
+   "37": 4
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1148,
+  "name": "Wasp F/T Carrier",
+  "production_window": [
+   [
+    1944,
+    8
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 1148,
+    "opening_capacity": 10
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1149,
+  "name": "M3 75mm GMC",
+  "production_window": [
+   [
+    1941,
+    8
+   ],
+   [
+    1942,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 54,
+   "22": 8,
+   "43": 2,
+   "78": 8,
+   "9": 8,
+   "30": 8,
+   "83": 8
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1150,
+  "name": "Tetrarch CS",
+  "production_window": [
+   [
+    1940,
+    11
+   ],
+   [
+    1941,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 3
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1151,
+  "name": "95mm Mk I Howitzer",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1152,
+  "name": ".50in Anti-aircraft MG",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1153,
+  "name": "47mm M35 AT Gun",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 25
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1154,
+  "name": "Stuart Recce",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 100
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "45": 43,
+   "41": 33,
+   "0": 109,
+   "43": 55,
+   "13": 11
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1155,
+  "name": "8in M1 Field Gun",
+  "production_window": [
+   [
+    1944,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1156,
+  "name": "Staghound III Armored Car",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 8
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "17": 8,
+   "0": 8
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1157,
+  "name": "M3A1 Stuart",
+  "production_window": [
+   [
+    1942,
+    5
+   ],
+   [
+    1943,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 640
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 411,
+   "11": 125,
+   "17": 18,
+   "21": 18,
+   "8": 18,
+   "5": 60
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1158,
+  "name": "M3A3 Stuart",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 340
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1158,
+    "opening_capacity": 32
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "18": 22,
+   "44": 17,
+   "48": 68
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1159,
+  "name": "M5A1 Stuart",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 980
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1159,
+    "opening_capacity": 60
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "27": 128,
+   "34": 226,
+   "50": 68,
+   "73": 102,
+   "60": 86,
+   "64": 86,
+   "66": 68,
+   "65": 86,
+   "82": 68,
+   "69": 86,
+   "48": 68,
+   "39": 68,
+   "56": 68,
+   "38": 17,
+   "0": 68,
+   "41": 34,
+   "51": 34,
+   "24": 34,
+   "15": 34,
+   "67": 34,
+   "61": 34,
+   "36": 86,
+   "71": 52,
+   "30": 34,
+   "80": 34,
+   "22": 17,
+   "43": 36,
+   "79": 18,
+   "40": 36,
+   "57": 18,
+   "32": 18,
+   "62": 18,
+   "54": 18,
+   "78": 18,
+   "63": 18,
+   "81": 18,
+   "75": 18,
+   "72": 60
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1160,
+  "name": "M24 Chaffee",
+  "production_window": [
+   [
+    1944,
+    12
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 1160,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "84": 86,
+   "85": 68,
+   "88": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1161,
+  "name": "M4(105) Sherman",
+  "production_window": [
+   [
+    1944,
+    2
+   ],
+   [
+    1945,
+    3
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 1161,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "56": 18,
+   "65": 6,
+   "57": 6,
+   "64": 6,
+   "62": 6,
+   "60": 6,
+   "63": 6,
+   "69": 6
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1162,
+  "name": "M4A3(105) Sherman",
+  "production_window": [
+   [
+    1944,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1162,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "73": 18,
+   "60": 18,
+   "64": 18,
+   "66": 18,
+   "65": 18,
+   "82": 18,
+   "69": 18,
+   "84": 24,
+   "85": 18,
+   "79": 6,
+   "78": 6,
+   "81": 6,
+   "71": 6,
+   "75": 6,
+   "88": 6
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1163,
+  "name": "M4A3E2 Jumbo",
+  "production_window": [
+   [
+    1944,
+    7
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1163,
+    "opening_capacity": 6
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1164,
+  "name": "M26 Pershing",
+  "production_window": [
+   [
+    1945,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1164,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1165,
+  "name": "M3 75mm GMC",
+  "production_window": [
+   [
+    1941,
+    8
+   ],
+   [
+    1942,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 108
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1166,
+  "name": "M10 3in GMC",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 1535
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1166,
+    "opening_capacity": 80
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "48": 72,
+   "39": 36,
+   "56": 36,
+   "64": 72,
+   "31": 36,
+   "16": 36,
+   "34": 72,
+   "11": 36,
+   "18": 108,
+   "32": 36,
+   "17": 36,
+   "0": 252,
+   "27": 72,
+   "28": 36,
+   "29": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1167,
+  "name": "M18 76mm GMC",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1944,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 1167,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "56": 36,
+   "41": 36,
+   "60": 36,
+   "62": 36,
+   "36": 36,
+   "43": 36,
+   "63": 36,
+   "71": 36,
+   "82": 36,
+   "75": 36,
+   "93": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1168,
+  "name": "M36 90mm GMC",
+  "production_window": [
+   [
+    1944,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 1168,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "78": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1169,
+  "name": "T30 75mm HMC",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1942,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 115
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 74,
+   "11": 45,
+   "18": 4
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1170,
+  "name": "M8 75mm HMC",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1944,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 455
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1170,
+    "opening_capacity": 17
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "27": 20,
+   "34": 34,
+   "50": 17,
+   "73": 29,
+   "60": 17,
+   "64": 17,
+   "66": 17,
+   "65": 17,
+   "82": 17,
+   "69": 17,
+   "84": 17,
+   "85": 17,
+   "48": 57,
+   "39": 21,
+   "56": 21,
+   "38": 9,
+   "18": 10,
+   "44": 9,
+   "0": 30,
+   "41": 12,
+   "51": 12,
+   "24": 12,
+   "15": 12,
+   "67": 12,
+   "61": 12,
+   "36": 24,
+   "71": 12,
+   "30": 12,
+   "80": 12,
+   "22": 6,
+   "72": 3,
+   "5": 3
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1171,
+  "name": "T19 105mm HMC",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1172,
+  "name": "M7 105mm HMC",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 465
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1172,
+    "opening_capacity": 16
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 179,
+   "11": 54,
+   "27": 72,
+   "34": 180,
+   "50": 54,
+   "73": 54,
+   "60": 54,
+   "64": 54,
+   "66": 54,
+   "65": 54,
+   "82": 54,
+   "69": 54,
+   "84": 54,
+   "85": 54,
+   "48": 54,
+   "39": 54,
+   "56": 54,
+   "9": 36,
+   "54": 72,
+   "43": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1173,
+  "name": "M12 155mm GMC",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1943,
+    3
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "36": 12,
+   "30": 24,
+   "69": 12,
+   "54": 24,
+   "38": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1174,
+  "name": "M16 MGMC",
+  "production_window": [
+   [
+    1943,
+    5
+   ],
+   [
+    1944,
+    3
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 485
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1174,
+    "opening_capacity": 52
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "26": 16,
+   "0": 192,
+   "27": 64,
+   "33": 32,
+   "41": 64,
+   "52": 32,
+   "51": 32,
+   "30": 32,
+   "54": 32,
+   "31": 32,
+   "60": 64,
+   "23": 32,
+   "39": 32,
+   "72": 32,
+   "67": 32,
+   "77": 64,
+   "71": 32,
+   "43": 32,
+   "69": 32,
+   "18": 30,
+   "48": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1175,
+  "name": "M3A1 White Scout Car",
+  "production_window": [
+   [
+    1939,
+    6
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 4065
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1175,
+    "opening_capacity": 54
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 129,
+   "11": 78
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1176,
+  "name": "M20 Scout Car",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 295
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1176,
+    "opening_capacity": 25
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "48": 58,
+   "39": 26,
+   "56": 58,
+   "41": 50,
+   "60": 38,
+   "62": 32,
+   "63": 32,
+   "36": 32,
+   "43": 26,
+   "71": 26,
+   "76": 6,
+   "77": 6,
+   "81": 6,
+   "64": 52,
+   "67": 12,
+   "0": 266,
+   "74": 6,
+   "69": 6,
+   "42": 6,
+   "49": 18,
+   "31": 26,
+   "16": 26,
+   "78": 26,
+   "82": 26,
+   "57": 12,
+   "34": 52,
+   "11": 26,
+   "18": 78,
+   "32": 26,
+   "75": 26,
+   "17": 26,
+   "27": 52,
+   "93": 26,
+   "33": 6,
+   "28": 26,
+   "29": 26
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1177,
+  "name": "M4 Mortar Carrier",
+  "production_window": [
+   [
+    1941,
+    8
+   ],
+   [
+    1943,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 60
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 47,
+   "11": 27,
+   "27": 21,
+   "34": 36,
+   "50": 18,
+   "48": 18,
+   "39": 18,
+   "72": 3,
+   "5": 3
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1178,
+  "name": "M4A1 Mortar Carrier",
+  "production_window": [
+   [
+    1943,
+    5
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 100
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1178,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "73": 18,
+   "60": 21,
+   "64": 21,
+   "66": 18,
+   "65": 21,
+   "82": 18,
+   "69": 21,
+   "84": 21,
+   "85": 18,
+   "56": 18,
+   "0": 24,
+   "43": 6,
+   "34": 15,
+   "36": 3,
+   "79": 3,
+   "40": 6,
+   "57": 3,
+   "17": 3,
+   "21": 3,
+   "8": 3,
+   "32": 3,
+   "62": 3,
+   "54": 3,
+   "78": 3,
+   "63": 3,
+   "81": 3,
+   "71": 3,
+   "75": 3,
+   "88": 3
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1179,
+  "name": "M21 Mortar Carrier",
+  "production_window": [
+   [
+    1944,
+    1
+   ],
+   [
+    1945,
+    1
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1178,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1180,
+  "name": "37mm M3 AT Gun",
+  "production_window": [
+   [
+    1940,
+    3
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 400
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 75,
+   "11": 44,
+   "81": 54,
+   "64": 36,
+   "48": 4,
+   "25": 1
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1181,
+  "name": "3in M5 AT Gun",
+  "production_window": [
+   [
+    1942,
+    12
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 144,
+   "63": 36,
+   "76": 36,
+   "62": 36,
+   "77": 36,
+   "81": 36,
+   "67": 72,
+   "36": 36,
+   "0": 36,
+   "60": 72,
+   "56": 36,
+   "74": 36,
+   "69": 36,
+   "48": 36,
+   "42": 36,
+   "49": 108,
+   "57": 72,
+   "33": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1182,
+  "name": "90mm M1A1 AA Gun",
+  "production_window": [
+   [
+    1941,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "38": 80,
+   "47": 32,
+   "48": 112,
+   "37": 16,
+   "39": 64,
+   "9": 64,
+   "3": 16,
+   "24": 16,
+   "15": 16,
+   "26": 48,
+   "40": 16,
+   "53": 48,
+   "54": 64,
+   "41": 96,
+   "27": 80,
+   "56": 48,
+   "61": 16,
+   "57": 32,
+   "63": 32,
+   "6": 16,
+   "0": 336,
+   "30": 48,
+   "20": 16,
+   "18": 128,
+   "36": 64,
+   "34": 16,
+   "52": 48,
+   "33": 32,
+   "51": 32,
+   "31": 32,
+   "60": 64,
+   "23": 32,
+   "72": 32,
+   "67": 32,
+   "77": 64,
+   "71": 32,
+   "43": 32,
+   "69": 32
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1183,
+  "name": "4.2in M2 Mortar",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 40
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 144,
+   "18": 36,
+   "43": 36,
+   "40": 36,
+   "74": 36,
+   "70": 36,
+   "68": 36,
+   "32": 36,
+   "83": 108,
+   "85": 36,
+   "60": 36,
+   "61": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1184,
+  "name": ".50in M2 Quad AAMG",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "48": 176,
+   "39": 128,
+   "56": 144,
+   "38": 144,
+   "18": 328,
+   "44": 64,
+   "0": 848,
+   "47": 128,
+   "37": 112,
+   "9": 64,
+   "3": 16,
+   "24": 80,
+   "15": 16,
+   "26": 32,
+   "40": 112,
+   "53": 48,
+   "54": 64,
+   "41": 64,
+   "27": 48,
+   "61": 80,
+   "57": 32,
+   "63": 96,
+   "6": 48,
+   "30": 16,
+   "20": 48,
+   "36": 256,
+   "34": 240,
+   "52": 80,
+   "11": 96,
+   "76": 224,
+   "21": 32,
+   "87": 32,
+   "67": 160,
+   "28": 32,
+   "2": 32,
+   "35": 32,
+   "77": 64,
+   "64": 32,
+   "60": 96,
+   "71": 64,
+   "68": 64,
+   "65": 32,
+   "69": 32,
+   "72": 96,
+   "79": 32,
+   "50": 64,
+   "31": 32,
+   "33": 64,
+   "45": 32
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1185,
+  "name": "Armored Rifle Squad (+)",
+  "production_window": [
+   [
+    1942,
+    3
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 49,
+   "11": 30
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1186,
+  "name": "Armored Rifle Squad",
+  "production_window": [
+   [
+    1942,
+    3
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 89,
+   "11": 54
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1187,
+  "name": "Armored Rifle Squad (+)",
+  "production_window": [
+   [
+    1943,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "27": 30,
+   "34": 60,
+   "50": 30,
+   "73": 30,
+   "60": 30,
+   "64": 30,
+   "66": 30,
+   "65": 30,
+   "82": 30,
+   "69": 30,
+   "84": 30,
+   "85": 30,
+   "48": 30,
+   "39": 30,
+   "56": 30
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1188,
+  "name": "Armored Rifle Squad",
+  "production_window": [
+   [
+    1943,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "27": 54,
+   "34": 108,
+   "50": 54,
+   "73": 54,
+   "60": 54,
+   "64": 54,
+   "66": 54,
+   "65": 54,
+   "82": 54,
+   "69": 54,
+   "84": 54,
+   "85": 54,
+   "48": 54,
+   "39": 54,
+   "56": 54
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1189,
+  "name": "Parachute Rifle Squad",
+  "production_window": [
+   [
+    1942,
+    2
+   ],
+   [
+    1944,
+    7
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "60": 65,
+   "0": 171,
+   "11": 128,
+   "25": 127,
+   "48": 64,
+   "51": 27
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1190,
+  "name": "Parachute Rifle Squad",
+  "production_window": [
+   [
+    1944,
+    8
+   ],
+   [
+    1945,
+    2
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1191,
+  "name": "Parachute Rifle Squad",
+  "production_window": [
+   [
+    1945,
+    3
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 95
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1192,
+  "name": "Rifle Squad (+)",
+  "production_window": [
+   [
+    1943,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "18": 108
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1193,
+  "name": "Rifle Squad",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "17": 24,
+   "28": 24,
+   "0": 72
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1194,
+  "name": "4.5in M1 Field Gun",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1944,
+    2
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 24
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "40": 24,
+   "53": 24,
+   "60": 48,
+   "54": 24,
+   "56": 36,
+   "9": 24,
+   "43": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1195,
+  "name": "155mm M1917 Field Gun",
+  "production_window": [
+   [
+    1939,
+    9
+   ],
+   [
+    1941,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "18": 36,
+   "48": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1196,
+  "name": "155mm M1A1 Field Gun",
+  "production_window": [
+   [
+    1941,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 16
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "98": 12,
+   "9": 48,
+   "17": 12,
+   "49": 12,
+   "41": 48,
+   "52": 12,
+   "67": 12,
+   "53": 12,
+   "66": 24,
+   "71": 36,
+   "89": 12,
+   "87": 12,
+   "85": 12,
+   "81": 12,
+   "77": 36,
+   "35": 12,
+   "59": 12,
+   "40": 12,
+   "55": 12,
+   "36": 24,
+   "27": 24,
+   "39": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1197,
+  "name": "8in M1 Howitzer",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "9": 36,
+   "86": 12,
+   "58": 12,
+   "52": 48,
+   "57": 12,
+   "87": 24,
+   "88": 12,
+   "79": 24,
+   "41": 24,
+   "32": 12,
+   "75": 36,
+   "81": 24,
+   "82": 12,
+   "62": 12,
+   "73": 12,
+   "78": 48,
+   "76": 48,
+   "55": 12,
+   "54": 24,
+   "77": 12,
+   "83": 12,
+   "34": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1198,
+  "name": "8in M1 Field Gun",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "45": 6,
+   "52": 6,
+   "55": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1199,
+  "name": "240mm M1 Howitzer",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "56": 12,
+   "43": 18,
+   "41": 12,
+   "55": 12,
+   "92": 18,
+   "39": 6,
+   "28": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1200,
+  "name": ".55in Anti-tank Rifle",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1201,
+  "name": "Scout Section",
+  "production_window": [
+   [
+    1942,
+    2
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1202,
+  "name": "Scout Section",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 97,
+   "11": 19,
+   "27": 12,
+   "34": 27,
+   "50": 12,
+   "73": 33,
+   "60": 12,
+   "64": 24,
+   "66": 12,
+   "65": 15,
+   "82": 12,
+   "69": 15,
+   "84": 24,
+   "85": 12,
+   "48": 57,
+   "39": 12,
+   "56": 15,
+   "16": 3,
+   "30": 21,
+   "5": 3,
+   "24": 24,
+   "62": 6,
+   "15": 21,
+   "47": 3,
+   "81": 12,
+   "63": 3,
+   "80": 21,
+   "76": 6,
+   "77": 3,
+   "41": 21,
+   "53": 3,
+   "42": 6,
+   "26": 3,
+   "87": 6,
+   "71": 21,
+   "40": 3,
+   "67": 24,
+   "58": 3,
+   "59": 3,
+   "68": 6,
+   "72": 3,
+   "38": 9,
+   "18": 10,
+   "44": 9,
+   "78": 9,
+   "51": 18,
+   "61": 18,
+   "36": 36,
+   "22": 9
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1203,
+  "name": "Jeep Recon",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "56": 16,
+   "41": 28,
+   "60": 20,
+   "62": 16,
+   "63": 16,
+   "36": 16,
+   "43": 12,
+   "71": 12,
+   "76": 4,
+   "77": 4,
+   "81": 4,
+   "64": 24,
+   "67": 8,
+   "0": 124,
+   "74": 4,
+   "69": 4,
+   "48": 16,
+   "42": 4,
+   "49": 12,
+   "31": 12,
+   "16": 12,
+   "78": 12,
+   "82": 12,
+   "57": 8,
+   "34": 24,
+   "11": 12,
+   "18": 36,
+   "32": 12,
+   "75": 12,
+   "17": 12,
+   "27": 24,
+   "93": 12,
+   "33": 4,
+   "28": 12,
+   "29": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1204,
+  "name": "Scout Section",
+  "production_window": [
+   [
+    1945,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1205,
+  "name": "Cavalry Squad",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "81": 9,
+   "0": 18,
+   "18": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1206,
+  "name": "Flamethrower Team",
+  "production_window": [
+   [
+    1943,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "18": 54
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1207,
+  "name": "Sherman Crocodile",
+  "production_window": [
+   [
+    1944,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "65": 8
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1208,
+  "name": "Sherman Crab",
+  "production_window": [
+   [
+    1944,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "65": 60
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1209,
+  "name": "T1E3 Aunt Jemima",
+  "production_window": [
+   [
+    1944,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "65": 48
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1210,
+  "name": "Rifle Squad",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 381,
+   "12": 63
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1211,
+  "name": "47mm M35 AT Gun",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 25,
+   "12": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1212,
+  "name": "20mm M35 AA Gun",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "12": 4
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1213,
+  "name": "45mm M35 Mortar",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 72,
+   "12": 6
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1214,
+  "name": "Motorcycle Squad",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1215,
+  "name": "75mm M11 Field Gun",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 36,
+   "12": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1216,
+  "name": "100mm M14 Howitzer",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 24,
+   "12": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1217,
+  "name": "105mm M18 Howitzer",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 12,
+   "12": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1218,
+  "name": "8mm Breda Machine Gun",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 92,
+   "12": 20
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1219,
+  "name": "CV-33",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "12": 5
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1220,
+  "name": "81mm M35 Mortar",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 53,
+   "12": 6
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1221,
+  "name": "65mm M13 Infantry Gun",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 4
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1222,
+  "name": "75mm M34 Mountain Gun",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 40
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1223,
+  "name": "149mm M37 Howitzer",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1224,
+  "name": "H-39",
+  "production_window": [
+   [
+    1944,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "71": 42
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1225,
+  "name": "Cavalry Squad",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1226,
+  "name": "Commando Squad",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 21,
+   "48": 21,
+   "64": 21
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1227,
+  "name": "Motorcycle Squad",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1228,
+  "name": "37mm Mle 16 Infantry Gun",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1229,
+  "name": "Motor Section (-)",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1940,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1400,
+  "name": "M8 Greyhound Armored Car",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 635
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1400,
+    "opening_capacity": 33
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "27": 56,
+   "34": 111,
+   "50": 44,
+   "73": 121,
+   "60": 58,
+   "64": 67,
+   "66": 44,
+   "65": 55,
+   "82": 50,
+   "69": 59,
+   "84": 55,
+   "85": 44,
+   "48": 192,
+   "39": 50,
+   "56": 71,
+   "0": 273,
+   "16": 17,
+   "30": 77,
+   "5": 11,
+   "24": 88,
+   "62": 32,
+   "15": 77,
+   "47": 11,
+   "81": 48,
+   "63": 21,
+   "80": 77,
+   "76": 26,
+   "77": 15,
+   "41": 99,
+   "53": 11,
+   "42": 26,
+   "26": 11,
+   "87": 22,
+   "71": 83,
+   "40": 11,
+   "67": 96,
+   "58": 11,
+   "59": 11,
+   "68": 22,
+   "72": 11,
+   "38": 33,
+   "18": 60,
+   "44": 33,
+   "51": 66,
+   "61": 66,
+   "36": 142,
+   "22": 33,
+   "43": 6,
+   "74": 4,
+   "49": 12,
+   "31": 6,
+   "78": 6,
+   "57": 8,
+   "11": 6,
+   "32": 6,
+   "75": 6,
+   "17": 6,
+   "93": 6,
+   "33": 4,
+   "28": 6,
+   "29": 6
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1410,
+  "name": "M3 Lee (late model)",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1942,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1411,
+  "name": "M4 Sherman",
+  "production_window": [
+   [
+    1942,
+    7
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 75
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1411,
+    "opening_capacity": 50
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 279,
+   "11": 93,
+   "27": 57,
+   "34": 199,
+   "50": 62,
+   "73": 30,
+   "60": 47,
+   "64": 66,
+   "66": 32,
+   "65": 47,
+   "82": 30,
+   "69": 47,
+   "84": 31,
+   "85": 26,
+   "43": 34,
+   "36": 17,
+   "79": 9,
+   "40": 34,
+   "57": 17,
+   "17": 17,
+   "21": 17,
+   "8": 17,
+   "32": 17,
+   "62": 17,
+   "54": 17,
+   "78": 9,
+   "63": 17,
+   "81": 9,
+   "71": 9,
+   "75": 9,
+   "88": 5
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1412,
+  "name": "M4A1 Sherman",
+  "production_window": [
+   [
+    1942,
+    2
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 1190
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1412,
+    "opening_capacity": 33
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "0": 510,
+   "11": 123,
+   "27": 102,
+   "34": 389,
+   "50": 106,
+   "73": 53,
+   "60": 73,
+   "64": 88,
+   "66": 34,
+   "65": 73,
+   "82": 53,
+   "69": 73,
+   "84": 49,
+   "85": 40,
+   "43": 74,
+   "36": 37,
+   "79": 10,
+   "40": 74,
+   "57": 20,
+   "17": 37,
+   "21": 37,
+   "8": 37,
+   "32": 37,
+   "62": 20,
+   "54": 37,
+   "78": 10,
+   "63": 20,
+   "81": 10,
+   "71": 10,
+   "75": 10,
+   "88": 9
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1413,
+  "name": "M4A3 Sherman",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1413,
+    "opening_capacity": 13
+   }
+  ],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1414,
+  "name": "M4A3(75)W Sherman",
+  "production_window": [
+   [
+    1944,
+    6
+   ],
+   [
+    1945,
+    3
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1411,
+    "opening_capacity": 50
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "73": 51,
+   "60": 68,
+   "64": 51,
+   "66": 68,
+   "65": 78,
+   "82": 51,
+   "69": 68,
+   "84": 51,
+   "85": 34,
+   "79": 12,
+   "57": 17,
+   "62": 17,
+   "78": 12,
+   "63": 17,
+   "81": 12,
+   "71": 12,
+   "75": 12,
+   "88": 17
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1415,
+  "name": "M4A1(76)W Sherman",
+  "production_window": [
+   [
+    1944,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Doncaster",
+    "initial_model": 1412,
+    "opening_capacity": 33
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "84": 17,
+   "85": 17
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1416,
+  "name": "M4A3(76)W Sherman",
+  "production_window": [
+   [
+    1944,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 1416,
+    "opening_capacity": 29
+   }
+  ],
+  "ground_equipment_carried_by_week": {
+   "73": 34,
+   "60": 34,
+   "64": 17,
+   "66": 34,
+   "65": 44,
+   "82": 34,
+   "69": 34,
+   "84": 68,
+   "85": 51,
+   "79": 17,
+   "78": 17,
+   "81": 17,
+   "71": 17,
+   "75": 17,
+   "88": 17
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1417,
+  "name": "40mm M1 AA Gun",
+  "production_window": [
+   [
+    1940,
+    12
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 480
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "48": 64,
+   "39": 96,
+   "56": 96,
+   "38": 64,
+   "18": 200,
+   "44": 64,
+   "0": 704,
+   "11": 96,
+   "76": 224,
+   "21": 32,
+   "27": 32,
+   "87": 32,
+   "34": 224,
+   "67": 160,
+   "28": 32,
+   "24": 64,
+   "2": 32,
+   "20": 32,
+   "35": 32,
+   "52": 64,
+   "77": 64,
+   "36": 192,
+   "61": 64,
+   "64": 32,
+   "63": 64,
+   "60": 96,
+   "71": 64,
+   "68": 64,
+   "65": 32,
+   "69": 32,
+   "72": 96,
+   "79": 32,
+   "50": 64,
+   "6": 32,
+   "47": 96,
+   "37": 96,
+   "31": 32,
+   "33": 64,
+   "40": 96,
+   "54": 32,
+   "41": 32,
+   "45": 32
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1418,
+  "name": "60mm M2 Mortar",
+  "production_window": [
+   [
+    1940,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 54,
+   "60": 102,
+   "0": 902,
+   "11": 139,
+   "27": 27,
+   "34": 135,
+   "50": 27,
+   "73": 108,
+   "64": 246,
+   "66": 27,
+   "65": 108,
+   "82": 27,
+   "69": 108,
+   "84": 108,
+   "85": 27,
+   "48": 96,
+   "39": 27,
+   "56": 108,
+   "16": 81,
+   "30": 81,
+   "5": 81,
+   "24": 162,
+   "62": 162,
+   "15": 81,
+   "47": 108,
+   "81": 405,
+   "63": 81,
+   "80": 108,
+   "76": 162,
+   "77": 81,
+   "41": 81,
+   "53": 81,
+   "42": 162,
+   "26": 81,
+   "87": 162,
+   "71": 81,
+   "40": 108,
+   "67": 162,
+   "58": 81,
+   "59": 81,
+   "68": 162,
+   "72": 81,
+   "38": 81,
+   "18": 203,
+   "44": 81,
+   "25": 54,
+   "89": 54,
+   "32": 27,
+   "79": 27,
+   "17": 12,
+   "28": 12,
+   "51": 9
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1419,
+  "name": "81mm M1 Mortar",
+  "production_window": [
+   [
+    1941,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 800
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 30,
+   "60": 36,
+   "0": 518,
+   "11": 48,
+   "16": 54,
+   "30": 54,
+   "5": 54,
+   "24": 108,
+   "62": 108,
+   "15": 54,
+   "34": 54,
+   "47": 72,
+   "81": 270,
+   "63": 54,
+   "80": 72,
+   "76": 108,
+   "84": 54,
+   "73": 54,
+   "77": 54,
+   "69": 54,
+   "41": 54,
+   "53": 54,
+   "42": 108,
+   "65": 54,
+   "26": 54,
+   "87": 108,
+   "71": 90,
+   "40": 72,
+   "67": 108,
+   "58": 54,
+   "59": 54,
+   "68": 108,
+   "64": 108,
+   "72": 54,
+   "56": 54,
+   "38": 54,
+   "18": 112,
+   "44": 54,
+   "78": 54,
+   "48": 36,
+   "25": 24,
+   "89": 36,
+   "32": 18,
+   "79": 18,
+   "17": 6,
+   "28": 6,
+   "51": 4
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1420,
+  "name": "Rifle Squad",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "60": 97,
+   "0": 2352,
+   "11": 97,
+   "16": 270,
+   "30": 270,
+   "5": 270,
+   "24": 540,
+   "62": 540,
+   "15": 270,
+   "34": 270,
+   "47": 360,
+   "81": 1080,
+   "63": 270,
+   "80": 360,
+   "76": 540,
+   "84": 540,
+   "73": 270,
+   "77": 270,
+   "69": 270,
+   "41": 270,
+   "53": 270,
+   "42": 540,
+   "65": 270,
+   "26": 270,
+   "87": 540,
+   "71": 594,
+   "40": 360,
+   "67": 540,
+   "58": 270,
+   "59": 270,
+   "68": 540,
+   "64": 684,
+   "72": 270,
+   "56": 270,
+   "38": 270,
+   "18": 440,
+   "44": 270,
+   "78": 270,
+   "48": 112,
+   "89": 180,
+   "32": 90,
+   "79": 90
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1421,
+  "name": "75mm M1A1 Pack Howitzer",
+  "production_window": [
+   [
+    1940,
+    12
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 12,
+   "60": 36,
+   "0": 84,
+   "11": 36,
+   "81": 36,
+   "48": 12,
+   "33": 12,
+   "35": 24,
+   "25": 1
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1422,
+  "name": "Combat Engineer Squad",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1944,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "60": 132,
+   "0": 608,
+   "11": 6,
+   "27": 99,
+   "34": 90,
+   "50": 18,
+   "73": 126,
+   "64": 128,
+   "66": 45,
+   "65": 99,
+   "82": 45,
+   "69": 99,
+   "84": 72,
+   "85": 72,
+   "48": 20,
+   "39": 18,
+   "56": 72,
+   "16": 27,
+   "30": 216,
+   "5": 27,
+   "24": 54,
+   "62": 108,
+   "15": 189,
+   "47": 36,
+   "81": 189,
+   "63": 81,
+   "80": 54,
+   "76": 216,
+   "77": 270,
+   "41": 54,
+   "53": 108,
+   "42": 54,
+   "26": 54,
+   "87": 54,
+   "71": 432,
+   "40": 108,
+   "67": 216,
+   "58": 27,
+   "59": 27,
+   "68": 54,
+   "72": 135,
+   "38": 27,
+   "18": 223,
+   "44": 27,
+   "78": 162,
+   "70": 756,
+   "54": 81,
+   "17": 54,
+   "9": 81,
+   "22": 81,
+   "23": 81,
+   "43": 27,
+   "28": 27,
+   "36": 81,
+   "52": 81,
+   "45": 27,
+   "37": 27,
+   "61": 27,
+   "75": 27,
+   "95": 27,
+   "96": 27,
+   "57": 81
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1423,
+  "name": "Combat Engineer Squad",
+  "production_window": [
+   [
+    1944,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 4,
+   "81": 27,
+   "71": 27
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1424,
+  "name": "Bazooka",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 343,
+   "60": 538,
+   "0": 3197,
+   "11": 426,
+   "27": 129,
+   "34": 413,
+   "50": 42,
+   "73": 429,
+   "64": 540,
+   "66": 71,
+   "65": 400,
+   "82": 71,
+   "69": 400,
+   "84": 342,
+   "85": 100,
+   "48": 330,
+   "39": 42,
+   "56": 371,
+   "16": 300,
+   "30": 503,
+   "5": 300,
+   "24": 600,
+   "62": 658,
+   "15": 474,
+   "47": 400,
+   "81": 1450,
+   "63": 358,
+   "80": 420,
+   "76": 774,
+   "77": 561,
+   "41": 329,
+   "53": 387,
+   "42": 600,
+   "26": 329,
+   "87": 600,
+   "71": 735,
+   "40": 478,
+   "67": 774,
+   "58": 300,
+   "59": 300,
+   "68": 600,
+   "72": 416,
+   "38": 300,
+   "18": 557,
+   "44": 300,
+   "25": 243,
+   "89": 182,
+   "32": 91,
+   "79": 91,
+   "17": 70,
+   "28": 41,
+   "51": 21,
+   "70": 812,
+   "54": 87,
+   "9": 87,
+   "22": 87,
+   "23": 87,
+   "43": 29,
+   "36": 87,
+   "52": 87,
+   "45": 29,
+   "37": 29,
+   "61": 29,
+   "78": 145,
+   "75": 29,
+   "95": 29,
+   "96": 29,
+   "57": 87
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1425,
+  "name": "75mm Mle 1897 Field Gun",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {},
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1426,
+  "name": "8mm Hotchkiss Machine Gun",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "71": 72
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1502,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 16067,
+   "45": 510,
+   "18": 70,
+   "43": 322,
+   "13": 70,
+   "78": 20,
+   "9": 250,
+   "65": 107,
+   "32": 97,
+   "37": 115,
+   "56": 6,
+   "61": 40,
+   "35": 90,
+   "52": 25,
+   "63": 10,
+   "57": 20,
+   "15": 10,
+   "31": 45,
+   "39": 15,
+   "41": 45,
+   "67": 15,
+   "72": 20,
+   "20": 20,
+   "17": 10,
+   "26": 20,
+   "48": 20,
+   "83": 60,
+   "70": 30,
+   "4": 20,
+   "87": 10
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1503,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "43": 528,
+   "10": 528,
+   "37": 528,
+   "0": 32,
+   "54": 102
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1505,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 2764,
+   "17": 112,
+   "57": 10,
+   "87": 10
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1506,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 492,
+   "0": 32
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1507,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "22": 495
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1508,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 553,
+   "23": 470,
+   "35": 472,
+   "30": 230
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1516,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "56": 103
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1517,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 10,
+   "0": 52
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1518,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 107
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1519,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "9": 115
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1520,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 255,
+   "60": 880,
+   "0": 5416,
+   "11": 697,
+   "27": 469,
+   "34": 1569,
+   "50": 334,
+   "73": 753,
+   "64": 725,
+   "66": 401,
+   "65": 842,
+   "82": 398,
+   "69": 768,
+   "84": 741,
+   "85": 363,
+   "16": 452,
+   "30": 535,
+   "5": 469,
+   "24": 933,
+   "62": 809,
+   "15": 499,
+   "47": 496,
+   "81": 2044,
+   "63": 493,
+   "80": 505,
+   "76": 933,
+   "77": 591,
+   "41": 770,
+   "53": 561,
+   "42": 748,
+   "26": 413,
+   "87": 830,
+   "71": 651,
+   "40": 667,
+   "67": 926,
+   "58": 383,
+   "59": 449,
+   "68": 792,
+   "72": 497,
+   "18": 369,
+   "51": 48,
+   "61": 132,
+   "36": 354,
+   "25": 91,
+   "48": 110,
+   "89": 199,
+   "32": 140,
+   "79": 138,
+   "17": 67,
+   "28": 91,
+   "22": 46,
+   "43": 267,
+   "57": 149,
+   "21": 26,
+   "8": 35,
+   "54": 499,
+   "78": 136,
+   "75": 99,
+   "88": 156,
+   "56": 247,
+   "74": 79,
+   "49": 91,
+   "31": 68,
+   "93": 14,
+   "33": 123,
+   "29": 82,
+   "86": 38,
+   "19": 51,
+   "4": 17,
+   "23": 36,
+   "39": 119,
+   "70": 130,
+   "9": 355,
+   "52": 255,
+   "45": 37,
+   "37": 48,
+   "95": 4,
+   "96": 24,
+   "35": 137,
+   "94": 105,
+   "98": 19,
+   "55": 120,
+   "38": 105,
+   "92": 60,
+   "3": 15,
+   "6": 23,
+   "20": 23,
+   "2": 8,
+   "44": 8
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1521,
+  "name": "Support",
+  "production_window": [
+   [
+    1940,
+    7
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "48": 847,
+   "39": 400,
+   "56": 400,
+   "38": 472,
+   "18": 996,
+   "44": 451,
+   "78": 451,
+   "84": 451,
+   "64": 298,
+   "0": 870,
+   "71": 678
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1522,
+  "name": "Support",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "56": 362
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 1524,
+  "name": "Support",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 776,
+   "63": 309,
+   "86": 618,
+   "82": 309,
+   "66": 618,
+   "12": 224
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2050,
+  "name": "Churchill AVRE",
+  "production_window": [
+   [
+    1944,
+    1
+   ],
+   [
+    1945,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 312,
+   "78": 28
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2085,
+  "name": "Field Engineer Section",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 1387,
+   "45": 18,
+   "41": 18,
+   "22": 27,
+   "23": 36,
+   "43": 36,
+   "35": 36,
+   "10": 36,
+   "37": 36,
+   "9": 9,
+   "65": 9,
+   "32": 9,
+   "17": 3
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2597,
+  "name": "Armored Engineer Squad",
+  "production_window": [
+   [
+    1942,
+    3
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 59,
+   "11": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2598,
+  "name": "Armored Engineer Squad",
+  "production_window": [
+   [
+    1943,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "27": 9,
+   "34": 18,
+   "50": 9,
+   "73": 9,
+   "60": 9,
+   "64": 9,
+   "66": 9,
+   "65": 9,
+   "82": 9,
+   "69": 9,
+   "84": 9,
+   "85": 9,
+   "48": 9,
+   "39": 9,
+   "56": 9
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2599,
+  "name": "Airborne Engineer Squad",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 6,
+   "11": 6,
+   "25": 6,
+   "48": 3
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2600,
+  "name": "Airborne Engineer Squad",
+  "production_window": [
+   [
+    1944,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 4,
+   "60": 3
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2601,
+  "name": "Engineer Squad",
+  "production_window": [
+   [
+    1939,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 1137,
+   "48": 84,
+   "64": 246,
+   "29": 324,
+   "86": 81,
+   "19": 243,
+   "4": 81,
+   "68": 162,
+   "5": 162,
+   "16": 81,
+   "8": 81,
+   "18": 243,
+   "31": 162,
+   "23": 81,
+   "22": 81,
+   "43": 324,
+   "59": 324,
+   "28": 81,
+   "39": 81,
+   "72": 162,
+   "40": 81,
+   "71": 81,
+   "88": 81,
+   "80": 243,
+   "87": 81,
+   "74": 81,
+   "85": 81
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2612,
+  "name": "Lee CDL",
+  "production_window": [
+   [
+    1943,
+    12
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "65": 20
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 2626,
+  "name": "Assault Engineer Squad",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "41": 36
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3401,
+  "name": "57mm M1 AT Gun",
+  "production_window": [
+   [
+    1943,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 480
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 46,
+   "60": 71,
+   "0": 459,
+   "11": 38,
+   "27": 27,
+   "34": 108,
+   "50": 27,
+   "73": 81,
+   "64": 99,
+   "66": 27,
+   "65": 81,
+   "82": 27,
+   "69": 81,
+   "84": 81,
+   "85": 27,
+   "48": 45,
+   "39": 27,
+   "56": 81,
+   "16": 54,
+   "30": 54,
+   "5": 54,
+   "24": 108,
+   "62": 108,
+   "15": 54,
+   "47": 72,
+   "81": 234,
+   "63": 54,
+   "80": 72,
+   "76": 108,
+   "77": 54,
+   "41": 54,
+   "53": 54,
+   "42": 108,
+   "26": 54,
+   "87": 108,
+   "71": 54,
+   "40": 72,
+   "67": 108,
+   "58": 54,
+   "59": 54,
+   "68": 108,
+   "72": 54,
+   "38": 54,
+   "18": 88,
+   "44": 54,
+   "89": 36,
+   "32": 18,
+   "79": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3402,
+  "name": ".30in M1919A4 Machine Gun",
+  "production_window": [
+   [
+    1939,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 60,
+   "60": 229,
+   "0": 998,
+   "11": 232,
+   "27": 108,
+   "34": 180,
+   "50": 54,
+   "73": 162,
+   "64": 144,
+   "66": 72,
+   "65": 144,
+   "82": 72,
+   "69": 144,
+   "84": 108,
+   "85": 90,
+   "48": 159,
+   "39": 54,
+   "56": 126,
+   "16": 54,
+   "30": 180,
+   "5": 54,
+   "24": 108,
+   "62": 144,
+   "15": 162,
+   "47": 72,
+   "81": 398,
+   "63": 90,
+   "80": 90,
+   "76": 216,
+   "77": 216,
+   "41": 72,
+   "53": 108,
+   "42": 108,
+   "26": 72,
+   "87": 108,
+   "71": 324,
+   "40": 126,
+   "67": 216,
+   "58": 54,
+   "59": 54,
+   "68": 108,
+   "72": 126,
+   "38": 54,
+   "18": 160,
+   "44": 54,
+   "25": 140,
+   "89": 36,
+   "32": 18,
+   "79": 18,
+   "51": 17,
+   "70": 504,
+   "54": 54,
+   "17": 36,
+   "9": 54,
+   "22": 54,
+   "23": 54,
+   "43": 18,
+   "28": 18,
+   "36": 54,
+   "52": 54,
+   "45": 18,
+   "37": 18,
+   "61": 18,
+   "78": 90,
+   "75": 18,
+   "95": 18,
+   "96": 18,
+   "57": 54
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3403,
+  "name": ".30in M1917A1 Machine Gun",
+  "production_window": [
+   [
+    1939,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 24,
+   "60": 63,
+   "0": 765,
+   "11": 36,
+   "27": 39,
+   "34": 168,
+   "50": 39,
+   "73": 129,
+   "64": 227,
+   "66": 39,
+   "65": 129,
+   "82": 39,
+   "69": 129,
+   "84": 129,
+   "85": 39,
+   "48": 69,
+   "39": 39,
+   "56": 129,
+   "16": 90,
+   "30": 90,
+   "5": 90,
+   "24": 180,
+   "62": 180,
+   "15": 90,
+   "47": 120,
+   "81": 432,
+   "63": 90,
+   "80": 114,
+   "76": 180,
+   "77": 90,
+   "41": 90,
+   "53": 90,
+   "42": 180,
+   "26": 90,
+   "87": 180,
+   "71": 90,
+   "40": 114,
+   "67": 180,
+   "58": 90,
+   "59": 90,
+   "68": 180,
+   "72": 90,
+   "38": 90,
+   "18": 140,
+   "44": 90,
+   "89": 48,
+   "32": 24,
+   "79": 24
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3404,
+  "name": ".50in M2HB Machine Gun",
+  "production_window": [
+   [
+    1939,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "83": 121,
+   "60": 237,
+   "0": 1159,
+   "11": 156,
+   "27": 129,
+   "34": 241,
+   "50": 65,
+   "73": 93,
+   "64": 105,
+   "66": 33,
+   "65": 103,
+   "82": 33,
+   "69": 121,
+   "84": 57,
+   "85": 45,
+   "48": 87,
+   "39": 77,
+   "56": 155,
+   "16": 36,
+   "30": 152,
+   "5": 36,
+   "24": 130,
+   "62": 96,
+   "15": 122,
+   "47": 108,
+   "81": 180,
+   "63": 132,
+   "80": 60,
+   "76": 298,
+   "77": 224,
+   "41": 117,
+   "53": 114,
+   "42": 72,
+   "26": 90,
+   "87": 94,
+   "71": 278,
+   "40": 113,
+   "67": 255,
+   "58": 36,
+   "59": 36,
+   "68": 116,
+   "72": 168,
+   "38": 128,
+   "18": 234,
+   "44": 58,
+   "25": 20,
+   "89": 24,
+   "32": 12,
+   "79": 34,
+   "70": 336,
+   "54": 87,
+   "17": 24,
+   "9": 92,
+   "22": 36,
+   "23": 54,
+   "43": 30,
+   "28": 34,
+   "36": 156,
+   "52": 112,
+   "45": 17,
+   "37": 75,
+   "61": 70,
+   "78": 60,
+   "75": 12,
+   "95": 12,
+   "96": 12,
+   "57": 64,
+   "3": 14,
+   "6": 36,
+   "20": 36,
+   "33": 28,
+   "51": 18,
+   "31": 23,
+   "21": 22,
+   "2": 22,
+   "35": 22
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3405,
+  "name": "105mm M2A1 Howitzer",
+  "production_window": [
+   [
+    1941,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 960
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 252,
+   "16": 36,
+   "30": 36,
+   "5": 36,
+   "24": 72,
+   "62": 72,
+   "15": 36,
+   "34": 108,
+   "47": 60,
+   "81": 144,
+   "63": 48,
+   "80": 36,
+   "76": 84,
+   "84": 36,
+   "73": 36,
+   "77": 48,
+   "69": 36,
+   "41": 36,
+   "53": 48,
+   "42": 72,
+   "65": 48,
+   "26": 36,
+   "87": 72,
+   "71": 48,
+   "40": 36,
+   "67": 72,
+   "58": 36,
+   "59": 36,
+   "68": 72,
+   "64": 36,
+   "72": 36,
+   "56": 48,
+   "38": 36,
+   "18": 94,
+   "44": 36,
+   "79": 12,
+   "54": 84,
+   "94": 60,
+   "60": 60,
+   "52": 24,
+   "89": 24,
+   "48": 72
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3406,
+  "name": "155mm M1 Howitzer",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 320
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 180,
+   "16": 12,
+   "30": 36,
+   "5": 12,
+   "24": 72,
+   "62": 24,
+   "15": 12,
+   "34": 96,
+   "47": 12,
+   "81": 72,
+   "63": 12,
+   "80": 12,
+   "76": 24,
+   "84": 48,
+   "73": 12,
+   "77": 36,
+   "69": 12,
+   "41": 36,
+   "53": 48,
+   "42": 24,
+   "65": 48,
+   "26": 12,
+   "87": 36,
+   "71": 36,
+   "40": 36,
+   "67": 36,
+   "58": 12,
+   "59": 12,
+   "68": 24,
+   "64": 12,
+   "72": 36,
+   "56": 24,
+   "38": 12,
+   "18": 62,
+   "44": 12,
+   "35": 48,
+   "96": 12,
+   "61": 24,
+   "54": 36,
+   "88": 60,
+   "60": 36,
+   "66": 24,
+   "33": 24,
+   "57": 12,
+   "32": 12,
+   "82": 24,
+   "89": 24,
+   "74": 12,
+   "9": 36,
+   "52": 24,
+   "36": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3502,
+  "name": "15in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "39": 18
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3503,
+  "name": "7.5in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "39": 5
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3506,
+  "name": "6in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 72,
+   "39": 64
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3509,
+  "name": "5.25in Naval Gun",
+  "production_window": [
+   [
+    1940,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "39": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3511,
+  "name": "4.7in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 84,
+   "39": 101
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3521,
+  "name": "14in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "34": 22
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3524,
+  "name": "12in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "34": 12
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3526,
+  "name": "8in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "34": 16
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3529,
+  "name": "6in Naval Gun",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 72,
+   "34": 40
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "g",
+  "model": 3532,
+  "name": "5in Naval Gun",
+  "production_window": [
+   [
+    1934,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": {
+   "0": 218,
+   "34": 96
+  },
+  "aircraft_assigned_at_start": null
+ },
+ {
+  "category": "a",
+  "model": 487,
+  "name": "RS.14B (WI)",
+  "production_window": [
+   [
+    1941,
+    11
+   ],
+   [
+    1943,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "85a WAI Pa Grp",
+    "delay": 52,
+    "ready_and_reserve": 20
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 490,
+  "name": "Z.501 (WI)",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1943,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "83a WAI Pa Grp",
+    "delay": 52,
+    "ready_and_reserve": 20
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 491,
+  "name": "Z.506B (WI)",
+  "production_window": [
+   [
+    1939,
+    1
+   ],
+   [
+    1942,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "82a WAI Pa Grp",
+    "delay": 52,
+    "ready_and_reserve": 20
+   },
+   {
+    "group": "84a WAI Pa Grp",
+    "delay": 52,
+    "ready_and_reserve": 20
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 532,
+  "name": "Spitfire VIII",
+  "production_window": [
+   [
+    1942,
+    12
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 532,
+    "opening_capacity": 7
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 16,
+  "scheduled_air_groups": [
+   {
+    "group": "No.92 RAF FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 557
+ },
+ {
+  "category": "a",
+  "model": 533,
+  "name": "Spitfire LF.IX",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 667,
+    "opening_capacity": 38
+   },
+   {
+    "site": "Dishforth",
+    "initial_model": 533,
+    "opening_capacity": 15
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": 553
+ },
+ {
+  "category": "a",
+  "model": 545,
+  "name": "Hurricane IIC",
+  "production_window": [
+   [
+    1941,
+    6
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 650
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 545,
+    "opening_capacity": 20
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 64,
+  "scheduled_air_groups": [
+   {
+    "group": "No.3 SAAF FB Sqn",
+    "delay": 4,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.7 SAAF FB Sqn",
+    "delay": 41,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "No.237 RAF FB Sqn",
+    "delay": 23,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.238 RAF FB Sqn",
+    "delay": 37,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.451 RAAF FB Sqn",
+    "delay": 41,
+    "ready_and_reserve": 12
+   }
+  ],
+  "factory_successor": 559
+ },
+ {
+  "category": "a",
+  "model": 549,
+  "name": "Spitfire VB",
+  "production_window": [
+   [
+    1941,
+    6
+   ],
+   [
+    1942,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 704,
+  "scheduled_air_groups": [
+   {
+    "group": "No.11 SAAF FB Sqn",
+    "delay": 52,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.327 (FF) RAF FB Sqn",
+    "delay": 23,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.329 (FF) RAF FB Sqn",
+    "delay": 29,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.441 RCAF FB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.442 RCAF FB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.443 RCAF FB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 667
+ },
+ {
+  "category": "a",
+  "model": 550,
+  "name": "Spitfire IX",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    7
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 650
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 272,
+  "scheduled_air_groups": [
+   {
+    "group": "No.33 RAF FB Sqn",
+    "delay": 41,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.74 RAF FB Sqn",
+    "delay": 43,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.80 RAF FB Sqn",
+    "delay": 43,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.127 RAF FB Sqn",
+    "delay": 41,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.328 (FF) RAF FB Sqn",
+    "delay": 23,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.345 (FF) RAF FB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 533
+ },
+ {
+  "category": "a",
+  "model": 551,
+  "name": "Spitfire XII",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1943,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 50
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 551,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 32,
+  "scheduled_air_groups": [],
+  "factory_successor": 552
+ },
+ {
+  "category": "a",
+  "model": 554,
+  "name": "Spitfire PR.IV",
+  "production_window": [
+   [
+    1941,
+    9
+   ],
+   [
+    1942,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 16,
+  "scheduled_air_groups": [],
+  "factory_successor": 555
+ },
+ {
+  "category": "a",
+  "model": 555,
+  "name": "Spitfire PR.XI",
+  "production_window": [
+   [
+    1942,
+    12
+   ],
+   [
+    1945,
+    3
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 555,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 128,
+  "scheduled_air_groups": [],
+  "factory_successor": 534
+ },
+ {
+  "category": "a",
+  "model": 558,
+  "name": "Typhoon IB",
+  "production_window": [
+   [
+    1941,
+    9
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 200
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 558,
+    "opening_capacity": 18
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 304,
+  "scheduled_air_groups": [],
+  "factory_successor": 560
+ },
+ {
+  "category": "a",
+  "model": 564,
+  "name": "Kittyhawk III",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    3
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 60,
+  "scheduled_air_groups": [
+   {
+    "group": "No.112 RAF FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.250 RAF FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.260 RAF FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.450 RAAF FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 12
+   }
+  ],
+  "factory_successor": 565
+ },
+ {
+  "category": "a",
+  "model": 569,
+  "name": "Mustang I",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 40
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "No.309 (PO) RAF FB Sqn",
+    "delay": 41,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.613 RAF FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 12
+   }
+  ],
+  "factory_successor": 572
+ },
+ {
+  "category": "a",
+  "model": 578,
+  "name": "Beaufighter VIF",
+  "production_window": [
+   [
+    1942,
+    3
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 20
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 578,
+    "opening_capacity": 6
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 192,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 579,
+  "name": "Beaufighter VIC",
+  "production_window": [
+   [
+    1942,
+    3
+   ],
+   [
+    1943,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 16
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 16,
+  "scheduled_air_groups": [],
+  "factory_successor": 582
+ },
+ {
+  "category": "a",
+  "model": 580,
+  "name": "Beaufighter VI (ITF)",
+  "production_window": [
+   [
+    1942,
+    12
+   ],
+   [
+    1943,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 128,
+  "scheduled_air_groups": [],
+  "factory_successor": 581
+ },
+ {
+  "category": "a",
+  "model": 581,
+  "name": "Beaufighter TF X",
+  "production_window": [
+   [
+    1943,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 40
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 581,
+    "opening_capacity": 7
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 582,
+  "name": "Beaufighter XIC",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 13
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 582,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 584,
+  "name": "Mosquito NF.II",
+  "production_window": [
+   [
+    1942,
+    2
+   ],
+   [
+    1943,
+    1
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 128,
+  "scheduled_air_groups": [
+   {
+    "group": "No.169 RAF NF Sqn",
+    "delay": 15,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 585
+ },
+ {
+  "category": "a",
+  "model": 585,
+  "name": "Mosquito NF.XIII",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 40
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 585,
+    "opening_capacity": 6
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 80,
+  "scheduled_air_groups": [],
+  "factory_successor": 536
+ },
+ {
+  "category": "a",
+  "model": 587,
+  "name": "Mosquito FB.VI",
+  "production_window": [
+   [
+    1943,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 60
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Coventry",
+    "initial_model": 587,
+    "opening_capacity": 8
+   },
+   {
+    "site": "Dishforth",
+    "initial_model": 587,
+    "opening_capacity": 8
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 32,
+  "scheduled_air_groups": [
+   {
+    "group": "No.162 RAF FB Sqn",
+    "delay": 77,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.464 RAAF FB Sqn",
+    "delay": 12,
+    "ready_and_reserve": 22
+   },
+   {
+    "group": "No.487 RNZAF FB Sqn",
+    "delay": 12,
+    "ready_and_reserve": 22
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 588,
+  "name": "Mosquito B.IV",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1943,
+    3
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 70
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 88,
+  "scheduled_air_groups": [
+   {
+    "group": "No.627 RAF LB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.692 RAF LB Sqn",
+    "delay": 29,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 592
+ },
+ {
+  "category": "a",
+  "model": 589,
+  "name": "Mosquito B.XVI",
+  "production_window": [
+   [
+    1943,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 592,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "No.128 RAF LB Sqn",
+    "delay": 62,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.571 RAF LB Sqn",
+    "delay": 41,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 591,
+  "name": "Mosquito PR.XVI",
+  "production_window": [
+   [
+    1943,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 62
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 593,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 592,
+  "name": "Mosquito B.IX",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1943,
+    10
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 25
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 592,
+    "opening_capacity": 2
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": 589
+ },
+ {
+  "category": "a",
+  "model": 593,
+  "name": "Mosquito PR.IX",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1943,
+    10
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 10
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 593,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 32,
+  "scheduled_air_groups": [],
+  "factory_successor": 591
+ },
+ {
+  "category": "a",
+  "model": 604,
+  "name": "Beaufort I",
+  "production_window": [
+   [
+    1940,
+    1
+   ],
+   [
+    1943,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 20
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 32,
+  "scheduled_air_groups": [],
+  "factory_successor": 581
+ },
+ {
+  "category": "a",
+  "model": 610,
+  "name": "Blenheim VD",
+  "production_window": [
+   [
+    1942,
+    5
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 44,
+  "scheduled_air_groups": [
+   {
+    "group": "No.15 SAAF TacB Sqn",
+    "delay": 54,
+    "ready_and_reserve": 12
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 612,
+  "name": "Boston III",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1943,
+    1
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 176,
+  "scheduled_air_groups": [],
+  "factory_successor": 613
+ },
+ {
+  "category": "a",
+  "model": 616,
+  "name": "Baltimore III",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    2
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 85,
+  "scheduled_air_groups": [
+   {
+    "group": "No.223 RAF LB Sqn",
+    "delay": 59,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.454 RAAF LB Sqn",
+    "delay": 53,
+    "ready_and_reserve": 12
+   }
+  ],
+  "factory_successor": 623
+ },
+ {
+  "category": "a",
+  "model": 617,
+  "name": "Baltimore V",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 623,
+    "opening_capacity": 12
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 618,
+  "name": "Marauder I",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1942,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 8,
+  "scheduled_air_groups": [
+   {
+    "group": "No.30 SAAF LB Sqn",
+    "delay": 57,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 605
+ },
+ {
+  "category": "a",
+  "model": 619,
+  "name": "Mitchell II",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 88,
+  "scheduled_air_groups": [],
+  "factory_successor": 620
+ },
+ {
+  "category": "a",
+  "model": 621,
+  "name": "Fortress IIA",
+  "production_window": [
+   [
+    1942,
+    4
+   ],
+   [
+    1942,
+    11
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 20,
+  "scheduled_air_groups": [],
+  "factory_successor": 622
+ },
+ {
+  "category": "a",
+  "model": 623,
+  "name": "Baltimore IV",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1943,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 623,
+    "opening_capacity": 12
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": 617
+ },
+ {
+  "category": "a",
+  "model": 624,
+  "name": "Liberator B.III",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    3
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "No.31 SAAF LB Sqn",
+    "delay": 45,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.34 SAAF LB Sqn",
+    "delay": 41,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 625
+ },
+ {
+  "category": "a",
+  "model": 628,
+  "name": "Hampden I",
+  "production_window": [
+   [
+    1938,
+    11
+   ],
+   [
+    1942,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 30
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 32,
+  "scheduled_air_groups": [],
+  "factory_successor": 631
+ },
+ {
+  "category": "a",
+  "model": 630,
+  "name": "Liberator GR.V",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 75,
+  "scheduled_air_groups": [],
+  "factory_successor": 626
+ },
+ {
+  "category": "a",
+  "model": 631,
+  "name": "Wellington III",
+  "production_window": [
+   [
+    1941,
+    7
+   ],
+   [
+    1942,
+    11
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 44,
+  "scheduled_air_groups": [],
+  "factory_successor": 632
+ },
+ {
+  "category": "a",
+  "model": 632,
+  "name": "Wellington X",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 180
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 632,
+    "opening_capacity": 5
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 632,
+    "opening_capacity": 5
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 632,
+    "opening_capacity": 5
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 286,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 633,
+  "name": "Wellington GR.XIII/XIV",
+  "production_window": [
+   [
+    1942,
+    12
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 633,
+    "opening_capacity": 5
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 633,
+    "opening_capacity": 5
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 121,
+  "scheduled_air_groups": [
+   {
+    "group": "No.179 RAF Pa Sqn",
+    "delay": 43,
+    "ready_and_reserve": 18
+   },
+   {
+    "group": "No.524 RAF Pa Sqn",
+    "delay": 17,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 634,
+  "name": "Stirling I",
+  "production_window": [
+   [
+    1940,
+    8
+   ],
+   [
+    1942,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 88,
+  "scheduled_air_groups": [
+   {
+    "group": "No.171 RAF LB Sqn",
+    "delay": 63,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.622 RAF LB Sqn",
+    "delay": 6,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.623 RAF LB Sqn",
+    "delay": 6,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 635
+ },
+ {
+  "category": "a",
+  "model": 635,
+  "name": "Stirling III",
+  "production_window": [
+   [
+    1942,
+    11
+   ],
+   [
+    1943,
+    11
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 635,
+    "opening_capacity": 7
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 635,
+    "opening_capacity": 7
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 635,
+    "opening_capacity": 7
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 110,
+  "scheduled_air_groups": [],
+  "factory_successor": 645
+ },
+ {
+  "category": "a",
+  "model": 637,
+  "name": "Halifax B.II",
+  "production_window": [
+   [
+    1941,
+    8
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 300
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 637,
+    "opening_capacity": 6
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 637,
+    "opening_capacity": 6
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 374,
+  "scheduled_air_groups": [],
+  "factory_successor": 638
+ },
+ {
+  "category": "a",
+  "model": 638,
+  "name": "Halifax B.III",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1945,
+    2
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 638,
+    "opening_capacity": 10
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 637,
+    "opening_capacity": 6
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 637,
+    "opening_capacity": 6
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "No.346 (FF) RAF LB Sqn",
+    "delay": 45,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.347 (FF) RAF LB Sqn",
+    "delay": 51,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.433 RCAF LB Sqn",
+    "delay": 9,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.578 RAF LB Sqn",
+    "delay": 29,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.640 RAF LB Sqn",
+    "delay": 29,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 639,
+  "name": "Halifax GR.II/V",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 639,
+    "opening_capacity": 3
+   },
+   {
+    "site": "Liverpool",
+    "initial_model": 639,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 30,
+  "scheduled_air_groups": [
+   {
+    "group": "No.517 RAF Pa Sqn",
+    "delay": 7,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 643,
+  "name": "Lancaster B.I",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 550
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 462,
+  "scheduled_air_groups": [
+   {
+    "group": "No.189 RAF LB Sqn",
+    "delay": 67,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.227 RAF LB Sqn",
+    "delay": 53,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.463 RAAF LB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.514 RAF LB Sqn",
+    "delay": 11,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.550 RAF LB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.576 RAF LB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.582 RAF LB Sqn",
+    "delay": 29,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.625 RAF LB Sqn",
+    "delay": 15,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.626 RAF LB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.630 RAF LB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 644
+ },
+ {
+  "category": "a",
+  "model": 644,
+  "name": "Lancaster B.III",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 644,
+    "opening_capacity": 10
+   },
+   {
+    "site": "Dishforth",
+    "initial_model": 644,
+    "opening_capacity": 10
+   },
+   {
+    "site": "Coventry",
+    "initial_model": 644,
+    "opening_capacity": 7
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 22,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 645,
+  "name": "Stirling IV-V",
+  "production_window": [
+   [
+    1943,
+    12
+   ],
+   [
+    1945,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 635,
+    "opening_capacity": 7
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 635,
+    "opening_capacity": 7
+   },
+   {
+    "site": "Elvington",
+    "initial_model": 635,
+    "opening_capacity": 7
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "No.148 RAF TR Sqn",
+    "delay": 27,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.190 RAF TR Sqn",
+    "delay": 29,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.299 RAF TR Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 646,
+  "name": "Albemarle",
+  "production_window": [
+   [
+    1941,
+    12
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 130
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 646,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 72,
+  "scheduled_air_groups": [
+   {
+    "group": "No.298 RAF TR Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.570 RAF TR Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 652,
+  "name": "Swordfish II",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 652,
+    "opening_capacity": 5
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 16,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 653,
+  "name": "Albacore",
+  "production_window": [
+   [
+    1940,
+    4
+   ],
+   [
+    1942,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 64,
+  "scheduled_air_groups": [],
+  "factory_successor": 654
+ },
+ {
+  "category": "a",
+  "model": 656,
+  "name": "Hudson III",
+  "production_window": [
+   [
+    1940,
+    12
+   ],
+   [
+    1942,
+    12
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 16,
+  "scheduled_air_groups": [],
+  "factory_successor": 657
+ },
+ {
+  "category": "a",
+  "model": 657,
+  "name": "Ventura GR.V",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 100
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 657,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 18,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 661,
+  "name": "Sunderland III",
+  "production_window": [
+   [
+    1942,
+    2
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 150
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 661,
+    "opening_capacity": 1
+   },
+   {
+    "site": "Kirmington",
+    "initial_model": 661,
+    "opening_capacity": 1
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 63,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 662,
+  "name": "Catalina IVA",
+  "production_window": [
+   [
+    1941,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 662,
+    "opening_capacity": 1
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 14,
+  "scheduled_air_groups": [
+   {
+    "group": "No.202 RAF Pa Sqn",
+    "delay": 62,
+    "ready_and_reserve": 6
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 664,
+  "name": "Dakota III",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 140
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 36,
+  "scheduled_air_groups": [
+   {
+    "group": "No.28 SAAF TR Sqn",
+    "delay": 2,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.44 SAAF TR Sqn",
+    "delay": 37,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.48 RAF TR Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.117 RAF TR Sqn",
+    "delay": 9,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.147 RAF TR Sqn",
+    "delay": 62,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.233 RAF TR Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.267 RAF TR Sqn",
+    "delay": 19,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "No.271 RAF TR Sqn",
+    "delay": 29,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.437 RCAF TR Sqn",
+    "delay": 62,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.525 RAF TR Sqn",
+    "delay": 9,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.575 RAF TR Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 665
+ },
+ {
+  "category": "a",
+  "model": 666,
+  "name": "Mustang I (PR)",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1944,
+    10
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 192,
+  "scheduled_air_groups": [],
+  "factory_successor": 556
+ },
+ {
+  "category": "a",
+  "model": 667,
+  "name": "Spitfire VC",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1943,
+    7
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 667,
+    "opening_capacity": 38
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 144,
+  "scheduled_air_groups": [
+   {
+    "group": "No.208 RAF FB Sqn",
+    "delay": 37,
+    "ready_and_reserve": 12
+   }
+  ],
+  "factory_successor": 533
+ },
+ {
+  "category": "a",
+  "model": 668,
+  "name": "Hurricane IID",
+  "production_window": [
+   [
+    1942,
+    3
+   ],
+   [
+    1943,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 16,
+  "scheduled_air_groups": [],
+  "factory_successor": 669
+ },
+ {
+  "category": "a",
+  "model": 669,
+  "name": "Hurricane IV",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1944,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 40
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 669,
+    "opening_capacity": 8
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 64,
+  "scheduled_air_groups": [
+   {
+    "group": "No.438 RCAF FB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.439 RCAF FB Sqn",
+    "delay": 23,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.440 RCAF FB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": 559
+ },
+ {
+  "category": "a",
+  "model": 671,
+  "name": "Halifax A.V",
+  "production_window": [
+   [
+    1943,
+    5
+   ],
+   [
+    1944,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 35
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Liverpool",
+    "initial_model": 671,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 60,
+  "scheduled_air_groups": [
+   {
+    "group": "No.644 RAF TR Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "No.246 RAF TR Sqn",
+    "delay": 68,
+    "ready_and_reserve": 0
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 680,
+  "name": "P-40N Warhawk",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1944,
+    7
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 350
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 680,
+    "opening_capacity": 20
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 262,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 683,
+  "name": "P-39Q Airacobra",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 170
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 683,
+    "opening_capacity": 15
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 110,
+  "scheduled_air_groups": [
+   {
+    "group": "GC I/4 FFr FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "GC I/5 FFr FB Sqn",
+    "delay": 2,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "GC III/3 FFr FB Sqn",
+    "delay": 19,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "332nd USAAF FB Grp",
+    "delay": 26,
+    "ready_and_reserve": 75
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 686,
+  "name": "P-38G/H Lightning",
+  "production_window": [
+   [
+    1942,
+    8
+   ],
+   [
+    1943,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 250
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 686,
+    "opening_capacity": 30
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 162,
+  "scheduled_air_groups": [
+   {
+    "group": "20th USAAF FB Grp",
+    "delay": 23,
+    "ready_and_reserve": 60
+   },
+   {
+    "group": "55th USAAF FB Grp",
+    "delay": 9,
+    "ready_and_reserve": 60
+   }
+  ],
+  "factory_successor": 687
+ },
+ {
+  "category": "a",
+  "model": 687,
+  "name": "P-38J Lightning",
+  "production_window": [
+   [
+    1943,
+    8
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 686,
+    "opening_capacity": 30
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "364th USAAF FB Grp",
+    "delay": 33,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "367th USAAF FB Grp",
+    "delay": 41,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "370th USAAF FB Grp",
+    "delay": 44,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "474th USAAF FB Grp",
+    "delay": 41,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "479th USAAF FB Grp",
+    "delay": 45,
+    "ready_and_reserve": 75
+   }
+  ],
+  "factory_successor": 737
+ },
+ {
+  "category": "a",
+  "model": 688,
+  "name": "F-5A Lightning",
+  "production_window": [
+   [
+    1942,
+    8
+   ],
+   [
+    1943,
+    3
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 48
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 69,
+  "scheduled_air_groups": [
+   {
+    "group": "23rd USAAF PR Sqn",
+    "delay": 10,
+    "ready_and_reserve": 16
+   }
+  ],
+  "factory_successor": 689
+ },
+ {
+  "category": "a",
+  "model": 689,
+  "name": "F-5B Lightning",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1944,
+    4
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 689,
+    "opening_capacity": 8
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "27th USAAF PR Sqn",
+    "delay": 18,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "30th USAAF PR Sqn",
+    "delay": 31,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "31st USAAF PR Sqn",
+    "delay": 37,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "32nd USAAF PR Sqn",
+    "delay": 43,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "33rd USAAF PR Sqn",
+    "delay": 47,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "34th USAAF PR Sqn",
+    "delay": 39,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "37th USAAF PR Sqn",
+    "delay": 72,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "39th USAAF PR Sqn",
+    "delay": 82,
+    "ready_and_reserve": 16
+   }
+  ],
+  "factory_successor": 736
+ },
+ {
+  "category": "a",
+  "model": 690,
+  "name": "P-47C Thunderbolt",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 286
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": 691
+ },
+ {
+  "category": "a",
+  "model": 691,
+  "name": "P-47D-5 Thunderbolt",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 125
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 691,
+    "opening_capacity": 32
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 318,
+  "scheduled_air_groups": [
+   {
+    "group": "356th USAAF FB Grp",
+    "delay": 15,
+    "ready_and_reserve": 60
+   },
+   {
+    "group": "359th USAAF FB Grp",
+    "delay": 23,
+    "ready_and_reserve": 60
+   }
+  ],
+  "factory_successor": 692
+ },
+ {
+  "category": "a",
+  "model": 692,
+  "name": "P-47D-15 Thunderbolt",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 691,
+    "opening_capacity": 32
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "36th USAAF FB Grp",
+    "delay": 45,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "48th USAAF FB Grp",
+    "delay": 40,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "50th USAAF FB Grp",
+    "delay": 41,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "358th USAAF FB Grp",
+    "delay": 19,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "361st USAAF FB Grp",
+    "delay": 29,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "362nd USAAF FB Grp",
+    "delay": 31,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "365th USAAF FB Grp",
+    "delay": 33,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "366th USAAF FB Grp",
+    "delay": 37,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "368th USAAF FB Grp",
+    "delay": 37,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "371st USAAF FB Grp",
+    "delay": 41,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "373rd USAAF FB Grp",
+    "delay": 45,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "404th USAAF FB Grp",
+    "delay": 41,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "405th USAAF FB Grp",
+    "delay": 41,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "406th USAAF FB Grp",
+    "delay": 45,
+    "ready_and_reserve": 75
+   }
+  ],
+  "factory_successor": 693
+ },
+ {
+  "category": "a",
+  "model": 693,
+  "name": "P-47D-25 Thunderbolt",
+  "production_window": [
+   [
+    1944,
+    3
+   ],
+   [
+    1945,
+    7
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 691,
+    "opening_capacity": 32
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "1st Bra FB Sqn",
+    "delay": 67,
+    "ready_and_reserve": 16
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 694,
+  "name": "A-36A Apache",
+  "production_window": [
+   [
+    1942,
+    10
+   ],
+   [
+    1943,
+    3
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 100
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 140,
+  "scheduled_air_groups": [],
+  "factory_successor": 695
+ },
+ {
+  "category": "a",
+  "model": 695,
+  "name": "P-51B-1 Mustang",
+  "production_window": [
+   [
+    1943,
+    11
+   ],
+   [
+    1944,
+    1
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 695,
+    "opening_capacity": 32
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "354th USAAF FB Grp",
+    "delay": 23,
+    "ready_and_reserve": 75
+   }
+  ],
+  "factory_successor": 696
+ },
+ {
+  "category": "a",
+  "model": 696,
+  "name": "P-51B-10 Mustang",
+  "production_window": [
+   [
+    1944,
+    1
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 695,
+    "opening_capacity": 32
+   },
+   {
+    "site": "Kirmington",
+    "initial_model": 696,
+    "opening_capacity": 26
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "357th USAAF FB Grp",
+    "delay": 29,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "363rd USAAF FB Grp",
+    "delay": 29,
+    "ready_and_reserve": 75
+   },
+   {
+    "group": "339th USAAF FB Grp",
+    "delay": 41,
+    "ready_and_reserve": 75
+   }
+  ],
+  "factory_successor": 697
+ },
+ {
+  "category": "a",
+  "model": 697,
+  "name": "P-51D Mustang",
+  "production_window": [
+   [
+    1944,
+    5
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 695,
+    "opening_capacity": 32
+   },
+   {
+    "site": "Kirmington",
+    "initial_model": 696,
+    "opening_capacity": 26
+   },
+   {
+    "site": "Kirmington",
+    "initial_model": 697,
+    "opening_capacity": 12
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 698,
+  "name": "P-51A Mustang",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": 695
+ },
+ {
+  "category": "a",
+  "model": 699,
+  "name": "F-6A Mustang",
+  "production_window": [
+   [
+    1942,
+    9
+   ],
+   [
+    1943,
+    3
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 42,
+  "scheduled_air_groups": [],
+  "factory_successor": 701
+ },
+ {
+  "category": "a",
+  "model": 700,
+  "name": "F-6D Mustang",
+  "production_window": [
+   [
+    1944,
+    9
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 701,
+    "opening_capacity": 12
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "10th USAAF Rec Sqn",
+    "delay": 89,
+    "ready_and_reserve": 23
+   },
+   {
+    "group": "22nd USAAF Rec Sqn",
+    "delay": 91,
+    "ready_and_reserve": 21
+   },
+   {
+    "group": "31st USAAF Rec Sqn",
+    "delay": 91,
+    "ready_and_reserve": 21
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 701,
+  "name": "F-6C Mustang",
+  "production_window": [
+   [
+    1943,
+    11
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Wrexham",
+    "initial_model": 701,
+    "opening_capacity": 12
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "15th USAAF Rec Sqn",
+    "delay": 26,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "160th USAAF Rec Sqn",
+    "delay": 24,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "161st USAAF Rec Sqn",
+    "delay": 24,
+    "ready_and_reserve": 16
+   },
+   {
+    "group": "162nd USAAF Rec Sqn",
+    "delay": 24,
+    "ready_and_reserve": 16
+   }
+  ],
+  "factory_successor": 700
+ },
+ {
+  "category": "a",
+  "model": 702,
+  "name": "F-6B Mustang",
+  "production_window": [
+   [
+    1943,
+    4
+   ],
+   [
+    1943,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 5
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 14,
+  "scheduled_air_groups": [],
+  "factory_successor": 701
+ },
+ {
+  "category": "a",
+  "model": 703,
+  "name": "Beaufighter VIF (US)",
+  "production_window": [
+   [
+    1943,
+    3
+   ],
+   [
+    1943,
+    5
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 64
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 39,
+  "scheduled_air_groups": [],
+  "factory_successor": 704
+ },
+ {
+  "category": "a",
+  "model": 704,
+  "name": "P-61A/B Black Widow",
+  "production_window": [
+   [
+    1943,
+    10
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 704,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "422nd USAAF NF Sqn",
+    "delay": 37,
+    "ready_and_reserve": 12
+   },
+   {
+    "group": "425th USAAF NF Sqn",
+    "delay": 45,
+    "ready_and_reserve": 12
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 707,
+  "name": "A-20G-K Havoc",
+  "production_window": [
+   [
+    1943,
+    2
+   ],
+   [
+    1944,
+    8
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 80
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 707,
+    "opening_capacity": 18
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 57,
+  "scheduled_air_groups": [
+   {
+    "group": "409th USAAF LB Grp",
+    "delay": 40,
+    "ready_and_reserve": 64
+   },
+   {
+    "group": "416th USAAF LB Grp",
+    "delay": 37,
+    "ready_and_reserve": 64
+   },
+   {
+    "group": "410th USAAF LB Grp",
+    "delay": 40,
+    "ready_and_reserve": 64
+   }
+  ],
+  "factory_successor": 715
+ },
+ {
+  "category": "a",
+  "model": 709,
+  "name": "B-25C Mitchell",
+  "production_window": [
+   [
+    1942,
+    1
+   ],
+   [
+    1944,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 220
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 709,
+    "opening_capacity": 14
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 237,
+  "scheduled_air_groups": [],
+  "factory_successor": 710
+ },
+ {
+  "category": "a",
+  "model": 712,
+  "name": "B-26B/C Marauder",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1944,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 300
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 712,
+    "opening_capacity": 15
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 414,
+  "scheduled_air_groups": [
+   {
+    "group": "GB I/19 FFr LB Sqn",
+    "delay": 11,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "GB I/32 FFr LB Sqn",
+    "delay": 11,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "GB I/22 FFr LB Sqn",
+    "delay": 11,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "344th USAAF LB Grp",
+    "delay": 37,
+    "ready_and_reserve": 64
+   },
+   {
+    "group": "391st USAAF LB Grp",
+    "delay": 36,
+    "ready_and_reserve": 64
+   }
+  ],
+  "factory_successor": 713
+ },
+ {
+  "category": "a",
+  "model": 713,
+  "name": "B-26F/G Marauder",
+  "production_window": [
+   [
+    1944,
+    2
+   ],
+   [
+    1945,
+    3
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 390
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 712,
+    "opening_capacity": 15
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "GB I/34 FFr LB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "GB II/20 FFr LB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "GB II/52 FFr LB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "GB II/63 FFr LB Sqn",
+    "delay": 33,
+    "ready_and_reserve": 0
+   },
+   {
+    "group": "394th USAAF LB Grp",
+    "delay": 37,
+    "ready_and_reserve": 64
+   },
+   {
+    "group": "397th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 64
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 717,
+  "name": "B-17F Fortress",
+  "production_window": [
+   [
+    1942,
+    6
+   ],
+   [
+    1943,
+    9
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 170
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 717,
+    "opening_capacity": 40
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 860,
+  "scheduled_air_groups": [],
+  "factory_successor": 718
+ },
+ {
+  "category": "a",
+  "model": 718,
+  "name": "B-17G Fortress",
+  "production_window": [
+   [
+    1943,
+    9
+   ],
+   [
+    1945,
+    6
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 718,
+    "opening_capacity": 31
+   },
+   {
+    "site": "Kirmington",
+    "initial_model": 717,
+    "opening_capacity": 40
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "398th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "401st USAAF LB Grp",
+    "delay": 19,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "447th USAAF LB Grp",
+    "delay": 19,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "452nd USAAF LB Grp",
+    "delay": 28,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "457th USAAF LB Grp",
+    "delay": 28,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "463rd USAAF LB Grp",
+    "delay": 37,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "482nd USAAF LB Grp",
+    "delay": 11,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "483rd USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "490th USAAF LB Grp",
+    "delay": 50,
+    "ready_and_reserve": 48
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 720,
+  "name": "B-24D Liberator",
+  "production_window": [
+   [
+    1942,
+    2
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 50
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 224,
+  "scheduled_air_groups": [
+   {
+    "group": "392nd USAAF LB Grp",
+    "delay": 6,
+    "ready_and_reserve": 48
+   }
+  ],
+  "factory_successor": 721
+ },
+ {
+  "category": "a",
+  "model": 721,
+  "name": "B-24H/J Liberator",
+  "production_window": [
+   [
+    1943,
+    6
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 120
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 721,
+    "opening_capacity": 48
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "34th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "445th USAAF LB Grp",
+    "delay": 19,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "446th USAAF LB Grp",
+    "delay": 19,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "448th USAAF LB Grp",
+    "delay": 19,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "449th USAAF LB Grp",
+    "delay": 29,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "450th USAAF LB Grp",
+    "delay": 28,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "451st USAAF LB Grp",
+    "delay": 28,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "453rd USAAF LB Grp",
+    "delay": 24,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "454th USAAF LB Grp",
+    "delay": 28,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "455th USAAF LB Grp",
+    "delay": 33,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "456th USAAF LB Grp",
+    "delay": 28,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "458th USAAF LB Grp",
+    "delay": 28,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "459th USAAF LB Grp",
+    "delay": 33,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "460th USAAF LB Grp",
+    "delay": 33,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "461st USAAF LB Grp",
+    "delay": 40,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "464th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "465th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "466th USAAF LB Grp",
+    "delay": 37,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "467th USAAF LB Grp",
+    "delay": 37,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "485th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "486th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "487th USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "489th USAAF LB Grp",
+    "delay": 46,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "491st USAAF LB Grp",
+    "delay": 50,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "492nd USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   },
+   {
+    "group": "493rd USAAF LB Grp",
+    "delay": 41,
+    "ready_and_reserve": 48
+   }
+  ],
+  "factory_successor": 722
+ },
+ {
+  "category": "a",
+  "model": 727,
+  "name": "PB4Y-1 Liberator",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1945,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 727,
+    "opening_capacity": 5
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 32,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 728,
+  "name": "PV-1 Ventura",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1944,
+    12
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 30
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Elvington",
+    "initial_model": 728,
+    "opening_capacity": 4
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 729,
+  "name": "PBY-5A Catalina",
+  "production_window": [
+   [
+    1941,
+    10
+   ],
+   [
+    1945,
+    1
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 125
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Kirmington",
+    "initial_model": 729,
+    "opening_capacity": 3
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "VP-63 USN Pa Sqn",
+    "delay": 3,
+    "ready_and_reserve": 10
+   }
+  ],
+  "factory_successor": null
+ },
+ {
+  "category": "a",
+  "model": 731,
+  "name": "C-47A Skytrain",
+  "production_window": [
+   [
+    1941,
+    12
+   ],
+   [
+    1944,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 290
+  },
+  "theater_factory_routes": [
+   {
+    "site": "Dishforth",
+    "initial_model": 731,
+    "opening_capacity": 17
+   }
+  ],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 576,
+  "scheduled_air_groups": [
+   {
+    "group": "349th USAAF TR Grp",
+    "delay": 87,
+    "ready_and_reserve": 100
+   },
+   {
+    "group": "434th USAAF TR Grp",
+    "delay": 15,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "435th USAAF TR Grp",
+    "delay": 15,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "436th USAAF TR Grp",
+    "delay": 29,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "437th USAAF TR Grp",
+    "delay": 33,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "438th USAAF TR Grp",
+    "delay": 33,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "439th USAAF TR Grp",
+    "delay": 33,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "440th USAAF TR Grp",
+    "delay": 37,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "441st USAAF TR Grp",
+    "delay": 37,
+    "ready_and_reserve": 72
+   },
+   {
+    "group": "442nd USAAF TR Grp",
+    "delay": 37,
+    "ready_and_reserve": 72
+   }
+  ],
+  "factory_successor": 732
+ },
+ {
+  "category": "a",
+  "model": 733,
+  "name": "Spitfire IX (US)",
+  "production_window": [
+   [
+    1943,
+    1
+   ],
+   [
+    1943,
+    6
+   ]
+  ],
+  "western_opening_pools": {
+   "12": 50
+  },
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 98,
+  "scheduled_air_groups": [],
+  "factory_successor": 734
+ },
+ {
+  "category": "a",
+  "model": 746,
+  "name": "F-9 Fortress",
+  "production_window": [
+   [
+    1943,
+    7
+   ],
+   [
+    1944,
+    5
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 14,
+  "scheduled_air_groups": [],
+  "factory_successor": 736
+ },
+ {
+  "category": "a",
+  "model": 747,
+  "name": "F-3A Havoc",
+  "production_window": [
+   [
+    1944,
+    1
+   ],
+   [
+    1944,
+    9
+   ]
+  ],
+  "western_opening_pools": {},
+  "theater_factory_routes": [],
+  "ground_equipment_carried_by_week": null,
+  "aircraft_assigned_at_start": 0,
+  "scheduled_air_groups": [
+   {
+    "group": "155th USAAF PR Sqn",
+    "delay": 41,
+    "ready_and_reserve": 16
+   }
+  ],
+  "factory_successor": null
+ }
+]

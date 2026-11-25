@@ -1,0 +1,223 @@
+Scenario: '000 Final 62 Sherman Supply'
+Turn 002 9-23-1944 Axis
+
+                      Air Execution Log
+_____________________________________________________________________
+
+__________ Night 1 _________
+__________ Day 1 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Luftflotte 4. RECON hex[237,159]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[236,160]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[235,159]. INTERDICT. Rcn 11 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[239,163]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[239,159]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[213,131]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[211,130]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[243,167]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[240,160]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[242,168]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[241,164]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[240,163]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[242,165]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[245,169]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[240,169]. INTERDICT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[242,151]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[240,151]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[241,157]. UNIT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[253,173]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[249,170]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[250,170]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[251,170]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4 . RECON in hex 252,170 canceled.
+  Can't get required amount of aircraft. Num 0 Min 2
+Luftflotte 4. RECON hex[224,138]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[222,135]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[218,135]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[224,139]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[223,135]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[258,199]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[260,198]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[262,198]. INTERDICT. Rcn 4 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[231,153]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[228,153]. UNIT. Rcn 9 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[233,152]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[232,151]. UNIT. Rcn 11 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 0 ***
+Axis planes repaired: 49
+Soviet planes repaired: 141
+Planes in repair with 0 damage: 291
+ Germany: 4 new pilot(s) arrived. Left in pool 0.
+ Italy: 1 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 8 new pilot(s) arrived. Left in pool 2093.
+__________ Night 2 _________
+__________ Day 2 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 1 ***
+Axis planes repaired: 17
+Soviet planes repaired: 104
+Planes in repair with 0 damage: 200
+ Germany: 3 new pilot(s) arrived. Left in pool 0.
+ Italy: 2 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 7 new pilot(s) arrived. Left in pool 2086.
+__________ Night 3 _________
+__________ Day 3 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 2 ***
+Axis planes repaired: 10
+Soviet planes repaired: 90
+Planes in repair with 0 damage: 182
+ Germany: 2 new pilot(s) arrived. Left in pool 0.
+ Italy: 1 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 10 new pilot(s) arrived. Left in pool 2076.
+__________ Night 4 _________
+__________ Day 4 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 3 ***
+Axis planes repaired: 6
+Soviet planes repaired: 113
+Planes in repair with 0 damage: 176
+ Italy: 3 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 10 new pilot(s) arrived. Left in pool 2066.
+__________ Night 5 _________
+__________ Day 5 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 4 ***
+Axis planes repaired: 12
+Soviet planes repaired: 123
+Planes in repair with 0 damage: 173
+ Germany: 3 new pilot(s) arrived. Left in pool 0.
+ Italy: 4 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 13 new pilot(s) arrived. Left in pool 2053.
+__________ Night 6 _________
+__________ Day 6 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 5 ***
+Axis planes repaired: 8
+Soviet planes repaired: 113
+Planes in repair with 0 damage: 171
+ Germany: 3 new pilot(s) arrived. Left in pool 0.
+ Italy: 1 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 12 new pilot(s) arrived. Left in pool 2041.
+__________ Night 7 _________
+__________ Day 7 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Luftflotte 4. RECON hex[232,159]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[232,157]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[233,157]. INTERDICT. Rcn 4 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[234,157]. INTERDICT. Rcn 4 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[235,157]. INTERDICT. Rcn 4 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[212,130]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[213,130]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[242,160]. INTERDICT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[242,169]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[243,169]. INTERDICT. Rcn 7 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[244,168]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[242,158]. INTERDICT. Rcn 11 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[236,156]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4 . RECON in hex 252,170 canceled.
+  Can't get required amount of aircraft. Num 0 Min 2
+Luftflotte 4. RECON hex[222,136]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[223,136]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[221,140]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4 . RECON in hex 222,139 canceled.
+  Can't get required amount of aircraft. Num 1 Min 2
+Luftflotte 4. RECON hex[229,153]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[228,156]. UNIT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[229,156]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[234,154]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[229,154]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 6 ***
+Axis planes repaired: 11
+Soviet planes repaired: 123
+Planes in repair with 0 damage: 181
+ Italy: 3 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 13 new pilot(s) arrived. Left in pool 2028.
+
+AIRCRAFT PERFORMANCE STATISTICS       DESTROYED     DAMAGED     DAMAGE POINTS      SORTIES
+____________________________________________________________________________________________
+F R I E N D L Y
+___________________________________
+        Bf 109G-4/R3                    1             1           75               11
+                              La-5F        1             1           75               -
+___________________________________
+              Do 17P                    2             2          115               37
+                              La-5F        2             2          115               -
+___________________________________
+             Fw 189A                    5             5          647              298
+                 LaGG-3 '29 Series'        1             1          155               -
+                              La-5F        4             4          492               -
+___________________________________
+            Ju 88D-1                    1             1           88               35
+                              La-5F        1             1           88               -
+___________________________________
+       He 46E-2 (HU)                    1             1           76               36
+                              La-5F        1             1           76               -
+___________________________________
+           Bf 110G-3                    1             1           59               27
+                              La-5F        1             1           59               -
+___________________________________
+               TOTAL                   11            11         1060
+
+_____________________________________________________________________________
+E  N  E  M  Y
+___________________________________
+              Yak-1B                   19            23         1863               -
+                            Fw 189A       13            14         1139              298
+                           Ju 88D-1        4             5          363               35
+                      He 46E-2 (HU)        2             2          116               36
+___________________________________
+              Yak-7B                    5             5          431               -
+                            Fw 189A        3             3          214              298
+                           Ju 88D-1        2             2          217               35
+___________________________________
+               Yak-9                    1             1          118               -
+                            Fw 189A        1             1          118              298
+___________________________________
+  LaGG-3 '29 Series'                    1             1           95               -
+                            Fw 189A        1             1           95              298
+___________________________________
+  LaGG-3 '66 Series'                    1             1          140               -
+                            Fw 189A        1             1          140              298
+___________________________________
+               La-5F                   42            47         4899               -
+                       Bf 109G-4/R3        1             1          154               11
+                             Do 17P        4             4          494               37
+                            Fw 189A       16            16         1632              298
+                           Ju 88D-1        2             2          318               35
+                       Fw 189A (HU)        6             6          531               38
+                      He 46E-2 (HU)        4             4          478               36
+                          Bf 110E-3        2             3          147               24
+                          Bf 110G-3        7             8          881               27
+___________________________________
+                FLAK                    0             8            8               -
+                            Fw 189A        0             2            2               -
+                       Fw 189A (HU)        0             1            1               -
+                      He 46E-2 (HU)        0             2            2               -
+                          Bf 110E-3        0             1            1               -
+                          Bf 110G-3        0             2            2               -
+___________________________________
+               TOTAL                   69            81         7045
+_____________________________________________________________________________
+
+Axis air FUEL used: 333
+Axis air sorties: 506
+Axis max fuel 28776 used by air group 133 (6 planes)
+Axis air AMMO used: 27
+Axis flak AMMO used: 0
+Soviet air FUEL used: 248
+Soviet air sorties: 440
+Soviet max fuel 54582 used by air group 3249 flight (12 planes)
+Soviet air AMMO used: 24
+Soviet flak AMMO used: 14
+
+Air phase execution time 0 min 46 sec
+_________________________________
+

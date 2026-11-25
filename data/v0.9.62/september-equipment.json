@@ -1,0 +1,8618 @@
+[
+ {
+  "id": 733,
+  "category": "g",
+  "name": "Engineer-Sapper Squad",
+  "accounts": [
+   [
+    12,
+    3837,
+    4264,
+    8500
+   ]
+  ],
+  "gross_production": 8500,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 30,
+  "gaining_existing_units": [
+   [
+    "1st",
+    18
+   ],
+   [
+    "3/1st",
+    12
+   ]
+  ]
+ },
+ {
+  "id": 787,
+  "category": "g",
+  "name": "37mm 61-K AA Gun",
+  "accounts": [
+   [
+    12,
+    1981,
+    2111,
+    75
+   ]
+  ],
+  "gross_production": 75,
+  "plants": [],
+  "held_before": 1231,
+  "held_after": 542,
+  "gaining_existing_units": [
+   [
+    "Novocherkassk",
+    2
+   ],
+   [
+    "Eysk",
+    2
+   ],
+   [
+    "Alekandrovskoye",
+    2
+   ],
+   [
+    "Edrovo",
+    1
+   ],
+   [
+    "Toropets",
+    1
+   ],
+   [
+    "Vyazma",
+    1
+   ],
+   [
+    "Rostov",
+    1
+   ],
+   [
+    "NW Leningrad",
+    1
+   ],
+   [
+    "Kaluga",
+    1
+   ],
+   [
+    "Budogoshch",
+    1
+   ],
+   [
+    "Tikhvin",
+    1
+   ],
+   [
+    "Nelidovo",
+    1
+   ],
+   [
+    "Schigry",
+    1
+   ],
+   [
+    "Teploe",
+    1
+   ],
+   [
+    "Poti",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 792,
+  "category": "g",
+  "name": "12.7mm DShK AAMG",
+  "accounts": [
+   [
+    12,
+    2360,
+    1573,
+    40
+   ]
+  ],
+  "gross_production": 40,
+  "plants": [],
+  "held_before": 815,
+  "held_after": 360,
+  "gaining_existing_units": [
+   [
+    "Edrovo",
+    1
+   ],
+   [
+    "Maikop",
+    1
+   ],
+   [
+    "Novocherkassk",
+    1
+   ],
+   [
+    "Rostov",
+    1
+   ],
+   [
+    "Ryazan",
+    1
+   ],
+   [
+    "Budogoshch",
+    1
+   ],
+   [
+    "Tikhvin",
+    1
+   ],
+   [
+    "Nelidovo",
+    1
+   ],
+   [
+    "Stary Oskol",
+    1
+   ],
+   [
+    "Oboyan",
+    1
+   ],
+   [
+    "Volchansk",
+    1
+   ],
+   [
+    "Stabna",
+    1
+   ],
+   [
+    "Vnukovo",
+    1
+   ],
+   [
+    "Krestcy",
+    1
+   ],
+   [
+    "Oranienbaum",
+    1
+   ],
+   [
+    "Kubinka",
+    1
+   ],
+   [
+    "Lyubertsy",
+    1
+   ],
+   [
+    "Eysk",
+    1
+   ],
+   [
+    "Krasnodar",
+    1
+   ],
+   [
+    "Alekandrovskoye",
+    1
+   ],
+   [
+    "Sochi",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 814,
+  "category": "g",
+  "name": "7.62mm Quad Maxim AAMG",
+  "accounts": [
+   [
+    12,
+    1226,
+    1154,
+    25
+   ]
+  ],
+  "gross_production": 25,
+  "plants": [],
+  "held_before": 1233,
+  "held_after": 542,
+  "gaining_existing_units": [
+   [
+    "Novocherkassk",
+    2
+   ],
+   [
+    "Eysk",
+    2
+   ],
+   [
+    "Alekandrovskoye",
+    2
+   ],
+   [
+    "Edrovo",
+    1
+   ],
+   [
+    "Adreapol",
+    1
+   ],
+   [
+    "Vyazma",
+    1
+   ],
+   [
+    "NW Leningrad",
+    1
+   ],
+   [
+    "Pavlovo",
+    1
+   ],
+   [
+    "Ryazan",
+    1
+   ],
+   [
+    "Kaluga",
+    1
+   ],
+   [
+    "Nelidovo",
+    1
+   ],
+   [
+    "Oboyan",
+    1
+   ],
+   [
+    "Schigry",
+    1
+   ],
+   [
+    "Teploe",
+    1
+   ],
+   [
+    "Lyubertsy",
+    1
+   ],
+   [
+    "Gelendzhik",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 1000,
+  "category": "g",
+  "name": "Grant",
+  "accounts": [
+   [
+    12,
+    210,
+    210,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1014,
+  "category": "g",
+  "name": "Sherman I",
+  "accounts": [
+   [
+    12,
+    195,
+    195,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1017,
+  "category": "g",
+  "name": "Sherman II",
+  "accounts": [
+   [
+    12,
+    295,
+    295,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1023,
+  "category": "g",
+  "name": "Sherman IIA",
+  "accounts": [
+   [
+    12,
+    0,
+    1,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1027,
+  "category": "g",
+  "name": "Sherman III",
+  "accounts": [
+   [
+    12,
+    920,
+    167,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1160,
+  "held_after": 1912,
+  "gaining_existing_units": [
+   [
+    "2/2nd",
+    99
+   ],
+   [
+    "3/2nd",
+    99
+   ],
+   [
+    "2/1st",
+    99
+   ],
+   [
+    "1/2nd",
+    97
+   ],
+   [
+    "2/4th",
+    67
+   ],
+   [
+    "3/4th",
+    67
+   ],
+   [
+    "1/4th",
+    66
+   ],
+   [
+    "2/23rd",
+    45
+   ],
+   [
+    "3/23rd",
+    45
+   ],
+   [
+    "1/23rd",
+    44
+   ],
+   [
+    "1/8th",
+    8
+   ],
+   [
+    "2/8th",
+    8
+   ],
+   [
+    "3/8th",
+    8
+   ]
+  ]
+ },
+ {
+  "id": 1032,
+  "category": "g",
+  "name": "Sherman V",
+  "accounts": [
+   [
+    12,
+    2620,
+    2619,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 863,
+  "held_after": 863,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1035,
+  "category": "g",
+  "name": "Daimler Armored Car",
+  "accounts": [
+   [
+    12,
+    615,
+    601,
+    9
+   ]
+  ],
+  "gross_production": 9,
+  "plants": [
+   [
+    "Coventry",
+    9
+   ]
+  ],
+  "held_before": 322,
+  "held_after": 345,
+  "gaining_existing_units": [
+   [
+    "2/4th",
+    8
+   ],
+   [
+    "3/4th",
+    8
+   ],
+   [
+    "1/4th",
+    7
+   ]
+  ]
+ },
+ {
+  "id": 1036,
+  "category": "g",
+  "name": "Staghound I Armored Car",
+  "accounts": [
+   [
+    12,
+    570,
+    571,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    23
+   ]
+  ],
+  "held_before": 244,
+  "held_after": 243,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1037,
+  "category": "g",
+  "name": "Morris CS9 Armored Car",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1038,
+  "category": "g",
+  "name": "2 Pdr Mk IX AT Gun",
+  "accounts": [
+   [
+    12,
+    200,
+    200,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1039,
+  "category": "g",
+  "name": "6 Pdr Mk V AT Gun",
+  "accounts": [
+   [
+    12,
+    400,
+    514,
+    50
+   ]
+  ],
+  "gross_production": 50,
+  "plants": [],
+  "held_before": 2474,
+  "held_after": 2410,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1040,
+  "category": "g",
+  "name": "20mm Oerlikon AA Gun",
+  "accounts": [
+   [
+    12,
+    280,
+    317,
+    37
+   ]
+  ],
+  "gross_production": 37,
+  "plants": [],
+  "held_before": 122,
+  "held_after": 122,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1041,
+  "category": "g",
+  "name": "40mm Bofors AA Gun",
+  "accounts": [
+   [
+    12,
+    240,
+    240,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 5046,
+  "held_after": 5046,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1042,
+  "category": "g",
+  "name": "2in Mk II Mortar",
+  "accounts": [
+   [
+    12,
+    0,
+    187,
+    187
+   ]
+  ],
+  "gross_production": 187,
+  "plants": [],
+  "held_before": 3495,
+  "held_after": 3495,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1043,
+  "category": "g",
+  "name": "3in MK II Mortar",
+  "accounts": [
+   [
+    12,
+    480,
+    540,
+    60
+   ]
+  ],
+  "gross_production": 60,
+  "plants": [],
+  "held_before": 221,
+  "held_after": 221,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1044,
+  "category": "g",
+  "name": ".303in Mk I Machine Gun",
+  "accounts": [
+   [
+    12,
+    0,
+    46,
+    46
+   ]
+  ],
+  "gross_production": 46,
+  "plants": [],
+  "held_before": 978,
+  "held_after": 950,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1045,
+  "category": "g",
+  "name": "Rifle Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1046,
+  "category": "g",
+  "name": "Rifle Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1047,
+  "category": "g",
+  "name": "Rifle Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1048,
+  "category": "g",
+  "name": "Rifle Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1049,
+  "category": "g",
+  "name": "Rifle Section",
+  "accounts": [
+   [
+    12,
+    0,
+    629,
+    630
+   ]
+  ],
+  "gross_production": 630,
+  "plants": [],
+  "held_before": 10166,
+  "held_after": 10166,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1050,
+  "category": "g",
+  "name": "Pioneer Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 477,
+  "held_after": 477,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1051,
+  "category": "g",
+  "name": "Pioneer Section",
+  "accounts": [
+   [
+    12,
+    0,
+    11,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [],
+  "held_before": 100,
+  "held_after": 98,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1052,
+  "category": "g",
+  "name": ".55in Boys AT-Rifle",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1053,
+  "category": "g",
+  "name": "25mm SA-L 34 AT Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1054,
+  "category": "g",
+  "name": "18 Pdr Mk IV Field Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1055,
+  "category": "g",
+  "name": "25 Pdr Mk II Gun-Howitzer",
+  "accounts": [
+   [
+    12,
+    240,
+    270,
+    30
+   ]
+  ],
+  "gross_production": 30,
+  "plants": [],
+  "held_before": 1960,
+  "held_after": 1960,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1056,
+  "category": "g",
+  "name": "PIAT",
+  "accounts": [
+   [
+    12,
+    0,
+    237,
+    237
+   ]
+  ],
+  "gross_production": 237,
+  "plants": [],
+  "held_before": 3534,
+  "held_after": 3524,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1057,
+  "category": "g",
+  "name": "75mm M1A1 Pack Howitzer",
+  "accounts": [
+   [
+    12,
+    0,
+    90,
+    90
+   ]
+  ],
+  "gross_production": 90,
+  "plants": [],
+  "held_before": 56,
+  "held_after": 40,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1058,
+  "category": "g",
+  "name": "Staghound T17E3 Armored Car",
+  "accounts": [
+   [
+    12,
+    3,
+    3,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1059,
+  "category": "g",
+  "name": "6 Pdr Mk III AT Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1060,
+  "category": "g",
+  "name": "M4A2 Sherman",
+  "accounts": [
+   [
+    12,
+    165,
+    165,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    27
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1061,
+  "category": "g",
+  "name": "M4A4 Sherman",
+  "accounts": [
+   [
+    12,
+    85,
+    85,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    86
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1062,
+  "category": "g",
+  "name": "M4A2(76)W Sherman",
+  "accounts": [
+   [
+    12,
+    0,
+    11,
+    11
+   ]
+  ],
+  "gross_production": 11,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1063,
+  "category": "g",
+  "name": "Rifle Squad (+)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1064,
+  "category": "g",
+  "name": "105mm M3 Light Howitzer",
+  "accounts": [
+   [
+    12,
+    120,
+    107,
+    15
+   ]
+  ],
+  "gross_production": 15,
+  "plants": [],
+  "held_before": 138,
+  "held_after": 166,
+  "gaining_existing_units": [
+   [
+    "1/1st",
+    8
+   ],
+   [
+    "2/1st",
+    8
+   ],
+   [
+    "1/6615",
+    4
+   ],
+   [
+    "2/6615",
+    4
+   ],
+   [
+    "3/6615",
+    4
+   ]
+  ]
+ },
+ {
+  "id": 1065,
+  "category": "g",
+  "name": "Rifle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1066,
+  "category": "g",
+  "name": "Rifle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 189,
+  "held_after": 189,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1067,
+  "category": "g",
+  "name": "20mm Oerlikon AA Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1068,
+  "category": "g",
+  "name": "25mm SA-34 AT Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1069,
+  "category": "g",
+  "name": "60mm Mle 1935 Mortar",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1070,
+  "category": "g",
+  "name": "81mm Mle 27/31 Mortar",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1071,
+  "category": "g",
+  "name": "65mm Mle 06 Mountain Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1072,
+  "category": "g",
+  "name": "155mm M17 Howitzer",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1073,
+  "category": "g",
+  "name": "Mk VIB",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1074,
+  "category": "g",
+  "name": "Mk VIC",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1075,
+  "category": "g",
+  "name": "Stuart I",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1076,
+  "category": "g",
+  "name": "Stuart III",
+  "accounts": [
+   [
+    12,
+    450,
+    312,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 99,
+  "held_after": 237,
+  "gaining_existing_units": [
+   [
+    "2/31st",
+    24
+   ],
+   [
+    "1/31st",
+    23
+   ],
+   [
+    "2/34th",
+    20
+   ],
+   [
+    "3/34th",
+    20
+   ],
+   [
+    "2/4th",
+    13
+   ],
+   [
+    "3/4th",
+    13
+   ],
+   [
+    "3/31st",
+    13
+   ],
+   [
+    "1/4th",
+    12
+   ]
+  ]
+ },
+ {
+  "id": 1077,
+  "category": "g",
+  "name": "Stuart V",
+  "accounts": [
+   [
+    12,
+    510,
+    509,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 99,
+  "held_after": 99,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1078,
+  "category": "g",
+  "name": "Stuart VI",
+  "accounts": [
+   [
+    12,
+    165,
+    166,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 173,
+  "held_after": 173,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1079,
+  "category": "g",
+  "name": "Tetrarch I",
+  "accounts": [
+   [
+    12,
+    148,
+    148,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1080,
+  "category": "g",
+  "name": "A9",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1081,
+  "category": "g",
+  "name": "A10",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1082,
+  "category": "g",
+  "name": "A13",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1083,
+  "category": "g",
+  "name": "A13 Mk II",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1084,
+  "category": "g",
+  "name": "Crusader I",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1085,
+  "category": "g",
+  "name": "Crusader I-CS",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1086,
+  "category": "g",
+  "name": "Crusader II",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1087,
+  "category": "g",
+  "name": "Crusader II-CS",
+  "accounts": [
+   [
+    12,
+    75,
+    75,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Liverpool",
+    3
+   ]
+  ],
+  "held_before": 24,
+  "held_after": 24,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1088,
+  "category": "g",
+  "name": "Crusader III",
+  "accounts": [
+   [
+    12,
+    800,
+    800,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Liverpool",
+    22
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1089,
+  "category": "g",
+  "name": "Cromwell I",
+  "accounts": [
+   [
+    12,
+    50,
+    50,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Liverpool",
+    3
+   ]
+  ],
+  "held_before": 215,
+  "held_after": 215,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1090,
+  "category": "g",
+  "name": "Cromwell IV",
+  "accounts": [
+   [
+    12,
+    0,
+    3,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1091,
+  "category": "g",
+  "name": "Cromwell VI-CS",
+  "accounts": [
+   [
+    12,
+    0,
+    9,
+    9
+   ]
+  ],
+  "gross_production": 9,
+  "plants": [
+   [
+    "Liverpool",
+    4
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1092,
+  "category": "g",
+  "name": "Cromwell VII",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1093,
+  "category": "g",
+  "name": "Challenger",
+  "accounts": [
+   [
+    12,
+    0,
+    2,
+    2
+   ]
+  ],
+  "gross_production": 2,
+  "plants": [
+   [
+    "Liverpool",
+    1
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1094,
+  "category": "g",
+  "name": "Comet",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Liverpool",
+    5
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1095,
+  "category": "g",
+  "name": "A10-CS",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1096,
+  "category": "g",
+  "name": "Sherman IIC Firefly",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1097,
+  "category": "g",
+  "name": "Sherman IB 105",
+  "accounts": [
+   [
+    12,
+    0,
+    1,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1098,
+  "category": "g",
+  "name": "Sherman VC Firefly",
+  "accounts": [
+   [
+    12,
+    0,
+    1,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1099,
+  "category": "g",
+  "name": "Matilda II",
+  "accounts": [
+   [
+    12,
+    285,
+    285,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Liverpool",
+    4
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1100,
+  "category": "g",
+  "name": "Matilda II-CS",
+  "accounts": [
+   [
+    12,
+    40,
+    40,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Liverpool",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1101,
+  "category": "g",
+  "name": "Valentine IX",
+  "accounts": [
+   [
+    12,
+    375,
+    314,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Liverpool",
+    17
+   ]
+  ],
+  "held_before": 16,
+  "held_after": 77,
+  "gaining_existing_units": [
+   [
+    "3/34th",
+    49
+   ],
+   [
+    "2/1st",
+    12
+   ]
+  ]
+ },
+ {
+  "id": 1102,
+  "category": "g",
+  "name": "Valentine XI",
+  "accounts": [
+   [
+    12,
+    0,
+    17,
+    17
+   ]
+  ],
+  "gross_production": 17,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1103,
+  "category": "g",
+  "name": "Churchill I",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1104,
+  "category": "g",
+  "name": "Churchill IV",
+  "accounts": [
+   [
+    12,
+    800,
+    260,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 521,
+  "held_after": 1061,
+  "gaining_existing_units": [
+   [
+    "1/31st",
+    134
+   ],
+   [
+    "2/31st",
+    134
+   ],
+   [
+    "2/34th",
+    66
+   ],
+   [
+    "3/34th",
+    66
+   ],
+   [
+    "3/31st",
+    48
+   ],
+   [
+    "1/6th GUARDS",
+    16
+   ],
+   [
+    "2/6th GUARDS",
+    16
+   ],
+   [
+    "3/6th GUARDS",
+    16
+   ],
+   [
+    "1/33rd",
+    16
+   ],
+   [
+    "3/33rd",
+    16
+   ],
+   [
+    "1/25th",
+    4
+   ],
+   [
+    "2/25th",
+    4
+   ],
+   [
+    "3/25th",
+    4
+   ]
+  ]
+ },
+ {
+  "id": 1105,
+  "category": "g",
+  "name": "Churchill V-CS",
+  "accounts": [
+   [
+    12,
+    95,
+    40,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 78,
+  "held_after": 133,
+  "gaining_existing_units": [
+   [
+    "1/31st",
+    13
+   ],
+   [
+    "2/31st",
+    13
+   ],
+   [
+    "2/34th",
+    11
+   ],
+   [
+    "3/34th",
+    11
+   ],
+   [
+    "3/31st",
+    7
+   ]
+  ]
+ },
+ {
+  "id": 1106,
+  "category": "g",
+  "name": "Churchill VII",
+  "accounts": [
+   [
+    12,
+    45,
+    11,
+    9
+   ]
+  ],
+  "gross_production": 9,
+  "plants": [
+   [
+    "Coventry",
+    9
+   ]
+  ],
+  "held_before": 112,
+  "held_after": 113,
+  "gaining_existing_units": [
+   [
+    "2/34th",
+    32
+   ],
+   [
+    "3/31st",
+    14
+   ]
+  ]
+ },
+ {
+  "id": 1107,
+  "category": "g",
+  "name": "Churchill VIII-CS",
+  "accounts": [
+   [
+    12,
+    10,
+    12,
+    2
+   ]
+  ],
+  "gross_production": 2,
+  "plants": [
+   [
+    "Coventry",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1108,
+  "category": "g",
+  "name": "Sherman Crab",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1109,
+  "category": "g",
+  "name": "Churchill Crocodile",
+  "accounts": [
+   [
+    12,
+    0,
+    4,
+    4
+   ]
+  ],
+  "gross_production": 4,
+  "plants": [
+   [
+    "Coventry",
+    4
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1110,
+  "category": "g",
+  "name": "Wolverine",
+  "accounts": [
+   [
+    12,
+    610,
+    610,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 108,
+  "held_after": 108,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1111,
+  "category": "g",
+  "name": "Achilles",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1112,
+  "category": "g",
+  "name": "Bishop",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 96,
+  "held_after": 96,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1113,
+  "category": "g",
+  "name": "Priest",
+  "accounts": [
+   [
+    12,
+    130,
+    131,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 72,
+  "held_after": 72,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1114,
+  "category": "g",
+  "name": "Sexton",
+  "accounts": [
+   [
+    12,
+    215,
+    230,
+    15
+   ]
+  ],
+  "gross_production": 15,
+  "plants": [
+   [
+    "Doncaster",
+    15
+   ]
+  ],
+  "held_before": 144,
+  "held_after": 144,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1115,
+  "category": "g",
+  "name": "Humber Mk III Armored Car",
+  "accounts": [
+   [
+    12,
+    565,
+    465,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 659,
+  "held_after": 697,
+  "gaining_existing_units": [
+   [
+    "2/34th",
+    20
+   ],
+   [
+    "3/34th",
+    20
+   ],
+   [
+    "3/31st",
+    13
+   ]
+  ]
+ },
+ {
+  "id": 1116,
+  "category": "g",
+  "name": "Carrier Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 68,
+  "held_after": 68,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1117,
+  "category": "g",
+  "name": "17 Pdr Mk IV AT Gun",
+  "accounts": [
+   [
+    12,
+    200,
+    224,
+    24
+   ]
+  ],
+  "gross_production": 24,
+  "plants": [],
+  "held_before": 592,
+  "held_after": 592,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1118,
+  "category": "g",
+  "name": "3.7in Mk I AA Gun",
+  "accounts": [
+   [
+    12,
+    120,
+    120,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1544,
+  "held_after": 1544,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1119,
+  "category": "g",
+  "name": "4.2in Mk III Mortar",
+  "accounts": [
+   [
+    12,
+    130,
+    37,
+    15
+   ]
+  ],
+  "gross_production": 15,
+  "plants": [],
+  "held_before": 556,
+  "held_after": 664,
+  "gaining_existing_units": [
+   [
+    "1/6615",
+    36
+   ],
+   [
+    "2/6615",
+    36
+   ],
+   [
+    "3/6615",
+    36
+   ]
+  ]
+ },
+ {
+  "id": 1120,
+  "category": "g",
+  "name": "Motor Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1121,
+  "category": "g",
+  "name": "Motor Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1122,
+  "category": "g",
+  "name": "Motor Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 667,
+  "held_after": 667,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1123,
+  "category": "g",
+  "name": "Motor Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 12,
+  "held_after": 12,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1124,
+  "category": "g",
+  "name": "Parachute Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 473,
+  "held_after": 473,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1125,
+  "category": "g",
+  "name": "Parachute Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 99,
+  "held_after": 99,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1126,
+  "category": "g",
+  "name": "Air Landing Section",
+  "accounts": [
+   [
+    12,
+    0,
+    32,
+    32
+   ]
+  ],
+  "gross_production": 32,
+  "plants": [],
+  "held_before": 192,
+  "held_after": 192,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1127,
+  "category": "g",
+  "name": "Air Landing Section (-)",
+  "accounts": [
+   [
+    12,
+    0,
+    16,
+    16
+   ]
+  ],
+  "gross_production": 16,
+  "plants": [],
+  "held_before": 96,
+  "held_after": 96,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1128,
+  "category": "g",
+  "name": "Commando Sub-Section A",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 81,
+  "held_after": 81,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1129,
+  "category": "g",
+  "name": "Commando Sub-Section B",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 81,
+  "held_after": 81,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1130,
+  "category": "g",
+  "name": "RM Commando Sub-Section",
+  "accounts": [
+   [
+    12,
+    0,
+    30,
+    30
+   ]
+  ],
+  "gross_production": 30,
+  "plants": [],
+  "held_before": 192,
+  "held_after": 192,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1131,
+  "category": "g",
+  "name": "4.5in Mk II Field Gun",
+  "accounts": [
+   [
+    12,
+    80,
+    89,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [],
+  "held_before": 560,
+  "held_after": 561,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    8
+   ],
+   [
+    "3rd",
+    8
+   ]
+  ]
+ },
+ {
+  "id": 1132,
+  "category": "g",
+  "name": "5.5in Mk III Field Gun",
+  "accounts": [
+   [
+    12,
+    60,
+    24,
+    8
+   ]
+  ],
+  "gross_production": 8,
+  "plants": [],
+  "held_before": 24,
+  "held_after": 68,
+  "gaining_existing_units": [
+   [
+    "59th",
+    8
+   ],
+   [
+    "67th",
+    8
+   ],
+   [
+    "53rd",
+    7
+   ],
+   [
+    "66th",
+    7
+   ],
+   [
+    "68th",
+    7
+   ],
+   [
+    "80th",
+    7
+   ]
+  ]
+ },
+ {
+  "id": 1133,
+  "category": "g",
+  "name": "7.2in Mk III Howitzer",
+  "accounts": [
+   [
+    12,
+    8,
+    8,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 72,
+  "held_after": 72,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1134,
+  "category": "g",
+  "name": "Motorcycle Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1135,
+  "category": "g",
+  "name": "Bren Mortar Carrier",
+  "accounts": [
+   [
+    12,
+    2115,
+    2061,
+    15
+   ]
+  ],
+  "gross_production": 15,
+  "plants": [
+   [
+    "Coventry",
+    15
+   ]
+  ],
+  "held_before": 1232,
+  "held_after": 1301,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    27
+   ],
+   [
+    "70th",
+    3
+   ],
+   [
+    "191st",
+    3
+   ],
+   [
+    "751st",
+    3
+   ],
+   [
+    "752nd",
+    3
+   ],
+   [
+    "753rd",
+    3
+   ],
+   [
+    "755th",
+    3
+   ],
+   [
+    "757th",
+    3
+   ],
+   [
+    "760th",
+    3
+   ]
+  ]
+ },
+ {
+  "id": 1136,
+  "category": "g",
+  "name": "AAMG Truck",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 48,
+  "held_after": 48,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1137,
+  "category": "g",
+  "name": "Daimler Dingo Scout Car",
+  "accounts": [
+   [
+    12,
+    1645,
+    1505,
+    15
+   ]
+  ],
+  "gross_production": 15,
+  "plants": [
+   [
+    "Coventry",
+    15
+   ]
+  ],
+  "held_before": 736,
+  "held_after": 888,
+  "gaining_existing_units": [
+   [
+    "1/31st",
+    31
+   ],
+   [
+    "2/31st",
+    31
+   ],
+   [
+    "2/4th",
+    21
+   ],
+   [
+    "3/4th",
+    21
+   ],
+   [
+    "1/4th",
+    20
+   ],
+   [
+    "3/1st",
+    10
+   ],
+   [
+    "2/23rd",
+    7
+   ],
+   [
+    "3/23rd",
+    7
+   ],
+   [
+    "1/23rd",
+    5
+   ]
+  ]
+ },
+ {
+  "id": 1138,
+  "category": "g",
+  "name": "8in Mk VII Howitzer",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 16,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1139,
+  "category": "g",
+  "name": "Mk II AA",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1140,
+  "category": "g",
+  "name": "Crusader III Mk 1 AA",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1141,
+  "category": "g",
+  "name": "AAMG Truck",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1142,
+  "category": "g",
+  "name": "Carrier Section",
+  "accounts": [
+   [
+    12,
+    0,
+    3,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 899,
+  "held_after": 896,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1143,
+  "category": "g",
+  "name": "240mm M1 Howitzer",
+  "accounts": [
+   [
+    12,
+    0,
+    1,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1144,
+  "category": "g",
+  "name": "Universal MG Carrier",
+  "accounts": [
+   [
+    12,
+    25,
+    31,
+    6
+   ]
+  ],
+  "gross_production": 6,
+  "plants": [
+   [
+    "Coventry",
+    5
+   ]
+  ],
+  "held_before": 144,
+  "held_after": 144,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1145,
+  "category": "g",
+  "name": "Recce Section",
+  "accounts": [
+   [
+    12,
+    0,
+    3,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [],
+  "held_before": 19,
+  "held_after": 19,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1146,
+  "category": "g",
+  "name": "Morris C9/B SPAA",
+  "accounts": [
+   [
+    12,
+    0,
+    10,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [
+   [
+    "Coventry",
+    10
+   ]
+  ],
+  "held_before": 72,
+  "held_after": 54,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1147,
+  "category": "g",
+  "name": "Humber Mk IV Armored Car",
+  "accounts": [
+   [
+    12,
+    90,
+    98,
+    8
+   ]
+  ],
+  "gross_production": 8,
+  "plants": [
+   [
+    "Coventry",
+    8
+   ]
+  ],
+  "held_before": 502,
+  "held_after": 502,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1148,
+  "category": "g",
+  "name": "Wasp F/T Carrier",
+  "accounts": [
+   [
+    12,
+    0,
+    10,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [
+   [
+    "Coventry",
+    10
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1149,
+  "category": "g",
+  "name": "M3 75mm GMC",
+  "accounts": [
+   [
+    12,
+    80,
+    78,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 54,
+  "held_after": 56,
+  "gaining_existing_units": [
+   [
+    "2/4th",
+    1
+   ],
+   [
+    "3/4th",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 1150,
+  "category": "g",
+  "name": "Tetrarch CS",
+  "accounts": [
+   [
+    12,
+    3,
+    3,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1151,
+  "category": "g",
+  "name": "95mm Mk I Howitzer",
+  "accounts": [
+   [
+    12,
+    0,
+    7,
+    7
+   ]
+  ],
+  "gross_production": 7,
+  "plants": [],
+  "held_before": 12,
+  "held_after": 12,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1152,
+  "category": "g",
+  "name": ".50in Anti-aircraft MG",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1153,
+  "category": "g",
+  "name": "47mm M35 AT Gun",
+  "accounts": [
+   [
+    12,
+    25,
+    25,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1154,
+  "category": "g",
+  "name": "Stuart Recce",
+  "accounts": [
+   [
+    12,
+    100,
+    51,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 109,
+  "held_after": 158,
+  "gaining_existing_units": [
+   [
+    "3/1st",
+    10
+   ],
+   [
+    "2/23rd",
+    7
+   ],
+   [
+    "3/23rd",
+    7
+   ],
+   [
+    "1/23rd",
+    5
+   ],
+   [
+    "1/8th",
+    4
+   ],
+   [
+    "2/8th",
+    4
+   ],
+   [
+    "3/8th",
+    4
+   ],
+   [
+    "1/25th",
+    4
+   ],
+   [
+    "3/25th",
+    4
+   ]
+  ]
+ },
+ {
+  "id": 1155,
+  "category": "g",
+  "name": "8in M1 Field Gun",
+  "accounts": [
+   [
+    12,
+    0,
+    1,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1156,
+  "category": "g",
+  "name": "Staghound III Armored Car",
+  "accounts": [
+   [
+    12,
+    8,
+    8,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 8,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1157,
+  "category": "g",
+  "name": "M3A1 Stuart",
+  "accounts": [
+   [
+    12,
+    640,
+    648,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 411,
+  "held_after": 274,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1158,
+  "category": "g",
+  "name": "M3A3 Stuart",
+  "accounts": [
+   [
+    12,
+    340,
+    340,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    32
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1159,
+  "category": "g",
+  "name": "M5A1 Stuart",
+  "accounts": [
+   [
+    12,
+    980,
+    915,
+    60
+   ]
+  ],
+  "gross_production": 60,
+  "plants": [
+   [
+    "Doncaster",
+    60
+   ]
+  ],
+  "held_before": 68,
+  "held_after": 260,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    124
+   ]
+  ]
+ },
+ {
+  "id": 1160,
+  "category": "g",
+  "name": "M24 Chaffee",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Wrexham",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1161,
+  "category": "g",
+  "name": "M4(105) Sherman",
+  "accounts": [
+   [
+    12,
+    0,
+    2,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [
+   [
+    "Wrexham",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1162,
+  "category": "g",
+  "name": "M4A3(105) Sherman",
+  "accounts": [
+   [
+    12,
+    0,
+    5,
+    5
+   ]
+  ],
+  "gross_production": 5,
+  "plants": [
+   [
+    "Doncaster",
+    3
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 18,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1163,
+  "category": "g",
+  "name": "M4A3E2 Jumbo",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    6
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1164,
+  "category": "g",
+  "name": "M26 Pershing",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    4
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1165,
+  "category": "g",
+  "name": "M3 75mm GMC",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 108,
+  "held_after": 108,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1166,
+  "category": "g",
+  "name": "M10 3in GMC",
+  "accounts": [
+   [
+    12,
+    1535,
+    1535,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    80
+   ]
+  ],
+  "held_before": 252,
+  "held_after": 252,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1167,
+  "category": "g",
+  "name": "M18 76mm GMC",
+  "accounts": [
+   [
+    12,
+    0,
+    6,
+    6
+   ]
+  ],
+  "gross_production": 6,
+  "plants": [
+   [
+    "Wrexham",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1168,
+  "category": "g",
+  "name": "M36 90mm GMC",
+  "accounts": [
+   [
+    12,
+    0,
+    4,
+    4
+   ]
+  ],
+  "gross_production": 4,
+  "plants": [
+   [
+    "Wrexham",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1169,
+  "category": "g",
+  "name": "T30 75mm HMC",
+  "accounts": [
+   [
+    12,
+    115,
+    116,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 74,
+  "held_after": 28,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1170,
+  "category": "g",
+  "name": "M8 75mm HMC",
+  "accounts": [
+   [
+    12,
+    455,
+    411,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    17
+   ]
+  ],
+  "held_before": 30,
+  "held_after": 91,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    44
+   ]
+  ]
+ },
+ {
+  "id": 1171,
+  "category": "g",
+  "name": "T19 105mm HMC",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1172,
+  "category": "g",
+  "name": "M7 105mm HMC",
+  "accounts": [
+   [
+    12,
+    465,
+    480,
+    16
+   ]
+  ],
+  "gross_production": 16,
+  "plants": [
+   [
+    "Doncaster",
+    16
+   ]
+  ],
+  "held_before": 179,
+  "held_after": 232,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1173,
+  "category": "g",
+  "name": "M12 155mm GMC",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1174,
+  "category": "g",
+  "name": "M16 MGMC",
+  "accounts": [
+   [
+    12,
+    485,
+    467,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    52
+   ]
+  ],
+  "held_before": 192,
+  "held_after": 210,
+  "gaining_existing_units": [
+   [
+    "4th",
+    18
+   ]
+  ]
+ },
+ {
+  "id": 1175,
+  "category": "g",
+  "name": "M3A1 White Scout Car",
+  "accounts": [
+   [
+    12,
+    4065,
+    4140,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    54
+   ]
+  ],
+  "held_before": 129,
+  "held_after": 52,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1176,
+  "category": "g",
+  "name": "M20 Scout Car",
+  "accounts": [
+   [
+    12,
+    295,
+    320,
+    25
+   ]
+  ],
+  "gross_production": 25,
+  "plants": [
+   [
+    "Doncaster",
+    25
+   ]
+  ],
+  "held_before": 266,
+  "held_after": 266,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1177,
+  "category": "g",
+  "name": "M4 Mortar Carrier",
+  "accounts": [
+   [
+    12,
+    60,
+    60,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 47,
+  "held_after": 19,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1178,
+  "category": "g",
+  "name": "M4A1 Mortar Carrier",
+  "accounts": [
+   [
+    12,
+    100,
+    100,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    4
+   ]
+  ],
+  "held_before": 24,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1179,
+  "category": "g",
+  "name": "M21 Mortar Carrier",
+  "accounts": [
+   [
+    12,
+    0,
+    2,
+    2
+   ]
+  ],
+  "gross_production": 2,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1180,
+  "category": "g",
+  "name": "37mm M3 AT Gun",
+  "accounts": [
+   [
+    12,
+    400,
+    400,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 75,
+  "held_after": 75,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1181,
+  "category": "g",
+  "name": "3in M5 AT Gun",
+  "accounts": [
+   [
+    12,
+    80,
+    90,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [],
+  "held_before": 36,
+  "held_after": 36,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1182,
+  "category": "g",
+  "name": "90mm M1A1 AA Gun",
+  "accounts": [
+   [
+    12,
+    80,
+    90,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [],
+  "held_before": 336,
+  "held_after": 336,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1183,
+  "category": "g",
+  "name": "4.2in M2 Mortar",
+  "accounts": [
+   [
+    12,
+    40,
+    0,
+    4
+   ]
+  ],
+  "gross_production": 4,
+  "plants": [],
+  "held_before": 144,
+  "held_after": 108,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1184,
+  "category": "g",
+  "name": ".50in M2 Quad AAMG",
+  "accounts": [
+   [
+    12,
+    0,
+    48,
+    48
+   ]
+  ],
+  "gross_production": 48,
+  "plants": [],
+  "held_before": 848,
+  "held_after": 848,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1185,
+  "category": "g",
+  "name": "Armored Rifle Squad (+)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 49,
+  "held_after": 48,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1186,
+  "category": "g",
+  "name": "Armored Rifle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 89,
+  "held_after": 87,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1187,
+  "category": "g",
+  "name": "Armored Rifle Squad (+)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 30,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1188,
+  "category": "g",
+  "name": "Armored Rifle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 54,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1189,
+  "category": "g",
+  "name": "Parachute Rifle Squad",
+  "accounts": [
+   [
+    12,
+    0,
+    3,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 171,
+  "held_after": 168,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1190,
+  "category": "g",
+  "name": "Parachute Rifle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1191,
+  "category": "g",
+  "name": "Parachute Rifle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1192,
+  "category": "g",
+  "name": "Rifle Squad (+)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1193,
+  "category": "g",
+  "name": "Rifle Squad",
+  "accounts": [
+   [
+    12,
+    0,
+    144,
+    288
+   ]
+  ],
+  "gross_production": 288,
+  "plants": [],
+  "held_before": 72,
+  "held_after": 216,
+  "gaining_existing_units": [
+   [
+    "1/6615",
+    48
+   ],
+   [
+    "2/6615",
+    48
+   ],
+   [
+    "3/6615",
+    48
+   ]
+  ]
+ },
+ {
+  "id": 1194,
+  "category": "g",
+  "name": "4.5in M1 Field Gun",
+  "accounts": [
+   [
+    12,
+    24,
+    24,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1195,
+  "category": "g",
+  "name": "155mm M1917 Field Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1196,
+  "category": "g",
+  "name": "155mm M1A1 Field Gun",
+  "accounts": [
+   [
+    12,
+    16,
+    18,
+    2
+   ]
+  ],
+  "gross_production": 2,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1197,
+  "category": "g",
+  "name": "8in M1 Howitzer",
+  "accounts": [
+   [
+    12,
+    0,
+    10,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1198,
+  "category": "g",
+  "name": "8in M1 Field Gun",
+  "accounts": [
+   [
+    12,
+    0,
+    0,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1199,
+  "category": "g",
+  "name": "240mm M1 Howitzer",
+  "accounts": [
+   [
+    12,
+    0,
+    2,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1200,
+  "category": "g",
+  "name": ".55in Anti-tank Rifle",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1201,
+  "category": "g",
+  "name": "Scout Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1202,
+  "category": "g",
+  "name": "Scout Section",
+  "accounts": [
+   [
+    12,
+    0,
+    19,
+    20
+   ]
+  ],
+  "gross_production": 20,
+  "plants": [],
+  "held_before": 97,
+  "held_after": 109,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1203,
+  "category": "g",
+  "name": "Jeep Recon",
+  "accounts": [
+   [
+    12,
+    0,
+    12,
+    12
+   ]
+  ],
+  "gross_production": 12,
+  "plants": [],
+  "held_before": 124,
+  "held_after": 124,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1204,
+  "category": "g",
+  "name": "Scout Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1205,
+  "category": "g",
+  "name": "Cavalry Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 18,
+  "held_after": 18,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1206,
+  "category": "g",
+  "name": "Flamethrower Team",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1207,
+  "category": "g",
+  "name": "Sherman Crocodile",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1208,
+  "category": "g",
+  "name": "Sherman Crab",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1209,
+  "category": "g",
+  "name": "T1E3 Aunt Jemima",
+  "accounts": [
+   [
+    12,
+    0,
+    1,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1210,
+  "category": "g",
+  "name": "Rifle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1211,
+  "category": "g",
+  "name": "47mm M35 AT Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1212,
+  "category": "g",
+  "name": "20mm M35 AA Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1213,
+  "category": "g",
+  "name": "45mm M35 Mortar",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1214,
+  "category": "g",
+  "name": "Motorcycle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1215,
+  "category": "g",
+  "name": "75mm M11 Field Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1216,
+  "category": "g",
+  "name": "100mm M14 Howitzer",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1217,
+  "category": "g",
+  "name": "105mm M18 Howitzer",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1218,
+  "category": "g",
+  "name": "8mm Breda Machine Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1219,
+  "category": "g",
+  "name": "CV-33",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1220,
+  "category": "g",
+  "name": "81mm M35 Mortar",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1221,
+  "category": "g",
+  "name": "65mm M13 Infantry Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1222,
+  "category": "g",
+  "name": "75mm M34 Mountain Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1223,
+  "category": "g",
+  "name": "149mm M37 Howitzer",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1224,
+  "category": "g",
+  "name": "H-39",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1225,
+  "category": "g",
+  "name": "Cavalry Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1226,
+  "category": "g",
+  "name": "Commando Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 21,
+  "held_after": 21,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1227,
+  "category": "g",
+  "name": "Motorcycle Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1228,
+  "category": "g",
+  "name": "37mm Mle 16 Infantry Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1229,
+  "category": "g",
+  "name": "Motor Section (-)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1400,
+  "category": "g",
+  "name": "M8 Greyhound Armored Car",
+  "accounts": [
+   [
+    12,
+    635,
+    624,
+    33
+   ]
+  ],
+  "gross_production": 33,
+  "plants": [
+   [
+    "Doncaster",
+    33
+   ]
+  ],
+  "held_before": 273,
+  "held_after": 361,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    36
+   ],
+   [
+    "18th",
+    8
+   ]
+  ]
+ },
+ {
+  "id": 1410,
+  "category": "g",
+  "name": "M3 Lee (late model)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1411,
+  "category": "g",
+  "name": "M4 Sherman",
+  "accounts": [
+   [
+    12,
+    75,
+    40,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    50
+   ]
+  ],
+  "held_before": 188,
+  "held_after": 181,
+  "gaining_existing_units": [
+   [
+    "191st",
+    2
+   ],
+   [
+    "751st",
+    2
+   ],
+   [
+    "752nd",
+    2
+   ],
+   [
+    "753rd",
+    2
+   ],
+   [
+    "755th",
+    2
+   ],
+   [
+    "757th",
+    2
+   ],
+   [
+    "760th",
+    2
+   ]
+  ]
+ },
+ {
+  "id": 1412,
+  "category": "g",
+  "name": "M4A1 Sherman",
+  "accounts": [
+   [
+    12,
+    1190,
+    1094,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    33
+   ]
+  ],
+  "held_before": 389,
+  "held_after": 532,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    54
+   ],
+   [
+    "70th",
+    18
+   ]
+  ]
+ },
+ {
+  "id": 1413,
+  "category": "g",
+  "name": "M4A3 Sherman",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Doncaster",
+    13
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1414,
+  "category": "g",
+  "name": "M4A3(75)W Sherman",
+  "accounts": [
+   [
+    12,
+    32,
+    47,
+    32
+   ]
+  ],
+  "gross_production": 32,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 68,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    18
+   ]
+  ]
+ },
+ {
+  "id": 1415,
+  "category": "g",
+  "name": "M4A1(76)W Sherman",
+  "accounts": [
+   [
+    12,
+    31,
+    61,
+    31
+   ]
+  ],
+  "gross_production": 31,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1416,
+  "category": "g",
+  "name": "M4A3(76)W Sherman",
+  "accounts": [
+   [
+    12,
+    31,
+    52,
+    31
+   ]
+  ],
+  "gross_production": 31,
+  "plants": [
+   [
+    "Wrexham",
+    29
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 44,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    11
+   ]
+  ]
+ },
+ {
+  "id": 1417,
+  "category": "g",
+  "name": "40mm M1 AA Gun",
+  "accounts": [
+   [
+    12,
+    480,
+    540,
+    60
+   ]
+  ],
+  "gross_production": 60,
+  "plants": [],
+  "held_before": 704,
+  "held_after": 704,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1418,
+  "category": "g",
+  "name": "60mm M2 Mortar",
+  "accounts": [
+   [
+    12,
+    0,
+    95,
+    189
+   ]
+  ],
+  "gross_production": 189,
+  "plants": [],
+  "held_before": 902,
+  "held_after": 1022,
+  "gaining_existing_units": [
+   [
+    "1/6615",
+    30
+   ],
+   [
+    "2/6615",
+    30
+   ],
+   [
+    "3/6615",
+    30
+   ],
+   [
+    "509th",
+    4
+   ]
+  ]
+ },
+ {
+  "id": 1419,
+  "category": "g",
+  "name": "81mm M1 Mortar",
+  "accounts": [
+   [
+    12,
+    800,
+    854,
+    100
+   ]
+  ],
+  "gross_production": 100,
+  "plants": [],
+  "held_before": 518,
+  "held_after": 564,
+  "gaining_existing_units": [
+   [
+    "2/6615",
+    15
+   ],
+   [
+    "3/6615",
+    15
+   ],
+   [
+    "1/6615",
+    14
+   ],
+   [
+    "509th",
+    2
+   ]
+  ]
+ },
+ {
+  "id": 1420,
+  "category": "g",
+  "name": "Rifle Squad",
+  "accounts": [
+   [
+    12,
+    0,
+    285,
+    282
+   ]
+  ],
+  "gross_production": 282,
+  "plants": [],
+  "held_before": 2352,
+  "held_after": 2349,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1421,
+  "category": "g",
+  "name": "75mm M1A1 Pack Howitzer",
+  "accounts": [
+   [
+    12,
+    80,
+    0,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [],
+  "held_before": 84,
+  "held_after": 84,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1422,
+  "category": "g",
+  "name": "Combat Engineer Squad",
+  "accounts": [
+   [
+    12,
+    0,
+    31,
+    53
+   ]
+  ],
+  "gross_production": 53,
+  "plants": [],
+  "held_before": 608,
+  "held_after": 648,
+  "gaining_existing_units": [
+   [
+    "1/6615",
+    6
+   ],
+   [
+    "2/6615",
+    6
+   ],
+   [
+    "3/6615",
+    6
+   ],
+   [
+    "1/82nd",
+    2
+   ],
+   [
+    "2/82nd",
+    2
+   ]
+  ]
+ },
+ {
+  "id": 1423,
+  "category": "g",
+  "name": "Combat Engineer Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1424,
+  "category": "g",
+  "name": "Bazooka",
+  "accounts": [
+   [
+    12,
+    0,
+    506,
+    654
+   ]
+  ],
+  "gross_production": 654,
+  "plants": [],
+  "held_before": 3197,
+  "held_after": 3386,
+  "gaining_existing_units": [
+   [
+    "2/6615",
+    45
+   ],
+   [
+    "3/6615",
+    45
+   ],
+   [
+    "1/6615",
+    44
+   ],
+   [
+    "No. 41",
+    10
+   ],
+   [
+    "509th",
+    7
+   ]
+  ]
+ },
+ {
+  "id": 1425,
+  "category": "g",
+  "name": "75mm Mle 1897 Field Gun",
+  "accounts": [
+   [
+    12,
+    0,
+    1,
+    1
+   ]
+  ],
+  "gross_production": 1,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1426,
+  "category": "g",
+  "name": "8mm Hotchkiss Machine Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1477,
+  "category": "g",
+  "name": "Troop Ship",
+  "accounts": [
+   [
+    12,
+    600,
+    608,
+    0
+   ],
+   [
+    15,
+    250,
+    250,
+    0
+   ],
+   [
+    38,
+    250,
+    250,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 8,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1478,
+  "category": "g",
+  "name": "Cargo Ship",
+  "accounts": [
+   [
+    12,
+    2000,
+    1640,
+    0
+   ],
+   [
+    15,
+    1998,
+    1998,
+    0
+   ],
+   [
+    38,
+    997,
+    997,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 8,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1501,
+  "category": "g",
+  "name": "Support",
+  "accounts": [
+   [
+    12,
+    20904,
+    11306,
+    4000
+   ]
+  ],
+  "gross_production": 4000,
+  "plants": [],
+  "held_before": 1038,
+  "held_after": 7876,
+  "gaining_existing_units": [
+   [
+    "UK Home Forces HQ",
+    3600
+   ],
+   [
+    "8th US Air Force",
+    1000
+   ],
+   [
+    "Provisional",
+    675
+   ],
+   [
+    "3/1st",
+    120
+   ],
+   [
+    "2/1st",
+    100
+   ],
+   [
+    "1/2nd",
+    95
+   ],
+   [
+    "2/2nd",
+    95
+   ],
+   [
+    "3/2nd",
+    95
+   ],
+   [
+    "2/1st",
+    95
+   ],
+   [
+    "3/1st",
+    95
+   ],
+   [
+    "1/4th",
+    71
+   ],
+   [
+    "2/4th",
+    71
+   ],
+   [
+    "3/4th",
+    71
+   ],
+   [
+    "1/31st",
+    66
+   ],
+   [
+    "2/31st",
+    66
+   ],
+   [
+    "3/31st",
+    66
+   ],
+   [
+    "2/34th",
+    66
+   ],
+   [
+    "3/34th",
+    66
+   ],
+   [
+    "1/6615",
+    50
+   ],
+   [
+    "2/6615",
+    50
+   ],
+   [
+    "3/6615",
+    50
+   ],
+   [
+    "1/23rd",
+    47
+   ],
+   [
+    "2/23rd",
+    47
+   ],
+   [
+    "3/23rd",
+    47
+   ],
+   [
+    "1/1st",
+    34
+   ],
+   [
+    "1/1st",
+    34
+   ],
+   [
+    "3/1st",
+    33
+   ],
+   [
+    "1/1st",
+    29
+   ],
+   [
+    "2/1st",
+    28
+   ],
+   [
+    "3/1st",
+    28
+   ],
+   [
+    "1/6th GUARDS",
+    24
+   ],
+   [
+    "1/25th",
+    24
+   ],
+   [
+    "1/33rd",
+    24
+   ],
+   [
+    "1/34th",
+    24
+   ],
+   [
+    "2/6th GUARDS",
+    23
+   ],
+   [
+    "3/6th GUARDS",
+    23
+   ],
+   [
+    "2/25th",
+    23
+   ],
+   [
+    "3/25th",
+    23
+   ],
+   [
+    "2/33rd",
+    23
+   ],
+   [
+    "3/33rd",
+    23
+   ],
+   [
+    "509th",
+    15
+   ],
+   [
+    "Eysk",
+    6
+   ],
+   [
+    "Alekandrovskoye",
+    6
+   ],
+   [
+    "Toropets",
+    5
+   ],
+   [
+    "Maikop",
+    5
+   ],
+   [
+    "Novocherkassk",
+    5
+   ],
+   [
+    "Rostov",
+    5
+   ],
+   [
+    "Stary Oskol",
+    5
+   ],
+   [
+    "Volchansk",
+    5
+   ],
+   [
+    "Voronezh",
+    5
+   ],
+   [
+    "Stabna",
+    5
+   ],
+   [
+    "Vnukovo",
+    5
+   ],
+   [
+    "Tula",
+    5
+   ],
+   [
+    "Edrovo",
+    4
+   ],
+   [
+    "Adreapol",
+    4
+   ],
+   [
+    "Baku",
+    4
+   ],
+   [
+    "Kursk",
+    4
+   ],
+   [
+    "Vyazma",
+    4
+   ],
+   [
+    "NW Leningrad",
+    4
+   ],
+   [
+    "Armavir",
+    4
+   ],
+   [
+    "Pavlovo",
+    4
+   ],
+   [
+    "Ryazan",
+    4
+   ],
+   [
+    "Kaluga",
+    4
+   ],
+   [
+    "N Moscow",
+    4
+   ],
+   [
+    "Malaya Vishera",
+    4
+   ],
+   [
+    "Budogoshch",
+    4
+   ],
+   [
+    "Tikhvin",
+    4
+   ],
+   [
+    "Nelidovo",
+    4
+   ],
+   [
+    "Yukhnov",
+    4
+   ],
+   [
+    "Oboyan",
+    4
+   ],
+   [
+    "Schigry",
+    4
+   ],
+   [
+    "Teploe",
+    4
+   ],
+   [
+    "Bilyi Kolodiaz",
+    4
+   ],
+   [
+    "Olshanka",
+    4
+   ],
+   [
+    "Krestcy",
+    4
+   ],
+   [
+    "Oranienbaum",
+    4
+   ],
+   [
+    "Kubinka",
+    4
+   ],
+   [
+    "Lyubertsy",
+    4
+   ],
+   [
+    "Krasnodar",
+    4
+   ],
+   [
+    "Buturinovka",
+    4
+   ],
+   [
+    "Poti",
+    4
+   ],
+   [
+    "Sochi",
+    4
+   ],
+   [
+    "Gelendzhik",
+    4
+   ],
+   [
+    "Sukhumi",
+    3
+   ],
+   [
+    "Al Khums",
+    1
+   ],
+   [
+    "Derna",
+    1
+   ],
+   [
+    "Misurata",
+    1
+   ],
+   [
+    "Sirte",
+    1
+   ],
+   [
+    "Tolemaide",
+    1
+   ],
+   [
+    "Tripoli",
+    1
+   ],
+   [
+    "Kalinin",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 1502,
+  "category": "g",
+  "name": "Support",
+  "accounts": [
+   [
+    15,
+    0,
+    5035,
+    5000
+   ]
+  ],
+  "gross_production": 5000,
+  "plants": [],
+  "held_before": 54627,
+  "held_after": 50762,
+  "gaining_existing_units": [
+   [
+    "No. 4",
+    5
+   ]
+  ]
+ },
+ {
+  "id": 1503,
+  "category": "g",
+  "name": "Support",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 32,
+  "held_after": 27,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1505,
+  "category": "g",
+  "name": "Support",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 5764,
+  "held_after": 5564,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1506,
+  "category": "g",
+  "name": "Support",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 32,
+  "held_after": 32,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1508,
+  "category": "g",
+  "name": "Support",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1303,
+  "held_after": 1303,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1517,
+  "category": "g",
+  "name": "Support",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 52,
+  "held_after": 52,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1518,
+  "category": "g",
+  "name": "Support",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 107,
+  "held_after": 107,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1520,
+  "category": "g",
+  "name": "Support",
+  "accounts": [
+   [
+    13,
+    0,
+    833,
+    830
+   ]
+  ],
+  "gross_production": 830,
+  "plants": [],
+  "held_before": 55368,
+  "held_after": 54207,
+  "gaining_existing_units": [
+   [
+    "Alconbury",
+    9
+   ],
+   [
+    "Podington",
+    9
+   ]
+  ]
+ },
+ {
+  "id": 1521,
+  "category": "g",
+  "name": "Support",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 4620,
+  "held_after": 4620,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1601,
+  "category": "g",
+  "name": "Air Support",
+  "accounts": [
+   [
+    12,
+    7358,
+    23208,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 22407,
+  "held_after": 32230,
+  "gaining_existing_units": [
+   [
+    "Kairouan",
+    420
+   ],
+   [
+    "Hani",
+    395
+   ],
+   [
+    "Hergala",
+    339
+   ],
+   [
+    "Kaluga",
+    323
+   ],
+   [
+    "Hethel",
+    320
+   ],
+   [
+    "La Sebala",
+    302
+   ],
+   [
+    "Bircham Newton",
+    272
+   ],
+   [
+    "Mateur",
+    261
+   ],
+   [
+    "Blida",
+    259
+   ],
+   [
+    "Valletta",
+    250
+   ],
+   [
+    "Victoria",
+    250
+   ],
+   [
+    "Oboyan",
+    249
+   ],
+   [
+    "Navarin",
+    236
+   ],
+   [
+    "La Marsa",
+    227
+   ],
+   [
+    "Bizerte",
+    214
+   ],
+   [
+    "Kursk",
+    211
+   ],
+   [
+    "Odiham",
+    210
+   ],
+   [
+    "Protville",
+    199
+   ],
+   [
+    "Marham",
+    197
+   ],
+   [
+    "Buturinovka",
+    197
+   ],
+   [
+    "Benghazi",
+    191
+   ],
+   [
+    "NW Leningrad",
+    183
+   ],
+   [
+    "Perregaux",
+    182
+   ],
+   [
+    "Souk el Arba",
+    182
+   ],
+   [
+    "Hurn",
+    178
+   ],
+   [
+    "Manston",
+    177
+   ],
+   [
+    "Eye",
+    176
+   ],
+   [
+    "Bassingbourn",
+    172
+   ],
+   [
+    "Henlow",
+    172
+   ],
+   [
+    "Nabeul",
+    172
+   ],
+   [
+    "Wyton",
+    169
+   ],
+   [
+    "Leconfield",
+    167
+   ],
+   [
+    "Poole",
+    164
+   ],
+   [
+    "Foulsham",
+    159
+   ],
+   [
+    "Driffeld",
+    154
+   ],
+   [
+    "Kelibia",
+    154
+   ],
+   [
+    "El Djem",
+    153
+   ],
+   [
+    "Chivenor",
+    152
+   ],
+   [
+    "Hornchurch",
+    151
+   ],
+   [
+    "Sudbury",
+    150
+   ],
+   [
+    "Udref",
+    150
+   ],
+   [
+    "Mildenhall",
+    148
+   ],
+   [
+    "Lakenheath",
+    147
+   ],
+   [
+    "Leuchars",
+    146
+   ],
+   [
+    "Newchurch",
+    145
+   ],
+   [
+    "Scampton",
+    145
+   ],
+   [
+    "Chedburgh",
+    142
+   ],
+   [
+    "Leeming",
+    142
+   ],
+   [
+    "Middleton St. George",
+    142
+   ],
+   [
+    "Needs Oar Point",
+    140
+   ],
+   [
+    "Syerston",
+    136
+   ],
+   [
+    "Thorney Island",
+    136
+   ],
+   [
+    "Oakington",
+    134
+   ],
+   [
+    "Toropets",
+    134
+   ],
+   [
+    "Olshanka",
+    134
+   ],
+   [
+    "Exeter",
+    133
+   ],
+   [
+    "Chipping Ongar",
+    132
+   ],
+   [
+    "Beja",
+    132
+   ],
+   [
+    "North Coates",
+    131
+   ],
+   [
+    "Upwood",
+    130
+   ],
+   [
+    "Enfidaville",
+    130
+   ],
+   [
+    "Drem",
+    129
+   ],
+   [
+    "Aldermaston",
+    128
+   ],
+   [
+    "East Moor",
+    128
+   ],
+   [
+    "Ryazan",
+    128
+   ],
+   [
+    "Boxted",
+    126
+   ],
+   [
+    "Ingham",
+    126
+   ],
+   [
+    "West Raynham",
+    125
+   ],
+   [
+    "Snetterton Heath",
+    124
+   ],
+   [
+    "Chelveston",
+    123
+   ],
+   [
+    "Earls Colne",
+    122
+   ],
+   [
+    "Kimbolton",
+    122
+   ],
+   [
+    "Swanton Morley",
+    122
+   ],
+   [
+    "Watton",
+    121
+   ],
+   [
+    "Constantine",
+    120
+   ],
+   [
+    "Krasnodar",
+    120
+   ],
+   [
+    "Duxford",
+    118
+   ],
+   [
+    "Skeabrae",
+    118
+   ],
+   [
+    "Maison Blanche",
+    118
+   ],
+   [
+    "Causeway LG",
+    118
+   ],
+   [
+    "Polebrook",
+    117
+   ],
+   [
+    "Witchford",
+    117
+   ],
+   [
+    "Wattisham",
+    115
+   ],
+   [
+    "Bury St Edmunds",
+    113
+   ],
+   [
+    "Grafton Underwood",
+    113
+   ],
+   [
+    "Molesworth",
+    113
+   ],
+   [
+    "Debden",
+    112
+   ],
+   [
+    "Warmwell",
+    111
+   ],
+   [
+    "Swannington",
+    109
+   ],
+   [
+    "Coltishall",
+    108
+   ],
+   [
+    "Harrowbeer",
+    108
+   ],
+   [
+    "Pembroke",
+    108
+   ],
+   [
+    "Westhampnett",
+    108
+   ],
+   [
+    "Ayr",
+    107
+   ],
+   [
+    "Biggin Hill",
+    107
+   ],
+   [
+    "Hunsdon",
+    107
+   ],
+   [
+    "Predannack",
+    107
+   ],
+   [
+    "Ballyhalbert",
+    106
+   ],
+   [
+    "Benbecula",
+    106
+   ],
+   [
+    "Bradwell Bay",
+    106
+   ],
+   [
+    "Gatwick",
+    106
+   ],
+   [
+    "Lasham",
+    106
+   ],
+   [
+    "Church Fenton",
+    105
+   ],
+   [
+    "Digby",
+    105
+   ],
+   [
+    "Hartford Bridge",
+    105
+   ],
+   [
+    "Northolt",
+    105
+   ],
+   [
+    "Peterhead",
+    105
+   ],
+   [
+    "Krestcy",
+    105
+   ],
+   [
+    "Croft",
+    104
+   ],
+   [
+    "Detling",
+    104
+   ],
+   [
+    "Elvington",
+    104
+   ],
+   [
+    "Lissett",
+    104
+   ],
+   [
+    "Melbourne",
+    104
+   ],
+   [
+    "Tempsford",
+    104
+   ],
+   [
+    "Dishforth",
+    103
+   ],
+   [
+    "Honington",
+    103
+   ],
+   [
+    "Holme on Spalding Moor",
+    102
+   ],
+   [
+    "Snaith",
+    102
+   ],
+   [
+    "Swinderby",
+    101
+   ],
+   [
+    "Binbrook",
+    100
+   ],
+   [
+    "Elsham Wolds",
+    100
+   ],
+   [
+    "Thruxton",
+    100
+   ],
+   [
+    "Acklington",
+    99
+   ],
+   [
+    "Clifton",
+    99
+   ],
+   [
+    "Coningsby",
+    99
+   ],
+   [
+    "Hemswell",
+    99
+   ],
+   [
+    "Langar",
+    99
+   ],
+   [
+    "Gelendzhik",
+    99
+   ],
+   [
+    "Linton-on-Ouse",
+    98
+   ],
+   [
+    "Vyazma",
+    96
+   ],
+   [
+    "Kirmington",
+    95
+   ],
+   [
+    "Wickenby",
+    94
+   ],
+   [
+    "Bowmore",
+    93
+   ],
+   [
+    "Castle Archdale",
+    93
+   ],
+   [
+    "Halesworth",
+    93
+   ],
+   [
+    "Feltwell",
+    91
+   ],
+   [
+    "Middle Wallop",
+    88
+   ],
+   [
+    "Castle Camps",
+    86
+   ],
+   [
+    "Waddington",
+    85
+   ],
+   [
+    "Wrexham",
+    85
+   ],
+   [
+    "Reghaia",
+    85
+   ],
+   [
+    "Tizi Ouzou",
+    85
+   ],
+   [
+    "Catterick",
+    84
+   ],
+   [
+    "Bone",
+    84
+   ],
+   [
+    "Alconbury",
+    83
+   ],
+   [
+    "Dunsfold",
+    83
+   ],
+   [
+    "Fairwood Common",
+    83
+   ],
+   [
+    "Budogoshch",
+    83
+   ],
+   [
+    "Eysk",
+    83
+   ],
+   [
+    "Benson",
+    81
+   ],
+   [
+    "Podington",
+    80
+   ],
+   [
+    "Pavlovo",
+    70
+   ],
+   [
+    "Stary Oskol",
+    68
+   ],
+   [
+    "Oranienbaum",
+    53
+   ],
+   [
+    "Voronezh",
+    47
+   ],
+   [
+    "Nelidovo",
+    45
+   ],
+   [
+    "Lympne",
+    44
+   ],
+   [
+    "Great Massingham",
+    43
+   ],
+   [
+    "Southend",
+    40
+   ],
+   [
+    "Martlesham Heath",
+    36
+   ],
+   [
+    "Rackheath",
+    36
+   ],
+   [
+    "Aldergrove",
+    35
+   ],
+   [
+    "Belfast",
+    35
+   ],
+   [
+    "Bolt Head",
+    35
+   ],
+   [
+    "Bottisham",
+    35
+   ],
+   [
+    "Castletown",
+    35
+   ],
+   [
+    "Colerne",
+    35
+   ],
+   [
+    "Ford",
+    35
+   ],
+   [
+    "Hawkinge",
+    35
+   ],
+   [
+    "Merston",
+    35
+   ],
+   [
+    "Ouston",
+    35
+   ],
+   [
+    "Sawbridgeworth",
+    35
+   ],
+   [
+    "Turnhouse",
+    35
+   ],
+   [
+    "Valley",
+    34
+   ],
+   [
+    "Roborough",
+    29
+   ],
+   [
+    "Bilyi Kolodiaz",
+    24
+   ],
+   [
+    "Yukhnov",
+    23
+   ],
+   [
+    "Maikop",
+    20
+   ],
+   [
+    "Rostov",
+    19
+   ],
+   [
+    "Volchansk",
+    14
+   ],
+   [
+    "Sochi",
+    12
+   ],
+   [
+    "Wick",
+    2
+   ],
+   [
+    "Sukhumi",
+    2
+   ]
+  ]
+ },
+ {
+  "id": 1602,
+  "category": "g",
+  "name": "Air Support",
+  "accounts": [
+   [
+    15,
+    0,
+    142,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 27056,
+  "held_after": 358,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 1620,
+  "category": "g",
+  "name": "Air Support",
+  "accounts": [
+   [
+    13,
+    0,
+    267,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 11530,
+  "held_after": 733,
+  "gaining_existing_units": [
+   [
+    "Goubrine",
+    211
+   ],
+   [
+    "Graiba",
+    143
+   ]
+  ]
+ },
+ {
+  "id": 2050,
+  "category": "g",
+  "name": "Churchill AVRE",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 312,
+  "held_after": 312,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 2067,
+  "category": "g",
+  "name": "40mm Bofors AA Gun",
+  "accounts": [
+   [
+    26,
+    0,
+    55,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 6144,
+  "held_after": 3638,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 2068,
+  "category": "g",
+  "name": "3.7in Mk I AA Gun",
+  "accounts": [
+   [
+    26,
+    0,
+    15,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 2048,
+  "held_after": 1182,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 2085,
+  "category": "g",
+  "name": "Field Engineer Section",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1387,
+  "held_after": 1357,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 2543,
+  "category": "g",
+  "name": "M16 MGMC",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1472,
+  "held_after": 1158,
+  "gaining_existing_units": [
+   [
+    "Alconbury",
+    24
+   ],
+   [
+    "Podington",
+    24
+   ]
+  ]
+ },
+ {
+  "id": 2561,
+  "category": "g",
+  "name": "40mm M1 AA Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1472,
+  "held_after": 1158,
+  "gaining_existing_units": [
+   [
+    "Alconbury",
+    24
+   ],
+   [
+    "Podington",
+    24
+   ]
+  ]
+ },
+ {
+  "id": 2570,
+  "category": "g",
+  "name": ".50in M2HB Machine Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1012,
+  "held_after": 789,
+  "gaining_existing_units": [
+   [
+    "Alconbury",
+    17
+   ],
+   [
+    "Podington",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 2597,
+  "category": "g",
+  "name": "Armored Engineer Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 59,
+  "held_after": 58,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 2598,
+  "category": "g",
+  "name": "Armored Engineer Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 9,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 2599,
+  "category": "g",
+  "name": "Airborne Engineer Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 6,
+  "held_after": 6,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 2601,
+  "category": "g",
+  "name": "Engineer Squad",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 1137,
+  "held_after": 1137,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 3401,
+  "category": "g",
+  "name": "57mm M1 AT Gun",
+  "accounts": [
+   [
+    12,
+    480,
+    541,
+    60
+   ]
+  ],
+  "gross_production": 60,
+  "plants": [],
+  "held_before": 459,
+  "held_after": 483,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 3402,
+  "category": "g",
+  "name": ".30in M1919A4 Machine Gun",
+  "accounts": [
+   [
+    12,
+    0,
+    308,
+    414
+   ]
+  ],
+  "gross_production": 414,
+  "plants": [],
+  "held_before": 998,
+  "held_after": 1156,
+  "gaining_existing_units": [
+   [
+    "509th",
+    22
+   ],
+   [
+    "2/6615",
+    18
+   ],
+   [
+    "3/6615",
+    18
+   ],
+   [
+    "1/6615",
+    16
+   ],
+   [
+    "1/1st",
+    8
+   ],
+   [
+    "2/1st",
+    8
+   ],
+   [
+    "7th",
+    8
+   ],
+   [
+    "1/82nd",
+    2
+   ],
+   [
+    "2/82nd",
+    2
+   ],
+   [
+    "No. 40",
+    2
+   ],
+   [
+    "No. 41",
+    2
+   ]
+  ]
+ },
+ {
+  "id": 3403,
+  "category": "g",
+  "name": ".30in M1917A1 Machine Gun",
+  "accounts": [
+   [
+    12,
+    0,
+    140,
+    150
+   ]
+  ],
+  "gross_production": 150,
+  "plants": [],
+  "held_before": 765,
+  "held_after": 814,
+  "gaining_existing_units": [
+   [
+    "1/6615",
+    4
+   ],
+   [
+    "2/6615",
+    4
+   ],
+   [
+    "3/6615",
+    4
+   ]
+  ]
+ },
+ {
+  "id": 3404,
+  "category": "g",
+  "name": ".50in M2HB Machine Gun",
+  "accounts": [
+   [
+    12,
+    0,
+    38,
+    42
+   ]
+  ],
+  "gross_production": 42,
+  "plants": [],
+  "held_before": 1159,
+  "held_after": 1184,
+  "gaining_existing_units": [
+   [
+    "2nd",
+    7
+   ]
+  ]
+ },
+ {
+  "id": 3405,
+  "category": "g",
+  "name": "105mm M2A1 Howitzer",
+  "accounts": [
+   [
+    12,
+    960,
+    978,
+    18
+   ]
+  ],
+  "gross_production": 18,
+  "plants": [],
+  "held_before": 252,
+  "held_after": 252,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 3406,
+  "category": "g",
+  "name": "155mm M1 Howitzer",
+  "accounts": [
+   [
+    12,
+    320,
+    333,
+    13
+   ]
+  ],
+  "gross_production": 13,
+  "plants": [],
+  "held_before": 180,
+  "held_after": 180,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 3506,
+  "category": "g",
+  "name": "6in Naval Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 72,
+  "held_after": 72,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 3511,
+  "category": "g",
+  "name": "4.7in Naval Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 84,
+  "held_after": 84,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 3529,
+  "category": "g",
+  "name": "6in Naval Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 72,
+  "held_after": 72,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 3532,
+  "category": "g",
+  "name": "5in Naval Gun",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 218,
+  "held_after": 218,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 487,
+  "category": "a",
+  "name": "RS.14B (WI)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 490,
+  "category": "a",
+  "name": "Z.501 (WI)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 491,
+  "category": "a",
+  "name": "Z.506B (WI)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 501,
+  "category": "a",
+  "name": "Bf 109G-2 Strela (BU)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 7,
+  "held_after": 7,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 505,
+  "category": "a",
+  "name": "D.520 (BU)",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 20,
+  "held_after": 20,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 532,
+  "category": "a",
+  "name": "Spitfire VIII",
+  "accounts": [
+   [
+    12,
+    0,
+    16,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    7
+   ]
+  ],
+  "held_before": 16,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 533,
+  "category": "a",
+  "name": "Spitfire LF.IX",
+  "accounts": [
+   [
+    12,
+    0,
+    14,
+    14
+   ]
+  ],
+  "gross_production": 14,
+  "plants": [
+   [
+    "Dishforth",
+    15
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 545,
+  "category": "a",
+  "name": "Hurricane IIC",
+  "accounts": [
+   [
+    12,
+    650,
+    586,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    20
+   ]
+  ],
+  "held_before": 64,
+  "held_after": 128,
+  "gaining_existing_units": [
+   [
+    "No.4 SAAF FB Sqn",
+    16
+   ],
+   [
+    "No.6 RAF FB Sqn",
+    16
+   ],
+   [
+    "No.43 RAF FB Sqn",
+    16
+   ],
+   [
+    "No.601 RAF FB Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 549,
+  "category": "a",
+  "name": "Spitfire VB",
+  "accounts": [
+   [
+    12,
+    0,
+    32,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 704,
+  "held_after": 672,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 550,
+  "category": "a",
+  "name": "Spitfire IX",
+  "accounts": [
+   [
+    12,
+    650,
+    666,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 272,
+  "held_after": 256,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 551,
+  "category": "a",
+  "name": "Spitfire XII",
+  "accounts": [
+   [
+    12,
+    50,
+    50,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    4
+   ]
+  ],
+  "held_before": 32,
+  "held_after": 32,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 554,
+  "category": "a",
+  "name": "Spitfire PR.IV",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 16,
+  "held_after": 16,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 555,
+  "category": "a",
+  "name": "Spitfire PR.XI",
+  "accounts": [
+   [
+    12,
+    0,
+    18,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [
+   [
+    "Elvington",
+    3
+   ]
+  ],
+  "held_before": 128,
+  "held_after": 113,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 558,
+  "category": "a",
+  "name": "Typhoon IB",
+  "accounts": [
+   [
+    12,
+    200,
+    186,
+    18
+   ]
+  ],
+  "gross_production": 18,
+  "plants": [
+   [
+    "Dishforth",
+    18
+   ]
+  ],
+  "held_before": 304,
+  "held_after": 336,
+  "gaining_existing_units": [
+   [
+    "No.137 RAF FB Sqn",
+    16
+   ],
+   [
+    "No.225 RAF FB Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 564,
+  "category": "a",
+  "name": "Kittyhawk III",
+  "accounts": [
+   [
+    12,
+    80,
+    96,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 60,
+  "held_after": 44,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 569,
+  "category": "a",
+  "name": "Mustang I",
+  "accounts": [
+   [
+    12,
+    40,
+    40,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 578,
+  "category": "a",
+  "name": "Beaufighter VIF",
+  "accounts": [
+   [
+    12,
+    20,
+    41,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    6
+   ]
+  ],
+  "held_before": 192,
+  "held_after": 171,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 579,
+  "category": "a",
+  "name": "Beaufighter VIC",
+  "accounts": [
+   [
+    12,
+    16,
+    18,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 16,
+  "held_after": 14,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 580,
+  "category": "a",
+  "name": "Beaufighter VI (ITF)",
+  "accounts": [
+   [
+    12,
+    0,
+    17,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 128,
+  "held_after": 103,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 581,
+  "category": "a",
+  "name": "Beaufighter TF X",
+  "accounts": [
+   [
+    12,
+    40,
+    38,
+    14
+   ]
+  ],
+  "gross_production": 14,
+  "plants": [
+   [
+    "Elvington",
+    7
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 16,
+  "gaining_existing_units": [
+   [
+    "No.39 RAF TB Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 582,
+  "category": "a",
+  "name": "Beaufighter XIC",
+  "accounts": [
+   [
+    12,
+    13,
+    15,
+    2
+   ]
+  ],
+  "gross_production": 2,
+  "plants": [
+   [
+    "Kirmington",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 584,
+  "category": "a",
+  "name": "Mosquito NF.II",
+  "accounts": [
+   [
+    12,
+    0,
+    27,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 128,
+  "held_after": 96,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 585,
+  "category": "a",
+  "name": "Mosquito NF.XIII",
+  "accounts": [
+   [
+    12,
+    40,
+    35,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    6
+   ]
+  ],
+  "held_before": 80,
+  "held_after": 85,
+  "gaining_existing_units": [
+   [
+    "No.23 RAF NF Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 587,
+  "category": "a",
+  "name": "Mosquito FB.VI",
+  "accounts": [
+   [
+    12,
+    60,
+    44,
+    16
+   ]
+  ],
+  "gross_production": 16,
+  "plants": [
+   [
+    "Coventry",
+    8
+   ],
+   [
+    "Dishforth",
+    8
+   ]
+  ],
+  "held_before": 32,
+  "held_after": 64,
+  "gaining_existing_units": [
+   [
+    "No.1 SAAF FB Sqn",
+    16
+   ],
+   [
+    "No.2 SAAF FB Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 588,
+  "category": "a",
+  "name": "Mosquito B.IV",
+  "accounts": [
+   [
+    12,
+    70,
+    80,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 88,
+  "held_after": 77,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 589,
+  "category": "a",
+  "name": "Mosquito B.XVI",
+  "accounts": [
+   [
+    12,
+    0,
+    3,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 591,
+  "category": "a",
+  "name": "Mosquito PR.XVI",
+  "accounts": [
+   [
+    12,
+    62,
+    25,
+    4
+   ]
+  ],
+  "gross_production": 4,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 16,
+  "gaining_existing_units": [
+   [
+    "No.60 SAAF Rec Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 592,
+  "category": "a",
+  "name": "Mosquito B.IX",
+  "accounts": [
+   [
+    12,
+    25,
+    25,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Kirmington",
+    2
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 593,
+  "category": "a",
+  "name": "Mosquito PR.IX",
+  "accounts": [
+   [
+    12,
+    10,
+    29,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Kirmington",
+    3
+   ]
+  ],
+  "held_before": 32,
+  "held_after": 13,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 604,
+  "category": "a",
+  "name": "Beaufort I",
+  "accounts": [
+   [
+    12,
+    20,
+    21,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 32,
+  "held_after": 31,
+  "gaining_existing_units": [
+   [
+    "No.143 RAF TB Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 610,
+  "category": "a",
+  "name": "Blenheim VD",
+  "accounts": [
+   [
+    12,
+    0,
+    26,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 44,
+  "held_after": 18,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 612,
+  "category": "a",
+  "name": "Boston III",
+  "accounts": [
+   [
+    12,
+    0,
+    35,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 130,
+  "held_after": 93,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 616,
+  "category": "a",
+  "name": "Baltimore III",
+  "accounts": [
+   [
+    12,
+    0,
+    28,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 79,
+  "held_after": 51,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 617,
+  "category": "a",
+  "name": "Baltimore V",
+  "accounts": [
+   [
+    12,
+    0,
+    13,
+    13
+   ]
+  ],
+  "gross_production": 13,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 618,
+  "category": "a",
+  "name": "Marauder I",
+  "accounts": [
+   [
+    12,
+    0,
+    8,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 8,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 619,
+  "category": "a",
+  "name": "Mitchell II",
+  "accounts": [
+   [
+    12,
+    0,
+    31,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 88,
+  "held_after": 56,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 621,
+  "category": "a",
+  "name": "Fortress IIA",
+  "accounts": [
+   [
+    12,
+    0,
+    10,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 20,
+  "held_after": 10,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 623,
+  "category": "a",
+  "name": "Baltimore IV",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    12
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 624,
+  "category": "a",
+  "name": "Liberator B.III",
+  "accounts": [
+   [
+    12,
+    80,
+    80,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 628,
+  "category": "a",
+  "name": "Hampden I",
+  "accounts": [
+   [
+    12,
+    30,
+    30,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 32,
+  "held_after": 31,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 630,
+  "category": "a",
+  "name": "Liberator GR.V",
+  "accounts": [
+   [
+    12,
+    0,
+    17,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 75,
+  "held_after": 58,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 631,
+  "category": "a",
+  "name": "Wellington III",
+  "accounts": [
+   [
+    12,
+    0,
+    22,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 44,
+  "held_after": 22,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 632,
+  "category": "a",
+  "name": "Wellington X",
+  "accounts": [
+   [
+    12,
+    180,
+    77,
+    18
+   ]
+  ],
+  "gross_production": 18,
+  "plants": [
+   [
+    "Elvington",
+    5
+   ],
+   [
+    "Elvington",
+    5
+   ],
+   [
+    "Elvington",
+    5
+   ]
+  ],
+  "held_before": 286,
+  "held_after": 407,
+  "gaining_existing_units": [
+   [
+    "No.7 RAF LB Sqn",
+    23
+   ],
+   [
+    "No.9 RAF LB Sqn",
+    23
+   ],
+   [
+    "No.12 RAF LB Sqn",
+    23
+   ],
+   [
+    "No.44 RAF LB Sqn",
+    23
+   ],
+   [
+    "No.90 RAF LB Sqn",
+    23
+   ],
+   [
+    "No.37 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.40 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.70 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.104 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.420 RCAF LB Sqn",
+    1
+   ],
+   [
+    "No.424 RCAF LB Sqn",
+    1
+   ],
+   [
+    "No.166 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.300 RAF LB Sqn",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 633,
+  "category": "a",
+  "name": "Wellington GR.XIII/XIV",
+  "accounts": [
+   [
+    12,
+    0,
+    20,
+    10
+   ]
+  ],
+  "gross_production": 10,
+  "plants": [
+   [
+    "Elvington",
+    5
+   ],
+   [
+    "Elvington",
+    5
+   ]
+  ],
+  "held_before": 121,
+  "held_after": 111,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 634,
+  "category": "a",
+  "name": "Stirling I",
+  "accounts": [
+   [
+    12,
+    0,
+    44,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 88,
+  "held_after": 43,
+  "gaining_existing_units": [
+   [
+    "No.149 RAF LB Sqn",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 635,
+  "category": "a",
+  "name": "Stirling III",
+  "accounts": [
+   [
+    12,
+    0,
+    25,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    7
+   ],
+   [
+    "Elvington",
+    7
+   ],
+   [
+    "Elvington",
+    7
+   ]
+  ],
+  "held_before": 110,
+  "held_after": 85,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 637,
+  "category": "a",
+  "name": "Halifax B.II",
+  "accounts": [
+   [
+    12,
+    300,
+    229,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    6
+   ],
+   [
+    "Elvington",
+    6
+   ]
+  ],
+  "held_before": 374,
+  "held_after": 445,
+  "gaining_existing_units": [
+   [
+    "No.15 RAF LB Sqn",
+    23
+   ],
+   [
+    "No.75 RNZAF LB Sqn",
+    23
+   ],
+   [
+    "No.142 RAF LB Sqn",
+    23
+   ],
+   [
+    "No.462 RAAF LB Sqn",
+    1
+   ],
+   [
+    "No.434 RCAF LB Sqn",
+    1
+   ],
+   [
+    "No.102 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.158 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.77 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.76 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.138 RAF LB Sqn",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 638,
+  "category": "a",
+  "name": "Halifax B.III",
+  "accounts": [
+   [
+    12,
+    0,
+    24,
+    24
+   ]
+  ],
+  "gross_production": 24,
+  "plants": [
+   [
+    "Dishforth",
+    10
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 639,
+  "category": "a",
+  "name": "Halifax GR.II/V",
+  "accounts": [
+   [
+    12,
+    0,
+    15,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Kirmington",
+    3
+   ],
+   [
+    "Liverpool",
+    3
+   ]
+  ],
+  "held_before": 30,
+  "held_after": 15,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 643,
+  "category": "a",
+  "name": "Lancaster B.I",
+  "accounts": [
+   [
+    12,
+    550,
+    636,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 462,
+  "held_after": 373,
+  "gaining_existing_units": [
+   [
+    "No.49 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.50 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.100 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.61 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.97 RAF LB Sqn",
+    1
+   ],
+   [
+    "No.57 RAF LB Sqn",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 644,
+  "category": "a",
+  "name": "Lancaster B.III",
+  "accounts": [
+   [
+    12,
+    0,
+    16,
+    31
+   ]
+  ],
+  "gross_production": 31,
+  "plants": [
+   [
+    "Dishforth",
+    10
+   ],
+   [
+    "Dishforth",
+    10
+   ],
+   [
+    "Coventry",
+    7
+   ]
+  ],
+  "held_before": 22,
+  "held_after": 22,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 645,
+  "category": "a",
+  "name": "Stirling IV-V",
+  "accounts": [
+   [
+    12,
+    0,
+    9,
+    9
+   ]
+  ],
+  "gross_production": 9,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 646,
+  "category": "a",
+  "name": "Albemarle",
+  "accounts": [
+   [
+    12,
+    130,
+    131,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    4
+   ]
+  ],
+  "held_before": 72,
+  "held_after": 71,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 652,
+  "category": "a",
+  "name": "Swordfish II",
+  "accounts": [
+   [
+    12,
+    0,
+    3,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Wrexham",
+    5
+   ]
+  ],
+  "held_before": 16,
+  "held_after": 13,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 653,
+  "category": "a",
+  "name": "Albacore",
+  "accounts": [
+   [
+    12,
+    0,
+    13,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 64,
+  "held_after": 51,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 656,
+  "category": "a",
+  "name": "Hudson III",
+  "accounts": [
+   [
+    12,
+    0,
+    16,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 16,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 657,
+  "category": "a",
+  "name": "Ventura GR.V",
+  "accounts": [
+   [
+    12,
+    100,
+    46,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Wrexham",
+    4
+   ]
+  ],
+  "held_before": 18,
+  "held_after": 72,
+  "gaining_existing_units": [
+   [
+    "No.608 RAF Pa Sqn",
+    16
+   ],
+   [
+    "No.53 RAF Pa Sqn",
+    15
+   ],
+   [
+    "No.58 RAF Pa Sqn",
+    15
+   ],
+   [
+    "No.206 RAF Pa Sqn",
+    12
+   ]
+  ]
+ },
+ {
+  "id": 661,
+  "category": "a",
+  "name": "Sunderland III",
+  "accounts": [
+   [
+    12,
+    150,
+    143,
+    2
+   ]
+  ],
+  "gross_production": 2,
+  "plants": [
+   [
+    "Kirmington",
+    1
+   ],
+   [
+    "Kirmington",
+    1
+   ]
+  ],
+  "held_before": 63,
+  "held_after": 72,
+  "gaining_existing_units": [
+   [
+    "No.228 RAF Pa Sqn",
+    3
+   ],
+   [
+    "No.422 RCAF Pa Sqn",
+    1
+   ],
+   [
+    "No.201 RAF Pa Sqn",
+    1
+   ],
+   [
+    "No.119 RAF Pa Sqn",
+    1
+   ],
+   [
+    "No.461 RAAF Pa Sqn",
+    1
+   ],
+   [
+    "No.10 RAAF Pa Sqn",
+    1
+   ],
+   [
+    "No.423 RCAF Pa Sqn",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 662,
+  "category": "a",
+  "name": "Catalina IVA",
+  "accounts": [
+   [
+    12,
+    0,
+    56,
+    56
+   ]
+  ],
+  "gross_production": 56,
+  "plants": [
+   [
+    "Wrexham",
+    1
+   ]
+  ],
+  "held_before": 14,
+  "held_after": 14,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 664,
+  "category": "a",
+  "name": "Dakota III",
+  "accounts": [
+   [
+    12,
+    140,
+    143,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 36,
+  "held_after": 33,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 666,
+  "category": "a",
+  "name": "Mustang I (PR)",
+  "accounts": [
+   [
+    12,
+    0,
+    28,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 192,
+  "held_after": 164,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 667,
+  "category": "a",
+  "name": "Spitfire VC",
+  "accounts": [
+   [
+    12,
+    0,
+    16,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    38
+   ]
+  ],
+  "held_before": 144,
+  "held_after": 128,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 668,
+  "category": "a",
+  "name": "Hurricane IID",
+  "accounts": [
+   [
+    12,
+    0,
+    16,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 16,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 669,
+  "category": "a",
+  "name": "Hurricane IV",
+  "accounts": [
+   [
+    12,
+    40,
+    56,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Elvington",
+    8
+   ]
+  ],
+  "held_before": 64,
+  "held_after": 48,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 671,
+  "category": "a",
+  "name": "Halifax A.V",
+  "accounts": [
+   [
+    12,
+    35,
+    39,
+    4
+   ]
+  ],
+  "gross_production": 4,
+  "plants": [
+   [
+    "Liverpool",
+    4
+   ]
+  ],
+  "held_before": 60,
+  "held_after": 60,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 680,
+  "category": "a",
+  "name": "P-40N Warhawk",
+  "accounts": [
+   [
+    12,
+    350,
+    224,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    20
+   ]
+  ],
+  "held_before": 249,
+  "held_after": 375,
+  "gaining_existing_units": [
+   [
+    "324th USAAF FB Grp",
+    38
+   ],
+   [
+    "33rd USAAF FB Grp",
+    29
+   ],
+   [
+    "57th USAAF FB Grp",
+    21
+   ],
+   [
+    "325th USAAF FB Grp",
+    19
+   ],
+   [
+    "79th USAAF FB Grp",
+    19
+   ]
+  ]
+ },
+ {
+  "id": 683,
+  "category": "a",
+  "name": "P-39Q Airacobra",
+  "accounts": [
+   [
+    12,
+    223,
+    205,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    15
+   ]
+  ],
+  "held_before": 57,
+  "held_after": 75,
+  "gaining_existing_units": [
+   [
+    "350th USAAF FB Grp",
+    18
+   ]
+  ]
+ },
+ {
+  "id": 686,
+  "category": "a",
+  "name": "P-38G/H Lightning",
+  "accounts": [
+   [
+    12,
+    250,
+    196,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    30
+   ]
+  ],
+  "held_before": 162,
+  "held_after": 216,
+  "gaining_existing_units": [
+   [
+    "31st USAAF F Grp",
+    47
+   ],
+   [
+    "82nd USAAF FB Grp",
+    7
+   ]
+  ]
+ },
+ {
+  "id": 687,
+  "category": "a",
+  "name": "P-38J Lightning",
+  "accounts": [
+   [
+    12,
+    0,
+    32,
+    32
+   ]
+  ],
+  "gross_production": 32,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 688,
+  "category": "a",
+  "name": "F-5A Lightning",
+  "accounts": [
+   [
+    12,
+    48,
+    37,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 69,
+  "held_after": 80,
+  "gaining_existing_units": [
+   [
+    "13th USAAF PR Sqn",
+    3
+   ],
+   [
+    "22nd USAAF PR Sqn",
+    3
+   ],
+   [
+    "14th USAAF PR Sqn",
+    2
+   ],
+   [
+    "12th USAAF PR Sqn",
+    2
+   ],
+   [
+    "5th USAAF PR Sqn",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 689,
+  "category": "a",
+  "name": "F-5B Lightning",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Kirmington",
+    8
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 690,
+  "category": "a",
+  "name": "P-47C Thunderbolt",
+  "accounts": [
+   [
+    12,
+    286,
+    225,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 61,
+  "gaining_existing_units": [
+   [
+    "4th USAAF FB Grp",
+    61
+   ]
+  ]
+ },
+ {
+  "id": 691,
+  "category": "a",
+  "name": "P-47D-5 Thunderbolt",
+  "accounts": [
+   [
+    12,
+    125,
+    68,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    32
+   ]
+  ],
+  "held_before": 318,
+  "held_after": 375,
+  "gaining_existing_units": [
+   [
+    "56th USAAF FB Grp",
+    27
+   ],
+   [
+    "353rd USAAF FB Grp",
+    22
+   ],
+   [
+    "352nd USAAF FB Grp",
+    21
+   ],
+   [
+    "355th USAAF FB Grp",
+    20
+   ],
+   [
+    "78th USAAF FB Grp",
+    17
+   ]
+  ]
+ },
+ {
+  "id": 692,
+  "category": "a",
+  "name": "P-47D-15 Thunderbolt",
+  "accounts": [
+   [
+    12,
+    0,
+    16,
+    32
+   ]
+  ],
+  "gross_production": 32,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 693,
+  "category": "a",
+  "name": "P-47D-25 Thunderbolt",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 694,
+  "category": "a",
+  "name": "A-36A Apache",
+  "accounts": [
+   [
+    12,
+    100,
+    76,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 79,
+  "held_after": 103,
+  "gaining_existing_units": [
+   [
+    "86th USAAF FB Grp",
+    17
+   ],
+   [
+    "27th USAAF FB Grp",
+    7
+   ]
+  ]
+ },
+ {
+  "id": 695,
+  "category": "a",
+  "name": "P-51B-1 Mustang",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    32
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 696,
+  "category": "a",
+  "name": "P-51B-10 Mustang",
+  "accounts": [
+   [
+    12,
+    0,
+    35,
+    35
+   ]
+  ],
+  "gross_production": 35,
+  "plants": [
+   [
+    "Kirmington",
+    26
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 697,
+  "category": "a",
+  "name": "P-51D Mustang",
+  "accounts": [
+   [
+    12,
+    46,
+    23,
+    46
+   ]
+  ],
+  "gross_production": 46,
+  "plants": [
+   [
+    "Kirmington",
+    12
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 46,
+  "gaining_existing_units": [
+   [
+    "81st USAAF FB Grp",
+    46
+   ]
+  ]
+ },
+ {
+  "id": 698,
+  "category": "a",
+  "name": "P-51A Mustang",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 699,
+  "category": "a",
+  "name": "F-6A Mustang",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 42,
+  "held_after": 42,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 700,
+  "category": "a",
+  "name": "F-6D Mustang",
+  "accounts": [
+   [
+    12,
+    0,
+    6,
+    6
+   ]
+  ],
+  "gross_production": 6,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 701,
+  "category": "a",
+  "name": "F-6C Mustang",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Wrexham",
+    12
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 702,
+  "category": "a",
+  "name": "F-6B Mustang",
+  "accounts": [
+   [
+    12,
+    5,
+    4,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 14,
+  "held_after": 15,
+  "gaining_existing_units": [
+   [
+    "107th USAAF Rec Sqn",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 703,
+  "category": "a",
+  "name": "Beaufighter VIF (US)",
+  "accounts": [
+   [
+    12,
+    64,
+    58,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 39,
+  "held_after": 45,
+  "gaining_existing_units": [
+   [
+    "415th USAAF NF Sqn",
+    2
+   ],
+   [
+    "416th USAAF NF Sqn",
+    2
+   ],
+   [
+    "417th USAAF NF Sqn",
+    2
+   ]
+  ]
+ },
+ {
+  "id": 704,
+  "category": "a",
+  "name": "P-61A/B Black Widow",
+  "accounts": [
+   [
+    12,
+    0,
+    3,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [
+   [
+    "Kirmington",
+    3
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 707,
+  "category": "a",
+  "name": "A-20G-K Havoc",
+  "accounts": [
+   [
+    12,
+    80,
+    12,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    18
+   ]
+  ],
+  "held_before": 30,
+  "held_after": 64,
+  "gaining_existing_units": [
+   [
+    "47th USAAF LB Grp",
+    34
+   ]
+  ]
+ },
+ {
+  "id": 709,
+  "category": "a",
+  "name": "B-25C Mitchell",
+  "accounts": [
+   [
+    12,
+    220,
+    264,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    14
+   ]
+  ],
+  "held_before": 237,
+  "held_after": 192,
+  "gaining_existing_units": [
+   [
+    "321st USAAF LB Grp",
+    11
+   ],
+   [
+    "340th USAAF LB Grp",
+    4
+   ]
+  ]
+ },
+ {
+  "id": 710,
+  "category": "a",
+  "name": "B-25J Mitchell",
+  "accounts": [
+   [
+    12,
+    188,
+    70,
+    15
+   ]
+  ],
+  "gross_production": 15,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 64,
+  "gaining_existing_units": [
+   [
+    "12th USAAF LB Grp",
+    64
+   ]
+  ]
+ },
+ {
+  "id": 712,
+  "category": "a",
+  "name": "B-26B/C Marauder",
+  "accounts": [
+   [
+    12,
+    300,
+    266,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    15
+   ]
+  ],
+  "held_before": 414,
+  "held_after": 448,
+  "gaining_existing_units": [
+   [
+    "323rd USAAF LB Grp",
+    11
+   ],
+   [
+    "386th USAAF LB Grp",
+    8
+   ],
+   [
+    "17th USAAF LB Grp",
+    5
+   ],
+   [
+    "319th USAAF LB Grp",
+    4
+   ],
+   [
+    "322nd USAAF LB Grp",
+    4
+   ],
+   [
+    "320th USAAF LB Grp",
+    2
+   ]
+  ]
+ },
+ {
+  "id": 713,
+  "category": "a",
+  "name": "B-26F/G Marauder",
+  "accounts": [
+   [
+    12,
+    390,
+    204,
+    18
+   ]
+  ],
+  "gross_production": 18,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 717,
+  "category": "a",
+  "name": "B-17F Fortress",
+  "accounts": [
+   [
+    12,
+    170,
+    68,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Kirmington",
+    40
+   ]
+  ],
+  "held_before": 860,
+  "held_after": 962,
+  "gaining_existing_units": [
+   [
+    "384th USAAF LB Grp",
+    10
+   ],
+   [
+    "303rd USAAF LB Grp",
+    10
+   ],
+   [
+    "94th USAAF LB Grp",
+    9
+   ],
+   [
+    "100th USAAF LB Grp",
+    9
+   ],
+   [
+    "381st USAAF LB Grp",
+    9
+   ],
+   [
+    "2nd USAAF LB Grp",
+    7
+   ],
+   [
+    "91st USAAF LB Grp",
+    7
+   ],
+   [
+    "99th USAAF LB Grp",
+    6
+   ],
+   [
+    "351st USAAF LB Grp",
+    5
+   ],
+   [
+    "388th USAAF LB Grp",
+    5
+   ],
+   [
+    "301st USAAF LB Grp",
+    5
+   ],
+   [
+    "305th USAAF LB Grp",
+    4
+   ],
+   [
+    "97th USAAF LB Grp",
+    4
+   ],
+   [
+    "306th USAAF LB Grp",
+    4
+   ],
+   [
+    "92nd USAAF LB Grp",
+    3
+   ],
+   [
+    "95th USAAF LB Grp",
+    2
+   ],
+   [
+    "385th USAAF LB Grp",
+    2
+   ],
+   [
+    "379th USAAF LB Grp",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 718,
+  "category": "a",
+  "name": "B-17G Fortress",
+  "accounts": [
+   [
+    12,
+    0,
+    37,
+    73
+   ]
+  ],
+  "gross_production": 73,
+  "plants": [
+   [
+    "Dishforth",
+    31
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 720,
+  "category": "a",
+  "name": "B-24D Liberator",
+  "accounts": [
+   [
+    12,
+    50,
+    34,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 224,
+  "held_after": 239,
+  "gaining_existing_units": [
+   [
+    "389th USAAF LB Grp",
+    6
+   ],
+   [
+    "44th USAAF LB Grp",
+    5
+   ],
+   [
+    "98th USAAF LB Grp",
+    2
+   ],
+   [
+    "376th USAAF LB Grp",
+    1
+   ],
+   [
+    "93rd USAAF LB Grp",
+    1
+   ]
+  ]
+ },
+ {
+  "id": 721,
+  "category": "a",
+  "name": "B-24H/J Liberator",
+  "accounts": [
+   [
+    12,
+    120,
+    120,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    48
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 724,
+  "category": "a",
+  "name": "Baltimore V",
+  "accounts": [
+   [
+    12,
+    588,
+    474,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 114,
+  "gaining_existing_units": [
+   [
+    "No.13 RAF TacB Sqn",
+    22
+   ],
+   [
+    "No.52 RAF LB Sqn",
+    22
+   ],
+   [
+    "No.98 RAF LB Sqn",
+    22
+   ],
+   [
+    "No.12 SAAF TacB Sqn",
+    16
+   ],
+   [
+    "No.18 RAF TacB Sqn",
+    16
+   ],
+   [
+    "No.14 RAF LB Sqn",
+    16
+   ]
+  ]
+ },
+ {
+  "id": 727,
+  "category": "a",
+  "name": "PB4Y-1 Liberator",
+  "accounts": [
+   [
+    12,
+    0,
+    5,
+    5
+   ]
+  ],
+  "gross_production": 5,
+  "plants": [
+   [
+    "Elvington",
+    5
+   ]
+  ],
+  "held_before": 32,
+  "held_after": 32,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 728,
+  "category": "a",
+  "name": "PV-1 Ventura",
+  "accounts": [
+   [
+    12,
+    30,
+    34,
+    4
+   ]
+  ],
+  "gross_production": 4,
+  "plants": [
+   [
+    "Elvington",
+    4
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 729,
+  "category": "a",
+  "name": "PBY-5A Catalina",
+  "accounts": [
+   [
+    12,
+    125,
+    73,
+    3
+   ]
+  ],
+  "gross_production": 3,
+  "plants": [
+   [
+    "Kirmington",
+    3
+   ]
+  ],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 731,
+  "category": "a",
+  "name": "C-47A Skytrain",
+  "accounts": [
+   [
+    12,
+    290,
+    290,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [
+   [
+    "Dishforth",
+    17
+   ]
+  ],
+  "held_before": 576,
+  "held_after": 575,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 733,
+  "category": "a",
+  "name": "Spitfire IX (US)",
+  "accounts": [
+   [
+    12,
+    50,
+    73,
+    0
+   ]
+  ],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 98,
+  "held_after": 75,
+  "gaining_existing_units": [
+   [
+    "52nd USAAF F Grp",
+    24
+   ]
+  ]
+ },
+ {
+  "id": 746,
+  "category": "a",
+  "name": "F-9 Fortress",
+  "accounts": [],
+  "gross_production": 0,
+  "plants": [],
+  "held_before": 14,
+  "held_after": 14,
+  "gaining_existing_units": []
+ },
+ {
+  "id": 747,
+  "category": "a",
+  "name": "F-3A Havoc",
+  "accounts": [
+   [
+    12,
+    0,
+    11,
+    11
+   ]
+  ],
+  "gross_production": 11,
+  "plants": [],
+  "held_before": 0,
+  "held_after": 0,
+  "gaining_existing_units": []
+ }
+]

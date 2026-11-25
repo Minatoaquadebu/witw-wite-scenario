@@ -1,0 +1,1886 @@
+Scenario: 'WITW+WITE v0.9.62'
+Turn 002 7-10-1943 Soviet
+
+                      Logistic Phase Report
+_____________________________________________________________________
+
+
+ 
+ARMY FREIGHT DATA
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+ 
+    4715      15446        935      19170     149673         25    STAVKA  
+   14862      11364       1222          0          0          0    SHAEF  
+    8080       6816         19       2114      10212          0    AFHQ  
+    8146       4284        204      11251      74752         38    UK Home Forces HQ  
+      18        312          0          7         60          0    Leningrad Front 
+     141       1199        325        846       4096          2    Voronezh Front 
+     177       1426          0       1277       6376          0    Southern Front 
+     119        658          5       1891       5540          0    Steppe Front 
+     140        581         15       2234       2860          0    North Caucasus Front 
+      72        523          0         13        108          0    Volkhov Front 
+      68        450         71        331        744          0    Central Front 
+     264       1586        461       7356      16462          2    Southwestern Front 
+     161        290         29        177        848          0    Bryansk Front 
+     462       3027          0       1245       4362          0    Western Front 
+      58        339          0        178       1311          0    Northwestern Front 
+      68        241         59        281       2032          0    Kalinin Front 
+    3032       2577        159          0          0          0    21st BR Army Group 
+    2200       1203         10       2492      19940          0    15th (AAI) BR Army Group 
+      66       1243        305        398       2580          0    6th Guards Army 
+     251       1000        233        868       5258          1    7th Guards Army 
+      83       1104        307        955       6298          2    40th Army 
+      71        904        368        990       6510          7    65th Army 
+     385       2725        714       1671      11015          0    13th Army 
+     132        385        188        445       2864          3    6th Army 
+      69        458          0        230       1816          0    59th Army 
+      45        488          0         18        146          0    2nd Shock Army 
+     110       1477          0        215       1377          0    67th Army 
+      82        610          0        225       1367          0    8th Army 
+     206       1718          0        855       5621          0    10th Guards Army 
+      70        389         74        565       2880          0    44th Army 
+      69        912          0         81        452          0    Coastal OpGr Army 
+      61        476          0          0          0          0    52nd Army 
+      64        388        125        708       4948          3    1st Shock Army 
+      55        362        128         99        717          0    63rd Army 
+     112        484         80        195       1491          0    3rd Army 
+      50        721          0        565       1945          0    27th Army 
+      64        964          0        460       1313          0    53rd Army 
+     164        474        125        510       3565          0    34th Army 
+      73       1238          0       1455       7639          0    5th Guards Army 
+      34        668        228        669       4323          2    60th Army 
+      49        742        170        311        996          1    48th Army 
+      84       1756          0        602       2699          0    11th Army 
+      44       1127          0        729        759          0    3rd Guards Tank Army 
+      55        420         73        359       2642          0    39th Army 
+      70        549         88        940       6371          1    3rd Shock Army 
+      75        400         79        843       6141          3    22nd Army 
+      62        356         55        315       2117          0    4th Shock Army 
+     104        321        173        296       2235          4    43rd Army 
+      64        872        193       2163       2967          2    1st Tank Army 
+      30        407         89         99        573          0    47th Army 
+     120        895        256        139        805          0    57th Army 
+     597       2731          0        989       6041          0    31st Army 
+       7        238         28         27        203          0    28th Army 
+     312       1320        183        419       2804          0    10th Army 
+      65        555        206        862       5381          3    61st Army 
+     346        587          0        602       4231          0    20th Army 
+    1115       3375        248        533       3637          0    11th Guards Army 
+      45        296        106        255        620          0    2nd Guards Army 
+     370       1207         88        586       2853          3    5th Army 
+     387       1834        127        931       4832          0    33rd Army 
+      29        518         72        311        336          0    2nd Tank Army 
+     221       1544          0       1114        923          0    5th Guards Tank Army 
+     120        818        172        710       4168         11    3rd Guards Army 
+     239       1270         78        168       1158          1    49th Army 
+     250       1234          0        568       3364          0    50th Army 
+      38        186         93         24        177          0    12th Army 
+      36       1011          0        399       2668          0    55th Army 
+      83        816        315        723       4647          3    38th Army 
+     106        730         70        137        902          0    21st Army 
+     118        543         11        300        486          0    4th Tank Army 
+      36        568         89       1189       6599          1    56th Army 
+     122        820          0        744       4318          0    51st Army 
+     182        241        142         81        579          0    1st Guards Army 
+      69        231         93        489       3604          1    37th Army 
+      20        368        125       2119      13327         16    8th Guards Army 
+      31        351         51        416       2666          4    5th Shock Army 
+     112       1361          0        288       1584          0    42nd Army 
+      34        147          0         73        234          0    4th Army 
+     110        241         97        708       5386          7    9th Army 
+      46        403         11        902       4109          0    4th Guards Army 
+      68        308          0        133       1048          0    54th Army 
+      48        797        152        377       2410          0    69th Army 
+      47        324          2        149       1171          0    58th Army 
+      41        844        325        909       5962          8    70th Army 
+      43        265          0        591       4198          0    18th Army 
+      59        113         64         89        552          1    46th Army 
+    1106        175          0       1802      13689          0    7th US Army 
+    3576       2176        209          0          0          0    2nd BR Army 
+    3153       2563        157          0          0          0    5th US Army 
+    1301        584          6        154        140          0    8th BR Army 
+     161        158          0          0          0          0    1st CA Army 
+     142        120          0          0          0          0    1st FF Army 
+     613        856         14       9307       8604          0    XIII BR Corps 
+     282        436        292       2160       1726          2    VIII BR Corps 
+     586        389        188        673       1639          8    V BR Corps 
+     409        345        122        793        290          0    X BR Corps 
+     433        411          0      11438       7337          0    II CA Corps 
+      88        278          0          0          0          0    II US Corps 
+     131        190         15          0          0          0    V US Corps 
+      19        162         23          0          0          0    VI US Corps 
+     421        404         50        483       1680          0    I BR Corps 
+     495        563         32       7626       5690          0    XII BR Corps 
+     752        810          0       5907       5824          7    XXX BR Corps 
+       0         25          0          0          0          0    I FF Corps 
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+   65111     118238      11649     129121     555603        189     GROUND COMMAND TOTALS  
+ 
+Sup Need     Sup Rec   Sup Lost   RepFr Rec  RepMn Rec  RepFr Lost
+   10015      16508       1550       5921      42253          3     AIR COMMAND TOTALS  
+ 
+ 
+DEPOT FREIGHT DATA
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+ 2500000       2853       5620          0       1215      Kazan                (268 , 100)
+ 2500950       3835      42695      11058       1715      Moscow               (229 , 122)
+ 2500000       1181       4679          0          0      Kuybyshev            (281 , 114)
+ 2500000       1473       3299          0       2799      Saratov              (271 , 137)
+ 2500000       1679      12564          0       1413      Sverdlovsk           (300 ,  65)
+ 2500000        723       4459          0       1462      Chelyabinsk          (309 ,  71)
+ 2500000        549        124          0        568      Chkalov              (303 , 110)
+ 2500000       1399       4017          0       2318      Krasnovodsk          (341 , 193)
+ 2511036       2939      28211      49366        329      London               ( 82 , 176)
+ 2500574        382      93714       1206         64      Liverpool            ( 72 , 158)
+ 2501267       2907     123417       9018          1      Algiers              ( 85 , 295)
+ 2501250       6630      95077       2008         28      Oran                 ( 64 , 300)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   59571          1       2885       5805          0      Leningrad            (194 , 102)
+   25000        682       8090        301          0      Batumi               (284 , 217)
+   12480       3269       4011         24          0      Novaya Ladoga        (200 ,  98)
+   25000       4500      13582         11          0      Kobona               (198 ,  98)
+    6250       1444         76        191          0      Azov                 (258 , 183)
+    2331       2667       2193         13          0      Syasstroy            (201 ,  97)
+   25000        254      12155        315          0      Kronstadt            (192 , 102)
+     543          0        179        362          1      Portsmouth           ( 77 , 180)
+     649          3        156        487         23      Southampton          ( 75 , 179)
+     516          0        108        217          0      Plymouth             ( 63 , 181)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   50000       3000          7         19          0      Baku                 (326 , 202)
+   12500       1299        102        145        476      Tuapse               (265 , 205)
+   12500        784         37         79          0      Sukhumi              (277 , 208)
+   27500        424          0          0          0      Astrakhan            (297 , 166)
+   25000       1378          0          3          0      Makhachkala          (305 , 191)
+    2500       1997          0          0          0      Guriev               (309 , 150)
+   12500      12000        420        866          0      Oranienbaum          (191 , 103)
+    2241       1078        408       1068         40      Eysk                 (254 , 188)
+   18750       8000       1204       2440        289      Gelendzhik           (260 , 204)
+   10000        981         42         98          0      Sochi                (270 , 207)
+    9980        850         89        201          0      Poti                 (282 , 212)
+   23944      13576        875       1797          0      Osinovets            (195 ,  99)
+    6250       3660          0          0          0      Onega                (209 ,  62)
+    6250       2810          0          0          0      Arkhangelsk          (212 ,  55)
+       0      10666       2304       7331        559      Bristol              ( 71 , 175)
+       0       9333        747       4705       1015      Newcastle upon Tyne  ( 79 , 147)
+       0      28291         16        161          0      Belfast              ( 61 , 147)
+       0      12000         50        416        284      Glasgow              ( 70 , 138)
+       0      10666         25          0          0      Casablanca           ( 20 , 308)
+       0      28137       3764       7547        566      Bone                 (112 , 296)
+       0      26668        341       1382       1023      Philippeville        (107 , 296)
+       0      17502       1083       1457       2008      Bougie               ( 96 , 296)
+       0      17500          0          0          0      Cherchell            ( 80 , 296)
+       0      17500       2082       4381         17      Mostaganem           ( 68 , 299)
+       0      17080         83        262         19      Gabes                (125 , 321)
+   24826      25182          1        294          0      Sfax                 (129 , 314)
+   24999      19592        874       3923        401      Sousse               (128 , 305)
+   23914      23233       7635      14397          2      Tunis                (126 , 297)
+   24926      22604       1079       2137          0      Bizerte              (123 , 293)
+       0      16613        104        197          0      Mahdia               (130 , 307)
+       0      12000          0          0          0      Alexandria           (247 , 324)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+   25000       4000          0          0          0      Molotov              (282 ,  68)
+   18750        348          0          0          0      Kirov                (260 ,  80)
+   12480        622        730          0          0      Vologda              (227 ,  94)
+   24960       4000        301        607          0      Volkhov              (200 ,  99)
+   25000         42       3401        442       1206      Maikop               (268 , 199)
+   20000       4250       4003         61          0      Kalinin              (220 , 118)
+    6250       2000          0          0          0      Gorky                (248 , 107)
+   10000          0       1978        999         25      Demyansk             (206 , 117)
+    6250        769        120        241          0      Vladimir             (237 , 115)
+   30000       1430       1477       4049       2424      Tula                 (232 , 134)
+   29832       2001       1768       4606          1      Krasnodar            (262 , 198)
+   18718       4001       6366       9811          0      Vyazma               (218 , 132)
+    6250        398       4260        306        468      Tambov               (250 , 137)
+    1190       4066       2957       2114          0      Velikie Luki         (201 , 129)
+    9910       3641       5917       1730          0      Rzhev                (216 , 124)
+   43749       2334      42958       1277       1046      Voronezh             (245 , 150)
+    6257      14051       7072      11838       4125      Kursk                (233 , 155)
+   62500          0        141        178        525      Stalingrad           (274 , 159)
+   56158       5333       6608       4949       1076      Rostov               (259 , 181)
+   30000          0          0          0       1200      Grozny               (297 , 193)
+    5532       1434       4077        332        107      Millerovo            (257 , 167)
+   30000          0          0          0       1716      Tbilisi              (298 , 207)
+   19980          0       4434      10887         13      Sukhinichi           (224 , 138)
+    4795       1668       1258       4908       1176      Valuyki              (245 , 162)
+   24980       1436       5955        337          0      Mozhaysk             (223 , 127)
+    6230        837          0          0          0      Cherepovets          (221 ,  98)
+    9762       2000        146        358          0      Tikhvin              (205 , 100)
+    2480       4000        361        740          6      Valdai               (207 , 113)
+    8301          8        135        562         18      Armavir              (272 , 194)
+   10000         70       7401        158        332      Salsk                (269 , 182)
+   18622      15283       4949       5749        565      Voroshilovgrad       (254 , 172)
+    6230        700       5619          0          0      Pechora              (254 ,  20)
+   25000          0          0          0       1468      Ordzhonikidze        (293 , 198)
+   44980          0       1620       3738         50      Toropets             (205 , 126)
+    6230       3320       4128        151        459      Ostashkov            (209 , 119)
+   20000          0          0          0          0      Rybinsk              (227 , 104)
+    6250        666        346        808          8      Ryazan               (239 , 127)
+   18730       2194      13160       1412        523      Yelets               (240 , 144)
+    6373       3175          0        185        154      Lipetsk              (244 , 142)
+   44336       1788       5262       8876       2250      Kaluga               (226 , 134)
+    6230        785          0          0          0      Syzran               (274 , 119)
+    8750          0        211        271        775      Kotelnikovsky        (273 , 170)
+   10000          0        155        273        644      Morozovskaya         (265 , 168)
+    9817          0         94        190        403      Tatsinskaya          (263 , 171)
+       0       2920       1734       1108        568      Starobelsk           (250 , 167)
+   25000          0          0          0          0      Izhevsk              (277 ,  84)
+   25000       4000          0          0          0      Nizhny Tagil         (292 ,  59)
+    6250        476          0          0          0      Penza                (262 , 127)
+   15000       2285          0          0          0      Serov                (286 ,  48)
+    6250        452          0          0          0      Ufa                  (294 ,  90)
+    6250        675          0          0          0      Ulyanovsk            (271 , 112)
+    6250        540          0          0          0      Murom                (244 , 116)
+   43750       1224       1437         57          0      N Moscow             (228 , 122)
+   43750       1001        209        419          0      W Moscow             (228 , 123)
+   25000        312          0         38         99      S Stalingrad         (275 , 160)
+   15000          0          0          0          0      Orsk                 (317 , 103)
+    6250       2222          0          0          0      Ivanovo              (237 , 108)
+   17604        731        542       1192          0      Budogoshch           (203 , 104)
+    6368        926       6135        274          0      Nebolchi             (206 , 104)
+    3730       4000          0          0          0      Kotlas               (241 ,  67)
+    7480        631       4390        799        185      Bologoe              (210 , 113)
+    2480       2857          0          0          0      Torzhok              (216 , 118)
+    4980       4001        522       1102          1      Krestcy              (205 , 112)
+    9980       4001        492       1018          0      Malaya Vishera       (202 , 108)
+    9980          0        140        214        380      Peno                 (208 , 122)
+    9980         21        247        806         65      Andreapol            (206 , 125)
+    4980       2690         54         64        238      Selizharovo          (211 , 121)
+   10000          0         31        124        131      Staritsa             (217 , 122)
+    6716          0        141        243        175      Sychevka             (216 , 127)
+    3730        776         37        106        103      Gzhatsk              (220 , 128)
+    3750          0       1177       2505          0      Vladimirskoe         (213 , 131)
+   12480          1       2121       2827         55      Izmalkovo            (238 , 145)
+    1570      16067       6739       9733       1294      Stary Oskol          (241 , 157)
+    2284       8816       4580       5848          2      Schigry              (235 , 153)
+   19104       9368       7004       5083        584      Kastornoe            (240 , 151)
+    2480      19363       4742       5777        125      Gorshechnoe          (241 , 154)
+    8493       1247       2649       2392          0      Gorbachevo           (232 , 139)
+    9371        459       1205          0          0      Naro-Fominsk         (226 , 127)
+    9980         18          5         12         61      Shakhovskaya         (220 , 124)
+   12480        281       2000          0          0      Arzamas              (251 , 114)
+   30000        864      12998        511        396      Bobrov               (250 , 152)
+   29743          0        634       1272        672      Buturlinovka         (253 , 153)
+    5000       1304        956        133        328      Kalach               (271 , 162)
+   25000          0       7142       1355        435      Rossosh              (250 , 159)
+    7500       2572       5713        242        218      Levaya Rossosh       (246 , 152)
+    9980        433          0          0          0      Saransk              (260 , 119)
+    1694       3148       1686       1468        371      Novocherkassk        (260 , 179)
+    2202       1896        728        325        339      Chertkovo            (255 , 164)
+   18730          0          0          0          0      Verkhny Ufaley       (306 ,  68)
+    9980       4000          0          0          0      Chusovoy             (285 ,  62)
+    9980          8          0          0          0      Solikamsk            (276 ,  56)
+    9980         20          0          0          0      Cheboksary           (261 , 102)
+    9980          2          0          0          0      Tuymaza              (287 ,  96)
+    6250       2174          0          0          0      Magnitogorsk         (309 ,  89)
+   18750          0          0          0          0      Zlatoust             (304 ,  76)
+    6250        280          0          0          0      Omsk                 (342 ,  34)
+   14962        484       9723       5625          1      Borovaya             (245 , 169)
+    9980          2          0          0          0      Petropavlovsk        (332 ,  49)
+   12500        689          0          0          0      Yaroslavl            (231 , 106)
+       0        182          0          0          0      Sidi Bel Abbes       ( 63 , 304)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+       0        364       3120       2193          0      Kairouan             (125 , 306)
+       0       1036        687       1077        463      Mateur               (122 , 295)
+       0          2          0          0          0      NW Leningrad         (193 , 101)
+       0        100          0          0          0      Murmansk             (183 ,  29)
+       0         50          0          0          0      Kandalaksha          (185 ,  43)
+ 
+ Freight     Received    Used      To Units    Truck Use
+ 
+31930089      610433     725816     274817       48687            TOTALS
+ 
+Unit Trucks Used          24869
+Trucks Lost in Freight    200
+Total Freight Losses      66907
+ 
+Axis Trucks Captured      0
+Soviet Trucks Captured    0
+ 
+ 
+FREIGHT USAGE TYPES
+ 
+  669107   other depots
+   15150   depot fuel
+   11018   depot trucks
+       0   economy
+       0   repairs
+   30544   misc
+ 
+Ladoga:   Cargo Ships Unused     1675
+Ladoga:   Cargo Ships Used       312
+ 
+Baltic:   Cargo Ships Unused     91
+Baltic:   Cargo Ships Used       9
+ 
+Black:    Cargo Ships Unused     95
+Black:    Cargo Ships Used       6
+ 
+Azov:     Cargo Ships Unused     20
+Azov:     Cargo Ships Used       0
+ 
+Caspian:  Cargo Ships Unused     0
+Caspian:  Cargo Ships Used       20
+ 
+Ladoga:   Troop Ships Unused     608
+Ladoga:   Troop Ships Used       0
+ 
+Baltic:   Troop Ships Unused     20
+Baltic:   Troop Ships Used       0
+ 
+Black:    Troop Ships Unused     26
+Black:    Troop Ships Used       0
+ 
+Azov:     Troop Ships Unused     5
+Azov:     Troop Ships Used       0
+ 
+Caspian:  Troop Ships Unused     5
+Caspian:  Troop Ships Used       0
+ 
+Amphib Troop Ships Lost  0 (total 10)
+Amphib Cargo Ships Lost  0 (total 34)
+ 
+Amphib Troop Ships in use  0
+Amphib Cargo Ships in use  0
+ 
+ 
+CIVILIAN CONSUMPTION
+-----------------------Turn--------Game----- 
+Axis Supply Tons        88485        88485        
+Soviet Supply Tons      99185        99185        
+-----------------------Turn--------Game----- 
+Axis Fuel Tons          79710        79710        
+Soviet Fuel Tons        89677        89677        
+------------------------------------------ 
+ 
+
+ 
+0 tons of fuel were consumed in RB pilot training
+0 aircraft were lost in RB training accidents
+ 
+ 
+0 tons of fuel were consumed in TB pilot training
+0 aircraft were lost in TB training accidents
+ 
+
+Far East LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+       1                    1              T-34 M1942 (SU)
+       3                    3              7.62mm SG-43 Machine Gun (SU)
+       1                    1              12.7mm DShK AAMG (SU)
+       2                    2              Cavalry Squad 41 (SU)
+       2                    2              14.5mm PTRD AT-Rifle (SU)
+       1                    1              Vehicle (-)
+
+Far East AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+Far East MANPOWER LOSSES 
+    LOST                      16
+    CAPTURED                   0
+    DAMAGED                   34
+
+Transcaucasus LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+
+Transcaucasus AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+Northern Front LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+      31                   31              Engineer-Sapper Squad (SU)
+       1                    1              45mm M42 AT Gun (SU)
+       6                    6              76.2mm M27 Infantry Gun (SU)
+      11                   11              82mm M41 Mortar (SU)
+       2                    2              120mm M38 Mortar (SU)
+       6                    6              7.62mm Maxim Machine Gun (SU)
+      46                   46              7.62mm SG-43 Machine Gun (SU)
+       2                    2              12.7mm DShK AAMG (SU)
+      14                   14              Rifle Squad 41 (SU)
+      18                   18              Rifle Squad 42 (SU)
+       5                    5              Rifle Squad (+) (SU)
+      20                   20              Submachine Gun Squad (SU)
+      29                   29              14.5mm PTRD AT-Rifle (SU)
+      16                   16              50mm M40/41 Mortar (SU)
+       2                    2              NKVD Squad (SU)
+      37                   37              Vehicle (-)
+      20                   20              Support (SU)
+
+Northern Front AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       6                    6              Hurricane IIB (SU) (SU)
+      20                   20              Hurricane IIC (SU) (SU)
+      26                   26              TOTALS 
+
+Northern Front MANPOWER LOSSES 
+    LOST                     531
+    CAPTURED                  38
+    DAMAGED                 1168
+
+Soviet Reserves LOSSES
+    TURN                TOTAL              GROUND ELEMENT
+
+Soviet Reserves AIR LOSSES
+    TURN                TOTAL              AIRCRAFT
+       0                    0              TOTALS 
+
+
+__________ Night 1 _________
+__________ Day 1 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Luftflotte 4. RECON hex[234,162]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[236,160]. UNIT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[211,129]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[212,129]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[238,161]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[239,160]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[239,163]. UNIT. Rcn 11 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[243,167]. UNIT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[240,163]. UNIT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[245,169]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[242,168]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[244,168]. UNIT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[244,167]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[240,155]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[241,157]. UNIT. Rcn 11 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[258,183]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[259,181]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[259,179]. UNIT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[259,178]. INTERDICT. Rcn 2 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[259,180]. INTERDICT. Rcn 2 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[254,172]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[257,177]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[258,178]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[252,172]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[256,172]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[255,175]. INTERDICT. Rcn 11 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[258,172]. INTERDICT. Rcn 11 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[252,173]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[231,153]. INTERDICT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[225,133]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[224,138]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[227,134]. UNIT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 4 . RECON in hex 219,130 canceled.
+  Can't get required amount of aircraft. Num 0 Min 2
+Luftflotte 4. RECON hex[258,199]. UNIT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[257,197]. UNIT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[258,197]. INTERDICT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[258,196]. INTERDICT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[259,196]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[260,196]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[232,152]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[232,151]. UNIT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[229,153]. UNIT. Rcn 12 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 0 ***
+Axis planes repaired: 8
+Soviet planes repaired: 135
+Planes in repair with 0 damage: 239
+ Italy: 1 new pilot(s) arrived. Left in pool 0.
+__________ Night 2 _________
+__________ Day 2 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 1 ***
+Axis planes repaired: 13
+Soviet planes repaired: 104
+Planes in repair with 0 damage: 192
+ Germany: 3 new pilot(s) arrived. Left in pool 0.
+ Italy: 2 new pilot(s) arrived. Left in pool 0.
+__________ Night 3 _________
+__________ Day 3 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 2 ***
+Axis planes repaired: 9
+Soviet planes repaired: 114
+Planes in repair with 0 damage: 179
+ Germany: 3 new pilot(s) arrived. Left in pool 0.
+ Italy: 2 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 3 new pilot(s) arrived. Left in pool 2100.
+__________ Night 4 _________
+__________ Day 4 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 3 ***
+Axis planes repaired: 6
+Soviet planes repaired: 95
+Planes in repair with 0 damage: 175
+ Germany: 2 new pilot(s) arrived. Left in pool 0.
+ Italy: 2 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 3 new pilot(s) arrived. Left in pool 2097.
+__________ Night 5 _________
+__________ Day 5 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 4 ***
+Axis planes repaired: 8
+Soviet planes repaired: 139
+Planes in repair with 0 damage: 173
+ Germany: 3 new pilot(s) arrived. Left in pool 0.
+ Italy: 3 new pilot(s) arrived. Left in pool 0.
+__________ Night 6 _________
+__________ Day 6 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+ *** Air Maintenance Phase. Day 5 ***
+Axis planes repaired: 6
+Soviet planes repaired: 96
+Planes in repair with 0 damage: 173
+ Germany: 3 new pilot(s) arrived. Left in pool 0.
+ Italy: 1 new pilot(s) arrived. Left in pool 0.
+ Soviet Union: 1 new pilot(s) arrived. Left in pool 2096.
+__________ Night 7 _________
+__________ Day 7 _________
+Naval patrol Axis planes destroyed: 0. Soviet intercepts: 0
+Naval patrol Soviet planes destroyed: 0. Axis intercepts: 0
+Luftflotte 4. RECON hex[235,159]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[231,160]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[236,161]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[233,162]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[217,134]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[211,130]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[241,164]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[243,160]. INTERDICT. Rcn 4 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[241,160]. INTERDICT. Rcn 7 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[242,160]. INTERDICT. Rcn 3 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[240,166]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[241,166]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[242,166]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[243,166]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[240,153]. UNIT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[244,158]. INTERDICT. Rcn 7 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[254,177]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[259,177]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[259,185]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[258,180]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[256,181]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[259,182]. INTERDICT. Rcn 5 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[254,173]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[257,173]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[257,174]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[256,175]. INTERDICT. Rcn 12 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[258,175]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[258,176]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[230,153]. INTERDICT. Rcn 8 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[219,130]. INTERDICT. Rcn 10 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[221,130]. INTERDICT. Rcn 9 Esc 0 (fwd0,ret0)
+Luftflotte 4 . RECON in hex 222,130 canceled.
+  Can't get required amount of aircraft. Num 0 Min 2
+Luftflotte 4. RECON hex[259,197]. INTERDICT. Rcn 7 Esc 0 (fwd0,ret0)
+Luftflotte 6. RECON hex[261,196]. INTERDICT. Rcn 7 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[228,154]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[229,154]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[230,156]. INTERDICT. Rcn 6 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[233,152]. UNIT. Rcn 4 Esc 0 (fwd0,ret0)
+Luftflotte 4. RECON hex[234,149]. INTERDICT. Rcn 3 Esc 0 (fwd0,ret0)
+ *** Air Maintenance Phase. Day 6 ***
+Axis planes repaired: 6
+Soviet planes repaired: 106
+Planes in repair with 0 damage: 179
+ Germany: 2 new pilot(s) arrived. Left in pool 0.
+ Italy: 2 new pilot(s) arrived. Left in pool 0.
+
+AIRCRAFT PERFORMANCE STATISTICS       DESTROYED     DAMAGED     DAMAGE POINTS      SORTIES
+____________________________________________________________________________________________
+F R I E N D L Y
+___________________________________
+        Bf 109G-4/R3                    2             2           80              136
+                             Yak-1B        2             2           80               -
+___________________________________
+              Do 17P                    1             1          151               22
+                              La-5F        1             1          151               -
+___________________________________
+             Fw 189A                    6             7          508              362
+                             Yak-1B        1             1           70               -
+                             Yak-7B        2             2          176               -
+                              La-5F        3             4          262               -
+___________________________________
+            Ju 88D-1                    2             2          149               69
+                              La-5F        2             2          149               -
+___________________________________
+               TOTAL                   11            12          888
+
+_____________________________________________________________________________
+E  N  E  M  Y
+___________________________________
+              Yak-1B                   41            50         4922               -
+                       Bf 109G-4/R3       11            11         1056              136
+                             Do 17P        2             2          281               22
+                            Fw 189A       25            26         2498              362
+                           Ju 88D-1        3             3          360               69
+___________________________________
+              Yak-7B                   12            13         1245               -
+                            Fw 189A       10            10          897              362
+                           Ju 88D-1        2             2          175               69
+___________________________________
+               Yak-9                    1             3          264               -
+                            Fw 189A        1             2          263              362
+___________________________________
+  LaGG-3 '29 Series'                    4             4          425               -
+                            Fw 189A        1             1          164              362
+                      Ju 88D-1 (RU)        3             3          261               17
+___________________________________
+  LaGG-3 '66 Series'                    1             1           53               -
+                            Fw 189A        1             1           53              362
+___________________________________
+               La-5F                   49            59         5378               -
+                       Bf 109G-4/R3        1             1           66              136
+                             Do 17P        5             5          385               22
+                            Fw 189A       12            13         1086              362
+                           Ju 88D-1        7             8          620               69
+                Blenheim I Rcn (RU)        6             6          483               18
+                       Fw 189A (HU)        9             9         1105               38
+                      He 46E-2 (HU)        9             9          897               19
+___________________________________
+          P-39N (SU)                    1             1           69               -
+                             Do 17P        1             1           69               22
+___________________________________
+     Beaufighter VIF                    4             4          422               -
+                            Me 410A        4             4          422               12
+___________________________________
+                FLAK                    2            20           33               -
+                       Bf 109G-4/R3        1             2            8               -
+                            Fw 189A        1            11           16               -
+                           Ju 88D-1        0             4            5               -
+                Blenheim I Rcn (RU)        0             1            1               -
+                       Fw 189A (HU)        0             1            1               -
+                      He 46E-2 (HU)        0             1            2               -
+___________________________________
+               TOTAL                  115           137         11174
+_____________________________________________________________________________
+
+Axis air FUEL used: 584
+Axis air sorties: 746
+Axis max fuel 57552 used by air group 133 (12 planes)
+Axis air AMMO used: 39
+Axis flak AMMO used: 0
+Soviet air FUEL used: 261
+Soviet air sorties: 514
+Soviet max fuel 45485 used by air group 3249 flight (11 planes)
+Soviet air AMMO used: 27
+Soviet flak AMMO used: 18
+
+Air phase execution time 0 min 58 sec
+_________________________________
+
+
+
+AIR BASE REPLACEMENT DETAILS
+37mm 61-K AA Gun: 217 men
+12.7mm DShK AAMG: 198 men
+7.62mm Quad Maxim AAMG: 204 men
+Support: 5100 men
+Support: 400 men
+Air Support: 42830 men
+M16 MGMC: 270 men
+40mm M1 AA Gun: 432 men
+.50in M2HB Machine Gun: 296 men
+Total: 49947 men
+
+Kupyansk Air Base: 106 men
+Starobelsk Air Base: 86 men
+Marmyzhi Air Base: 880 men
+Velikie Luki Air Base: 362 men
+Osinovets Air Base: 1073 men
+Kastornoe Air Base: 440 men
+Kolpny Air Base: 3006 men
+Lgov Air Base: 86 men
+Sudzha Air Base: 816 men
+Manturovo Air Base: 106 men
+Sverdlovsk (s) Air Base: 87 men
+Dugna Air Base: 143 men
+Cherepet Air Base: 1310 men
+Grimsby Air Base: 1312 men
+Alconbury US Air Base: 1543 men
+Bircham Newton BR Air Base: 420 men
+Halesworth BR Air Base: 430 men
+Hethel US Air Base: 700 men
+Hurn BR Air Base: 1300 men
+Podington US Air Base: 1535 men
+Blida BR Air Base: 80 men
+Hani BR Air Base: 1150 men
+Hergala US Air Base: 920 men
+Kairouan US Air Base: 1700 men
+La Sebala BR Air Base: 1070 men
+Mateur US Air Base: 110 men
+Edrovo Air Base: 99 men
+Toropets Air Base: 1447 men
+Maikop Air Base: 306 men
+Adreapol Air Base: 86 men
+Baku Air Base: 80 men
+Sukhumi Air Base: 80 men
+Kursk Air Base: 2200 men
+Vyazma Air Base: 1053 men
+Novocherkassk Air Base: 132 men
+Rostov Air Base: 263 men
+NW Leningrad Air Base: 1913 men
+Armavir Air Base: 80 men
+Pavlovo Air Base: 746 men
+Ryazan Air Base: 1312 men
+Kaluga Air Base: 3213 men
+N Moscow Air Base: 80 men
+Malaya Vishera Air Base: 80 men
+Budogoshch Air Base: 923 men
+Tikhvin Air Base: 93 men
+Nelidovo Air Base: 419 men
+Yukhnov Air Base: 330 men
+Stary Oskol Air Base: 786 men
+Oboyan Air Base: 2642 men
+Schigry Air Base: 93 men
+Teploe Air Base: 93 men
+Volchansk Air Base: 276 men
+Bilyi Kolodiaz Air Base: 320 men
+Voronezh Air Base: 560 men
+Olshanka Air Base: 1450 men
+Stabna Air Base: 106 men
+Vnukovo Air Base: 106 men
+Krestcy Air Base: 1046 men
+Oranienbaum Air Base: 616 men
+Tula Air Base: 100 men
+Kubinka Air Base: 86 men
+Lyubertsy Air Base: 92 men
+Eysk Air Base: 962 men
+Krasnodar Air Base: 1296 men
+Alekandrovskoye Air Base: 152 men
+Buturinovka Air Base: 2050 men
+Poti Air Base: 87 men
+Sochi Air Base: 216 men
+Gelendzhik Air Base: 1086 men
+Kalinin Air Base: 20 men
+Total: 49947 men
+__________________________________________
+
+23 damaged AFVs were returned to the pool
+6 damaged AFVs were not repairable
+
+AIR BASE REPLACEMENT DETAILS
+Air Support: 550 men
+Total: 550 men
+
+Marmyzhi Air Base: 20 men
+Velikie Luki Air Base: 20 men
+Kastornoe Air Base: 10 men
+Kolpny Air Base: 30 men
+Toropets Air Base: 10 men
+Vyazma Air Base: 30 men
+Rostov Air Base: 10 men
+NW Leningrad Air Base: 20 men
+Pavlovo Air Base: 10 men
+Kaluga Air Base: 10 men
+Budogoshch Air Base: 30 men
+Yukhnov Air Base: 170 men
+Stary Oskol Air Base: 20 men
+Oboyan Air Base: 10 men
+Volchansk Air Base: 10 men
+Bilyi Kolodiaz Air Base: 20 men
+Voronezh Air Base: 20 men
+Vnukovo Air Base: 10 men
+Krestcy Air Base: 20 men
+Oranienbaum Air Base: 10 men
+Eysk Air Base: 20 men
+Krasnodar Air Base: 20 men
+Poti Air Base: 10 men
+Gelendzhik Air Base: 10 men
+Total: 550 men
+
+
+Armor   GUARDS percentage:      12 %
+Mechanized   GUARDS percentage:      58 %
+Motorized Infantry   GUARDS percentage:      24 %
+Infantry   GUARDS percentage:      20 %
+Parachute   GUARDS percentage:      78 %
+Cavalry   GUARDS percentage:      100 %
+Artillery   GUARDS percentage:      22 %
+Anti-Tank   GUARDS percentage:      3 %
+Army HQ   GUARDS percentage:      11 %
+Anti-Aircraft   GUARDS percentage:      0 %
+Mortar   GUARDS percentage:      3 %
+Rocket   GUARDS percentage:      100 %
+
+'671 ShAP (IL-2M)' RENAMED TO '90 GShAP (IL-2M3)'
+'685 ShAP (IL-2M)' RENAMED TO '91 GShAP (IL-2M3)'
+'950 ShAP (IL-2M3)' RENAMED TO '95 GShAP (IL-2M3)'
+'2 IAP (Yak-1B)' RENAMED TO '85 GIAP (Yak-1B)'
+'843 ShAP (IL-2M3)' RENAMED TO '94 GShAP (IL-2M3)'
+'124 IAP (P-39N (SU))' RENAMED TO '102 GIAP PVO (P-39N (SU))'
+'687 ShAP (IL-2M3)' RENAMED TO '92 GShAP (IL-2M3)'
+'158 IAP (P-40K (SU))' RENAMED TO '103 GIAP PVO (P-39N (SU))'
+'808 ShAP (IL-2M3)' RENAMED TO '93 GShAP (IL-2M3)'
+'606 LBAP (IL-2M3)' RENAMED TO '606 ShAP (IL-2)'
+'135 BBAP (Su-2)' RENAMED TO '135 ShAP (IL-2M3)'
+'624 SBAP (IL-2M)' RENAMED TO '624 ShAP (IL-2M3)'
+'2nd Mechanized Corps' RENAMED TO '7th Guards Mechanized Corps'
+     TOE changed to 43a Guards Mechanized Corps (2182)
+     Special flag changed to Guards
+
+
+
+Air Operational Group 313 NBAD ARRIVED
+257th Tank Brigade ARRIVED to 'Far East' (men 1123, guns 19, afv 53)
+258th Tank Brigade ARRIVED to 'Far East' (men 1115, guns 17, afv 52)
+259th Tank Brigade ARRIVED to 'Far East' (men 1129, guns 19, afv 53)
+3 GIAP (La-5F) ARRIVED to the Soviet Reserves
+4 IAP (Yak-1B) ARRIVED to the Soviet Reserves
+148 IAP (Yak-1B) ARRIVED to the Soviet Reserves
+181 IAP (La-5F) ARRIVED to the Soviet Reserves
+236 IAP (Yak-1B) ARRIVED to the Soviet Reserves
+239 IAP (La-5F) ARRIVED to the Soviet Reserves
+293 IAP (Yak-1B) ARRIVED to the Soviet Reserves
+437 IAP (La-5F) ARRIVED to the Soviet Reserves
+659 IAP (Yak-7B) ARRIVED to the Soviet Reserves
+866 IAP (Yak-7B) ARRIVED to the Soviet Reserves
+135 ShAP (IL-2M3) ARRIVED to the Soviet Reserves
+211 ShAP (IL-2M) ARRIVED to the Soviet Reserves
+621 ShAP (IL-2M3) ARRIVED to the Soviet Reserves
+624 ShAP (IL-2M3) ARRIVED to the Soviet Reserves
+503 ShAP (IL-2M3) ARRIVED to the Soviet Reserves
+568 ShAP (IL-2M) ARRIVED to the Soviet Reserves
+12 GShAP (IL-2) ARRIVED to the Soviet Reserves
+807 ShAP (IL-2M3) ARRIVED to the Soviet Reserves
+93 GShAP (IL-2M3) ARRIVED to the Soviet Reserves
+94 GShAP (IL-2M3) ARRIVED to the Soviet Reserves
+893 ShAP (IL-2M) ARRIVED to the Soviet Reserves
+948 ShAP (IL-2M3) ARRIVED to the Soviet Reserves
+95 GShAP (IL-2M3) ARRIVED to the Soviet Reserves
+806 ShAP (IL-2M3) ARRIVED to the Soviet Reserves
+13 IAP (La-5F) ARRIVED to the Soviet Reserves
+
+58th Army commander Kondrat Melnik has been KILLED in action
+General-Leytenant Mikhail Kazakov takes command of 58th Army
+
+******************* LIGHT WEAPONS POOL UPGRADES ************************
+7929 x Rifle Squad 41 in pool upgrade to Rifle Squad 42
+************************************************************************
+ 
+Northern Front: 730 IAP PVO air group upgraded planes from Hurricane IIB mod to Hurricane IIC (SU)
+Northern Front: 668 ShAP air group upgraded planes from IL-2M to IL-2M3
+Northern Front: 679 ShAP air group upgraded planes from IL-2M to IL-2M3
+Far East: 3 IAP air group upgraded planes from P-39D (SU) to P-39N (SU)
+Far East: 5 IAP air group upgraded planes from Yak-7A to Yak-7B
+Far East: 14 IAP air group upgraded planes from P-39D (SU) to P-39N (SU)
+Far East: 39 IAP-PF air group upgraded planes from I-16 Type 29 to Yak-1B
+Far East: 54 IAP air group upgraded planes from P-39D (SU) to P-39N (SU)
+Far East: 56 IAP air group upgraded planes from P-39D (SU) to P-39N (SU)
+Far East: 143 IAP air group upgraded planes from P-39D (SU) to P-39N (SU)
+Far East: 151 IAP air group upgraded planes from P-39D (SU) to P-39N (SU)
+Far East: 300 IAP air group upgraded planes from I-16 Type 29 to Yak-1B
+Far East: 308 IAP air group upgraded planes from La-5 to La-5F
+Far East: 350 IAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 39 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 79 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 87 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 97 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 108 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 591 IAP PVO air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 628 IAP PVO air group upgraded planes from I-16 Type 18 to Yak-1B
+Soviet Reserves: 39 GIAP PVO air group upgraded planes from P-40E (SU) to P-40K (SU)
+Soviet Reserves: 810 IAP air group upgraded planes from I-16 Type 29 to Yak-1B
+Soviet Reserves: 897 IAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 24 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 23 GBAP air group upgraded planes from IL-4 to IL-4 1943
+Soviet Reserves: 29 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 860 BAP air group upgraded planes from A-20B (SU) to A-20G (SU)
+Soviet Reserves: 40 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 12 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 2 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 51 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 66 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 5 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 8 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 10 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 11 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 73 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 82 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 13 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 83 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 16 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 18 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 19 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 944 ShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 945 ShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 267 IAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 15 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 17 GIAP air group upgraded planes from La-5 to La-5F
+Soviet Reserves: 20 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 21 GShAP air group upgraded planes from IL-2M to IL-2M3
+Soviet Reserves: 281 ShAP air group upgraded planes from IL-2M to IL-2M3
+32nd Army (SU) upgrades to 42 HQ Combined Arms Army TOE 
+49th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+646th Army Artillery Regiment (SU) upgrades to 43a Army Artillery Regiment TOE 
+245th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+500th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+103rd Tank Brigade (SU) upgrades to 43a Tank Brigade TOE 
+128th Guards Mountain Rifle Division (SU) upgrades to 42a Mountain Rifle Division TOE 
+318th Mountain Rifle Division (SU) upgrades to 42a Mountain Rifle Division TOE 
+104th Tank Brigade (SU) upgrades to 43a Tank Brigade TOE 
+168th Tank Brigade (SU) upgrades to 42b Tank Brigade TOE 
+5th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+6th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+7th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+31st Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+33rd Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+32nd AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+208th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+241st AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+298th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+485th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+486th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+487th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+588th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+406th Rifle Division (SU) upgrades to 42c Rifle Division TOE 
+3rd AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+151st AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+180th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+214th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+220th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+224th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+335th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+339th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+365th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+380th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+381st AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+388th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+509th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+511th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+513th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+68th Mountain Rifle Division (SU) upgrades to 42a Mountain Rifle Division TOE 
+53rd AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+143rd AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+187th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+189th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+211th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+249th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+68th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+24th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+25th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+26th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+28th Ski Brigade (SU) upgrades to 42c Ski Brigade TOE 
+165th RVGK Howitzer Regiment (SU) upgrades to 43 Howitzer Regiment TOE 
+59th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+70th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+110th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+115th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+129th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+362nd AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+367th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+398th AA Battalion (SU) upgrades to 42 AA Battalion TOE 
+1/6th GUARDS BR Tank Brigade (SU) upgrades to 43d BR Tank Brigade TOE 
+3/6th GUARDS BR Tank Brigade (SU) upgrades to 43d BR Tank Brigade TOE 
+1st King's Dragoon GDS BR Armoured Car Regiment (SU) upgrades to 43b BR Armoured Car Regiment TOE 
+862 IAP air group upgraded planes from LaGG-3 to LaGG-3 '11 Series'
+192 IAP air group upgraded planes from I-153 to LaGG-3 '11 Series'
+No.47 RAF TB Sqn air group upgraded planes from Beaufort I to Beaufighter TF X
+No.608 RAF Pa Sqn air group upgraded planes from Hudson III to Ventura GR.V
+89 GIAP air group changed planes from Yak-9 to Yak-9T
+Northern Front: 415 IAP air group changed planes from LaGG-3 '29 Series' to Yak-9T
+26 GIAP PVO air group changed planes from Spitfire VB (SU) to Yak-9T
+Soviet Reserves: 43 GIAP air group changed planes from Yak-1 to Yak-9T
+Soviet Reserves: 46 GIAP air group changed planes from La-5 to Yak-9T
+Soviet Reserves: 487 IAP air group changed planes from Yak-1 to Hurricane IIB mod
+Transcaucasus: 740 IAP PVO air group changed planes from MiG-3 to Yak-9T
+Soviet Reserves: 51 GIAP air group changed planes from Yak-1 to Yak-9T
+101 GIAP air group changed planes from P-39D (SU) to Hurricane IIB mod
+88 IAP air group changed planes from LaGG-3 '29 Series' to Hurricane IIC (SU)
+Soviet Reserves: 59 GIAP air group changed planes from Yak-9 to Yak-7B
+Soviet Reserves: 61 GIAP air group changed planes from Yak-1 to Yak-7B
+Soviet Reserves: 4 GIAP air group changed planes from MiG-3 to Yak-7B
+Soviet Reserves: 81 GIAP air group changed planes from Yak-1 to Yak-9T
+Soviet Reserves: 83 GIAP air group changed planes from LaGG-3 '29 Series' to La-5F
+Soviet Reserves: 91 GIAP air group changed planes from MiG-3 to Hurricane IIC (SU)
+Soviet Reserves: 95 GIAP air group changed planes from MiG-3 to Yak-7B
+Soviet Reserves: 96 GIAP air group changed planes from Yak-1 to La-5F
+Northern Front: 255 IAP-SF air group changed planes from LaGG-3 '29 Series' to Hurricane IIB mod
+Soviet Reserves: 8 GIAP air group changed planes from MiG-3 to Yak-7B
+Soviet Reserves: 428 IAP air group changed planes from MiG-3 to La-5F
+Soviet Reserves: 439 IAP PVO air group changed planes from MiG-3 to Yak-7B
+Soviet Reserves: 440 IAP air group changed planes from MiG-3 to La-5F
+518 IAP air group changed planes from LaGG-3 '29 Series' to P-40K (SU)
+564 IAP PVO air group changed planes from LaGG-3 '29 Series' to Yak-7B
+565 IAP PVO air group changed planes from MiG-3 to La-5F
+Soviet Reserves: 38 GIAP PVO air group changed planes from Yak-1 to Yak-7B
+Soviet Reserves: 785 IAP PVO air group changed planes from Yak-1 to Yak-7B
+Transcaucasus: 787 IAP air group changed planes from MiG-3 to La-5F
+Soviet Reserves: 964 IAP PVO air group changed planes from P-40C (SU) to Yak-7A
+Soviet Reserves: 965 IAP PVO air group changed planes from P-40C (SU) to Yak-7A
+Soviet Reserves: 966 IAP PVO air group changed planes from P-40C (SU) to Yak-7A
+Soviet Reserves: 977 IAP air group changed planes from P-40C (SU) to P-40E (SU)
+Soviet Reserves: 978 IAP air group changed planes from P-40C (SU) to La-5
+Soviet Reserves: 12 IAP-KBF air group changed planes from Yak-1 to Yak-7B
+Soviet Reserves: 20 IAP-KBF air group changed planes from Yak-1 to Yak-9T
+Soviet Reserves: 21 IAP-KBF air group changed planes from Yak-1 to La-5F
+25 IAP-ChF air group changed planes from Yak-1 to Hurricane IIC (SU)
+Soviet Reserves: 1 GBAP air group changed planes from SB-2 to A-20B (SU)
+4 GBAP air group changed planes from Pe-2 to A-20G (SU)
+Soviet Reserves: 34 GBAP-PF air group changed planes from Pe-2 to Pe-2 1943
+Soviet Reserves: 134 GBAP air group changed planes from Pe-2 to Pe-2 1943
+3 TBAP air group changed planes from IL-4 to B-25D (SU)
+Soviet Reserves: 12 GBAP air group changed planes from DB-3B to IL-4 1943
+Soviet Reserves: 8 BAP air group changed planes from Pe-2 to A-20G (SU)
+Soviet Reserves: 22 GBAP air group changed planes from TB-3 to IL-4 1943
+Soviet Reserves: 23 GShAP air group changed planes from Su-2 to IL-2M
+Soviet Reserves: 26 GShAP air group changed planes from IL-2 to IL-2M
+606 ShAP air group changed planes from IL-2 to IL-2M
+Soviet Reserves: 648 LBAP air group changed planes from Yer-2 to IL-4 1943
+488 ShAP air group changed planes from IL-2 to IL-2M3
+Soviet Reserves: 39 GShAP air group changed planes from IL-2 to IL-2M3
+815 DBAP air group changed planes from IL-4 to B-25D (SU)
+Soviet Reserves: 1 GShAP air group changed planes from IL-2 to IL-2M3
+Soviet Reserves: 62 GShAP air group changed planes from IL-2 to IL-2M3
+Soviet Reserves: 614 ShAP air group changed planes from IL-2 to IL-2M3
+Soviet Reserves: 9 GShAP air group changed planes from IL-2 to IL-2M3
+Soviet Reserves: 12 GShAP air group changed planes from IL-2 to IL-2M3
+Soviet Reserves: 825 ShAP air group changed planes from IL-2 to IL-2M3
+958 ShAP air group changed planes from IL-2 to IL-2M3
+9 ODRAE air group changed planes from SB-2 Rcn to Pe-2R
+Penal ORAE air group changed planes from SB-2 Rcn to Pe-2R 1943
+Transcaucasus: 25 IAP air group changed planes from MiG-3 to Yak-7B
+Transcaucasus: 85 SBAP air group changed planes from SB-2 to A-20B (SU)
+Transcaucasus: 6 TBAP air group changed planes from DB-3B to IL-4 1943
+Northern Front: 80 BAP air group changed planes from SB-2 to Pe-2
+Northern Front: 137 BAP air group changed planes from SB-2 to Pe-2
+Northern Front: 669 LBAP air group changed planes from R-Z to IL-2M
+Northern Front: 108 ORAE air group changed planes from SB-2 Rcn to Pe-2R 1943
+Northern Front: 118 ORAE air group changed planes from SB-2 Rcn to Pe-2R 1943
+Northern Front: 119 ORAE air group changed planes from SB-2 Rcn to Pe-2R 1943
+Far East: 19 IAP-PF air group changed planes from LaGG-3 to La-5F
+Far East: 31 IAP-PF air group changed planes from I-15bis to Yak-7A
+Far East: 41 IAP-PF air group changed planes from MiG-3 to Yak-7B
+Far East: 47 IAP air group changed planes from I-153 to La-5
+Far East: 48 IAP air group changed planes from I-153 to Spitfire VB (SU)
+Far East: 70 IAP air group changed planes from I-16 Type 5 to P-39D (SU)
+Far East: 10 DBAP air group changed planes from SB-2 to Pe-2
+32 BAP air group changed planes from IL-4 to IL-4 1943
+Far East: 36 BAP air group changed planes from SB-2 to A-20B (SU)
+Far East: 55 BAP-PF air group changed planes from SB-2 to Pe-2 1943
+Far East: 56 BAP air group changed planes from SB-2 to Pe-2
+57 BAP air group changed planes from A-20B (SU) to Pe-2 1943
+Far East: 59 BAP air group changed planes from SB-2 to A-20B (SU)
+Far East: 79 BAP air group changed planes from SB-2 to Pe-2
+Far East: 251 TBAP air group changed planes from TB-3 to B-25D (SU)
+Far East: 259 BAP air group changed planes from SB-2 to Pe-2
+Far East: 281 BAP air group changed planes from SB-2 to Pe-2
+Soviet Reserves: 288 BAP air group changed planes from Su-2 to IL-2M
+Far East: 541 BAP air group changed planes from SB-2 to Pe-2
+Far East: 13 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 49 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 53 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 64 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 71 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 75 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 76 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 78 ShAP air group changed planes from IL-2 to IL-2M3
+Far East: 13 OMRAE-PF air group changed planes from R-10 to IL-2KR
+No.2 SAAF FB Sqn air group changed planes from Kittyhawk III to Hurricane IIC
+No.3 RAAF FB Sqn air group changed planes from Kittyhawk III to Hurricane IIC
+No.4 SAAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.5 SAAF FB Sqn air group changed planes from Kittyhawk III to Hurricane IIC
+No.6 RAF FB Sqn air group changed planes from Hurricane IID to Hurricane IIC
+No.19 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.23 RAF NF Sqn air group changed planes from Mosquito NF.II to Mosquito NF.XIII
+No.64 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.65 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.66 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.118 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.122 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.124 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.130 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.165 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.185 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.225 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.232 RAF FB Sqn air group changed planes from Spitfire VB to Spitfire XII
+No.242 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.243 RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.272 RAF Pa Sqn air group changed planes from Beaufighter VIC to Ventura GR.V
+No.302 (PO) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.303 (PO) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.308 (PO) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.310 (CZ) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.312 (CZ) RAF FB Sqn air group changed planes from Spitfire VB to Mosquito FB.VI
+No.315 (PO) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.316 (PO) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.317 (PO) RAF FB Sqn air group changed planes from Spitfire VB to Spitfire XII
+No.322 (DU) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.331 (NO) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.332 (NO) RAF FB Sqn air group changed planes from Spitfire VB to Hurricane IIC
+No.349 (BE) RAF FB Sqn air group changed planes from Spitfire VB to Spitfire IX
+No.350 (BE) RAF FB Sqn air group changed planes from Spitfire VB to Spitfire IX
+No.401 RCAF FB Sqn air group changed planes from Spitfire VB to Mosquito FB.VI
+No.7 RAF LB Sqn air group changed planes from Lancaster B.I to Halifax B.II
+No.9 RAF LB Sqn air group changed planes from Lancaster B.I to Halifax B.II
+No.12 RAF LB Sqn air group changed planes from Lancaster B.I to Wellington X
+No.44 RAF LB Sqn air group changed planes from Lancaster B.I to Halifax B.II
+No.49 RAF LB Sqn air group changed planes from Lancaster B.I to Halifax B.II
+No.50 RAF LB Sqn air group changed planes from Lancaster B.I to Wellington X
+No.57 RAF LB Sqn air group changed planes from Lancaster B.I to Halifax B.II
+No.61 RAF LB Sqn air group changed planes from Lancaster B.I to Wellington X
+No.75 RNZAF LB Sqn air group changed planes from Stirling I to Halifax B.II
+No.90 RAF LB Sqn air group changed planes from Stirling I to Halifax B.II
+No.142 RAF LB Sqn air group changed planes from Wellington III to Lancaster B.I
+No.149 RAF LB Sqn air group changed planes from Stirling I to Wellington X
+No.150 RAF LB Sqn air group changed planes from Wellington III to Wellington X
+No.620 RAF LB Sqn air group changed planes from Stirling I to Halifax B.II
+31st USAAF F Grp air group changed planes from Spitfire IX (US) to P-38G/H Lightning
+52nd USAAF F Grp air group changed planes from Spitfire IX (US) to P-38G/H Lightning
+44th USAAF LB Grp air group changed planes from B-24D Liberator to B-24H/J Liberator
+No.143 RAF TB Sqn air group changed planes from Beaufighter VI (ITF) to Beaufort I
+No.206 RAF Pa Sqn air group changed planes from Fortress IIA to Ventura GR.V
+No.220 RAF Pa Sqn air group changed planes from Fortress IIA to Ventura GR.V
+AIRCRAFT SWAP SUMMARY
+  17 x I-153 to 17 x La-5
+  17 x I-153 to 17 x Spitfire VB (SU)
+  17 x I-15bis to 17 x Yak-7A
+  17 x I-16 Type 5 to 17 x P-39D (SU)
+  181 x MiG-3 to 181 x Yak-7B
+  35 x MiG-3 to 35 x Yak-9T
+  118 x MiG-3 to 118 x La-5F
+  32 x MiG-3 to 32 x Hurricane IIC (SU)
+  116 x Yak-1 to 116 x Yak-7B
+  116 x Yak-1 to 116 x Yak-9T
+  60 x Yak-1 to 60 x La-5F
+  34 x Yak-1 to 34 x Hurricane IIB mod
+  34 x Yak-1 to 34 x Hurricane IIC (SU)
+  28 x Yak-9 to 28 x Yak-7B
+  34 x Yak-9 to 34 x Yak-9T
+  29 x LaGG-3 to 29 x La-5F
+  34 x LaGG-3 '29 Series' to 34 x Yak-7B
+  20 x LaGG-3 '29 Series' to 20 x Yak-9T
+  32 x LaGG-3 '29 Series' to 32 x La-5F
+  33 x LaGG-3 '29 Series' to 33 x Hurricane IIB mod
+  34 x LaGG-3 '29 Series' to 34 x Hurricane IIC (SU)
+  34 x LaGG-3 '29 Series' to 34 x P-40K (SU)
+  30 x La-5 to 30 x Yak-9T
+  17 x R-Z to 17 x IL-2M
+  9 x R-10 to 9 x IL-2KR
+  20 x SB-2 to 20 x Pe-2 1943
+  119 x SB-2 to 119 x Pe-2
+  80 x SB-2 to 80 x A-20B (SU)
+  9 x SB-2 Rcn to 9 x Pe-2R
+  30 x SB-2 Rcn to 30 x Pe-2R 1943
+  59 x IL-2 to 59 x IL-2M
+  342 x IL-2 to 342 x IL-2M3
+  51 x Pe-2 to 51 x Pe-2 1943
+  54 x Pe-2 to 54 x A-20G (SU)
+  48 x DB-3B to 48 x IL-4 1943
+  32 x IL-4 to 32 x IL-4 1943
+  64 x IL-4 to 64 x B-25D (SU)
+  40 x TB-3 to 40 x B-25D (SU)
+  28 x A-20B (SU) to 28 x Pe-2 1943
+  34 x P-39D (SU) to 34 x Hurricane IIB mod
+  25 x P-40C (SU) to 25 x Yak-7A
+  34 x Spitfire VB (SU) to 34 x Yak-9T
+  368 x Spitfire VB to 368 x Hurricane IIC
+  32 x Spitfire VB to 32 x Spitfire IX
+  32 x Spitfire VB to 32 x Spitfire XII
+  32 x Spitfire VB to 32 x Mosquito FB.VI
+  48 x Kittyhawk III to 48 x Hurricane IIC
+  16 x Beaufighter VIC to 16 x Ventura GR.V
+  16 x Beaufighter VI (ITF) to 16 x Beaufort I
+  16 x Mosquito NF.II to 16 x Mosquito NF.XIII
+  20 x Fortress IIA to 20 x Ventura GR.V
+  22 x Wellington III to 22 x Wellington X
+  22 x Wellington III to 22 x Lancaster B.I
+  22 x Stirling I to 22 x Wellington X
+  66 x Stirling I to 66 x Halifax B.II
+  66 x Lancaster B.I to 66 x Wellington X
+  110 x Lancaster B.I to 110 x Halifax B.II
+  16 x Hurricane IID to 16 x Hurricane IIC
+  43 x B-24D Liberator to 43 x B-24H/J Liberator
+  98 x Spitfire IX (US) to 98 x P-38G/H Lightning
+8 x M2/3 Halftrack Chassis (Dec 1942) upgraded to SU-57 (Apr 1943) in pool (SU)
+26 x M4 Chassis (Dec 1942) upgraded to M4A2 Sherman (Jan 1943) in pool (SU)
+20 x T-70 Chassis (May 1942) upgraded to SU-76 (Jan 1943) in pool (SU)
+19 x T-34 Chassis (Jan 1940) upgraded to SU-122 (Jan 1943) in pool (SU)
+13 x KV Chassis (May 1940) upgraded to SU-152 (Jan 1943) in pool (SU)
+13 x M2/3 Halftrack Chassis (Dec 1942) upgraded to Reconnaissance Squad 43 (Jan 1943) in pool (SU)
+25 x Valentine Chassis (Sep 1941) upgraded to Valentine IX (Jul 1943) in pool (SU)
+303 x T-34 Chassis (Jan 1940) upgraded to T-34 M1943 (Jan 1943) in pool (SU)
+30 x Scout Car Chassis (Dec 1942) upgraded to M3A1 White Scout Car (Jan 1943) in pool (SU)
+1 x Rifle Section (Jun 1943) upgraded to Rifle Section (Jun 1943) in pool (SU)
+90 x 75mm M1A1 Pack Howitzer (Dec 1940) upgraded to 75mm M1A1 Pack Howitzer (Apr 1943) in pool (SU)
+1 x Sherman V (Aug 1942) upgraded to Sherman Crab (Jul 1943) in pool (SU)
+1 x Stuart V (Oct 1942) upgraded to Stuart Recce (Jul 1943) in pool (SU)
+1 x Scout Section (Jul 1943) upgraded to Scout Section (Jul 1943) in pool (SU)
+120 x T-70 Chassis (May 1942) upgraded to T-70 M1942 (Jun 1942) in pool (SU)
+12 x T-34 M1942 (Jul 1942) upgraded to OT-34 (Jul 1942) in pool (SU)
+51 x BA Chassis (Jan 1936) upgraded to BA-64 Armored Car (Apr 1942) in pool (SU)
+1 x M4 Sherman (Jul 1942) upgraded to Sherman I (Jul 1942) in pool (SU)
+1 x M4A1 Sherman (Feb 1942) upgraded to Sherman II (May 1942) in pool (SU)
+1 x M4A2 Sherman (Apr 1942) upgraded to Sherman III (Jul 1942) in pool (SU)
+1 x M4A4 Sherman (Jul 1942) upgraded to Sherman V (Aug 1942) in pool (SU)
+1 x Staghound I Armored Car (Oct 1942) upgraded to Staghound T17E3 Armored Car (Oct 1942) in pool (SU)
+1 x M3A3 Stuart (Sep 1942) upgraded to Stuart V (Oct 1942) in pool (SU)
+1 x M5A1 Stuart (Nov 1942) upgraded to Stuart VI (Dec 1942) in pool (SU)
+1 x M10 3in GMC (Sep 1942) upgraded to Wolverine (Oct 1942) in pool (SU)
+1 x M7 105mm HMC (Apr 1942) upgraded to Priest (Jul 1942) in pool (SU)
+1 x Staghound I Armored Car (Oct 1942) upgraded to Staghound III Armored Car (Oct 1942) in pool (SU)
+56 x Yak-1/3 Airframe (Dec 1940) upgraded to Yak-1B (Oct 1942) in pool (SU)
+55 x Yak-7/9 Airframe (Dec 1941) upgraded to Yak-7B (May 1942) in pool (SU)
+26 x Yak-7/9 Airframe (Dec 1941) upgraded to Yak-9D (Jun 1943) in pool (SU)
+24 x Yak-7/9 Airframe (Dec 1941) upgraded to Yak-9T (Mar 1943) in pool (SU)
+12 x Yak-6 Airframe (Nov 1942) upgraded to Yak-6 (Dec 1942) in pool (SU)
+21 x LaGG/La Airframe (Jan 1941) upgraded to LaGG-3 '66 Series' (Apr 1943) in pool (SU)
+112 x LaGG/La Airframe (Jan 1941) upgraded to La-5F (Dec 1942) in pool (SU)
+214 x IL-2 Airframe (Apr 1941) upgraded to IL-2M3 (Jan 1943) in pool (SU)
+15 x U-2 Airframe (Jan 1939) upgraded to U-2 (transp) (Jan 1939) in pool (SU)
+68 x U-2 Airframe (Jan 1939) upgraded to U-2VS (Sep 1941) in pool (SU)
+52 x Pe-2 Airframe (Jan 1941) upgraded to Pe-2 1943 (Jan 1943) in pool (SU)
+1 x Pe-2 1943 (Jan 1943) upgraded to Pe-3bis (Jan 1943) in pool (SU)
+6 x Pe-2 1943 (Jan 1943) upgraded to Pe-2R 1943 (Jan 1943) in pool (SU)
+31 x IL-4 Airframe (Jul 1939) upgraded to IL-4 1943 (Jan 1943) in pool (SU)
+1 x Pe-8 Airframe (Sep 1942) upgraded to Pe-8 (Sep 1942) in pool (SU)
+13 x Li-2 Airframe (Dec 1939) upgraded to Li-2 (Dec 1939) in pool (SU)
+3 x Li-2 (Dec 1939) upgraded to Li-2VV (Jan 1942) in pool (SU)
+21 x A-20 Airframe (Feb 1942) upgraded to A-20G (SU) (Mar 1943) in pool (SU)
+7 x B-25 Airframe (Feb 1942) upgraded to B-25D (SU) (Mar 1942) in pool (SU)
+12 x Hurricane Airframe (Sep 1941) upgraded to Hurricane IIC (SU) (Oct 1942) in pool (SU)
+19 x P-40 Airframe (Sep 1941) upgraded to P-40K (SU) (Oct 1942) in pool (SU)
+7 x C-47 Airframe (Jan 1943) upgraded to C-47 (SU) (Feb 1943) in pool (SU)
+2 x PBY Airframe (Mar 1943) upgraded to KM-1 (Apr 1943) in pool (SU)
+9 x IL-2M3 (Jan 1943) upgraded to IL-2KR (Feb 1943) in pool (SU)
+3 x Yak-7B (May 1942) upgraded to Yak-7B Rcn (Jan 1943) in pool (SU)
+2 x A-20G (SU) (Mar 1943) upgraded to A-20Gt (Mar 1943) in pool (SU)
+1 x IL-4 1943 (Jan 1943) upgraded to IL-4T 1943 (Dec 1942) in pool (SU)
+5 x IL-2M3 (Jan 1943) upgraded to IL-2T (Feb 1943) in pool (SU)
+7 x Beaufighter VI (ITF) (Dec 1942) upgraded to Beaufighter TF X (May 1943) in pool (SU)
+123 x B-26B/C Marauder (Jan 1943) upgraded to Marauder II (Jun 1943) in pool (SU)
+105 x B-25C Mitchell (Jan 1942) upgraded to Mitchell II (Oct 1942) in pool (SU)
+40 x Liberator B.III (Jun 1942) upgraded to Liberator GR.V (Jan 1943) in pool (SU)
+55 x PBY-5A Catalina (Oct 1941) upgraded to Catalina IVA (Oct 1941) in pool (SU)
+153 x C-47A Skytrain (Dec 1941) upgraded to Dakota III (Mar 1943) in pool (SU)
+7 x Spitfire LF.IX (Jul 1943) upgraded to Spitfire LF.IX (US) (May 1943) in pool (SU)
+37 x B-17F Fortress (Jun 1942) upgraded to F-9 Fortress (Jul 1943) in pool (SU)
+
+ 
+Molotov sends 1 trucks to Volkhov
+Molotov sends 100 trucks to Gorky
+Molotov sends 90 trucks to Vladimir
+Molotov sends 1 trucks to Krasnodar
+Molotov sends 1 trucks to Vyazma
+Molotov sends 1 trucks to Voronezh
+Molotov sends 1 trucks to Rostov
+Molotov sends 1 trucks to Millerovo
+Molotov sends 1 trucks to Sukhinichi
+Molotov sends 81 trucks to Cherepovets
+Molotov sends 1 trucks to Tikhvin
+Molotov sends 1 trucks to Voroshilovgrad
+Molotov sends 72 trucks to Pechora
+Molotov sends 65 trucks to Ryazan
+Molotov sends 59 trucks to Murom
+Molotov sends 53 trucks to Ivanovo
+Molotov sends 1 trucks to Yaroslavl
+Kirov sends 1 trucks to Kalinin
+Kirov sends 1 trucks to Valdai
+Kirov sends 1 trucks to Toropets
+Kirov sends 1 trucks to Yelets
+Kirov sends 1 trucks to Lipetsk
+Kirov sends 1 trucks to Budogoshch
+Kirov sends 1 trucks to Krestcy
+Kirov sends 1 trucks to Malaya Vishera
+Kirov sends 1 trucks to Andreapol
+Kirov sends 1 trucks to Sychevka
+Kirov sends 1 trucks to Izmalkovo
+Kirov sends 1 trucks to Kastornoe
+Kirov sends 1 trucks to Gorshechnoe
+Kirov sends 1 trucks to Gorbachevo
+Kirov sends 1 trucks to Levaya Rossosh
+Kirov sends 1 trucks to Borovaya
+Vologda sends 1 trucks to Nebolchi
+Maikop sends 1 trucks to Vologda
+Maikop sends 1 trucks to Chertkovo
+Kazan sends 600 trucks to Tula
+Kazan sends 540 trucks to Tambov
+Kazan sends 486 trucks to Velikie Luki
+Kazan sends 438 trucks to Rzhev
+Kazan sends 394 trucks to Kursk
+Kazan sends 355 trucks to Valuyki
+Kazan sends 319 trucks to Ostashkov
+Kazan sends 287 trucks to Rybinsk
+Kazan sends 259 trucks to N Moscow
+Kazan sends 233 trucks to W Moscow
+Kazan sends 209 trucks to Kotlas
+Kazan sends 188 trucks to Bologoe
+Kazan sends 170 trucks to Torzhok
+Kazan sends 153 trucks to Peno
+Kazan sends 137 trucks to Selizharovo
+Kazan sends 124 trucks to Gzhatsk
+Kazan sends 111 trucks to Stary Oskol
+Kazan sends 100 trucks to Schigry
+Kazan sends 90 trucks to Shakhovskaya
+Kazan sends 81 trucks to Arzamas
+Kuybyshev sends 500 trucks to Kirov
+Kuybyshev sends 450 trucks to Maikop
+Kuybyshev sends 405 trucks to Morozovskaya
+Kuybyshev sends 365 trucks to Penza
+Kuybyshev sends 328 trucks to Saransk
+Kuybyshev sends 296 trucks to Novocherkassk
+Kuybyshev sends 266 trucks to Cheboksary
+Baku sends 200 trucks to Molotov
+Baku sends 1 trucks to Armavir
+Astrakhan sends 1 trucks to Stalingrad
+Guriev sends 1 trucks to Grozny
+Sverdlovsk sends 600 trucks to Syzran
+Sverdlovsk sends 540 trucks to Kotelnikovsky
+Sverdlovsk sends 486 trucks to Izhevsk
+Sverdlovsk sends 438 trucks to Serov
+Sverdlovsk sends 394 trucks to Ulyanovsk
+Sverdlovsk sends 355 trucks to S Stalingrad
+Sverdlovsk sends 319 trucks to Kalach
+Sverdlovsk sends 287 trucks to Chusovoy
+Sverdlovsk sends 259 trucks to Solikamsk
+Sverdlovsk sends 233 trucks to Tuymaza
+Chelyabinsk sends 600 trucks to Tbilisi
+Chelyabinsk sends 540 trucks to Ordzhonikidze
+Chelyabinsk sends 486 trucks to Nizhny Tagil
+Chelyabinsk sends 438 trucks to Ufa
+Orsk sends 1 trucks to Verkhny Ufaley
+Omsk sends 1 trucks to Orsk
+Orsk sends 1 trucks to Zlatoust
+Krasnovodsk sends 250 trucks to Magnitogorsk
+0 trucks have been lost during the campaign due to unit movement
+Vyazma ships 1225 supply from pool to Vyazma
+Velikie Luki ships 725 supply from pool to Velikie Luki
+Voroshilovgrad ships 825 supply from pool to Voroshilovgrad
+Rzhev ships 1250 supply from pool to Sychevka
+Moscow ships 950 supply from pool to Gzhatsk
+Velikie Luki ships 97 supply from pool to Velikie Luki
+Kursk ships 750 supply from pool to Lgov
+Borovaya ships 1000 supply from pool to Kupyansk
+Chertkovo ships 500 supply from pool to Starobelsk
+Demyansk ships 500 supply from pool to Lychkovo
+Schigry ships 1000 supply from pool to Kolpny
+Stary Oskol ships 1000 supply from pool to Novy Oskol
+Kursk ships 750 supply from pool to Sudzha
+Kastornoe ships 1000 supply from pool to Marmyzhi
+Gorshechnoe ships 730 supply from pool to Gorshechnoe
+Schigry ships 250 supply from pool to Manturovo
+Gorbachevo ships 750 supply from pool to Cherepet
+Kaluga ships 750 supply from pool to Dugna
+Syasstroy ships 733 supply from pool to Syasstroy
+Novocherkassk ships 1000 supply from pool to Sverdlovsk (s)
+London ships 500 supply from pool to Grimsby
+Oran ships 500 supply from pool to Tafaraoui
+Oran ships 250 supply from pool to Airfield #1
+ 
+Kazan ships 457 freight to Batumi
+Moscow ships 2235 freight to Novaya Ladoga
+Kuybyshev ships 1073 freight to Azov
+Moscow ships 2145 freight to Syasstroy
+Kobona ships 8000 freight to Osinovets !!!!!
+Liverpool ships 8000 freight to Belfast !!!!!
+Algiers ships 8000 freight to Bone !!!!!
+Oran ships 6667 freight to Philippeville !!!!!
+Algiers ships 8000 freight to Bougie !!!!!
+Algiers ships 8000 freight to Cherchell !!!!!
+Oran ships 8000 freight to Mostaganem !!!!!
+Oran ships 6667 freight to Gabes !!!!!
+Liverpool ships 6667 freight to Sfax !!!!!
+Oran ships 8000 freight to Sousse !!!!!
+Oran ships 6667 freight to Tunis !!!!!
+Algiers ships 6667 freight to Bizerte !!!!!
+Liverpool ships 6667 freight to Mahdia !!!!!
+Kronstadt ships 8000 freight to Oranienbaum !!!!!
+Batumi ships 8000 freight to Gelendzhik !!!!!
+Liverpool ships 8000 freight to Alexandria !!!!!
+Krasnovodsk ships 2000 freight to Baku !!!!!
+Kazan ships 748 freight to Tuapse
+Saratov ships 574 freight to Sukhumi
+Kuybyshev ships 301 freight to Astrakhan
+Kazan ships 134 freight to Makhachkala
+Kuybyshev ships 1482 freight to Guriev
+Kazan ships 796 freight to Eysk
+Moscow ships 621 freight to Sochi
+Moscow ships 590 freight to Poti
+Moscow ships 2712 freight to Onega
+Moscow ships 2280 freight to Arkhangelsk
+Liverpool ships 8000 freight to Bristol !!!!!
+Liverpool ships 6667 freight to Newcastle upon Tyne !!!!!
+Liverpool ships 8000 freight to Glasgow !!!!!
+London ships 6667 freight to Casablanca !!!!!
+Voronezh ships 3739 freight to Kursk *****
+Millerovo ships 2730 freight to Voroshilovgrad *****
+Voronezh ships 3922 freight to Stary Oskol *****
+Voronezh ships 3449 freight to Schigry *****
+Voronezh ships 4000 freight to Kastornoe *****
+Voronezh ships 4000 freight to Gorshechnoe *****
+Kobona ships 4000 freight to Osinovets !!!!!
+Liverpool ships 4000 freight to Belfast !!!!!
+Algiers ships 4000 freight to Bone !!!!!
+Oran ships 4000 freight to Philippeville !!!!!
+Algiers ships 4000 freight to Bougie !!!!!
+Algiers ships 4000 freight to Cherchell !!!!!
+Oran ships 4000 freight to Mostaganem !!!!!
+Algiers ships 2667 freight to Gabes !!!!!
+Algiers ships 4000 freight to Sfax !!!!!
+Kairouan ships 2264 freight to Sousse *****
+Oran ships 4000 freight to Tunis !!!!!
+Algiers ships 4000 freight to Bizerte !!!!!
+Liverpool ships 2667 freight to Mahdia !!!!!
+Voronezh ships 2817 freight to Kursk *****
+Rossosh ships 4000 freight to Voroshilovgrad *****
+Voronezh ships 3334 freight to Stary Oskol *****
+Voronezh ships 3334 freight to Schigry *****
+Voronezh ships 4000 freight to Kastornoe *****
+Voronezh ships 4000 freight to Gorshechnoe *****
+Kobona ships 1577 freight to Osinovets !!!!!
+Liverpool ships 4000 freight to Belfast !!!!!
+Algiers ships 4000 freight to Bone !!!!!
+Oran ships 4000 freight to Philippeville !!!!!
+Algiers ships 3000 freight to Bougie !!!!!
+Algiers ships 3000 freight to Cherchell !!!!!
+Oran ships 3000 freight to Mostaganem !!!!!
+Algiers ships 2667 freight to Gabes !!!!!
+Liverpool ships 2667 freight to Sfax !!!!!
+Oran ships 2667 freight to Sousse !!!!!
+Oran ships 4000 freight to Tunis !!!!!
+Algiers ships 2667 freight to Bizerte !!!!!
+Algiers ships 4000 freight to Mahdia !!!!!
+Voronezh ships 2798 freight to Kursk *****
+Rostov ships 4000 freight to Voroshilovgrad *****
+Borovaya ships 4000 freight to Stary Oskol *****
+Voronezh ships 1701 freight to Schigry *****
+Voronezh ships 1117 freight to Kastornoe *****
+Yelets ships 4000 freight to Gorshechnoe *****
+Liverpool ships 4000 freight to Belfast !!!!!
+Algiers ships 4000 freight to Bone !!!!!
+Oran ships 4000 freight to Philippeville !!!!!
+Algiers ships 2501 freight to Bougie
+Algiers ships 2500 freight to Cherchell
+Oran ships 2500 freight to Mostaganem
+Algiers ships 3001 freight to Gabes !!!!!
+Algiers ships 4000 freight to Sfax !!!!!
+Liverpool ships 2667 freight to Sousse !!!!!
+Algiers ships 4000 freight to Tunis !!!!!
+Algiers ships 4000 freight to Bizerte !!!!!
+Yelets ships 2667 freight to Kursk *****
+Rossosh ships 2878 freight to Voroshilovgrad *****
+Bobrov ships 2410 freight to Stary Oskol *****
+Voronezh ships 284 freight to Schigry *****
+Yelets ships 3922 freight to Gorshechnoe *****
+Liverpool ships 4000 freight to Belfast !!!!!
+Algiers ships 4000 freight to Bone !!!!!
+Oran ships 4000 freight to Philippeville !!!!!
+Oran ships 1938 freight to Gabes
+Algiers ships 4000 freight to Sfax !!!!!
+Algiers ships 2667 freight to Sousse !!!!!
+Algiers ships 2667 freight to Tunis !!!!!
+Algiers ships 3670 freight to Bizerte
+Algiers ships 1613 freight to Mahdia
+Yelets ships 2031 freight to Kursk *****
+Millerovo ships 1285 freight to Voroshilovgrad *****
+Levaya Rossosh ships 2313 freight to Stary Oskol *****
+Voronezh ships 48 freight to Schigry *****
+Levaya Rossosh ships 3334 freight to Gorshechnoe *****
+Liverpool ships 4000 freight to Belfast !!!!!
+Oran ships 4000 freight to Bone !!!!!
+Oran ships 4000 freight to Philippeville !!!!!
+Oran ships 143 freight to Gabes
+Oran ships 3845 freight to Sfax !!!!!
+Algiers ships 1329 freight to Sousse
+Algiers ships 1187 freight to Tunis
+Algiers ships 1034 freight to Bizerte
+Oran ships 1667 freight to Mahdia !!!!!
+Nebolchi ships 4000 freight to Volkhov *****
+Arzamas ships 2000 freight to Gorky *****
+N Moscow ships 1429 freight to Tula *****
+Salsk ships 2000 freight to Krasnodar *****
+Mozhaysk ships 4000 freight to Vyazma *****
+Rzhev ships 4000 freight to Velikie Luki *****
+Bobrov ships 2000 freight to Voronezh *****
+Salsk ships 5333 freight to Rostov *****
+Kalach ships 855 freight to Millerovo *****
+Bobrov ships 1667 freight to Valuyki *****
+Nebolchi ships 2000 freight to Tikhvin *****
+Bologoe ships 4000 freight to Valdai *****
+Tambov ships 1471 freight to Yelets *****
+Tambov ships 2790 freight to Lipetsk *****
+Mozhaysk ships 1789 freight to Kaluga *****
+Bobrov ships 2920 freight to Starobelsk *****
+Kronstadt ships 4000 freight to Oranienbaum !!!!!
+Vologda ships 730 freight to Budogoshch *****
+Novaya Ladoga ships 4000 freight to Kobona !!!!!
+Ostashkov ships 4000 freight to Krestcy *****
+Kalinin ships 4000 freight to Malaya Vishera *****
+Ostashkov ships 20 freight to Andreapol *****
+Naro-Fominsk ships 1205 freight to Gorbachevo *****
+Bobrov ships 2000 freight to Levaya Rossosh *****
+Maikop ships 3043 freight to Novocherkassk *****
+Bobrov ships 1493 freight to Chertkovo *****
+Bobrov ships 431 freight to Borovaya *****
+Liverpool ships 4000 freight to Alexandria !!!!!
+Sverdlovsk ships 4000 freight to Molotov
+Kazan ships 349 freight to Kirov
+Pechora ships 247 freight to Vologda *****
+Moscow ships 4000 freight to Kalinin
+Moscow ships 770 freight to Vladimir
+Krasnovodsk ships 1000 freight to Baku !!!!!
+Kazan ships 317 freight to Tuapse
+Kazan ships 206 freight to Sukhumi
+Moscow ships 313 freight to Tambov
+Moscow ships 3226 freight to Rzhev
+Chkalov ships 125 freight to Astrakhan
+Kazan ships 206 freight to Batumi
+Pechora ships 837 freight to Cherepovets *****
+Krasnovodsk ships 1000 freight to Makhachkala !!!!!
+Moscow ships 3077 freight to Ostashkov
+Moscow ships 667 freight to Ryazan
+Kuybyshev ships 786 freight to Syzran
+Saratov ships 516 freight to Guriev
+Sverdlovsk ships 4000 freight to Nizhny Tagil
+Saratov ships 477 freight to Penza
+Chelyabinsk ships 2286 freight to Serov
+Kazan ships 453 freight to Ufa
+Kuybyshev ships 676 freight to Ulyanovsk
+Moscow ships 541 freight to Murom
+Moscow ships 1000 freight to N Moscow
+Moscow ships 1000 freight to W Moscow
+Saratov ships 313 freight to S Stalingrad
+Moscow ships 2223 freight to Ivanovo
+Moscow ships 227 freight to Nebolchi
+Pechora ships 535 freight to Novaya Ladoga *****
+Pechora ships 4000 freight to Kotlas *****
+Moscow ships 622 freight to Bologoe
+Moscow ships 2858 freight to Torzhok
+Moscow ships 2248 freight to Selizharovo
+Moscow ships 776 freight to Gzhatsk
+Moscow ships 459 freight to Naro-Fominsk
+Moscow ships 19 freight to Shakhovskaya
+Saratov ships 239 freight to Arzamas
+Saratov ships 923 freight to Kalach
+Kazan ships 433 freight to Saransk
+Kazan ships 372 freight to Azov
+Sverdlovsk ships 282 freight to Eysk
+Kuybyshev ships 361 freight to Sochi
+Sverdlovsk ships 4000 freight to Chusovoy
+Kazan ships 8 freight to Solikamsk
+Kazan ships 20 freight to Cheboksary
+Kuybyshev ships 3 freight to Tuymaza
+Chelyabinsk ships 2174 freight to Magnitogorsk
+Sverdlovsk ships 281 freight to Omsk
+Kazan ships 473 freight to Syasstroy
+Saratov ships 260 freight to Poti
+Sverdlovsk ships 3 freight to Petropavlovsk
+Moscow ships 690 freight to Yaroslavl
+Moscow ships 948 freight to Onega
+Kazan ships 532 freight to Arkhangelsk
+Liverpool ships 2667 freight to Bristol !!!!!
+Liverpool ships 2667 freight to Newcastle upon Tyne !!!!!
+Liverpool ships 4000 freight to Glasgow !!!!!
+Oran ships 4000 freight to Casablanca !!!!!
+ 
+Rail points BEFORE moving resources:  50,977,582
+
+***** City to City *****
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY NEED 172,744
+TOTAL SUPPLY STORE 4,536,370 (POOL 1,446,854)
+AFTER
+TOTAL SUPPLY NEED 52,408
+TOTAL SUPPLY STORE 4,416,027 (POOL 1,446,854)
+
++++++ MOVING FUEL +++++
+TOTAL FUEL NEED 123,995
+TOTAL FUEL STORE 1,153,734 (POOL 9,987,871)
+AFTER
+TOTAL FUEL NEED 55,404
+TOTAL FUEL STORE 1,085,132 (POOL 9,987,871)
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE NEED 3,439,170
+TOTAL RESOURCE STORE 29,544 (POOL 50,000,000)
+AFTER
+TOTAL RESOURCE NEED 3,421,295
+TOTAL RESOURCE STORE 11,669 (POOL 50,000,000)
+
++++++ MOVING OIL +++++
+TOTAL OIL NEED 585,925
+TOTAL OIL STORE 170,325 (POOL 2,500,000)
+AFTER
+TOTAL OIL NEED 456,637
+TOTAL OIL STORE 41,037 (POOL 2,500,000)
+
+***** City to Pool *****
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY STORE 4,416,027 (POOL 1,446,854)
+AFTER
+TOTAL SUPPLY STORE 862,280 (POOL 5,000,675)
+
++++++ MOVING FUEL +++++
+TOTAL FUEL STORE 1,082,566 (POOL 9,987,871)
+AFTER
+TOTAL FUEL STORE 195,175 (POOL 10,875,285)
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE STORE 11,669 (POOL 50,000,000)
+AFTER
+TOTAL RESOURCE STORE 5,728 (POOL 50,005,941)
+
++++++ MOVING OIL +++++
+TOTAL OIL STORE 41,037 (POOL 2,500,000)
+AFTER
+TOTAL OIL STORE 750 (POOL 2,540,287)
+
+***** Pool to City *****
+
++++++ MOVING SUPPLY +++++
+TOTAL SUPPLY NEED 52,408
+AFTER
+TOTAL SUPPLY NEED 35,380
+
++++++ MOVING FUEL +++++
+TOTAL FUEL NEED 59,181
+AFTER
+TOTAL FUEL NEED 18,106
+
++++++ MOVING RESOURCE +++++
+TOTAL RESOURCE NEED 3,421,295
+AFTER
+TOTAL RESOURCE NEED 1,379,916
+
++++++ MOVING OIL +++++
+TOTAL OIL NEED 456,637
+AFTER
+TOTAL OIL NEED 321,350
+Rail points AFTER moving resources:  28,308,723
+Velikie Luki ships 725 supply from pool to Velikie Luki
+Kursk ships 743 supply from pool to Lgov
+Borovaya ships 987 supply from pool to Kupyansk
+Starobelsk ships 981 supply from pool to Starobelsk
+Demyansk ships 500 supply from pool to Lychkovo
+Izmalkovo ships 1000 supply from pool to Kolpny
+Stary Oskol ships 987 supply from pool to Novy Oskol
+Kursk ships 743 supply from pool to Sudzha
+Kastornoe ships 993 supply from pool to Marmyzhi
+Kastornoe ships 987 supply from pool to Kastornoe
+Gorshechnoe ships 637 supply from pool to Gorshechnoe
+Schigry ships 993 supply from pool to Manturovo
+Gorbachevo ships 743 supply from pool to Cherepet
+Kaluga ships 6 supply from pool to Dugna
+Syasstroy ships 725 supply from pool to Syasstroy
+Voroshilovgrad ships 1000 supply from pool to Sverdlovsk (s)
+Oran ships 500 supply from pool to Tafaraoui
+Oran ships 250 supply from pool to Airfield #1
+Chusovoy ships 240 resource to Molotov
+Kirs ships 221 resource to Kirov
+Borovichi ships 16 resource to Vologda
+Zugdidi ships 7 resource to Maikop
+Kulebaki ships 161 resource to Kazan
+Kulebaki ships 195 resource to Gorky
+Kulebaki ships 77 resource to Vladimir
+Stalinogorsk ships 481 resource to Moscow
+Chkalov ships 154 resource to Kuybyshev
+Zugdidi ships 7 resource to Tuapse
+Zugdidi ships 80 resource to Sukhumi
+Zugdidi ships 15 resource to Krasnodar
+Tula ships 39 resource to Vyazma
+Yelets ships 85 resource to Tambov
+Borovichi ships 61 resource to Velikie Luki
+Kamensk ships 67 resource to Saratov
+Gorshechnoe ships 92 resource to Voronezh
+Gorshechnoe ships 93 resource to Kursk
+Kamensk ships 70 resource to Stalingrad
+Kamensk ships 126 resource to Rostov
+Makhachkala ships 22 resource to Astrakhan
+Chiatura ships 30 resource to Grozny
+Chiatura ships 215 resource to Tbilisi
+Borovichi ships 15 resource to Cherepovets
+Naurskaya ships 15 resource to Makhachkala
+Stalinogorsk ships 48 resource to Ryazan
+Kulebaki ships 120 resource to Murom
+Kamensk ships 65 resource to S Stalingrad
+Kulebaki ships 107 resource to Ivanovo
+Kulebaki ships 80 resource to Arzamas
+Kulebaki ships 45 resource to Saransk
+Zugdidi ships 4 resource to Neftegorsk
+Krasnovodsk ships 25 resource to Ashkhabad
+Maragheh ships 80 resource to Nakhichevan
+Chiatura ships 38 resource to Yerevan
+Kotlas ships 45 resource to Arkhangelsk
+Krasnovodsk ships 80 resource to Nebit-Dag
+London ships 120 resource to Hastings
+London ships 160 resource to Southend
+London ships 240 resource to Portsmouth
+London ships 80 resource to Harwich
+London ships 240 resource to S London
+Bristol ships 160 resource to Bournemouth
+Bristol ships 240 resource to Southampton
+Bristol ships 160 resource to Weymouth
+Bristol ships 120 resource to Gillingham
+Falmouth ships 200 resource to Plymouth
+Cardiff ships 120 resource to Exeter
+Cardiff ships 120 resource to Gloucester
+Newcastle upon Tyne ships 80 resource to Huddersfield
+Middlesbrough ships 120 resource to Bradford
+Newcastle upon Tyne ships 80 resource to Blackburn
+Barrow ships 120 resource to Preston
+Newcastle upon Tyne ships 80 resource to Blackpool
+Middlesbrough ships 80 resource to Lancaster
+Newcastle upon Tyne ships 120 resource to Gateshead
+Barrow ships 120 resource to Carlisle
+Barrow ships 280 resource to Glasgow
+Thurso ships 120 resource to Aberdeen
+Thurso ships 120 resource to Crianlarich
+Thurso ships 80 resource to Wick
+Oran ships 17 resource to Kasba Tadla
+Oran ships 44 resource to Fes
+Oran ships 41 resource to Marrakech
+Oran ships 51 resource to Casablanca
+Algiers ships 26 resource to Bone
+Algiers ships 30 resource to Constantine
+Tel Aviv ships 120 resource to Suez
+Tel Aviv ships 240 resource to El Mansura
+Tel Aviv ships 120 resource to Alexandria
+Beirut ships 117 resource to Damietta
+Abadan ships 120 resource to Esfahan
+Zanjan ships 240 resource to Arak
+Zanjan ships 160 resource to Qum
+Maragheh ships 217 resource to Tehran
+Chiatura ships 78 resource to Tabriz
+5886 trucks were repaired and returned to the logistics pool
+
+
+2500 VEHICLES were added to the pool from Lend-Lease
+2400 ARMAMENTS were added to the pool from Lend-Lease
+5000 SUPPLIES were added to the pool from Lend-Lease
+2500 FUEL were added to the pool from Lend-Lease
+Factory 'Allied theatre allocation 1488 3057-5' 250 x Resource Production in Liverpool. RESIZING to 250 [damage 0 delay 0].
+Factory 'Allied theatre allocation 1488 3163-12' 0 x Resource Production in Wrexham. RESIZING to 0 [damage 0 delay 0].
+
+BUILDING GENERIC GROUND ELEMENTS
+184 x 76.2mm ZiS Field Gun [76.2mm ZiS-3 L/43 Gun] built (SU)
+15 x 107mm M38 Mortar [107mm M38 Mortar] built (SU)
+320 x 45mm M37 AT Gun [45mm M37/38 L/46 Gun] built (SU)
+76 x 45mm M42 AT Gun [45mm M42 L/66 Gun] built (SU)
+72 x 57mm ZiS-2 AT Gun [57mm ZiS-2 L/73 Gun] built (SU)
+75 x 76.2mm ZiS AT Gun [76.2mm ZiS-3 L/42.6 Gun] built (SU)
+80 x 76.2mm M27 Infantry Gun [76.2mm M27/39 L/16.4 Gun] built (SU)
+75 x 122mm M-30 Howitzer [122mm M-30 L/23 Howitzer] built (SU)
+76 x 37mm 61-K AA Gun [37mm 61-K L/61 Gun] built (SU)
+677 x 82mm M41 Mortar [82mm M41 Mortar] built (SU)
+210 x 120mm M38 Mortar [120mm M38 Mortar] built (SU)
+40 x 12.7mm DShK AAMG [12.7mm DShK AAMG] built (SU)
+50 x 85mm 52-K AA Gun [85mm 52-K L/55 Gun] built (SU)
+20 x 152mm ML-20 Gun-Howitzer [152mm ML-20 L/29 Gun] built (SU)
+31 x BM-13-16 Rocket Launcher [132mm M-13 Rocket] built (SU)
+26 x 7.62mm Quad Maxim AAMG [7.62mm Quad Maxim AAMG] built (SU)
+7 x 122mm A-19 Field Gun [122mm A-19 L/46.3 Gun] built (SU)
+100 x M-31-4 Rocket Launcher [300mm M-31 Rocket] built (SU)
+50 x 6 Pdr Mk V AT Gun [6 Pounder Mk V L/50 Gun] built (SU)
+35 x 20mm Oerlikon AA Gun [20mm Oerlikon L/70 Gun] built (SU)
+60 x 3in MK II Mortar [3in Mk II Mortar] built (SU)
+30 x 25 Pdr Mk II Gun-Howitzer [25 Pdr Mk II L/29 Gun] built (SU)
+14 x 105mm M3 Light Howitzer [105mm M3 L/19 Howitzer] built (SU)
+27 x 17 Pdr Mk IV AT Gun [17 Pounder Mk IV L/55 Gun] built (SU)
+14 x 3.7in Mk I AA Gun [3.7in Mk I L/50 Gun] built (SU)
+14 x 4.2in Mk III Mortar [4.2in Mk III Mortar] built (SU)
+10 x 4.5in Mk II Field Gun [4.5in Mk II L/41 Gun] built (SU)
+9 x 5.5in Mk III Field Gun [5.5in Mk III L/30 Gun] built (SU)
+1 x 7.2in Mk III Howitzer [7.2in Mk III L/22.4 Howitzer] built (SU)
+2 x Universal MG Carrier [.303in Vickers Mk I HMG] built (SU)
+50 x 37mm M3 AT Gun [37mm M3 L/56.6 Gun] built (SU)
+10 x 3in M5 AT Gun [3in M5 L/45 Gun] built (SU)
+10 x 90mm M1A1 AA Gun [90mm M1A1 L/55 Gun] built (SU)
+5 x 4.2in M2 Mortar [4.2in M2 Mortar] built (SU)
+3 x 4.5in M1 Field Gun [4.5in M1 L/41.6 Gun] built (SU)
+3 x 155mm M1A1 Field Gun [155mm M1A1 L/45 Gun] built (SU)
+1 x 100mm M14 Howitzer [100mm M14 L/19 Howitzer] built (SU)
+60 x 40mm M1 AA Gun [40mm Bofors L/56 Gun] built (SU)
+100 x 81mm M1 Mortar [81mm M1 Mortar] built (SU)
+10 x 75mm M1A1 Pack Howitzer [75mm M1A1 L/16 Howitzer] built (SU)
+3 x 75mm Mle 1897 Field Gun [75mm Mle 1897 L/36 Gun] built (SU)
+60 x 57mm M1 AT Gun [57mm M1 L/50 Gun] built (SU)
+17 x 105mm M2A1 Howitzer [105mm M2A1 L/23 Howitzer] built (SU)
+12 x 155mm M1 Howitzer [155mm M1 L/23 Howitzer] built (SU)
+
+LOW RESOURCE in Baku for 40 x HEAVY INDUSTRY (0 %) Need: 70000, City: 90, Pool 48697083
+NO RESOURCE in Baku for 10 x HEAVY INDUSTRY Need: 17500, City: 0, Pool 48627093
+LOW RESOURCE in Tbilisi for 20 x HEAVY INDUSTRY (0 %) Need: 35000, City: 70, Pool 48627093
+LOW RESOURCE in Grozny for 15 x HEAVY INDUSTRY (0 %) Need: 26250, City: 60, Pool 48434623
+NO RESOURCE in Yerevan for 5 x HEAVY INDUSTRY Need: 8750, City: 0, Pool 48434623
+LOW RESOURCE in Wrexham for 450 x HEAVY INDUSTRY (25 %) Need: 787500, City: 198253, Pool 48434623
+NO RESOURCE in Wrexham for 2 x HEAVY INDUSTRY Need: 3500, City: 0, Pool 48434623
+LOW OIL in Batumi for 64 x FUEL (3 %) Need: 32000, City: 1250, Pool 2395000
+LOW OIL in Grozny for 72 x FUEL (10 %) Need: 36000, City: 3750, Pool 2395000
+LOW OIL in Wrexham for 240 x FUEL (64 %) Need: 120000, City: 77400, Pool 2375000
+
+                                                     _______________________FACTORIES___________________________
+                         PRODUCED     CONSUMED       AVAIL      ACTIVE     DAMAGED   LOW RES    NO RES  ISOLATED
+
+      MANPOWER[ 98%]      54,764            -       55,760      54,764         996         -         -         0
+
+     RESOURCES[ 99%]       4,242K           -        1,707       1,697          10         -         -         0
+
+           OIL[ 98%]         473K           -          482         473           9         -         -         0
+
+HEAVY INDUSTRY[ 78%]         384K       2,692K       1,967       1,950           0       525        17         0
+
+          FUEL[ 82%]         252K         504K       1,220       1,220           0       376         0         0
+
+     ARMAMENTS[100%]     203,400       50,850        1,017       1,017           0         0         0         0
+
+      VEHICLES[100%]       1,690        8,450          169         169           0         0         0         0
+
+        GROUND[100%]         750       11,364          750         750           0         0         0         0
+
+GROUND CHASSIS[100%]         686        7,123          686         686           0         0         0         0
+
+      AIRCRAFT[100%]         539       43,536          539         539           0         0         0         0
+
+      AIRFRAME[100%]         803       15,691          803         803           0         0         0         0
+
+
+
+SOVIET ATTRITION LOSSES
+____________________________________________________
+                                 TURN        TOTAL
+       Elements Destroyed       1,052       1,052
+        Elements Captured         192         192
+        Elements Disabled       2,298       2,298
+         Elements Damaged         996         996
+Support Elements Destroyed          68          68
+Support Elements Captured          19          19
+Support Elements Disabled         159         159
+ Support Elements Damaged          66          66
+            Men Destroyed       7,135       7,135
+             Men Captured       1,352       1,352
+             Men Disabled      15,298      15,298
+              Men Damaged       6,787       6,787
+    Support Men Destroyed       1,360       1,360
+     Support Men Captured         380         380
+     Support Men Disabled       3,180       3,180
+      Support Men Damaged       1,320       1,320
+
+LOSSES BY TYPE
+___________________________________________
+Axis Combat_________0
+Axis Retreat________0
+Axis Attrition______3502
+Axis Surrender______0
+Axis Misc.__________346
+Soviet Combat_______0
+Soviet Retreat______0
+Soviet Attrition____8487
+Soviet Surrender____0
+Soviet Misc.________0
+
+
+___________________________________________
+File Version: 1.05.02
+
+
