@@ -1,0 +1,190 @@
+{
+  "scenario_sha256": "4c0c1d44947ce1af08407ac4163f6abb9f4a319b5a9aa049b9eedad89f62a210",
+  "baseline": {
+    "units": 181,
+    "ready": 1933,
+    "pilots": 2247,
+    "units_without_pilots": 29,
+    "condition_examples": {
+      "750": {
+        "name": "Stab/JG 26",
+        "ready": 2,
+        "pilots": 2
+      },
+      "751": {
+        "name": "I./JG 26",
+        "ready": 20,
+        "pilots": 20
+      },
+      "752": {
+        "name": "II./JG 26",
+        "ready": 26,
+        "pilots": 26
+      },
+      "753": {
+        "name": "III./JG 26",
+        "ready": 18,
+        "pilots": 18
+      },
+      "783": {
+        "name": "V./KG 2",
+        "ready": 40,
+        "pilots": 40
+      }
+    },
+    "remaining_delayed": 250,
+    "of_those_listed_in_aog": 250,
+    "arrivals_and_pending": [
+      [
+        897,
+        0,
+        3778,
+        7,
+        0
+      ],
+      [
+        928,
+        40,
+        13547,
+        0,
+        703
+      ],
+      [
+        990,
+        68,
+        13471,
+        0,
+        708
+      ]
+    ],
+    "trucks": [
+      45323,
+      3875
+    ]
+  },
+  "week2": {
+    "units": 181,
+    "ready": 2752,
+    "pilots": 2738,
+    "units_without_pilots": 56,
+    "condition_examples": {
+      "750": {
+        "name": "Stab/JG 26",
+        "ready": 4,
+        "pilots": 4
+      },
+      "751": {
+        "name": "I./JG 26",
+        "ready": 37,
+        "pilots": 40
+      },
+      "752": {
+        "name": "II./JG 26",
+        "ready": 40,
+        "pilots": 40
+      },
+      "753": {
+        "name": "III./JG 26",
+        "ready": 23,
+        "pilots": 40
+      },
+      "783": {
+        "name": "V./KG 2",
+        "ready": 40,
+        "pilots": 48
+      }
+    },
+    "remaining_delayed": 250,
+    "of_those_listed_in_aog": 0,
+    "arrivals_and_pending": [
+      [
+        897,
+        0,
+        3778,
+        7,
+        0
+      ],
+      [
+        928,
+        40,
+        13547,
+        0,
+        0
+      ],
+      [
+        990,
+        68,
+        13471,
+        0,
+        0
+      ]
+    ],
+    "trucks": [
+      57615,
+      149930
+    ]
+  },
+  "week2_save_sha256": "1b143df449b752d5eeadc0bba78efa11812de00279c2ac6b2ca492690cc65238",
+  "t1": {
+    "units": 181,
+    "ready": 3000,
+    "pilots": 2347,
+    "units_without_pilots": 96,
+    "condition_examples": {
+      "750": {
+        "name": "Stab/JG 26",
+        "ready": 4,
+        "pilots": 4
+      },
+      "751": {
+        "name": "I./JG 26",
+        "ready": 37,
+        "pilots": 40
+      },
+      "752": {
+        "name": "II./JG 26",
+        "ready": 28,
+        "pilots": 40
+      },
+      "753": {
+        "name": "III./JG 26",
+        "ready": 37,
+        "pilots": 40
+      },
+      "783": {
+        "name": "V./KG 2",
+        "ready": 0,
+        "pilots": 48
+      }
+    },
+    "remaining_delayed": 252,
+    "of_those_listed_in_aog": 0,
+    "arrivals_and_pending": [
+      [
+        897,
+        1,
+        3778,
+        0,
+        0
+      ],
+      [
+        928,
+        41,
+        13547,
+        0,
+        0
+      ],
+      [
+        990,
+        69,
+        13471,
+        0,
+        0
+      ]
+    ],
+    "trucks": [
+      150000,
+      150000
+    ]
+  }
+}

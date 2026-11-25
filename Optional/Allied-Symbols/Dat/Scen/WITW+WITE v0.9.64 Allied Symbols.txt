@@ -1,4 +1,4 @@
-WITW+WITE v0.9.63 Allied Symbols
+WITW+WITE v0.9.64 Allied Symbols
 
 July 1943 to July 1945. Eastern and Western Front campaign. Original
 scenario by yyuegu. Unofficial continuation. Human vs Human advised.
@@ -61,3 +61,4 @@ Western depots and revised Sherman W, reconnaissance and maritime aircraft produ
 Western rail commands, UK Home Forces, revised Allied equipment and air deployment.
 
 126 later Western Allied ground units start frozen in Britain or North Africa.
+Air formations use their unit designations. German and Soviet available truck pools start at 150,000 each.
